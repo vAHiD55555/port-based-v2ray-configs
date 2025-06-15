@@ -14,9 +14,8 @@ jobs:
   # === جاب اول: ساخت تمام فایل‌ها و آپدیت برنچ بتا ===
   build_and_update_beta:
     runs-on: ubuntu-latest
-    # <<< تغییر جدید: تعریف خروجی برای این جاب >>>
     outputs:
-      summary_message: ${{ steps.summary.outputs.message }}
+      commit_message: ${{ steps.summary.outputs.message }}
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v4
@@ -34,27 +33,19 @@ jobs:
       - name: Run Python script to generate all files
         run: python categorize_all_protocols.py
 
-      # <<< تغییر جدید: روش جدید و پایدار برای خواندن خلاصه >>>
-      - name: Read commit summary
+      # <<< تغییر جدید: روش ساده و پایدار برای خواندن خلاصه تک‌خطی >>>
+      - name: Read commit message from file
         id: summary
-        run: |
-          delimiter="$(openssl rand -hex 8)"
-          {
-            echo "message<<$delimiter"
-            cat commit_summary.txt
-            echo "$delimiter"
-          } >> "$GITHUB_OUTPUT"
+        run: echo "message=$(cat commit_message.txt)" >> $GITHUB_OUTPUT
 
       - name: Commit all files to the beta branch
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          # استفاده از خروجی مرحله قبل برای پیام کامیت
-          git commit -m "Update all configs (incl. special vless)" -m "${{ steps.summary.outputs.message }}" || echo "No changes to commit"
+          git commit -m "${{ steps.summary.outputs.message }}" || echo "No changes to commit"
           git push -f origin HEAD:beta
 
-      # این مرحله فایل‌ها را برای جاب بعدی آماده می‌کند
       - name: Upload all generated files as artifact
         uses: actions/upload-artifact@v4
         with:
@@ -86,12 +77,7 @@ jobs:
       - name: Commit public files to main branch
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # <<< تغییر جدید: روش صحیح برای استفاده از خروجی جاب قبلی >>>
-          commit_message: |
-            Update public configs
-
-            ${{ needs.build_and_update_beta.outputs.summary_message }}
+          # <<< تغییر جدید: استفاده از پیام تک‌خطی >>>
+          commit_message: ${{ needs.build_and_update_beta.outputs.commit_message }}
           branch: main
-          # برای اینکه فایل خلاصه کامیت نشود
-          file_pattern: '!commit_summary.txt'
-
+          file_pattern: '!commit_message.txt'
