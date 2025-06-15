@@ -5,17 +5,19 @@ import os
 from collections import defaultdict
 from urllib.parse import urlparse
 
-# === منابع نهایی و تایید شده توسط شما (با اصلاح لینک) ===
+# === منابع نهایی و تایید شده توسط شما ===
 SOURCES = [
-    # لینک اصلاح شده - باید از raw.githubusercontent.com استفاده شود
     "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
     "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
 ]
 
-# پورت‌های معروف برای دسته‌بندی جداگانه
+# پورت‌های معروف برای دسته‌بندی عمومی
 FAMOUS_PORTS = {'80', '443', '8080'}
+# <<< تغییر جدید: پورت‌های ویژه برای VLESS >>>
+VLESS_SPECIAL_PORTS = {'80', '443', '8080', '8088'}
+
 
 def fetch_all_configs(source_urls):
     """
@@ -31,13 +33,11 @@ def fetch_all_configs(source_urls):
             if response.status_code == 200 and response.text:
                 content = response.text.strip()
                 try:
-                    # تلاش برای دیکود کردن به عنوان Base64
                     if len(content) > 1000 and "://" not in content:
                         decoded_content = base64.b64decode(content).decode('utf-8')
                         configs = decoded_content.strip().split('\n')
                         print(f"✅ منبع شماره {i+1} به عنوان لینک اشتراک (Base64) پردازش شد.")
                     else:
-                        # در غیر این صورت، به عنوان لیست خام در نظر بگیر
                         configs = content.split('\n')
                         print(f"✅ منبع شماره {i+1} به عنوان لیست خام پردازش شد.")
                     
@@ -51,7 +51,6 @@ def fetch_all_configs(source_urls):
         except requests.RequestException as e:
             print(f"❌ خطا در اتصال به منبع شماره {i+1}: {e}")
             
-    # حذف موارد تکراری در انتهای کار
     return list(set(all_configs))
 
 
@@ -104,11 +103,17 @@ def main():
 
     categorized_by_port = defaultdict(list)
     categorized_by_protocol = defaultdict(list)
+    # <<< تغییر جدید: لیست برای VLESS های ویژه >>>
+    vless_special_list = []
 
     for config_link in raw_configs:
         protocol, port = get_config_info(config_link)
         if port: categorized_by_port[port].append(config_link)
         if protocol: categorized_by_protocol[protocol].append(config_link)
+        
+        # <<< تغییر جدید: پر کردن لیست VLESS های ویژه >>>
+        if protocol == 'vless' and port in VLESS_SPECIAL_PORTS:
+            vless_special_list.append(config_link)
 
     # نوشتن فایل‌ها بر اساس پورت
     if categorized_by_port:
@@ -126,7 +131,17 @@ def main():
         for protocol, configs in categorized_by_protocol.items():
             with open(f"ports/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
             with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
-        
+    
+    # <<< تغییر جدید: نوشتن فایل VLESS های ویژه >>>
+    if vless_special_list:
+        print(f"\n✅ پردازش ویژه: {len(vless_special_list)} کانفیگ VLESS روی پورت‌های خاص پیدا شد.")
+        special_content = "\n".join(vless_special_list)
+        with open('ports/VLESS_Special_Ports.txt', 'w', encoding='utf-8') as f: f.write(special_content)
+        with open('sub/VLESS_Special_Ports.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode(special_content.encode('utf-8')).decode('utf-8'))
+        print("✅ فایل ویژه 'VLESS_Special_Ports.txt' با موفقیت ساخته شد.")
+    else:
+        print("\nℹ️ هیچ کانفیگ VLESS روی پورت‌های ویژه پیدا نشد.")
+
     # ذخیره فایل کلی
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
