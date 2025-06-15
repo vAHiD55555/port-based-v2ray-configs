@@ -1,17 +1,17 @@
 trojan://Aimer@210.99.119.3:50000?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-210.99.119.3:50000
-trojan://Aimer@221.163.173.252:50000?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-221.163.173.252:50000
-trojan://Aimer@115.22.253.113:50000?sni=epma.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-115.22.253.113:50000
-trojan://Aimer@61.79.85.93:50000?security=tls&sni=epmd.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-61.79.85.93:50000
-trojan://Aimer@222.106.126.224:50000?sni=epcci.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-222.106.126.224:50000
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.183.90.210:50000?security=tls&sni=agedgv.ambercc.filegear-sg.me&type=ws&host=agedgv.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-121.183.90.210:50000
-vless://699f6733-5766-42f0-a05b-da23c5ee3817@210.99.119.3:50000?sni=ed.sosocn.filegear-sg.me&type=ws&host=ed.sosocn.filegear-sg.me&allowInsecure=0#🔒 VL-WS-NA 🇰🇷 KR-210.99.119.3:50000
-trojan://Aimer@61.79.85.93:50000?security=tls&type=tcp&sni=epmd.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A529
-trojan://Aimer@211.251.7.76:50000?sni=epccj.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-211.251.7.76:50000
-trojan://Aimer@222.100.242.124:50000?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-222.100.242.124:50000
-trojan://Aimer@112.167.124.139:50000?sni=epma.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-112.167.124.139:50000
-trojan://Aimer@61.79.85.93:50000?security=tls&sni=epmd.ambercc.filegear-sg.me&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇰🇷 KR-61.79.85.93:50000
 trojan://Aimer@119.194.220.146:50000?sni=epmd.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-119.194.220.146:50000
 trojan://Aimer@175.214.237.120:50000?security=tls&sni=agepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-175.214.237.120:50000
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.113.39.207:50000?allowInsecure=1&sni=edmx.aimercc.filegear-sg.me&type=ws&host=edmx.aimercc.filegear-sg.me&path=/?ed=2560security=tls#15%7CKR_speednode_0099
-trojan://Aimer@210.104.255.234:50000?sni=epme.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-210.104.255.234:50000
+trojan://Aimer@222.100.242.124:50000?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-222.100.242.124:50000
+trojan://Aimer@61.79.85.93:50000?security=tls&sni=epmd.ambercc.filegear-sg.me&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇰🇷 KR-61.79.85.93:50000
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.113.39.207:50000?sni=edmx.aimercc.filegear-sg.me&type=ws&host=edmx.aimercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇰🇷 KR-222.113.39.207:50000
+trojan://Aimer@61.79.85.93:50000?security=tls&sni=epmd.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-61.79.85.93:50000
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.183.90.210:50000?security=tls&sni=agedgv.ambercc.filegear-sg.me&type=ws&host=agedgv.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-121.183.90.210:50000
+trojan://Aimer@61.79.85.93:50000?security=tls&type=tcp&sni=epmd.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A529
+trojan://Aimer@222.106.126.224:50000?sni=epcci.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-222.106.126.224:50000
+trojan://Aimer@211.251.7.76:50000?sni=epccj.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-211.251.7.76:50000
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.113.39.207:50000?allowInsecure=1&sni=edmx.aimercc.filegear-sg.me&type=ws&host=edmx.aimercc.filegear-sg.me&path=/?ed=2560security=tls#15%7CKR_speednode_0099
+trojan://Aimer@112.167.124.139:50000?sni=epma.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-112.167.124.139:50000
+vless://699f6733-5766-42f0-a05b-da23c5ee3817@210.99.119.3:50000?sni=ed.sosocn.filegear-sg.me&type=ws&host=ed.sosocn.filegear-sg.me&allowInsecure=0#🔒 VL-WS-NA 🇰🇷 KR-210.99.119.3:50000
+trojan://Aimer@221.163.173.252:50000?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-221.163.173.252:50000
+trojan://Aimer@210.104.255.234:50000?sni=epme.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-210.104.255.234:50000
+trojan://Aimer@115.22.253.113:50000?sni=epma.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-115.22.253.113:50000
