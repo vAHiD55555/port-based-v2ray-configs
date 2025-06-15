@@ -11,8 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  # === جاب اول: ساخت تمام فایل‌ها و آپدیت برنچ بتا ===
-  build_and_update_beta:
+  build_and_deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main branch
@@ -31,54 +30,30 @@ jobs:
       - name: Run Python script to generate all files
         run: python categorize_all_protocols.py
 
-      - name: Commit all files to the beta branch
+      - name: Read commit message from file
+        id: summary
+        run: echo "message=$(cat commit_message.txt)" >> $GITHUB_OUTPUT
+
+      - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          # === روش پایدار برای کامیت چندخطی ===
-          git commit --file=commit_body.txt --edit -m "$(cat commit_title.txt)" || echo "No changes to commit"
-          git push -f origin HEAD:beta
 
-      - name: Upload all generated files as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: all-configs
-          path: .
-          retention-days: 1
-
-  # === جاب دوم: حذف فایل‌های ویژه و آپدیت برنچ عمومی ===
-  update_main_branch:
-    runs-on: ubuntu-latest
-    needs: build_and_update_beta
-    steps:
-      - name: Checkout main branch
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: Download all generated files
-        uses: actions/download-artifact@v4
-        with:
-          name: all-configs
-
-      - name: Remove special and temporary files
+      - name: Commit and push to beta branch
         run: |
+          git checkout -B beta
+          git add .
+          git commit -m "${{ steps.summary.outputs.message }}" || echo "No changes to commit"
+          git push -f origin beta
+
+      - name: Prepare and push to main branch
+        run: |
+          git checkout main
+          # حذف فایل‌های ویژه از برنچ main
           rm -rf protocols/vless
           rm -rf sub/vless
-          rm -f commit_title.txt
-          rm -f commit_body.txt
-          echo "Special and temporary files removed for main branch."
-      
-      - name: Commit and push public files to main branch
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          rm -f commit_message.txt
+          echo "Special files removed for main branch."
           git add .
-          if git diff --staged --quiet; then
-            echo "No changes to commit to main branch."
-          else
-            # استفاده از یک پیام ساده و استاندارد برای برنچ عمومی
-            git commit -m "Update public configs"
-            git push origin main
-          fi
+          git commit -m "${{ steps.summary.outputs.message }}" || echo "No changes to commit"
+          git push origin main
