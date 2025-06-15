@@ -137,24 +137,19 @@ def main():
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
     
-    # === ایجاد عنوان و بدنه دقیق برای پیام کامیت ===
-    commit_title = f"Update configs | Total: {len(raw_configs)}"
-    
-    commit_body_lines = ["\n📊 Config Summary:\n"]
+    # === ایجاد پیام کامیت تک‌خطی و ساده ===
+    summary_parts = [f"Total: {len(raw_configs)}"]
+    # اضافه کردن خلاصه هر پروتکل
+    protocol_summaries = []
     for protocol, configs in sorted(categorized_by_protocol.items()):
-        commit_body_lines.append(f"- {protocol.capitalize()}: {len(configs)} configs")
+        protocol_summaries.append(f"{protocol.capitalize()}: {len(configs)}")
+    summary_parts.append(' | '.join(protocol_summaries))
     
-    commit_body_lines.append("\n⭐ Special VLESS Summary:")
-    for port, configs in sorted(vless_special_by_port.items()):
-        commit_body_lines.append(f"- VLESS on Port {port}: {len(configs)} configs")
-
-    # ذخیره در فایل‌های جداگانه
-    with open('commit_title.txt', 'w', encoding='utf-8') as f:
-        f.write(commit_title)
-    with open('commit_body.txt', 'w', encoding='utf-8') as f:
-        f.write("\n".join(commit_body_lines))
+    commit_message = f"Update configs | {' | '.join(summary_parts)}"
+    with open('commit_message.txt', 'w', encoding='utf-8') as f:
+        f.write(commit_message)
         
-    print("\n🎉 پروژه با موفقیت به پایان رسید و فایل‌های خلاصه کامیت ساخته شد.")
+    print("\n🎉 پروژه با موفقیت به پایان رسید و فایل خلاصه ساخته شد.")
 
 if __name__ == "__main__":
     main()
