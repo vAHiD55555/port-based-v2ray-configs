@@ -14,8 +14,6 @@ jobs:
   # === جاب اول: ساخت تمام فایل‌ها و آپدیت برنچ بتا ===
   build_and_update_beta:
     runs-on: ubuntu-latest
-    outputs:
-      commit_message: ${{ steps.summary.outputs.message }}
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v4
@@ -67,27 +65,33 @@ jobs:
         with:
           name: all-configs
 
-      - name: Remove special and temporary files
+      - name: Remove special folders
         run: |
           rm -rf protocols/vless
           rm -rf sub/vless
-          rm -f commit_message.txt
-          echo "Special and temporary files removed for main branch."
+          echo "Special vless folders removed for main branch."
 
-      # <<< تغییر جدید: استفاده از دستورات دستی git برای کامیت >>>
+      - name: Read commit message from file
+        id: summary
+        run: |
+          if [ -f commit_message.txt ]; then
+            echo "message=$(cat commit_message.txt)" >> $GITHUB_OUTPUT
+          else
+            echo "message=Update public configs" >> $GITHUB_OUTPUT
+          fi
+      
       - name: Commit and push public files to main branch
-        env:
-          COMMIT_MSG: ${{ needs.build_and_update_beta.outputs.commit_message }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # حذف فایل موقت قبل از کامیت
+          rm -f commit_message.txt
           # اضافه کردن تمام تغییرات (شامل پوشه‌های جدید)
           git add .
-          # بررسی اینکه آیا تغییری برای کامیت وجود دارد یا نه
           if git diff --staged --quiet; then
             echo "No changes to commit to main branch."
           else
-            # کامیت کردن با پیام دریافت شده از جاب قبلی
-            git commit -m "$COMMIT_MSG"
+            # کامیت کردن با پیام خوانده شده
+            git commit -m "${{ steps.summary.outputs.message }}"
             git push origin main
           fi
