@@ -8,6 +8,10 @@ on:
     - cron: '0 */4 * * *'
   workflow_dispatch: # اجازه اجرای دستی
 
+# +++ این بخش را اضافه کنید +++
+permissions:
+  contents: write # به اکشن اجازه می‌دهد در مخزن بنویسد (برای git push)
+
 jobs:
   build:
     runs-on: ubuntu-latest
