@@ -1,0 +1,2 @@
+vless://3e33f29c-44aa-49aa-94f7-fac8fd018b9e@38.225.102.22:43000?security=tls&flow=xtls-rprx-vision-udp443&sni=www.hkust.edu.hk&fp=edge&allowInsecure=0#🔒 VL-TCP-TLS 🇭🇰 HK-38.225.102.22:43000
+vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@38.225.102.31:43000?security=reality&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&type=tcp&fp=ios&pbk=uqShUD8Z-3FH3StSBpj9sQrLSOkyGD_AkIgSEuWMwVI&sid=8c6d66793d191a#🔒 VL-TCP-RLT 🇭🇰 HK-38.225.102.31:43000
