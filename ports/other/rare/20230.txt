@@ -1,2 +1,2 @@
-vless://d2382a15-ae45-40ab-8925-84792b584bd8@18.142.179.8:20230?security=none&flow=xtls-rprx-vision&sni=api.push.apple.com&type=tcp#🔒 VL-TCP-NONE 🇸🇬 SG-18.142.179.8:20230
 vless://8d3b917e-6520-4725-b284-a369f14a5315@18.183.146.29:20230?security=reality&sni=www.nvidia.com&type=grpc&serviceName=tj&fp=chrome&pbk=lbOfuIKCBPcQH4AEnwnPw1LNxWrl-Bul6KU99H240Fc&sid=abae4722#🔒 VL-GRPC-RLT 🇯🇵 JP-18.183.146.29:20230
+vless://d2382a15-ae45-40ab-8925-84792b584bd8@18.142.179.8:20230?security=none&flow=xtls-rprx-vision&sni=api.push.apple.com&type=tcp#🔒 VL-TCP-NONE 🇸🇬 SG-18.142.179.8:20230
