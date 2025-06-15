@@ -17,6 +17,8 @@ SOURCES = [
 FAMOUS_PORTS = {'80', '443', '8080'}
 # پورت‌های ویژه برای VLESS
 VLESS_SPECIAL_PORTS = {'80', '443', '8080', '8088'}
+# <<< تغییر جدید: آستانه برای انتقال به پوشه "کمیاب" >>>
+RARE_PORT_THRESHOLD = 5
 
 
 def fetch_all_configs(source_urls):
@@ -103,26 +105,36 @@ def main():
 
     categorized_by_port = defaultdict(list)
     categorized_by_protocol = defaultdict(list)
-    # دیکشنری برای VLESS های ویژه
     vless_special_by_port = defaultdict(list)
 
     for config_link in raw_configs:
         protocol, port = get_config_info(config_link)
         if port: categorized_by_port[port].append(config_link)
         if protocol: categorized_by_protocol[protocol].append(config_link)
-        
-        # پر کردن دیکشنری VLESS های ویژه
         if protocol == 'vless' and port in VLESS_SPECIAL_PORTS:
             vless_special_by_port[port].append(config_link)
 
     # نوشتن فایل‌ها بر اساس پورت
     if categorized_by_port:
         print(f"\n✅ پردازش بر اساس پورت: {len(categorized_by_port)} پورت منحصر به فرد پیدا شد.")
-        os.makedirs('ports/other', exist_ok=True); os.makedirs('sub/other', exist_ok=True)
+        # <<< تغییر جدید: ساخت پوشه 'rare' >>>
+        os.makedirs('ports/other/rare', exist_ok=True); os.makedirs('sub/other/rare', exist_ok=True)
+        
         for port, configs in categorized_by_port.items():
-            path_prefix = "" if port in FAMOUS_PORTS else "other/"
-            with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
-            with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+            content = "\n".join(configs)
+            encoded_content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
+            
+            path_prefix = ""
+            if port in FAMOUS_PORTS:
+                path_prefix = ""
+            # <<< تغییر جدید: منطق انتقال به پوشه 'rare' >>>
+            elif len(configs) < RARE_PORT_THRESHOLD:
+                path_prefix = "other/rare/"
+            else:
+                path_prefix = "other/"
+
+            with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(content)
+            with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(encoded_content)
 
     # نوشتن فایل‌ها بر اساس پروتکل
     if categorized_by_protocol:
@@ -132,17 +144,14 @@ def main():
             with open(f"ports/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
             with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
     
-    # <<< تغییر جدید: نوشتن فایل‌های جداگانه برای VLESS های ویژه در پوشه vless >>>
+    # نوشتن فایل‌های جداگانه برای VLESS های ویژه
     if vless_special_by_port:
         print(f"\n✅ پردازش ویژه: {len(vless_special_by_port)} دسته کانفیگ VLESS روی پورت‌های خاص پیدا شد.")
         os.makedirs('ports/vless', exist_ok=True); os.makedirs('sub/vless', exist_ok=True)
         for port, configs in vless_special_by_port.items():
-            content = "\n".join(configs)
-            with open(f"ports/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(content)
-            with open(f"sub/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode(content.encode('utf-8')).decode('utf-8'))
+            with open(f"ports/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
+            with open(f"sub/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
             print(f"  -> فایل ویژه برای VLESS روی پورت {port} با {len(configs)} کانفیگ ساخته شد.")
-    else:
-        print("\nℹ️ هیچ کانفیگ VLESS روی پورت‌های ویژه پیدا نشد.")
 
     # ذخیره فایل کلی
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
