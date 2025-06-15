@@ -11,42 +11,12 @@
 ### 📊 آمار لحظه‌ای
 
 <!-- STATS_START -->
-**آخرین به‌روزرسانی:** 2025-06-15 22:53:57 Tehran Time
-**تعداد کل کانفیگ‌های منحصر به فرد:** 18996
-
-#### تفکیک بر اساس پروتکل:
-- **Hysteria2:** 26 کانفیگ
-- **Shadowsocks:** 3092 کانفیگ
-- **Trojan:** 2923 کانفیگ
-- **Vless:** 10372 کانفیگ
-- **Vmess:** 2549 کانفیگ
-
-#### تفکیک ویژه VLESS:
-- **VLESS روی پورت 443:** 4073 کانفیگ
-- **VLESS روی پورت 80:** 1220 کانفیگ
-- **VLESS روی پورت 8080:** 154 کانفیگ
-- **VLESS روی پورت 8088:** 1 کانفیگ
+*این بخش به زودی با آمار زنده جایگزین خواهد شد.*
 <!-- STATS_END -->
 
 ---
 
 ### 🚀 لینک‌های اشتراک
-
-#### ⭐ لینک‌های ویژه (VLESS روی پورت‌های پرسرعت)
-این لینک‌ها فقط حاوی کانفیگ‌های **VLESS** روی پورت‌های مقاوم `80`, `443`, `8080` و `8088` هستند. (پیشنهاد ویژه)
-
-**نکته:** این لینک‌ها از برنچ `beta` خوانده می‌شوند و پوشه مربوط به آن‌ها در صفحه اصلی مخزن قابل مشاهده نیست.
-
-- **VLESS روی پورت 443:**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/443.txt)
-  ```
-- **VLESS روی پورت 80:**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/80.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/80.txt)
-  ```
-
----
 
 #### دسته‌بندی بر اساس نوع پروتکل
 
@@ -58,6 +28,25 @@
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
   ```
+
+---
+
+#### دسته‌بندی بر اساس شماره پورت
+
+- **تمام کانفیگ‌ها (ادغام شده):**
+  ```
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt)
+  ```
+
+- **پورت 443 (شامل تمام پروتکل‌ها):**
+  ```
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt)
+  ```
+- **پورت 80 (شامل تمام پروتکل‌ها):**
+  ```
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt)
+  ```
+- **(سایر پورت‌ها در پوشه‌های `sub/other` و `sub/other/rare` قرار دارند)**
 
 ---
 
