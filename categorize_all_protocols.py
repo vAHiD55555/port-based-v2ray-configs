@@ -5,16 +5,13 @@ import os
 from collections import defaultdict
 from urllib.parse import urlparse
 
-# === استفاده از لیستی از منابع متنوع و معتبر ===
+# === منابع نهایی و تایید شده توسط شما (با اصلاح لینک) ===
 SOURCES = [
-    # لینک‌های اشتراک (Base64 Encoded)
+    # لینک اصلاح شده - باید از raw.githubusercontent.com استفاده شود
     "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
-    
-    # لیست‌های کانفیگ خام (Plain Text)
-    "https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged",
-    "https://raw.githubusercontent.com/ALIILAPRO/v2ray-configs/main/all.txt",
-    "https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/sub/mix"
+    "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
 ]
 
 # پورت‌های معروف برای دسته‌بندی جداگانه
@@ -26,14 +23,13 @@ def fetch_all_configs(source_urls):
     به طور هوشمند لینک اشتراک (Base64) و لیست خام را تشخیص می‌دهد.
     """
     all_configs = []
-    print("شروع دریافت کانفیگ از منابع متنوع...")
+    print("شروع دریافت کانفیگ از لیست انتخابی شما...")
     for i, url in enumerate(source_urls):
         try:
             print(f"--> در حال دریافت از منبع شماره {i+1}...")
             response = requests.get(url, timeout=90)
             if response.status_code == 200 and response.text:
                 content = response.text.strip()
-                # تشخیص هوشمند: اگر محتوا شبیه لینک اشتراک است، آن را دیکود کن
                 try:
                     # تلاش برای دیکود کردن به عنوان Base64
                     if len(content) > 1000 and "://" not in content:
