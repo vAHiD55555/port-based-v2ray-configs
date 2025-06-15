@@ -1,0 +1,14 @@
+
+📊 Config Summary:
+
+- Hysteria2: 26 configs
+- Shadowsocks: 3097 configs
+- Trojan: 2927 configs
+- Vless: 10375 configs
+- Vmess: 2545 configs
+
+⭐ Special VLESS Summary:
+- VLESS on Port 443: 4073 configs
+- VLESS on Port 80: 1220 configs
+- VLESS on Port 8080: 155 configs
+- VLESS on Port 8088: 1 configs
