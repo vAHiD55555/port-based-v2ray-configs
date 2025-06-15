@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 
 # === منابع نهایی و تایید شده توسط شما ===
 SOURCES = [
-    "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
     "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
@@ -15,7 +15,7 @@ SOURCES = [
 
 # پورت‌های معروف برای دسته‌بندی عمومی
 FAMOUS_PORTS = {'80', '443', '8080'}
-# <<< تغییر جدید: پورت‌های ویژه برای VLESS >>>
+# پورت‌های ویژه برای VLESS
 VLESS_SPECIAL_PORTS = {'80', '443', '8080', '8088'}
 
 
@@ -103,17 +103,17 @@ def main():
 
     categorized_by_port = defaultdict(list)
     categorized_by_protocol = defaultdict(list)
-    # <<< تغییر جدید: لیست برای VLESS های ویژه >>>
-    vless_special_list = []
+    # دیکشنری برای VLESS های ویژه
+    vless_special_by_port = defaultdict(list)
 
     for config_link in raw_configs:
         protocol, port = get_config_info(config_link)
         if port: categorized_by_port[port].append(config_link)
         if protocol: categorized_by_protocol[protocol].append(config_link)
         
-        # <<< تغییر جدید: پر کردن لیست VLESS های ویژه >>>
+        # پر کردن دیکشنری VLESS های ویژه
         if protocol == 'vless' and port in VLESS_SPECIAL_PORTS:
-            vless_special_list.append(config_link)
+            vless_special_by_port[port].append(config_link)
 
     # نوشتن فایل‌ها بر اساس پورت
     if categorized_by_port:
@@ -132,13 +132,15 @@ def main():
             with open(f"ports/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
             with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
     
-    # <<< تغییر جدید: نوشتن فایل VLESS های ویژه >>>
-    if vless_special_list:
-        print(f"\n✅ پردازش ویژه: {len(vless_special_list)} کانفیگ VLESS روی پورت‌های خاص پیدا شد.")
-        special_content = "\n".join(vless_special_list)
-        with open('ports/VLESS_Special_Ports.txt', 'w', encoding='utf-8') as f: f.write(special_content)
-        with open('sub/VLESS_Special_Ports.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode(special_content.encode('utf-8')).decode('utf-8'))
-        print("✅ فایل ویژه 'VLESS_Special_Ports.txt' با موفقیت ساخته شد.")
+    # <<< تغییر جدید: نوشتن فایل‌های جداگانه برای VLESS های ویژه در پوشه vless >>>
+    if vless_special_by_port:
+        print(f"\n✅ پردازش ویژه: {len(vless_special_by_port)} دسته کانفیگ VLESS روی پورت‌های خاص پیدا شد.")
+        os.makedirs('ports/vless', exist_ok=True); os.makedirs('sub/vless', exist_ok=True)
+        for port, configs in vless_special_by_port.items():
+            content = "\n".join(configs)
+            with open(f"ports/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(content)
+            with open(f"sub/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode(content.encode('utf-8')).decode('utf-8'))
+            print(f"  -> فایل ویژه برای VLESS روی پورت {port} با {len(configs)} کانفیگ ساخته شد.")
     else:
         print("\nℹ️ هیچ کانفیگ VLESS روی پورت‌های ویژه پیدا نشد.")
 
