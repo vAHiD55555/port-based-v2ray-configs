@@ -54,6 +54,12 @@ jobs:
     # این جاب فقط پس از موفقیت جاب اول اجرا می‌شود
     needs: build_and_update_beta
     steps:
+      # <<< تغییر جدید: اضافه کردن این مرحله برای دانلود مخزن >>>
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
       # فایل‌هایی که در جاب قبل ساخته شد را دانلود می‌کنیم
       - name: Download all generated files
         uses: actions/download-artifact@v4
