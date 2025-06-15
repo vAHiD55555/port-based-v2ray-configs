@@ -5,13 +5,15 @@ import os
 from collections import defaultdict
 from urllib.parse import urlparse
 
-# === منابع نهایی و متنوع ===
+# === استفاده از لیستی از منابع متنوع و معتبر ===
 SOURCES = [
-    # منابع اصلی و بزرگ
+    # لینک‌های اشتراک (Base64 Encoded)
+    "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
+    
+    # لیست‌های کانفیگ خام (Plain Text)
     "https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged",
     "https://raw.githubusercontent.com/ALIILAPRO/v2ray-configs/main/all.txt",
-    # منبع جدید با تمرکز بر پروتکل‌های مدرن
     "https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/sub/mix"
 ]
 
@@ -19,27 +21,43 @@ SOURCES = [
 FAMOUS_PORTS = {'80', '443', '8080'}
 
 def fetch_all_configs(source_urls):
-    """تمام کانفیگ‌ها را از لیست منابع با پایداری بیشتر دریافت می‌کند."""
+    """
+    تمام کانفیگ‌ها را از منابع مختلف دریافت می‌کند.
+    به طور هوشمند لینک اشتراک (Base64) و لیست خام را تشخیص می‌دهد.
+    """
     all_configs = []
-    print("شروع دریافت کانفیگ از منابع...")
+    print("شروع دریافت کانفیگ از منابع متنوع...")
     for i, url in enumerate(source_urls):
         try:
-            # افزایش زمان Timeout به ۶۰ ثانیه
             print(f"--> در حال دریافت از منبع شماره {i+1}...")
-            response = requests.get(url, timeout=60)
+            response = requests.get(url, timeout=90)
             if response.status_code == 200 and response.text:
-                configs = response.text.strip().split('\n')
-                valid_configs = [line for line in configs if line.strip() and '://' in line]
-                if valid_configs:
-                    all_configs.extend(valid_configs)
-                    print(f"✅ {len(valid_configs)} کانفیگ معتبر از منبع شماره {i+1} دریافت شد.")
-                else:
-                    print(f"⚠️ منبع شماره {i+1} محتوای معتبری نداشت.")
-            else:
-                 print(f"❌ منبع شماره {i+1} در دسترس نبود یا خالی بود (کد: {response.status_code})")
+                content = response.text.strip()
+                # تشخیص هوشمند: اگر محتوا شبیه لینک اشتراک است، آن را دیکود کن
+                try:
+                    # تلاش برای دیکود کردن به عنوان Base64
+                    if len(content) > 1000 and "://" not in content:
+                        decoded_content = base64.b64decode(content).decode('utf-8')
+                        configs = decoded_content.strip().split('\n')
+                        print(f"✅ منبع شماره {i+1} به عنوان لینک اشتراک (Base64) پردازش شد.")
+                    else:
+                        # در غیر این صورت، به عنوان لیست خام در نظر بگیر
+                        configs = content.split('\n')
+                        print(f"✅ منبع شماره {i+1} به عنوان لیست خام پردازش شد.")
+                    
+                    valid_configs = [line for line in configs if line.strip() and '://' in line]
+                    if valid_configs:
+                        all_configs.extend(valid_configs)
+                        print(f"  -> {len(valid_configs)} کانفیگ معتبر اضافه شد.")
+                except Exception as e:
+                    print(f"  ⚠️ خطا در پردازش محتوای منبع شماره {i+1}: {e}")
+
         except requests.RequestException as e:
             print(f"❌ خطا در اتصال به منبع شماره {i+1}: {e}")
+            
+    # حذف موارد تکراری در انتهای کار
     return list(set(all_configs))
+
 
 def get_config_info(link):
     """لینک کانفیگ را تحلیل کرده و یک تاپل (پروتکل، پورت) را برمی‌گرداند."""
@@ -93,10 +111,8 @@ def main():
 
     for config_link in raw_configs:
         protocol, port = get_config_info(config_link)
-        if port:
-            categorized_by_port[port].append(config_link)
-        if protocol:
-            categorized_by_protocol[protocol].append(config_link)
+        if port: categorized_by_port[port].append(config_link)
+        if protocol: categorized_by_protocol[protocol].append(config_link)
 
     # نوشتن فایل‌ها بر اساس پورت
     if categorized_by_port:
@@ -106,8 +122,6 @@ def main():
             path_prefix = "" if port in FAMOUS_PORTS else "other/"
             with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
             with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
-    else:
-        print("\n❌ هیچ پورتی برای دسته‌بندی پیدا نشد.")
 
     # نوشتن فایل‌ها بر اساس پروتکل
     if categorized_by_protocol:
@@ -116,13 +130,10 @@ def main():
         for protocol, configs in categorized_by_protocol.items():
             with open(f"ports/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
             with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
-    else:
-        print("\n❌ هیچ پروتکلی برای دسته‌بندی پیدا نشد.")
         
     # ذخیره فایل کلی
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
-    print("\n✅ فایل کلی 'All-Configs.txt' و لینک اشتراک آن ساخته شد.")
     
     print("\n🎉 پروژه با موفقیت به پایان رسید.")
 
