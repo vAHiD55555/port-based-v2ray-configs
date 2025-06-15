@@ -1,2 +1,2 @@
-vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?security=none&type=tcp#🔒 VL-TCP-NONE 🇸🇪 SE-91.92.40.78:2070
 vless://0585b09a-967f-4662-b46a-c599fd6c9403@185.49.105.46:2070?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.49.105.46:2070
+vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?security=none&type=tcp#🔒 VL-TCP-NONE 🇸🇪 SE-91.92.40.78:2070
