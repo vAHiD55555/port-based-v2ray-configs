@@ -1,2 +1,0 @@
-vless://c540f740-7a41-417b-981e-6b1911cacef0@45.11.94.154:3735?type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NA 🇺🇸 US-45.11.94.154:3735
-vless://c540f740-7a41-417b-981e-6b1911cacef0@178.255.222.171:3735?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-178.255.222.171:3735
