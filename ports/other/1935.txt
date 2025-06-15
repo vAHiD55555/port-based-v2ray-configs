@@ -1,8 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYTQyOTc3ZC1hZWYyLTRmNDItYjM1MS0zZDM1YTE5M2ExYWU=@85.133.238.67:1935#🔒 SS-TCP-NA 🇮🇷 IR-85.133.238.67:1935
+trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-141.227.160.88:1935
 trojan://pqlnPNu423@57.129.89.172:1935?security=tls&sni=x1-germany-ovh-v2.devefun.net&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-57.129.89.172:1935
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYTQyOTc3ZC1hZWYyLTRmNDItYjM1MS0zZDM1YTE5M2ExYWU=@85.133.238.67:1935#%E6%9C%AA%E7%9F%A54
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSEstNDMuMTU0LjM0Ljc0OjE5MzUiLCAiYWRkIjogIjQzLjE1NC4zNC43NCIsICJwb3J0IjogIjE5MzUiLCAiaWQiOiAiMmU1YmZkNGEtMDg1Mi00ZGY0LWI5ZTctOWI2ZjIwNzExM2I0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImRqZGpqcmpqcmhrLmx6ajUyMGh4dy5kcGRucy5vcmciLCAicGF0aCI6ICIvdm1lc3MtYXJnbyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJkamRqanJqanJoay5semo1MjBoeHcuZHBkbnMub3JnIiwgInRlc3RfbmFtZSI6ICJISzMifQ==
-trojan://Aimer@43.154.34.74:1935?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-43.154.34.74:1935
-trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-141.227.160.88:1935
 trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&sni=x1-england-ovh-v2.devefun.net&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-57.128.165.173:1935
 trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-8480
+trojan://Aimer@43.154.34.74:1935?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-43.154.34.74:1935
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSEstNDMuMTU0LjM0Ljc0OjE5MzUiLCAiYWRkIjogIjQzLjE1NC4zNC43NCIsICJwb3J0IjogIjE5MzUiLCAiaWQiOiAiMmU1YmZkNGEtMDg1Mi00ZGY0LWI5ZTctOWI2ZjIwNzExM2I0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImRqZGpqcmpqcmhrLmx6ajUyMGh4dy5kcGRucy5vcmciLCAicGF0aCI6ICIvdm1lc3MtYXJnbyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJkamRqanJqanJoay5semo1MjBoeHcuZHBkbnMub3JnIiwgInRlc3RfbmFtZSI6ICJISzMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYTQyOTc3ZC1hZWYyLTRmNDItYjM1MS0zZDM1YTE5M2ExYWU=@85.133.238.67:1935#🔒 SS-TCP-NA 🇮🇷 IR-85.133.238.67:1935

@@ -1,1 +1,2 @@
 vless://ba59e99f-a171-4a34-a019-aa08cc2ab22e@85.198.14.142:35896?type=tcp&host=ponisha.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.198.14.142:35896
+vless://ba59e99f-a171-4a34-a019-aa08cc2ab22e@85.198.14.142:35896?security=none&type=tcp&host=ponisha.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.14.142:35896
