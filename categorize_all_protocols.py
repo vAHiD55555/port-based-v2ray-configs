@@ -5,14 +5,16 @@ import os
 from collections import defaultdict
 from urllib.parse import urlparse, unquote
 
-# === منابع جدید و قوی تجمعی ===
-# این منابع معمولا میکس تمام پروتکل‌ها هستند
+# === منابع تجمعی ===
 SOURCES = [
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged",
     "https://raw.githubusercontent.com/ALIILAPRO/v2ray-configs/main/all.txt",
     "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/export/all"
 ]
+
+# <<< تغییر جدید: تعریف پورت‌های معروف >>>
+FAMOUS_PORTS = {'80', '443', '8080'}
 
 def fetch_all_configs(source_urls):
     """تمام کانفیگ‌ها را از لیست منابع دریافت می‌کند."""
@@ -24,7 +26,6 @@ def fetch_all_configs(source_urls):
             response = requests.get(url, timeout=45)
             if response.status_code == 200 and response.text:
                 configs = response.text.strip().split('\n')
-                # فیلتر کردن خطوط بی‌ربط و خالی
                 valid_configs = [line for line in configs if line.strip() and '://' in line]
                 if valid_configs:
                     all_configs.extend(valid_configs)
@@ -35,7 +36,6 @@ def fetch_all_configs(source_urls):
                  print(f"❌ منبع {url} در دسترس نبود یا خالی بود. Status Code: {response.status_code}")
         except requests.RequestException as e:
             print(f"❌ خطا در اتصال به {url}: {e}")
-    # حذف کانفیگ‌های تکراری در انتهای کار
     return list(set(all_configs))
 
 def get_port_from_link(link):
@@ -47,11 +47,9 @@ def get_port_from_link(link):
             decoded_json = base64.b64decode(b64_part).decode('utf-8')
             port = json.loads(decoded_json).get('port')
             return str(port) if port else None
-
         elif link.startswith(("vless://", "trojan://")):
             parsed_url = urlparse(link)
             return str(parsed_url.port) if parsed_url.port else None
-
         elif link.startswith("ss://"):
             link_main_part = link.split('#')[0]
             if '@' in link_main_part:
@@ -65,7 +63,6 @@ def get_port_from_link(link):
                 port = host_port_part.split(':')[-1]
                 return str(port)
     except Exception:
-        # این بار خطا را چاپ نمی‌کنیم تا لاگ تمیز بماند، چون انتظار می‌رود برخی کانفیگ‌ها ناقص باشند
         return None
     return None
 
@@ -79,7 +76,6 @@ def main():
     print("شروع پردازش و دسته‌بندی...")
 
     categorized_by_port = defaultdict(list)
-    
     for config_link in raw_configs:
         port = get_port_from_link(config_link)
         if port:
@@ -90,22 +86,38 @@ def main():
         return
 
     print(f"\n✅ پردازش موفق بود. {len(categorized_by_port)} پورت منحصر به فرد پیدا شد.")
-    os.makedirs('ports', exist_ok=True)
-    os.makedirs('sub', exist_ok=True)
+    
+    # <<< تغییر جدید: ساخت پوشه‌های اصلی و پوشه 'other' >>>
+    os.makedirs('ports/other', exist_ok=True)
+    os.makedirs('sub/other', exist_ok=True)
     
     # ذخیره فایل کلی
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
     print("✅ فایل کلی 'All-Configs.txt' و لینک اشتراک آن ساخته شد.")
 
-    # ذخیره فایل‌های دسته‌بندی شده بر اساس پورت
+    # <<< تغییر جدید: منطق دسته‌بندی فایل‌ها >>>
+    famous_ports_count = 0
+    other_ports_count = 0
     for port, configs in categorized_by_port.items():
         content = "\n".join(configs)
-        with open(f"ports/{port}.txt", 'w', encoding='utf-8') as f: f.write(content)
         encoded_content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
-        with open(f"sub/{port}.txt", 'w', encoding='utf-8') as f: f.write(encoded_content)
+        
+        # تعیین مسیر فایل بر اساس معروف بودن پورت
+        if port in FAMOUS_PORTS:
+            raw_path = f"ports/{port}.txt"
+            sub_path = f"sub/{port}.txt"
+            famous_ports_count += 1
+        else:
+            raw_path = f"ports/other/{port}.txt"
+            sub_path = f"sub/other/{port}.txt"
+            other_ports_count += 1
+            
+        with open(raw_path, 'w', encoding='utf-8') as f: f.write(content)
+        with open(sub_path, 'w', encoding='utf-8') as f: f.write(encoded_content)
     
-    print(f"✅ {len(categorized_by_port)} فایل دسته‌بندی شده بر اساس پورت ساخته شد.")
+    print(f"✅ {famous_ports_count} فایل برای پورت‌های معروف ساخته شد.")
+    print(f"✅ {other_ports_count} فایل برای سایر پورت‌ها در پوشه 'other' ساخته شد.")
     print("\n🎉 پروژه با موفقیت به پایان رسید.")
 
 if __name__ == "__main__":
