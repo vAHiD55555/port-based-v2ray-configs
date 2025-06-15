@@ -114,42 +114,39 @@ def main():
         if protocol == 'vless' and port in VLESS_SPECIAL_PORTS:
             vless_special_by_port[port].append(config_link)
 
-    # نوشتن فایل‌ها
-    os.makedirs('ports/other/rare', exist_ok=True); os.makedirs('sub/other/rare', exist_ok=True)
-    for port, configs in categorized_by_port.items():
-        path_prefix = ""
-        if port in FAMOUS_PORTS: path_prefix = ""
-        elif len(configs) < RARE_PORT_THRESHOLD: path_prefix = "other/rare/"
-        else: path_prefix = "other/"
-        with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
-        with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+    # نوشتن فایل‌ها بر اساس پورت
+    if categorized_by_port:
+        os.makedirs('ports/other/rare', exist_ok=True); os.makedirs('sub/other/rare', exist_ok=True)
+        for port, configs in categorized_by_port.items():
+            content = "\n".join(configs)
+            encoded_content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
+            path_prefix = ""
+            if port in FAMOUS_PORTS: path_prefix = ""
+            elif len(configs) < RARE_PORT_THRESHOLD: path_prefix = "other/rare/"
+            else: path_prefix = "other/"
+            with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(content)
+            with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(encoded_content)
 
-    os.makedirs('protocols', exist_ok=True); os.makedirs('sub/protocols', exist_ok=True)
-    for protocol, configs in categorized_by_protocol.items():
-        with open(f"protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
-        with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+    # نوشتن فایل‌ها بر اساس پروتکل
+    if categorized_by_protocol:
+        os.makedirs('protocols', exist_ok=True); os.makedirs('sub/protocols', exist_ok=True)
+        for protocol, configs in categorized_by_protocol.items():
+            with open(f"protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
+            with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
     
-    os.makedirs('protocols/vless', exist_ok=True); os.makedirs('sub/protocols/vless', exist_ok=True)
-    for port, configs in vless_special_by_port.items():
-        with open(f"protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
-        with open(f"sub/protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+    # نوشتن فایل‌های جداگانه برای VLESS های ویژه
+    if vless_special_by_port:
+        os.makedirs('protocols/vless', exist_ok=True); os.makedirs('sub/protocols/vless', exist_ok=True)
+        for port, configs in vless_special_by_port.items():
+            content = "\n".join(configs)
+            with open(f"protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(content)
+            with open(f"sub/protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode(content.encode('utf-8')).decode('utf-8'))
 
+    # ذخیره فایل کلی
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
     
-    # === ایجاد پیام کامیت تک‌خطی و ساده ===
-    summary_parts = [f"Total: {len(raw_configs)}"]
-    # اضافه کردن خلاصه هر پروتکل
-    protocol_summaries = []
-    for protocol, configs in sorted(categorized_by_protocol.items()):
-        protocol_summaries.append(f"{protocol.capitalize()}: {len(configs)}")
-    summary_parts.append(' | '.join(protocol_summaries))
-    
-    commit_message = f"Update configs | {' | '.join(summary_parts)}"
-    with open('commit_message.txt', 'w', encoding='utf-8') as f:
-        f.write(commit_message)
-        
-    print("\n🎉 پروژه با موفقیت به پایان رسید و فایل خلاصه ساخته شد.")
+    print("\n🎉 پروژه با موفقیت به پایان رسید.")
 
 if __name__ == "__main__":
     main()
