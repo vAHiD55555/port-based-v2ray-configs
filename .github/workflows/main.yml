@@ -1,16 +1,14 @@
-name: Categorize V2Ray Configs by Port
+name: Categorize All Protocol Configs by Port
 
 on:
   push:
     branches: [ main ]
   schedule:
-    # اجرای خودکار هر 4 ساعت یک بار
     - cron: '0 */4 * * *'
-  workflow_dispatch: # اجازه اجرای دستی
+  workflow_dispatch:
 
-# +++ این بخش را اضافه کنید +++
 permissions:
-  contents: write # به اکشن اجازه می‌دهد در مخزن بنویسد (برای git push)
+  contents: write
 
 jobs:
   build:
@@ -30,8 +28,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Run Python script to categorize configs
-      run: python categorize_by_port.py
+    - name: Run Python script to categorize all protocols
+      # --- این خط را تغییر دهید ---
+      run: python categorize_all_protocols.py
 
     - name: Commit and push changes
       run: |
@@ -42,5 +41,5 @@ jobs:
           echo "No changes to commit."
           exit 0
         fi
-        git commit -m "Updated port-based configs"
+        git commit -m "Updated all protocol configs by port"
         git push
