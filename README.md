@@ -1,5 +1,3 @@
-# port-based-v2ray-configs
-
 <div dir="rtl">
 
 # کانفیگ‌های V2Ray بر اساس پورت
@@ -36,26 +34,34 @@
 
 ---
 
-#### ⭐ لینک ویژه (VLESS روی پورت‌های پرسرعت)
-این لینک فقط حاوی کانفیگ‌های **VLESS** است که روی پورت‌های مقاوم و پرسرعت `80`, `443`, `8080` و `8088` قرار دارند. (پیشنهاد ویژه)
+#### ⭐ لینک‌های ویژه (VLESS روی پورت‌های پرسرعت)
+این لینک‌ها فقط حاوی کانفیگ‌های **VLESS** هستند که روی پورت‌های مقاوم و پرسرعت `80`, `443`, `8080` و `8088` قرار دارند. (پیشنهاد ویژه)
+
+**نکته:** این لینک‌ها از برنچ `beta` خوانده می‌شوند و پوشه مربوط به آن‌ها در صفحه اصلی مخزن قابل مشاهده نیست.
+
+- **VLESS روی پورت 443:**
   ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/VLESS_Special_Ports.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/VLESS_Special_Ports.txt)
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/443.txt)
   ```
+- **VLESS روی پورت 80:**
+  ```
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/80.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/80.txt)
+  ```
+- **(سایر پورت‌های ویژه در پوشه `sub/protocols/vless` در برنچ `beta` قرار دارند)**
 
 ---
 
 #### دسته‌بندی بر اساس نوع پروتکل
 برای دریافت تمام کانفیگ‌های یک پروتکل خاص، از لینک‌های زیر استفاده کنید:
 
-- **فقط VLESS:**
+- **فقط VLESS (تمام پورت‌ها):**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt)
   ```
-- **فقط VMess:**
+- **فقط VMess (تمام پورت‌ها):**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
   ```
-- **(سایر پروتکل‌ها در پوشه `sub/protocols` قرار دارند)**
 
 ---
 
@@ -70,28 +76,26 @@
   ```
   # پورت 443
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt)
-
-  # پورت 80
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt)
   ```
 
-- **سایر پورت‌ها (مثال برای پورت ۲۰۵۲):**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/other/2052.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/other/2052.txt)
-  ```
 ---
 
 ### 📚 منابع جمع‌آوری
 
 این پروژه کانفیگ‌ها را از مخازن تجمعی زیر دریافت می‌کند. با تشکر فراوان از صاحبان این مخازن برای کار ارزشمندشان:
 
-- **V2ray-Configs** by [barry-far](https://github.com/barry-far/V2ray-Config)
+- **V2ray-Configs** by [barry-far](https://github.com/barry-far/V2ray-Configs)
 - **V2RayAggregator** by [mahdibland](https://github.com/mahdibland/V2RayAggregator)
 - **v2ray-configs** by [Epodonios](https://github.com/Epodonios/v2ray-configs)
 - **telegram-configs-collector** by [soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector)
 
 ---
 
+### 👤 نویسنده
+
+توسعه داده شده توسط **حامد**
+
+---
 
 ### 📄 سلب مسئولیت
 
