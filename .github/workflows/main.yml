@@ -33,7 +33,6 @@ jobs:
       - name: Run Python script to generate all files
         run: python categorize_all_protocols.py
 
-      # <<< تغییر جدید: روش ساده و پایدار برای خواندن خلاصه تک‌خطی >>>
       - name: Read commit message from file
         id: summary
         run: echo "message=$(cat commit_message.txt)" >> $GITHUB_OUTPUT
@@ -68,16 +67,27 @@ jobs:
         with:
           name: all-configs
 
-      - name: Remove special folders
+      - name: Remove special and temporary files
         run: |
           rm -rf protocols/vless
           rm -rf sub/vless
-          echo "Special vless folders removed for main branch."
+          rm -f commit_message.txt
+          echo "Special and temporary files removed for main branch."
 
-      - name: Commit public files to main branch
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          # <<< تغییر جدید: استفاده از پیام تک‌خطی >>>
-          commit_message: ${{ needs.build_and_update_beta.outputs.commit_message }}
-          branch: main
-          file_pattern: '!commit_message.txt'
+      # <<< تغییر جدید: استفاده از دستورات دستی git برای کامیت >>>
+      - name: Commit and push public files to main branch
+        env:
+          COMMIT_MSG: ${{ needs.build_and_update_beta.outputs.commit_message }}
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # اضافه کردن تمام تغییرات (شامل پوشه‌های جدید)
+          git add .
+          # بررسی اینکه آیا تغییری برای کامیت وجود دارد یا نه
+          if git diff --staged --quiet; then
+            echo "No changes to commit to main branch."
+          else
+            # کامیت کردن با پیام دریافت شده از جاب قبلی
+            git commit -m "$COMMIT_MSG"
+            git push origin main
+          fi
