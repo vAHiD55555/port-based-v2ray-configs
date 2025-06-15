@@ -31,16 +31,13 @@ jobs:
       - name: Run Python script to generate all files
         run: python categorize_all_protocols.py
 
-      - name: Read commit message from file
-        id: summary
-        run: echo "message=$(cat commit_message.txt)" >> $GITHUB_OUTPUT
-
       - name: Commit all files to the beta branch
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m "${{ steps.summary.outputs.message }}" || echo "No changes to commit"
+          # === روش پایدار برای کامیت چندخطی ===
+          git commit --file=commit_body.txt --edit -m "$(cat commit_title.txt)" || echo "No changes to commit"
           git push -f origin HEAD:beta
 
       - name: Upload all generated files as artifact
@@ -65,33 +62,23 @@ jobs:
         with:
           name: all-configs
 
-      - name: Remove special folders
+      - name: Remove special and temporary files
         run: |
           rm -rf protocols/vless
           rm -rf sub/vless
-          echo "Special vless folders removed for main branch."
-
-      - name: Read commit message from file
-        id: summary
-        run: |
-          if [ -f commit_message.txt ]; then
-            echo "message=$(cat commit_message.txt)" >> $GITHUB_OUTPUT
-          else
-            echo "message=Update public configs" >> $GITHUB_OUTPUT
-          fi
+          rm -f commit_title.txt
+          rm -f commit_body.txt
+          echo "Special and temporary files removed for main branch."
       
       - name: Commit and push public files to main branch
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          # حذف فایل موقت قبل از کامیت
-          rm -f commit_message.txt
-          # اضافه کردن تمام تغییرات (شامل پوشه‌های جدید)
           git add .
           if git diff --staged --quiet; then
             echo "No changes to commit to main branch."
           else
-            # کامیت کردن با پیام خوانده شده
-            git commit -m "${{ steps.summary.outputs.message }}"
+            # استفاده از یک پیام ساده و استاندارد برای برنچ عمومی
+            git commit -m "Update public configs"
             git push origin main
           fi
