@@ -1,2 +1,0 @@
-vless://74b56295-1845-4b22-b9a7-85b733218451@165.22.235.114:2020?security=tls&sni=etc.mesa.ip-ddns.com&type=ws&host=etc.mesa.ip-ddns.com&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇨🇦 CA-165.22.235.114:2020
-vless://a229a57d-d1d2-c3d0-73fa-3b1061688ccd@173.234.79.240:2020?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=firefox&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#🔒 VL-TCP-RLT 🇬🇧 GB-173.234.79.240:2020
