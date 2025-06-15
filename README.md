@@ -5,8 +5,14 @@
 [![وضعیت آپدیت خودکار](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
 
 یک مخزن خودکار که کانفیگ‌های رایگان را جمع‌آوری کرده و بر اساس شماره پورت و نوع پروتکل دسته‌بندی می‌کند.
-<br>
-**تعداد کل کانفیگ‌های منحصر به فرد: 19312**
+
+---
+
+### 📊 آمار لحظه‌ای
+
+<!-- STATS_START -->
+*این بخش به زودی با آمار زنده جایگزین خواهد شد.*
+<!-- STATS_END -->
 
 ---
 
@@ -17,45 +23,26 @@
 
 **نکته:** این لینک‌ها از برنچ `beta` خوانده می‌شوند و پوشه مربوط به آن‌ها در صفحه اصلی مخزن قابل مشاهده نیست.
 
-- **VLESS روی پورت 443 (تعداد: 4119):**
+- **VLESS روی پورت 443:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/443.txt)
   ```
-- **VLESS روی پورت 80 (تعداد: 1253):**
+- **VLESS روی پورت 80:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/80.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/beta/sub/protocols/vless/80.txt)
   ```
-- **(سایر پورت‌های ویژه در پوشه `sub/protocols/vless` در برنچ `beta` قرار دارند)**
 
 ---
 
 #### دسته‌بندی بر اساس نوع پروتکل
 
-- **فقط VLESS (تعداد: 10603):**
+- **فقط VLESS (تمام پورت‌ها):**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt)
   ```
-- **فقط VMess (تعداد: 2558):**
+- **فقط VMess (تمام پورت‌ها):**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
-  ```
-- **فقط Trojan (تعداد: 2979):**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt)
-  ```
-
----
-
-#### دسته‌بندی بر اساس شماره پورت
-
-- **تمام کانفیگ‌ها (ادغام شده):**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt)
-  ```
-
-- **پورت 443 (شامل تمام پروتکل‌ها - تعداد: 7303):**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt)
   ```
 
 ---
