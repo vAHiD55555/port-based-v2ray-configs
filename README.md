@@ -68,6 +68,22 @@
 3.  دسته‌بندی کانفیگ‌ها در فایل‌های مجزا بر اساس پورت.
 4.  ثبت (Commit) فایل‌های به‌روز شده در همین مخزن.
 
+---
+
+### 📚 منابع جمع‌آوری
+
+این پروژه کانفیگ‌ها را از مخازن تجمعی زیر دریافت می‌کند. با تشکر فراوان از صاحبان این مخازن برای کار ارزشمندشان:
+
+- **V2RayAggregator** by [mahdibland](https://github.com/mahdibland/V2RayAggregator)
+- **V2Hub** by [yebekhe](https://github.com/yebekhe/V2Hub)
+- **v2ray-configs** by [ALIILAPRO](https://github.com/ALIILAPRO/v2ray-configs)
+- **telegram-configs-collector** by [soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector)
+
+---
+
+### 👤 نویسنده
+
+توسعه داده شده توسط **حامد**
 
 ---
 
