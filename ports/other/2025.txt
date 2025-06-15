@@ -1,5 +1,5 @@
+trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=/#🔒 TR-WS-NONE 🇱🇹 LT-46.29.234.154:2025
 vless://5a4db532-70bb-4b82-9369-039d63121c60@157.180.41.190:2025?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒 VL-XHTTP-RLT 🇫🇮 FI-157.180.41.190:2025
+vless://ee1a7f09-5d15-4f1c-80d1-35e053b16a98@216.9.227.203:2025?security=none&type=tcp&host=zula.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-216.9.227.203:2025
 vless://ee1a7f09-5d15-4f1c-80d1-35e053b16a98@51.77.108.187:2025?security=none&type=tcp&host=zula.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-51.77.108.187:2025
 vless://5a4db532-70bb-4b82-9369-039d63121c60@49.13.237.7:2025?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒 VL-XHTTP-RLT 🇩🇪 DE-49.13.237.7:2025
-trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=/#🔒 TR-WS-NONE 🇱🇹 LT-46.29.234.154:2025
-vless://ee1a7f09-5d15-4f1c-80d1-35e053b16a98@216.9.227.203:2025?security=none&type=tcp&host=zula.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-216.9.227.203:2025
