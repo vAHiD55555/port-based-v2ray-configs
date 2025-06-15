@@ -31,16 +31,20 @@ jobs:
       - name: Run Python script to generate all files
         run: python categorize_all_protocols.py
 
+      # <<< تغییر جدید: خواندن خلاصه از فایل >>>
+      - name: Read commit summary
+        id: summary
+        run: echo "message<<EOF" >> $GITHUB_OUTPUT; cat commit_summary.txt >> $GITHUB_OUTPUT; echo "EOF" >> $GITHUB_OUTPUT
+
+      # <<< تغییر جدید: استفاده از خلاصه در پیام کامیت >>>
       - name: Commit all files to the beta branch
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m "Update all configs (incl. special vless)" || echo "No changes to commit"
-          # با استفاده از -f، همیشه برنچ beta را با آخرین نسخه بازنویسی می‌کنیم
+          git commit -m "Update all configs" -m "${{ steps.summary.outputs.message }}" || echo "No changes to commit"
           git push -f origin HEAD:beta
 
-      # این مرحله فایل‌ها را برای جاب بعدی آماده می‌کند
       - name: Upload all generated files as artifact
         uses: actions/upload-artifact@v4
         with:
@@ -51,16 +55,13 @@ jobs:
   # === جاب دوم: حذف فایل‌های ویژه و آپدیت برنچ عمومی ===
   update_main_branch:
     runs-on: ubuntu-latest
-    # این جاب فقط پس از موفقیت جاب اول اجرا می‌شود
     needs: build_and_update_beta
     steps:
-      # <<< تغییر جدید: اضافه کردن این مرحله برای دانلود مخزن >>>
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
           ref: main
 
-      # فایل‌هایی که در جاب قبل ساخته شد را دانلود می‌کنیم
       - name: Download all generated files
         uses: actions/download-artifact@v4
         with:
@@ -72,8 +73,14 @@ jobs:
           rm -rf sub/vless
           echo "Special vless folders removed for main branch."
 
+      # <<< تغییر جدید: استفاده از خلاصه در پیام کامیت >>>
       - name: Commit public files to main branch
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Updated public configs"
+          commit_message: |
+            Update public configs
+            
+            ${{ steps.build_and_update_beta.outputs.summary_message }}
           branch: main
+          # برای اینکه فایل خلاصه کامیت نشود
+          file_pattern: '!commit_summary.txt'
