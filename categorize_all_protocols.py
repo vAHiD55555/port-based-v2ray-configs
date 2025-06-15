@@ -2,6 +2,7 @@ import requests
 import base64
 import json
 import os
+import re
 from collections import defaultdict
 from urllib.parse import urlparse
 
@@ -24,7 +25,6 @@ RARE_PORT_THRESHOLD = 5
 def fetch_all_configs(source_urls):
     """
     تمام کانفیگ‌ها را از منابع مختلف دریافت می‌کند.
-    به طور هوشمند لینک اشتراک (Base64) و لیست خام را تشخیص می‌دهد.
     """
     all_configs = []
     print("شروع دریافت کانفیگ از لیست انتخابی شما...")
@@ -38,10 +38,8 @@ def fetch_all_configs(source_urls):
                     if len(content) > 1000 and "://" not in content:
                         decoded_content = base64.b64decode(content).decode('utf-8')
                         configs = decoded_content.strip().split('\n')
-                        print(f"✅ منبع شماره {i+1} به عنوان لینک اشتراک (Base64) پردازش شد.")
                     else:
                         configs = content.split('\n')
-                        print(f"✅ منبع شماره {i+1} به عنوان لیست خام پردازش شد.")
                     
                     valid_configs = [line for line in configs if line.strip() and '://' in line]
                     if valid_configs:
@@ -49,10 +47,8 @@ def fetch_all_configs(source_urls):
                         print(f"  -> {len(valid_configs)} کانفیگ معتبر اضافه شد.")
                 except Exception as e:
                     print(f"  ⚠️ خطا در پردازش محتوای منبع شماره {i+1}: {e}")
-
         except requests.RequestException as e:
             print(f"❌ خطا در اتصال به منبع شماره {i+1}: {e}")
-            
     return list(set(all_configs))
 
 
@@ -60,20 +56,16 @@ def get_config_info(link):
     """لینک کانفیگ را تحلیل کرده و یک تاپل (پروتکل، پورت) را برمی‌گرداند."""
     try:
         protocol = link.split("://")[0].lower()
-        protocol_name = None
-
         if protocol in ["vless", "trojan", "tuic", "hysteria2", "hy2"]:
             protocol_name = "hysteria2" if protocol == "hy2" else protocol
             parsed_url = urlparse(link)
             port = str(parsed_url.port) if parsed_url.port else None
-        
         elif protocol == "vmess":
             protocol_name = "vmess"
             b64_part = link.replace("vmess://", "")
             b64_part += '=' * (-len(b64_part) % 4)
             decoded_json = base64.b64decode(b64_part).decode('utf-8')
             port = str(json.loads(decoded_json).get('port'))
-        
         elif protocol == "ss":
             protocol_name = "shadowsocks"
             link_main_part = link.split('#')[0]
@@ -81,18 +73,34 @@ def get_config_info(link):
                 parsed_url = urlparse(link_main_part)
                 port = str(parsed_url.port)
             else:
-                b64_part = link_main_part.replace("ss://", "")
+                b64_part = link_main_part.replace("ss://", "").split('#')[0]
                 b64_part += '=' * (-len(b64_part) % 4)
                 decoded_str = base64.b64decode(b64_part).decode('utf-8')
                 port = str(decoded_str.split('@')[1].split(':')[-1])
-        
         else:
             return None, None
-
         return (protocol_name, port) if (port and port.isdigit()) else (protocol_name, None)
-
     except Exception:
         return None, None
+
+def update_readme(stats):
+    """فایل README.md را با آمار جدید به‌روزرسانی می‌کند."""
+    try:
+        with open('README.md', 'r', encoding='utf-8') as f:
+            readme_content = f.read()
+
+        # جایگزینی متغیرها با اعداد واقعی
+        for key, value in stats.items():
+            readme_content = re.sub(f"<!-- {key} -->", str(value), readme_content)
+
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(readme_content)
+        print("\n✅ فایل README.md با آمار جدید با موفقیت به‌روز شد.")
+    except FileNotFoundError:
+        print("\n⚠️ فایل README.md پیدا نشد. لطفا مطمئن شوید که قالب جدید را در مخزن قرار داده‌اید.")
+    except Exception as e:
+        print(f"\n❌ خطا در به‌روزرسانی README.md: {e}")
+
 
 def main():
     raw_configs = fetch_all_configs(SOURCES)
@@ -114,37 +122,38 @@ def main():
         if protocol == 'vless' and port in VLESS_SPECIAL_PORTS:
             vless_special_by_port[port].append(config_link)
 
-    # نوشتن فایل‌ها بر اساس پورت
-    if categorized_by_port:
-        os.makedirs('ports/other/rare', exist_ok=True); os.makedirs('sub/other/rare', exist_ok=True)
-        for port, configs in categorized_by_port.items():
-            content = "\n".join(configs)
-            encoded_content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
-            path_prefix = ""
-            if port in FAMOUS_PORTS: path_prefix = ""
-            elif len(configs) < RARE_PORT_THRESHOLD: path_prefix = "other/rare/"
-            else: path_prefix = "other/"
-            with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(content)
-            with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(encoded_content)
-
-    # نوشتن فایل‌ها بر اساس پروتکل
-    if categorized_by_protocol:
-        os.makedirs('protocols', exist_ok=True); os.makedirs('sub/protocols', exist_ok=True)
-        for protocol, configs in categorized_by_protocol.items():
-            with open(f"protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
-            with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
-    
-    # نوشتن فایل‌های جداگانه برای VLESS های ویژه
-    if vless_special_by_port:
-        os.makedirs('protocols/vless', exist_ok=True); os.makedirs('sub/protocols/vless', exist_ok=True)
-        for port, configs in vless_special_by_port.items():
-            content = "\n".join(configs)
-            with open(f"protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(content)
-            with open(f"sub/protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode(content.encode('utf-8')).decode('utf-8'))
-
-    # ذخیره فایل کلی
+    # نوشتن فایل‌ها
+    # ... (کدهای نوشتن فایل بدون تغییر باقی می‌مانند) ...
+    os.makedirs('ports/other/rare', exist_ok=True); os.makedirs('sub/other/rare', exist_ok=True)
+    for port, configs in categorized_by_port.items():
+        path_prefix = ""
+        if port in FAMOUS_PORTS: path_prefix = ""
+        elif len(configs) < RARE_PORT_THRESHOLD: path_prefix = "other/rare/"
+        else: path_prefix = "other/"
+        with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
+        with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+    os.makedirs('protocols', exist_ok=True); os.makedirs('sub/protocols', exist_ok=True)
+    for protocol, configs in categorized_by_protocol.items():
+        with open(f"protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
+        with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+    os.makedirs('protocols/vless', exist_ok=True); os.makedirs('sub/protocols/vless', exist_ok=True)
+    for port, configs in vless_special_by_port.items():
+        with open(f"protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
+        with open(f"sub/protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
+
+    # <<< تغییر جدید: جمع‌آوری آمار و به‌روزرسانی README >>>
+    stats = {
+        "TOTAL_CONFIGS": len(raw_configs),
+        "VLESS_TOTAL": len(categorized_by_protocol.get('vless', [])),
+        "VMESS_TOTAL": len(categorized_by_protocol.get('vmess', [])),
+        "TROJAN_TOTAL": len(categorized_by_protocol.get('trojan', [])),
+        "PORT_443_TOTAL": len(categorized_by_port.get('443', [])),
+        "VLESS_SPECIAL_443": len(vless_special_by_port.get('443', [])),
+        "VLESS_SPECIAL_80": len(vless_special_by_port.get('80', []))
+    }
+    update_readme(stats)
     
     print("\n🎉 پروژه با موفقیت به پایان رسید.")
 
