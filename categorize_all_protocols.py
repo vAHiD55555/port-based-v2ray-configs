@@ -146,17 +146,12 @@ def main():
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
     
-    # ایجاد فایل خلاصه تک‌خطی برای پیام کامیت
-    summary_parts = [
-        f"Total: {len(raw_configs)}",
-        f"Protocols: {len(categorized_by_protocol)}",
-        f"Special VLESS: {sum(len(v) for v in vless_special_by_port.values())}"
-    ]
-    commit_message = f"Update configs | {' | '.join(summary_parts)}"
+    # <<< تغییر جدید: ایجاد فایل خلاصه تک‌خطی و ساده برای پیام کامیت >>>
+    commit_message = f"Update configs | Total: {len(raw_configs)} configs"
     with open('commit_message.txt', 'w', encoding='utf-8') as f:
         f.write(commit_message)
         
-    print("\n🎉 پروژه با موفقیت به پایان رسید و فایل خلاصه تک‌خطی ساخته شد.")
+    print("\n🎉 پروژه با موفقیت به پایان رسید و فایل خلاصه ساخته شد.")
 
 if __name__ == "__main__":
     main()
