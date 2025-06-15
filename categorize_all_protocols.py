@@ -143,16 +143,17 @@ def main():
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
     
-    # <<< تغییر جدید: ایجاد فایل خلاصه برای پیام کامیت >>>
-    summary_lines = [
-        f"Total Unique Configs: {len(raw_configs)}",
-        f"Protocols Found ({len(categorized_by_protocol)}): {', '.join(categorized_by_protocol.keys())}",
-        f"Special VLESS Ports Found: {len(vless_special_by_port)}"
+    # <<< تغییر جدید: ایجاد فایل خلاصه تک‌خطی برای پیام کامیت >>>
+    summary_parts = [
+        f"Total: {len(raw_configs)}",
+        f"Protocols: {len(categorized_by_protocol)}",
+        f"Special VLESS: {sum(len(v) for v in vless_special_by_port.values())}"
     ]
-    with open('commit_summary.txt', 'w', encoding='utf-8') as f:
-        f.write("\n".join(summary_lines))
+    commit_message = f"Update configs | {' | '.join(summary_parts)}"
+    with open('commit_message.txt', 'w', encoding='utf-8') as f:
+        f.write(commit_message)
         
-    print("\n🎉 پروژه با موفقیت به پایان رسید و فایل خلاصه ساخته شد.")
+    print("\n🎉 پروژه با موفقیت به پایان رسید و فایل خلاصه تک‌خطی ساخته شد.")
 
 if __name__ == "__main__":
     main()
