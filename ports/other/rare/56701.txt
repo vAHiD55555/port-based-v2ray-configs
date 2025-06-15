@@ -1,2 +1,2 @@
-vless://c6763909-34f1-4b80-9522-f70d930e90e6@152.53.231.109:56701?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=firefox&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#🔒 VL-TCP-RLT 🇦🇹 AT-152.53.231.109:56701
 vless://c6763909-34f1-4b80-9522-f70d930e90e6@152.53.231.109:56701?security=tls&flow=xtls-rprx-vision-udp443&sni=addons.mozilla.org&fp=firefox#🔒 VL-TCP-TLS 🇦🇹 AT-152.53.231.109:56701
+vless://c6763909-34f1-4b80-9522-f70d930e90e6@152.53.231.109:56701?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=firefox&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#🔒 VL-TCP-RLT 🇦🇹 AT-152.53.231.109:56701
