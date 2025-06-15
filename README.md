@@ -85,7 +85,7 @@
 
 این پروژه کانفیگ‌ها را از مخازن تجمعی زیر دریافت می‌کند. با تشکر فراوان از صاحبان این مخازن برای کار ارزشمندشان:
 
-- **V2ray-Configs** by [barry-far]([https://github.com/barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Config))
+- **V2ray-Configs** by [barry-far](https://github.com/barry-far/V2ray-Config)
 - **V2RayAggregator** by [mahdibland](https://github.com/mahdibland/V2RayAggregator)
 - **v2ray-configs** by [Epodonios](https://github.com/Epodonios/v2ray-configs)
 - **telegram-configs-collector** by [soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector)
