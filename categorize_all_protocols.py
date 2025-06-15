@@ -5,7 +5,7 @@ import os
 from collections import defaultdict
 from urllib.parse import urlparse, unquote
 
-# === منابع تجمعی ===
+# === منابع تجمعی (حاوی تمام پروتکل‌ها) ===
 SOURCES = [
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged",
@@ -13,7 +13,7 @@ SOURCES = [
     "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/export/all"
 ]
 
-# <<< تغییر جدید: تعریف پورت‌های معروف >>>
+# پورت‌های معروف برای دسته‌بندی جداگانه
 FAMOUS_PORTS = {'80', '443', '8080'}
 
 def fetch_all_configs(source_urls):
@@ -39,30 +39,40 @@ def fetch_all_configs(source_urls):
     return list(set(all_configs))
 
 def get_port_from_link(link):
-    """لینک کانفیگ را تحلیل کرده و پورت آن را برمی‌گرداند."""
+    """
+    لینک کانفیگ را تحلیل کرده و پورت آن را برمی‌گرداند.
+    از پروتکل‌های Vmess, Vless, Trojan, SS, Hysteria2, TUIC پشتیبانی می‌کند.
+    """
     try:
-        if link.startswith("vmess://"):
+        # پروتکل‌های مبتنی بر ساختار URL
+        if link.startswith(("vless://", "trojan://", "tuic://", "hysteria2://", "hy2://")):
+            parsed_url = urlparse(link)
+            return str(parsed_url.port) if parsed_url.port else None
+
+        # پروتکل Vmess با ساختار Base64
+        elif link.startswith("vmess://"):
             b64_part = link.replace("vmess://", "")
             b64_part += '=' * (-len(b64_part) % 4)
             decoded_json = base64.b64decode(b64_part).decode('utf-8')
             port = json.loads(decoded_json).get('port')
             return str(port) if port else None
-        elif link.startswith(("vless://", "trojan://")):
-            parsed_url = urlparse(link)
-            return str(parsed_url.port) if parsed_url.port else None
+        
+        # پروتکل ShadowSocks با دو ساختار ممکن
         elif link.startswith("ss://"):
             link_main_part = link.split('#')[0]
-            if '@' in link_main_part:
+            if '@' in link_main_part: # ساختار URL-like
                 parsed_url = urlparse(link_main_part)
                 return str(parsed_url.port)
-            else:
+            else: # ساختار Base64
                 b64_part = link_main_part.replace("ss://", "")
                 b64_part += '=' * (-len(b64_part) % 4)
                 decoded_str = base64.b64decode(b64_part).decode('utf-8')
                 host_port_part = decoded_str.split('@')[1]
                 port = host_port_part.split(':')[-1]
                 return str(port)
+                
     except Exception:
+        # اگر تحلیل هر لینکی با خطا مواجه شد، آن را نادیده می‌گیریم
         return None
     return None
 
@@ -73,7 +83,7 @@ def main():
         return
 
     print(f"\nتعداد کل کانفیگ‌های منحصر به فرد: {len(raw_configs)}")
-    print("شروع پردازش و دسته‌بندی...")
+    print("شروع پردازش و دسته‌بندی برای تمام پروتکل‌های پشتیبانی شده...")
 
     categorized_by_port = defaultdict(list)
     for config_link in raw_configs:
@@ -87,7 +97,6 @@ def main():
 
     print(f"\n✅ پردازش موفق بود. {len(categorized_by_port)} پورت منحصر به فرد پیدا شد.")
     
-    # <<< تغییر جدید: ساخت پوشه‌های اصلی و پوشه 'other' >>>
     os.makedirs('ports/other', exist_ok=True)
     os.makedirs('sub/other', exist_ok=True)
     
@@ -96,14 +105,13 @@ def main():
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
     print("✅ فایل کلی 'All-Configs.txt' و لینک اشتراک آن ساخته شد.")
 
-    # <<< تغییر جدید: منطق دسته‌بندی فایل‌ها >>>
+    # منطق دسته‌بندی فایل‌ها
     famous_ports_count = 0
     other_ports_count = 0
     for port, configs in categorized_by_port.items():
         content = "\n".join(configs)
         encoded_content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
         
-        # تعیین مسیر فایل بر اساس معروف بودن پورت
         if port in FAMOUS_PORTS:
             raw_path = f"ports/{port}.txt"
             sub_path = f"sub/{port}.txt"
