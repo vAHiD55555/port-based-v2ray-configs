@@ -118,12 +118,14 @@ def main():
     if categorized_by_port:
         os.makedirs('ports/other/rare', exist_ok=True); os.makedirs('sub/other/rare', exist_ok=True)
         for port, configs in categorized_by_port.items():
+            content = "\n".join(configs)
+            encoded_content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
             path_prefix = ""
             if port in FAMOUS_PORTS: path_prefix = ""
             elif len(configs) < RARE_PORT_THRESHOLD: path_prefix = "other/rare/"
             else: path_prefix = "other/"
-            with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
-            with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+            with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(content)
+            with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(encoded_content)
 
     # نوشتن فایل‌ها بر اساس پروتکل
     if categorized_by_protocol:
@@ -136,14 +138,15 @@ def main():
     if vless_special_by_port:
         os.makedirs('protocols/vless', exist_ok=True); os.makedirs('sub/protocols/vless', exist_ok=True)
         for port, configs in vless_special_by_port.items():
-            with open(f"protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
-            with open(f"sub/protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+            content = "\n".join(configs)
+            with open(f"protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(content)
+            with open(f"sub/protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode(content.encode('utf-8')).decode('utf-8'))
 
     # ذخیره فایل کلی
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
     
-    # <<< تغییر جدید: ایجاد فایل خلاصه تک‌خطی برای پیام کامیت >>>
+    # ایجاد فایل خلاصه تک‌خطی برای پیام کامیت
     summary_parts = [
         f"Total: {len(raw_configs)}",
         f"Protocols: {len(categorized_by_protocol)}",
