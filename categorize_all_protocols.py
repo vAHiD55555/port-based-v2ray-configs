@@ -5,6 +5,7 @@ import os
 import re
 from collections import defaultdict
 from urllib.parse import urlparse
+from datetime import datetime, timedelta, timezone
 
 # === منابع نهایی و تایید شده توسط شما ===
 SOURCES = [
@@ -83,18 +84,40 @@ def get_config_info(link):
     except Exception:
         return None, None
 
+def get_tehran_time():
+    """تاریخ و زمان میلادی به وقت تهران را برمی‌گرداند."""
+    tehran_tz = timezone(timedelta(hours=3, minutes=30))
+    now_tehran = datetime.now(timezone.utc).astimezone(tehran_tz)
+    return now_tehran.strftime("%Y-%m-%d %H:%M:%S Tehran Time")
+
 def update_readme(stats):
     """فایل README.md را با آمار جدید به‌روزرسانی می‌کند."""
     try:
         with open('README.md', 'r', encoding='utf-8') as f:
             readme_content = f.read()
 
-        # جایگزینی متغیرها با اعداد واقعی
-        for key, value in stats.items():
-            readme_content = re.sub(f"<!-- {key} -->", str(value), readme_content)
+        stats_lines = [
+            f"**آخرین به‌روزرسانی:** {stats['update_time']}",
+            f"**تعداد کل کانفیگ‌های منحصر به فرد:** {stats['total_configs']}",
+            "\n#### تفکیک بر اساس پروتکل:",
+        ]
+        for protocol, count in stats['protocols'].items():
+            stats_lines.append(f"- **{protocol.capitalize()}:** {count} کانفیگ")
+        
+        stats_lines.append("\n#### تفکیک ویژه VLESS:")
+        for port, count in stats['special_vless'].items():
+            stats_lines.append(f"- **VLESS روی پورت {port}:** {count} کانفیگ")
+
+        stats_block = "\n".join(stats_lines)
+        
+        new_readme_content = re.sub(
+            r'<!-- STATS_START -->(.|\n)*?<!-- STATS_END -->',
+            f'<!-- STATS_START -->\n{stats_block}\n<!-- STATS_END -->',
+            readme_content
+        )
 
         with open('README.md', 'w', encoding='utf-8') as f:
-            f.write(readme_content)
+            f.write(new_readme_content)
         print("\n✅ فایل README.md با آمار جدید با موفقیت به‌روز شد.")
     except FileNotFoundError:
         print("\n⚠️ فایل README.md پیدا نشد. لطفا مطمئن شوید که قالب جدید را در مخزن قرار داده‌اید.")
@@ -123,7 +146,6 @@ def main():
             vless_special_by_port[port].append(config_link)
 
     # نوشتن فایل‌ها
-    # ... (کدهای نوشتن فایل بدون تغییر باقی می‌مانند) ...
     os.makedirs('ports/other/rare', exist_ok=True); os.makedirs('sub/other/rare', exist_ok=True)
     for port, configs in categorized_by_port.items():
         path_prefix = ""
@@ -132,26 +154,26 @@ def main():
         else: path_prefix = "other/"
         with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
         with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+    
     os.makedirs('protocols', exist_ok=True); os.makedirs('sub/protocols', exist_ok=True)
     for protocol, configs in categorized_by_protocol.items():
         with open(f"protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
         with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+    
     os.makedirs('protocols/vless', exist_ok=True); os.makedirs('sub/protocols/vless', exist_ok=True)
     for port, configs in vless_special_by_port.items():
         with open(f"protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
         with open(f"sub/protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+    
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
 
-    # <<< تغییر جدید: جمع‌آوری آمار و به‌روزرسانی README >>>
+    # جمع‌آوری آمار و به‌روزرسانی README
     stats = {
-        "TOTAL_CONFIGS": len(raw_configs),
-        "VLESS_TOTAL": len(categorized_by_protocol.get('vless', [])),
-        "VMESS_TOTAL": len(categorized_by_protocol.get('vmess', [])),
-        "TROJAN_TOTAL": len(categorized_by_protocol.get('trojan', [])),
-        "PORT_443_TOTAL": len(categorized_by_port.get('443', [])),
-        "VLESS_SPECIAL_443": len(vless_special_by_port.get('443', [])),
-        "VLESS_SPECIAL_80": len(vless_special_by_port.get('80', []))
+        "total_configs": len(raw_configs),
+        "update_time": get_tehran_time(),
+        "protocols": {p: len(c) for p, c in sorted(categorized_by_protocol.items())},
+        "special_vless": {p: len(c) for p, c in sorted(vless_special_by_port.items())}
     }
     update_readme(stats)
     
