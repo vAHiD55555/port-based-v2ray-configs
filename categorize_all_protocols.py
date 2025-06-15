@@ -37,23 +37,26 @@ def fetch_all_configs(source_urls):
 def get_config_info(link):
     """
     لینک کانفیگ را تحلیل کرده و یک تاپل (پروتکل، پورت) را برمی‌گرداند.
+    نسخه عیب‌یابی پیشرفته
     """
     try:
-        protocol = link.split("://")[0]
+        protocol = link.split("://")[0].lower()
+        protocol_name = None
 
-        if protocol in ["vless", "trojan", "tuic", "hysteria2", "hy2"]:
-            parsed_url = urlparse(link)
-            port = str(parsed_url.port) if parsed_url.port else None
-            return protocol, port
-
-        elif protocol == "vmess":
+        if protocol == "vmess":
             b64_part = link.replace("vmess://", "")
             b64_part += '=' * (-len(b64_part) % 4)
             decoded_json = base64.b64decode(b64_part).decode('utf-8')
             port = str(json.loads(decoded_json).get('port'))
-            return "vmess", port
+            protocol_name = "vmess"
+        
+        elif protocol in ["vless", "trojan", "tuic", "hysteria2", "hy2"]:
+            protocol_name = "hysteria2" if protocol == "hy2" else protocol
+            parsed_url = urlparse(link)
+            port = str(parsed_url.port) if parsed_url.port else None
         
         elif protocol == "ss":
+            protocol_name = "shadowsocks"
             link_main_part = link.split('#')[0]
             if '@' in link_main_part:
                 parsed_url = urlparse(link_main_part)
@@ -63,11 +66,21 @@ def get_config_info(link):
                 b64_part += '=' * (-len(b64_part) % 4)
                 decoded_str = base64.b64decode(b64_part).decode('utf-8')
                 port = str(decoded_str.split('@')[1].split(':')[-1])
-            return "shadowsocks", port
-                
-    except Exception:
+        
+        else:
+            # پروتکل ناشناخته، آن را نادیده می‌گیریم
+            return None, None
+
+        if not port or not port.isdigit():
+            print(f"  [!] هشدار: پورت نامعتبر یا پیدا نشده برای لینک ({protocol_name}): {link[:70]}...")
+            return protocol_name, None
+
+        return protocol_name, port
+
+    except Exception as e:
+        # اگر هر خطای دیگری در زمان پردازش رخ داد، آن را چاپ کن
+        print(f"  [!] EXCEPTION while parsing link: {link[:70]}... | ErrorType: {type(e).__name__}, Message: {e}")
         return None, None
-    return None, None
 
 def main():
     raw_configs = fetch_all_configs(SOURCES)
@@ -76,60 +89,38 @@ def main():
         return
 
     print(f"\nتعداد کل کانفیگ‌های منحصر به فرد: {len(raw_configs)}")
-    print("شروع پردازش و دسته‌بندی دوگانه (بر اساس پورت و پروتکل)...")
+    print("شروع پردازش و دسته‌بندی دوگانه (نسخه عیب‌یابی)...")
 
-    # <<< تغییر جدید: ایجاد دو دیکشنری برای دسته‌بندی دوگانه >>>
     categorized_by_port = defaultdict(list)
     categorized_by_protocol = defaultdict(list)
 
     for config_link in raw_configs:
         protocol, port = get_config_info(config_link)
-        if port: # فقط کانفیگ‌هایی که پورت معتبر دارند را پردازش می‌کنیم
+        if port:
             categorized_by_port[port].append(config_link)
         if protocol:
             categorized_by_protocol[protocol].append(config_link)
 
-    # --- بخش ۱: نوشتن فایل‌ها بر اساس پورت (مانند قبل) ---
+    # --- بخش ۱: نوشتن فایل‌ها بر اساس پورت ---
     if categorized_by_port:
         print(f"\n✅ پردازش بر اساس پورت موفق بود. {len(categorized_by_port)} پورت منحصر به فرد پیدا شد.")
-        os.makedirs('ports/other', exist_ok=True)
-        os.makedirs('sub/other', exist_ok=True)
+        os.makedirs('ports/other', exist_ok=True); os.makedirs('sub/other', exist_ok=True)
         
-        famous_ports_count = 0
-        other_ports_count = 0
         for port, configs in categorized_by_port.items():
-            content = "\n".join(configs)
-            encoded_content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
-            
-            if port in FAMOUS_PORTS:
-                raw_path, sub_path = f"ports/{port}.txt", f"sub/{port}.txt"
-                famous_ports_count += 1
-            else:
-                raw_path, sub_path = f"ports/other/{port}.txt", f"sub/other/{port}.txt"
-                other_ports_count += 1
-                
-            with open(raw_path, 'w', encoding='utf-8') as f: f.write(content)
-            with open(sub_path, 'w', encoding='utf-8') as f: f.write(encoded_content)
-        
-        print(f"✅ {famous_ports_count} فایل برای پورت‌های معروف ساخته شد.")
-        print(f"✅ {other_ports_count} فایل برای سایر پورت‌ها ساخته شد.")
+            path_prefix = "" if port in FAMOUS_PORTS else "other/"
+            with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
+            with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
     else:
         print("\n❌ هیچ پورتی برای دسته‌بندی پیدا نشد.")
 
-    # <<< تغییر جدید: بخش ۲: نوشتن فایل‌ها بر اساس پروتکل >>>
+    # --- بخش ۲: نوشتن فایل‌ها بر اساس پروتکل ---
     if categorized_by_protocol:
         print(f"\n✅ پردازش بر اساس پروتکل موفق بود. {len(categorized_by_protocol)} پروتکل منحصر به فرد پیدا شد.")
-        os.makedirs('ports/protocols', exist_ok=True)
-        os.makedirs('sub/protocols', exist_ok=True)
+        os.makedirs('ports/protocols', exist_ok=True); os.makedirs('sub/protocols', exist_ok=True)
 
         for protocol, configs in categorized_by_protocol.items():
-            content = "\n".join(configs)
-            encoded_content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
-
-            with open(f"ports/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(content)
-            with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(encoded_content)
-
-        print(f"✅ {len(categorized_by_protocol)} فایل دسته‌بندی شده بر اساس پروتکل ساخته شد.")
+            with open(f"ports/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
+            with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
     else:
         print("\n❌ هیچ پروتکلی برای دسته‌بندی پیدا نشد.")
         
