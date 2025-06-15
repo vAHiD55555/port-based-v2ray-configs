@@ -1,4 +1,4 @@
 vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@185.235.197.146:6556?security=none&type=tcp&host=api.wheather.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.235.197.146:6556
+vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@5.202.14.235:6556?security=none&type=tcp&host=api.wheather.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.14.235:6556
 vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@193.151.131.221:6556?security=none&type=tcp&host=api.wheather.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.131.221:6556
 vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@5.202.13.50:6556?security=none&type=tcp&host=api.wheather.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.13.50:6556
-vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@5.202.14.235:6556?security=none&type=tcp&host=api.wheather.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.14.235:6556
