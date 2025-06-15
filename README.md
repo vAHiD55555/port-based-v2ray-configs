@@ -11,21 +11,7 @@
 ### 📊 آمار لحظه‌ای
 
 <!-- STATS_START -->
-**آخرین به‌روزرسانی:** 2025-06-15 23:03:49 Tehran Time
-**تعداد کل کانفیگ‌های منحصر به فرد:** 18998
-
-#### تفکیک بر اساس پروتکل:
-- **Hysteria2:** 26 کانفیگ
-- **Shadowsocks:** 3092 کانفیگ
-- **Trojan:** 2923 کانفیگ
-- **Vless:** 10372 کانفیگ
-- **Vmess:** 2549 کانفیگ
-
-#### تفکیک ویژه VLESS:
-- **VLESS روی پورت 443:** 4073 کانفیگ
-- **VLESS روی پورت 80:** 1220 کانفیگ
-- **VLESS روی پورت 8080:** 154 کانفیگ
-- **VLESS روی پورت 8088:** 1 کانفیگ
+*این بخش به زودی با آمار زنده جایگزین خواهد شد.*
 <!-- STATS_END -->
 
 ---
@@ -68,7 +54,7 @@
 
 این پروژه کانفیگ‌ها را از مخازن تجمعی زیر دریافت می‌کند. با تشکر فراوان از صاحبان این مخازن برای کار ارزشمندشان:
 
-- **V2ray-Configs** by [barry-far](https://github.com/barry-far/V2ray-Configs)
+- **V2ray-Config** by [barry-far](https://github.com/barry-far/V2ray-Config)
 - **V2RayAggregator** by [mahdibland](https://github.com/mahdibland/V2RayAggregator)
 - **v2ray-configs** by [Epodonios](https://github.com/Epodonios/v2ray-configs)
 - **telegram-configs-collector** by [soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector)
