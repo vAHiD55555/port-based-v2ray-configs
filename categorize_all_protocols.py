@@ -119,8 +119,6 @@ def update_readme(stats):
         with open('README.md', 'w', encoding='utf-8') as f:
             f.write(new_readme_content)
         print("\n✅ فایل README.md با آمار جدید با موفقیت به‌روز شد.")
-    except FileNotFoundError:
-        print("\n⚠️ فایل README.md پیدا نشد. لطفا مطمئن شوید که قالب جدید را در مخزن قرار داده‌اید.")
     except Exception as e:
         print(f"\n❌ خطا در به‌روزرسانی README.md: {e}")
 
