@@ -1,2 +1,1 @@
 vless://76ad9780-85eb-4816-88bf-fe6f28a11fd2@85.133.197.197:30555?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.197.197:30555
-vless://76ad9780-85eb-4816-88bf-fe6f28a11fd2@85.133.197.197:30555?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.197.197:30555
