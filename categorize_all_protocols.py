@@ -7,9 +7,10 @@ from collections import defaultdict
 from urllib.parse import urlparse
 from datetime import datetime, timedelta, timezone
 
-# === منابع نهایی و تایید شده توسط شما ===
+# === منابع نهایی و تایید شده توسط شما (با اصلاح لینک) ===
 SOURCES = [
-    "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt",
+    # لینک اصلاح شده برای barry-far
+    "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
     "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
