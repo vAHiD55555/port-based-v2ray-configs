@@ -15,18 +15,14 @@ SOURCES = [
     "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
 ]
 
-# پورت‌های معروف برای دسته‌بندی عمومی
+# پارامترهای دسته‌بندی
 FAMOUS_PORTS = {'80', '443', '8080'}
-# پورت‌های ویژه برای VLESS
 VLESS_SPECIAL_PORTS = {'80', '443', '8080', '8088'}
-# آستانه برای انتقال به پوشه "کمیاب"
 RARE_PORT_THRESHOLD = 5
 
 
 def fetch_all_configs(source_urls):
-    """
-    تمام کانفیگ‌ها را از منابع مختلف دریافت می‌کند.
-    """
+    """تمام کانفیگ‌ها را از منابع مختلف دریافت می‌کند."""
     all_configs = []
     print("شروع دریافت کانفیگ از لیست انتخابی شما...")
     for i, url in enumerate(source_urls):
@@ -41,7 +37,6 @@ def fetch_all_configs(source_urls):
                         configs = decoded_content.strip().split('\n')
                     else:
                         configs = content.split('\n')
-                    
                     valid_configs = [line for line in configs if line.strip() and '://' in line]
                     if valid_configs:
                         all_configs.extend(valid_configs)
@@ -91,9 +86,9 @@ def get_tehran_time():
     return now_tehran.strftime("%Y-%m-%d %H:%M:%S Tehran Time")
 
 def update_readme(stats):
-    """فایل README.md را با آمار جدید به‌روزرسانی می‌کند."""
+    """فایل README.md را با استفاده از الگو و آمار جدید بازنویسی می‌کند."""
     try:
-        with open('README.md', 'r', encoding='utf-8') as f:
+        with open('README.template.md', 'r', encoding='utf-8') as f:
             readme_content = f.read()
 
         stats_lines = [
@@ -101,21 +96,28 @@ def update_readme(stats):
             f"**تعداد کل کانفیگ‌های منحصر به فرد:** {stats['total_configs']}",
             "\n#### تفکیک بر اساس پروتکل:",
         ]
-        # فقط پروتکل‌های عمومی نمایش داده می‌شوند
         for protocol, count in stats['protocols'].items():
             stats_lines.append(f"- **{protocol.capitalize()}:** {count} کانفیگ")
+        
+        # این بخش در README عمومی نمایش داده نمی‌شود اما در آمار کلی محاسبه می‌شود
+        # stats_lines.append("\n#### تفکیک ویژه VLESS:")
+        # for port, count in stats['special_vless'].items():
+        #     stats_lines.append(f"- **VLESS روی پورت {port}:** {count} کانفیگ")
 
         stats_block = "\n".join(stats_lines)
         
+        # <<< تغییر جدید: استفاده از الگو و بازنویسی کامل >>>
         new_readme_content = re.sub(
-            r'(.|\n)*?',
-            f'\n{stats_block}\n',
+            r'<!-- STATS_START -->(.|\n)*?<!-- STATS_END -->',
+            f'<!-- STATS_START -->\n{stats_block}\n<!-- STATS_END -->',
             readme_content
         )
 
         with open('README.md', 'w', encoding='utf-8') as f:
             f.write(new_readme_content)
-        print("\n✅ فایل README.md با آمار جدید با موفقیت به‌روز شد.")
+        print("\n✅ فایل README.md با آمار جدید با موفقیت بازنویسی شد.")
+    except FileNotFoundError:
+        print("\n⚠️ فایل README.template.md پیدا نشد. لطفا این فایل را در مخزن ایجاد کنید.")
     except Exception as e:
         print(f"\n❌ خطا در به‌روزرسانی README.md: {e}")
 
@@ -125,9 +127,6 @@ def main():
     if not raw_configs:
         print("هیچ کانفیگی برای پردازش یافت نشد.")
         return
-
-    print(f"\nتعداد کل کانفیگ‌های منحصر به فرد: {len(raw_configs)}")
-    print("شروع پردازش و دسته‌بندی نهایی...")
 
     categorized_by_port = defaultdict(list)
     categorized_by_protocol = defaultdict(list)
@@ -163,11 +162,11 @@ def main():
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
 
-    # جمع‌آوری آمار و به‌روزرسانی README
     stats = {
         "total_configs": len(raw_configs),
         "update_time": get_tehran_time(),
         "protocols": {p: len(c) for p, c in sorted(categorized_by_protocol.items())},
+        "special_vless": {p: len(c) for p, c in sorted(vless_special_by_port.items())}
     }
     update_readme(stats)
     
