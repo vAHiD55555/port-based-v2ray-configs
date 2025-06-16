@@ -7,9 +7,8 @@ from collections import defaultdict
 from urllib.parse import urlparse
 from datetime import datetime, timedelta, timezone
 
-# === منابع نهایی و تایید شده توسط شما (با اصلاح لینک) ===
+# === منابع نهایی و تایید شده توسط شما ===
 SOURCES = [
-    # لینک اصلاح شده برای barry-far
     "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
@@ -102,18 +101,15 @@ def update_readme(stats):
             f"**تعداد کل کانفیگ‌های منحصر به فرد:** {stats['total_configs']}",
             "\n#### تفکیک بر اساس پروتکل:",
         ]
+        # فقط پروتکل‌های عمومی نمایش داده می‌شوند
         for protocol, count in stats['protocols'].items():
             stats_lines.append(f"- **{protocol.capitalize()}:** {count} کانفیگ")
-        
-        stats_lines.append("\n#### تفکیک ویژه VLESS:")
-        for port, count in stats['special_vless'].items():
-            stats_lines.append(f"- **VLESS روی پورت {port}:** {count} کانفیگ")
 
         stats_block = "\n".join(stats_lines)
         
         new_readme_content = re.sub(
-            r'<!-- STATS_START -->(.|\n)*?<!-- STATS_END -->',
-            f'<!-- STATS_START -->\n{stats_block}\n<!-- STATS_END -->',
+            r'(.|\n)*?',
+            f'\n{stats_block}\n',
             readme_content
         )
 
@@ -172,7 +168,6 @@ def main():
         "total_configs": len(raw_configs),
         "update_time": get_tehran_time(),
         "protocols": {p: len(c) for p, c in sorted(categorized_by_protocol.items())},
-        "special_vless": {p: len(c) for p, c in sorted(vless_special_by_port.items())}
     }
     update_readme(stats)
     
