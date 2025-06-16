@@ -52,10 +52,11 @@ def fetch_all_configs(source_urls):
 
 
 def get_config_info(link):
-    """لینک کانفیگ را تحلیل کرده و یک تاپل (پروتکل، پورت، آیا reality است) را برمی‌گرداند."""
+    """لینک کانفیگ را تحلیل کرده و یک تاپل (پروتکل، پورت، آیا reality است، نوع انتقال) را برمی‌گرداند."""
     try:
         protocol = link.split("://")[0].lower()
         is_reality = False
+        transport_type = None
 
         if protocol == "vless":
             protocol_name = "vless"
@@ -64,6 +65,9 @@ def get_config_info(link):
             query_params = parse_qs(parsed_url.query)
             if 'security' in query_params and query_params['security'][0].lower() == 'reality':
                 is_reality = True
+            # <<< تغییر جدید: استخراج نوع انتقال >>>
+            if 'type' in query_params:
+                transport_type = query_params['type'][0].lower()
         
         elif protocol in ["trojan", "tuic", "hysteria2", "hy2"]:
             protocol_name = "hysteria2" if protocol == "hy2" else protocol
@@ -89,11 +93,12 @@ def get_config_info(link):
                 decoded_str = base64.b64decode(b64_part).decode('utf-8')
                 port = str(decoded_str.split('@')[1].split(':')[-1])
         else:
-            return None, None, False
+            return None, None, False, None
             
-        return (protocol_name, port if (port and port.isdigit()) else None, is_reality)
+        return (protocol_name, port if (port and port.isdigit()) else None, is_reality, transport_type)
+
     except Exception:
-        return None, None, False
+        return None, None, False, None
 
 def get_tehran_time():
     """تاریخ و زمان میلادی به وقت تهران را برمی‌گرداند."""
@@ -112,7 +117,6 @@ def update_readme(stats):
             f"**تعداد کل کانفیگ‌های منحصر به فرد:** {stats['total_configs']}",
             "\n#### تفکیک بر اساس پروتکل:",
         ]
-        # فقط پروتکل‌های عمومی در README نمایش داده می‌شوند
         public_protocols = {p: c for p, c in stats['protocols'].items() if p not in ['reality']}
         for protocol, count in public_protocols.items():
             stats_lines.append(f"- **{protocol.capitalize()}:** {count} کانفیگ")
@@ -148,15 +152,20 @@ def main():
     categorized_by_protocol = defaultdict(list)
     vless_special_by_port = defaultdict(list)
     vless_reality_list = []
+    # <<< تغییر جدید: لیست برای VLESS + httpupgrade/xhttp >>>
+    vless_http_special_list = []
 
     for config_link in raw_configs:
-        protocol, port, is_reality = get_config_info(config_link)
+        protocol, port, is_reality, transport = get_config_info(config_link)
         if port: categorized_by_port[port].append(config_link)
         if protocol: categorized_by_protocol[protocol].append(config_link)
         if protocol == 'vless' and port in VLESS_SPECIAL_PORTS:
             vless_special_by_port[port].append(config_link)
         if is_reality:
             vless_reality_list.append(config_link)
+        # <<< تغییر جدید: پر کردن لیست جدید >>>
+        if protocol == 'vless' and transport in ['httpupgrade', 'xhttp']:
+            vless_http_special_list.append(config_link)
 
     # نوشتن فایل‌ها
     os.makedirs('ports/other/rare', exist_ok=True); os.makedirs('sub/other/rare', exist_ok=True)
@@ -182,6 +191,14 @@ def main():
         reality_content = "\n".join(vless_reality_list)
         with open('protocols/vless/reality.txt', 'w', encoding='utf-8') as f: f.write(reality_content)
         with open('sub/protocols/vless/reality.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode(reality_content.encode('utf-8')).decode('utf-8'))
+        print(f"\n✅ {len(vless_reality_list)} کانفیگ VLESS + REALITY پیدا شد.")
+        
+    # <<< تغییر جدید: نوشتن فایل VLESS + httpupgrade/xhttp >>>
+    if vless_http_special_list:
+        http_content = "\n".join(vless_http_special_list)
+        with open('protocols/vless/http_special.txt', 'w', encoding='utf-8') as f: f.write(http_content)
+        with open('sub/protocols/vless/http_special.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode(http_content.encode('utf-8')).decode('utf-8'))
+        print(f"✅ {len(vless_http_special_list)} کانفیگ VLESS + HTTP Special پیدا شد.")
     
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
