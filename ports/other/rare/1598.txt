@@ -1,1 +1,1 @@
-vless://a6e17298-5f85-4966-b760-e9e3b8ba82a4@159.69.125.230:1598?security=none&type=tcp&host=stackoverflow.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-159.69.125.230:1598
+vless://85323542-f2b1-44d0-8b0c-1c4196bc38f2@91.99.133.135:1598?security=reality&sni=tgju.org&type=tcp&fp=chrome&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&sid=0b886008af8942c3#🔒 VL-TCP-RLT 🇩🇪 DE-91.99.133.135:1598
