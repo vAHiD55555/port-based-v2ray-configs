@@ -11,20 +11,20 @@
 ### 📊 آمار لحظه‌ای
 
 <!-- STATS_START -->
-**آخرین به‌روزرسانی:** 2025-06-21 15:21:05 Tehran Time
-**تعداد کل کانفیگ‌های منحصر به فرد:** 20906
+**آخرین به‌روزرسانی:** 2025-06-21 15:44:13 Tehran Time
+**تعداد کل کانفیگ‌های منحصر به فرد:** 20634
 
 #### تفکیک بر اساس پروتکل:
 - **Hysteria2:** 39 کانفیگ
-- **Shadowsocks:** 3127 کانفیگ
-- **Trojan:** 3186 کانفیگ
-- **Vless:** 12009 کانفیگ
-- **Vmess:** 2508 کانفیگ
+- **Shadowsocks:** 3117 کانفیگ
+- **Trojan:** 3147 کانفیگ
+- **Vless:** 11804 کانفیگ
+- **Vmess:** 2490 کانفیگ
 
 #### تفکیک بر اساس پورت‌های معروف:
-- **پورت 443:** 7749 کانفیگ
-- **پورت 80:** 1756 کانفیگ
-- **پورت 8080:** 432 کانفیگ
+- **پورت 443:** 7645 کانفیگ
+- **پورت 80:** 1725 کانفیگ
+- **پورت 8080:** 417 کانفیگ
 - **پورت 8088:** 2 کانفیگ
 <!-- STATS_END -->
 
@@ -36,11 +36,11 @@
 
 - **فقط VLESS (تمام پورت‌ها):**
   ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt)
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt
   ```
 - **فقط VMess (تمام پورت‌ها):**
   ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt
   ```
 
 ---
@@ -49,12 +49,12 @@
 
 - **تمام کانفیگ‌ها (ادغام شده):**
   ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt)
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt
   ```
 
 - **پورت 443 (شامل تمام پروتکل‌ها):**
   ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt)
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt
   ```
 
 ---
