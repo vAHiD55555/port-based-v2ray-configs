@@ -1,0 +1,5 @@
+vless://72090081-bab6-49cd-8006-e470afaf84fb@35.88.70.32:20230?security=reality&sni=www.nvidia.com&type=grpc&serviceName=tj&fp=chrome&pbk=Bq_RQyPwxp7zTYywC37jLxmcjV9npNN6H6_1d_R6GT0&sid=c9916730#🔒 VL-GRPC-RLT 🇺🇸 US-35.88.70.32:20230
+trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@35.87.79.198:20230?sni=421421.xyz&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-35.87.79.198:20230
+trojan://a124e41a-0fb8-4543-a0ab-a127c7b515a9@13.229.119.183:20230?security=tls&sni=sg005.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-13.229.119.183:20230
+trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@35.77.91.83:20230?security=tls&sni=421421.xyz#🔒 TR-TCP-TLS 🇯🇵 JP-35.77.91.83:20230
+trojan://0bfa2050-b165-4156-859c-70f36d300dce@175.41.226.64:20230?security=tls&sni=jp005.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-175.41.226.64:20230

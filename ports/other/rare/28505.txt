@@ -1,1 +1,2 @@
+vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@84.47.233.108:28505?security=none&type=tcp&host=Fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.233.108:28505
 trojan://feac8d6d-8fcf-4ef1-9ad0-18833c9fca11@220.130.58.136:28505?security=tls&sni=green.cdntencentmusic.com#🔒 TR-TCP-TLS 🇹🇼 TW-220.130.58.136:28505

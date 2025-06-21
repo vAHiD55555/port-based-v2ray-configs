@@ -1,0 +1,3 @@
+vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@129.212.141.225:505?security=reality&sni=journalofbigdata.springeropen.com&type=grpc&serviceName=xyz&fp=firefox&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#🔒 VL-GRPC-RLT 🇩🇪 DE-129.212.141.225:505
+vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@5.161.150.172:505?security=reality&sni=journalofbigdata.springeropen.com&type=grpc&serviceName=xyz&fp=chrome&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#🔒 VL-GRPC-RLT 🇺🇸 US-5.161.150.172:505
+vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@129.212.141.225:505?security=reality&sni=journalofbigdata.springeropen.com&type=grpc&serviceName=xyz&fp=chrome&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#🔒 VL-GRPC-RLT 🇩🇪 DE-129.212.141.225:505
