@@ -46,7 +46,6 @@ jobs:
         run: |
           git checkout main
           # فایل README.md را از برنچ بتا به برنچ main منتقل می‌کنیم
-          # این کار تضمین می‌کند که README در هر دو برنچ یکسان باشد
           git checkout beta -- README.md
           # حذف فایل‌های ویژه از برنچ main
           rm -rf protocols/vless
