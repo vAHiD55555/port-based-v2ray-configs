@@ -16,15 +16,11 @@ SOURCES = [
 ]
 
 # پارامترهای دسته‌بندی
-FAMOUS_PORTS = {'80', '443', '8080', '8088'} # پورت ۸۰۸۸ اضافه شد
-VLESS_SPECIAL_PORTS = {'80', '443', '8080', '8088'}
+SPECIAL_PROTOCOLS = {'vless', 'vmess', 'trojan'}
+SPECIAL_PORTS = {'80', '443', '8080', '8088'}
 RARE_PORT_THRESHOLD = 5
 
-
 def fetch_all_configs(source_urls):
-    """
-    تمام کانفیگ‌ها را از منابع مختلف دریافت می‌کند.
-    """
     all_configs = []
     print("شروع دریافت کانفیگ از لیست انتخابی شما...")
     for i, url in enumerate(source_urls):
@@ -39,7 +35,6 @@ def fetch_all_configs(source_urls):
                         configs = decoded_content.strip().split('\n')
                     else:
                         configs = content.split('\n')
-                    
                     valid_configs = [line for line in configs if line.strip() and '://' in line]
                     if valid_configs:
                         all_configs.extend(valid_configs)
@@ -49,9 +44,7 @@ def fetch_all_configs(source_urls):
             print(f"❌ خطا در اتصال به منبع شماره {i+1}: {e}")
     return list(set(all_configs))
 
-
 def get_config_info(link):
-    """لینک کانفیگ را تحلیل کرده و یک تاپل (پروتکل، پورت، آیا reality است) را برمی‌گرداند."""
     try:
         protocol = link.split("://")[0].lower()
         is_reality = False
@@ -89,99 +82,48 @@ def get_config_info(link):
     except Exception:
         return None, None, False
 
-def get_tehran_time():
-    """تاریخ و زمان میلادی به وقت تهران را برمی‌گرداند."""
-    tehran_tz = timezone(timedelta(hours=3, minutes=30))
-    now_tehran = datetime.now(timezone.utc).astimezone(tehran_tz)
-    return now_tehran.strftime("%Y-%m-%d %H:%M:%S Tehran Time")
-
-def update_readme(stats):
-    """فایل README.md را با استفاده از الگو و آمار جدید بازنویسی می‌کند."""
-    try:
-        with open('README.template.md', 'r', encoding='utf-8') as f:
-            template_content = f.read()
-
-        stats_lines = [
-            f"**آخرین به‌روزرسانی:** {stats['update_time']}",
-            f"**تعداد کل کانفیگ‌های منحصر به فرد:** {stats['total_configs']}",
-            "\n#### تفکیک بر اساس پروتکل:",
-        ]
-        for protocol, count in stats['protocols'].items():
-            stats_lines.append(f"- **{protocol.capitalize()}:** {count} کانفیگ")
-        
-        stats_lines.append("\n#### تفکیک بر اساس پورت‌های معروف:")
-        for port in sorted(FAMOUS_PORTS):
-            stats_lines.append(f"- **پورت {port}:** {stats['ports'].get(port, 0)} کانفیگ")
-
-        stats_block = "\n".join(stats_lines)
-        
-        new_readme_content = re.sub(
-            r'<!-- STATS_START -->(.|\n)*?<!-- STATS_END -->',
-            f'<!-- STATS_START -->\n{stats_block}\n<!-- STATS_END -->',
-            template_content
-        )
-
-        with open('README.md', 'w', encoding='utf-8') as f:
-            f.write(new_readme_content)
-        print("\n✅ فایل README.md با آمار جدید با موفقیت بازنویسی شد.")
-    except Exception as e:
-        print(f"\n❌ خطا در به‌روزرسانی README.md: {e}")
-
-
 def main():
     raw_configs = fetch_all_configs(SOURCES)
     if not raw_configs:
         print("هیچ کانفیگی برای پردازش یافت نشد.")
         return
 
-    categorized_by_port = defaultdict(list)
     categorized_by_protocol = defaultdict(list)
-    vless_special_by_port = defaultdict(list)
-    vless_reality_list = []
+    special_categorization = defaultdict(lambda: defaultdict(list))
 
     for config_link in raw_configs:
         protocol, port, is_reality = get_config_info(config_link)
-        if port: categorized_by_port[port].append(config_link)
-        if protocol: categorized_by_protocol[protocol].append(config_link)
-        if protocol == 'vless' and port in VLESS_SPECIAL_PORTS:
-            vless_special_by_port[port].append(config_link)
+        if protocol: 
+            categorized_by_protocol[protocol].append(config_link)
+        if protocol in SPECIAL_PROTOCOLS and port in SPECIAL_PORTS:
+            special_categorization[protocol][port].append(config_link)
         if is_reality:
-            vless_reality_list.append(config_link)
+            special_categorization['reality']['all'].append(config_link)
 
-    # نوشتن فایل‌ها
-    os.makedirs('ports/other/rare', exist_ok=True); os.makedirs('sub/other/rare', exist_ok=True)
-    for port, configs in categorized_by_port.items():
-        path_prefix = ""
-        if port in FAMOUS_PORTS: path_prefix = ""
-        elif len(configs) < RARE_PORT_THRESHOLD: path_prefix = "other/rare/"
-        else: path_prefix = "other/"
-        with open(f"ports/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
-        with open(f"sub/{path_prefix}{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
-    
+    # نوشتن فایل‌های دسته‌بندی شده بر اساس پروتکل
+    print("\n✅ شروع ساخت فایل‌های دسته‌بندی شده...")
     os.makedirs('protocols', exist_ok=True); os.makedirs('sub/protocols', exist_ok=True)
     for protocol, configs in categorized_by_protocol.items():
         with open(f"protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
         with open(f"sub/protocols/{protocol}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
     
-    os.makedirs('protocols/vless', exist_ok=True); os.makedirs('sub/protocols/vless', exist_ok=True)
-    for port, configs in vless_special_by_port.items():
-        with open(f"protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
-        with open(f"sub/protocols/vless/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
-    
-    if vless_reality_list:
-        with open('protocols/vless/reality.txt', 'w', encoding='utf-8') as f: f.write("\n".join(vless_reality_list))
-        with open('sub/protocols/vless/reality.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(vless_reality_list).encode('utf-8')).decode('utf-8'))
-    
+    # نوشتن فایل‌های دسته‌بندی ویژه
+    for protocol, ports_dict in special_categorization.items():
+        if protocol == 'reality':
+            os.makedirs(f'protocols/special', exist_ok=True); os.makedirs(f'sub/special', exist_ok=True)
+            with open(f"protocols/special/reality.txt", 'w', encoding='utf-8') as f: f.write("\n".join(ports_dict['all']))
+            with open(f"sub/special/reality.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(ports_dict['all']).encode('utf-8')).decode('utf-8'))
+            print(f"  -> فایل ویژه برای REALITY با {len(ports_dict['all'])} کانفیگ ساخته شد.")
+        else:
+            os.makedirs(f'protocols/{protocol}', exist_ok=True); os.makedirs(f'sub/protocols/{protocol}', exist_ok=True)
+            for port, configs in ports_dict.items():
+                with open(f"protocols/{protocol}/{port}.txt", 'w', encoding='utf-8') as f: f.write("\n".join(configs))
+                with open(f"sub/protocols/{protocol}/{port}.txt", 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(configs).encode('utf-8')).decode('utf-8'))
+                print(f"  -> فایل ویژه برای {protocol.upper()} روی پورت {port} با {len(configs)} کانفیگ ساخته شد.")
+
+    # ذخیره فایل کلی
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
-
-    stats = {
-        "total_configs": len(raw_configs),
-        "update_time": get_tehran_time(),
-        "protocols": {p: len(c) for p, c in sorted(categorized_by_protocol.items())},
-        "ports": {p: len(c) for p, c in sorted(categorized_by_port.items())},
-    }
-    update_readme(stats)
     
     print("\n🎉 پروژه با موفقیت به پایان رسید.")
 
