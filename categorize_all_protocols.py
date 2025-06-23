@@ -82,6 +82,46 @@ def get_config_info(link):
     except Exception:
         return None, None, False
 
+def get_tehran_time():
+    tehran_tz = timezone(timedelta(hours=3, minutes=30))
+    now_tehran = datetime.now(timezone.utc).astimezone(tehran_tz)
+    return now_tehran.strftime("%Y-%m-%d %H:%M:%S Tehran Time")
+
+def update_readme(stats):
+    try:
+        with open('README.template.md', 'r', encoding='utf-8') as f:
+            template_content = f.read()
+
+        stats_lines = [
+            f"**آخرین به‌روزرسانی:** {stats['update_time']}",
+            f"**تعداد کل کانفیگ‌های منحصر به فرد:** {stats['total_configs']}",
+            "\n#### تفکیک بر اساس پروتکل:",
+        ]
+        for protocol, count in stats['protocols'].items():
+            stats_lines.append(f"- **{protocol.capitalize()}:** {count} کانفیگ")
+        
+        if stats.get('reality_vless'):
+            stats_lines.append(f"- **VLESS (Reality):** {stats['reality_vless']} کانفیگ")
+
+        stats_lines.append("\n#### تفکیک بر اساس پورت‌های معروف:")
+        for port in sorted(FAMOUS_PORTS):
+            stats_lines.append(f"- **پورت {port}:** {stats['ports'].get(port, 0)} کانفیگ")
+
+        stats_block = "\n".join(stats_lines)
+        
+        new_readme_content = re.sub(
+            r'<!-- STATS_START -->(.|\n)*?<!-- STATS_END -->',
+            f'<!-- STATS_START -->\n{stats_block}\n<!-- STATS_END -->',
+            template_content
+        )
+
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(new_readme_content)
+        print("\n✅ فایل README.md با آمار جدید با موفقیت بازنویسی شد.")
+    except Exception as e:
+        print(f"\n❌ خطا در به‌روزرسانی README.md: {e}")
+
+
 def main():
     raw_configs = fetch_all_configs(SOURCES)
     if not raw_configs: return
@@ -128,6 +168,15 @@ def main():
 
     with open('All-Configs.txt', 'w', encoding='utf-8') as f: f.write("\n".join(raw_configs))
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write(base64.b64encode("\n".join(raw_configs).encode('utf-8')).decode('utf-8'))
+
+    stats = {
+        "total_configs": len(raw_configs),
+        "update_time": get_tehran_time(),
+        "protocols": {p: len(c) for p, c in sorted(categorized_by_protocol.items())},
+        "ports": {p: len(c) for p, c in sorted(categorized_by_port.items())},
+        "reality_vless": len(vless_reality_list)
+    }
+    update_readme(stats)
     
     print("\n🎉 پروژه با موفقیت به پایان رسید.")
 
