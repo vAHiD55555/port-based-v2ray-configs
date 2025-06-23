@@ -1,2 +1,2 @@
-vless://b2be6ead-0028-4bb3-b551-e2cf93ee33b2@92.114.24.71:43744?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.24.71:43744
 vless://b2be6ead-0028-4bb3-b551-e2cf93ee33b2@92.114.24.71:43744?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-92.114.24.71:43744
+vless://b2be6ead-0028-4bb3-b551-e2cf93ee33b2@92.114.24.71:43744?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.24.71:43744
