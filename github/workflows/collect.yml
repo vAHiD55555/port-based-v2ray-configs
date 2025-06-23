@@ -1,0 +1,37 @@
+name: 1. Collect and Categorize Configs
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # هر ۴ ساعت یک بار
+  workflow_dispatch: # اجازه اجرای دستی
+
+permissions:
+  contents: write
+
+jobs:
+  build_and_collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Python script to generate all files
+        run: python categorize_all_protocols.py
+
+      - name: Commit and push all files to main branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Update all configs and stats" || echo "No changes to commit"
+          git push origin main
