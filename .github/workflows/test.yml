@@ -28,10 +28,8 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      # === مرحله جدید: ایجاد یک زیرمجموعه برای تست سریع ===
       - name: Prepare a small subset for testing
         run: |
-          # خواندن 500 خط اول از فایل پورت 80 و ذخیره در یک فایل موقت
           head -n 500 ports/80.txt > ports/test_subset.txt
           echo "Created a test subset with the first 500 configs from port 80."
 
@@ -40,12 +38,8 @@ jobs:
         id: ping_test
         run: |
           echo "Testing connectivity of the subset..."
-          # <<< تغییر جدید: تست فقط روی فایل زیرمجموعه >>>
-          ./lite-linux-amd64-v0.14.1 -test ports/test_subset.txt -p 100 > ping_results.json 2>&1
-          
-          # فیلتر کردن کانفیگ‌های سالم و ذخیره در فایل جدید
-          cat ping_results.json | jq -r 'select(.result.ok == true) | .link' > sub/ping_tested.txt
-
+          # <<< تغییر جدید: اضافه کردن grep برای فیلتر کردن خروجی و ارسال فقط JSON به jq >>>
+          ./lite-linux-amd64-v0.14.1 -test ports/test_subset.txt -p 100 2>&1 | grep '^{' | jq -r 'select(.result.ok == true) | .link' > sub/ping_tested.txt
           echo "Ping test completed."
 
       # === مرحله ۲: تست سرعت کانفیگ‌های سالم ===
@@ -53,11 +47,8 @@ jobs:
         run: |
           if [ -s sub/ping_tested.txt ]; then
             echo "Running speed test on nodes that passed the ping test..."
-            ./lite-linux-amd64-v0.14.1 -test sub/ping_tested.txt -p 100 -speed > speed_results.json 2>&1
-            
-            # فیلتر کردن کانفیگ‌های پرسرعت و مرتب‌سازی بر اساس سرعت
-            cat speed_results.json | jq -r 'select(.result.ok == true and .result.speed > 1.0) | .result.speed as $speed | .link as $link | {speed: $speed, link: $link}' | jq -s 'sort_by(.speed) | reverse | .[] | .link' > sub/tested_configs.txt
-            
+            # <<< تغییر جدید: اضافه کردن grep برای فیلتر کردن خروجی >>>
+            ./lite-linux-amd64-v0.14.1 -test sub/ping_tested.txt -p 100 -speed 2>&1 | grep '^{' | jq -r 'select(.result.ok == true and .result.speed > 1.0) | .result.speed as $speed | .link as $link | {speed: $speed, link: $link}' | jq -s 'sort_by(.speed) | reverse | .[] | .link' > sub/tested_configs.txt
             echo "Speed test completed."
           else
             echo "No nodes passed the ping test. Skipping speed test."
@@ -69,7 +60,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           # حذف فایل‌های موقت قبل از کامیت
-          rm -f ping_results.json speed_results.json sub/ping_tested.txt ports/test_subset.txt
+          rm -f sub/ping_tested.txt ports/test_subset.txt
           
           git add sub/tested_configs.txt
           if [ -s sub/tested_configs.txt ]; then
