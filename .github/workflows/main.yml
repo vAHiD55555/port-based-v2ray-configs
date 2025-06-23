@@ -30,16 +30,17 @@ jobs:
       - name: Run Python script to generate config files
         run: python categorize_all_protocols.py
 
-      # === مراحل جدید برای تست سرعت ===
-      - name: Download and Unzip Xray-core
+      - name: Download and prepare v2ray-tester
         run: |
-          curl -L -o xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
-          unzip xray.zip xray
-          chmod +x xray
-          
-      - name: Run Speed Test Script
-        run: python speed_tester.py
-      # =================================
+          wget https://github.com/hossinasaadi/v2ray-tester/releases/latest/download/v2ray-tester_linux_amd64.tar.gz
+          tar -xvf v2ray-tester_linux_amd64.tar.gz
+          chmod +x v2ray-tester
+      
+      - name: Run the tester on all configs
+        run: |
+          # این دستور تمام کانفیگ‌ها را از فایل all.txt می‌خواند و فقط سالم‌ها را در فایل جدید ذخیره می‌کند
+          # پرچم -sort سرعت‌ها را از بیشترین به کمترین مرتب می‌کند
+          ./v2ray-tester -sub sub/all.txt -output sub/tested_configs.txt -sort
 
       - name: Configure Git
         run: |
@@ -50,19 +51,17 @@ jobs:
         run: |
           git checkout -B beta
           git add .
-          git commit -m "Update all configs and stats (with speedtest)" || echo "No changes to commit"
+          git commit -m "Update all configs (incl. speed-tested)" || echo "No changes to commit"
           git push -f origin beta
 
       - name: Prepare and push to main branch
         run: |
           git checkout main
-          # فایل README.md را از برنچ بتا به برنچ main منتقل می‌کنیم
-          git checkout beta -- README.md
-          # فایل‌های ویژه را از برنچ main حذف می‌کنیم
-          rm -rf protocols/vless protocols/vmess protocols/trojan protocols/special sub/protocols/vless sub/protocols/vmess sub/protocols/trojan sub/special
-          # فایل تست شده را نیز حذف می‌کنیم
+          # حذف فایل‌های ویژه و تست شده از برنچ main
+          rm -rf protocols/vless protocols/vmess protocols/trojan protocols/special
+          rm -rf sub/protocols/vless sub/protocols/vmess sub/protocols/trojan sub/special
           rm -f sub/tested_configs.txt
           echo "Special and tested files removed for main branch."
           git add .
-          git commit -m "Update public configs and stats" || echo "No changes to commit"
+          git commit -m "Update public configs" || echo "No changes to commit"
           git push origin main
