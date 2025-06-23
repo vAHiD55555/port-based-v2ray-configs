@@ -1,0 +1,44 @@
+name: 2. Speed Test Collected Configs
+
+on:
+  workflow_run:
+    workflows: ["1. Collect and Categorize Configs"] # نام دقیق گردش کار اول
+    types:
+      - completed
+
+jobs:
+  test_and_commit:
+    if: github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download and prepare LiteSpeedTest
+        run: |
+          wget https://github.com/xxf098/LiteSpeedTest/releases/download/v0.14.1/lite-linux-amd64-v0.14.1.gz
+          gunzip lite-linux-amd64-v0.14.1.gz
+          chmod +x lite-linux-amd64-v0.14.1
+      
+      - name: Run the tester on all configs
+        run: |
+          # خروجی تست را به فایل مورد نظر هدایت می‌کند
+          ./lite-linux-amd64-v0.14.1 -test sub/all.txt -p 100 > sub/tested_configs.txt
+
+      - name: Commit and push tested configs
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add sub/tested_configs.txt
+          # فقط در صورتی کامیت کن که فایل تست شده محتوایی داشته باشد
+          if [ -s sub/tested_configs.txt ]; then
+            git commit -m "Add/Update speed-tested configs" || echo "No changes to commit"
+            git push
+          else
+            echo "Tested configs file is empty. No commit needed."
+          fi
