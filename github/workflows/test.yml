@@ -2,13 +2,12 @@ name: 2. Speed Test Collected Configs
 
 on:
   workflow_run:
-    workflows: ["1. Collect and Categorize Configs"] # نام گردش کار اول
+    workflows: ["1. Collect and Categorize Configs"] # نام دقیق گردش کار اول
     types:
       - completed
 
 jobs:
   test_and_commit:
-    # فقط در صورتی اجرا شو که گردش کار اول موفق بوده باشد
     if: github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     permissions:
@@ -18,7 +17,6 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          # از توکن با دسترسی بالا استفاده کن تا بتوانیم به مخزن push کنیم
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download and prepare LiteSpeedTest
@@ -40,7 +38,7 @@ jobs:
           # فقط در صورتی کامیت کن که فایل تست شده محتوایی داشته باشد
           if [ -s sub/tested_configs.txt ]; then
             git commit -m "Add/Update speed-tested configs" || echo "No changes to commit"
-            git push origin main
+            git push
           else
             echo "Tested configs file is empty. No commit needed."
           fi
