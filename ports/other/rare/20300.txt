@@ -1,2 +1,2 @@
-trojan://72988ae1-ce6d-37c3-a5ce-bc8c701f1dc3@111.47.212.170:20300?sni=z300.hongkongnode.top&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-111.47.212.170:20300
 vless://cd26eb7b-de31-4384-ae34-baba5cf4d9e2@168.119.53.211:20300?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2#🔒 VL-GRPC-RLT 🇩🇪 DE-168.119.53.211:20300
+trojan://72988ae1-ce6d-37c3-a5ce-bc8c701f1dc3@111.47.212.170:20300?sni=z300.hongkongnode.top&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-111.47.212.170:20300

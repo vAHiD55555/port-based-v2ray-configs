@@ -1,2 +1,2 @@
-vless://b3d0438a-195e-4b37-b9ac-27e07781ba38@79.127.70.66:4471?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-79.127.70.66:4471
 vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@79.127.70.66:4471?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.66:4471
+vless://b3d0438a-195e-4b37-b9ac-27e07781ba38@79.127.70.66:4471?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-79.127.70.66:4471
