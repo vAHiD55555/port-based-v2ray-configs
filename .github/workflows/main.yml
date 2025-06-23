@@ -30,19 +30,19 @@ jobs:
       - name: Run Python script to generate config files
         run: python categorize_all_protocols.py
 
-      # === مراحل جدید برای تست سرعت با ابزار جدید ===
-      - name: Download and prepare V2Ray-T
+      # === مراحل جدید برای تست سرعت با LiteSpeedTest ===
+      - name: Download and prepare LiteSpeedTest
         run: |
-          # دانلود نسخه پایدار از ابزار تست
-          wget https://github.com/V2Ray-T/V2Ray-T/releases/download/v0.3.0/V2Ray-T_v0.3.0_linux_amd64.tar.gz
-          tar -xvf V2Ray-T_v0.3.0_linux_amd64.tar.gz
-          chmod +x V2Ray-T
+          # <<< تغییر جدید: استفاده از لینک مستقیم و پایدار به LiteSpeedTest >>>
+          wget https://github.com/xxf098/LiteSpeedTest/releases/download/v1.2.3/LiteSpeedTest_linux_amd64.tar.gz
+          tar -xvf LiteSpeedTest_linux_amd64.tar.gz
+          chmod +x LiteSpeedTest
       
       - name: Run the tester on all configs
         run: |
           # این دستور تمام کانفیگ‌ها را از فایل all.txt می‌خواند، تست سرعت می‌گیرد
           # و فقط سالم‌ها را به ترتیب سرعت در فایل جدید ذخیره می‌کند
-          ./V2Ray-T -test sub/all.txt -outfile sub/tested_configs.txt -speed
+          ./LiteSpeedTest -sub sub/all.txt -o sub/tested_configs.txt
 
       - name: Configure Git
         run: |
