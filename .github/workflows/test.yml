@@ -2,12 +2,13 @@ name: 2. Speed Test Collected Configs
 
 on:
   workflow_run:
-    workflows: ["1. Collect and Categorize Configs"] # نام دقیق گردش کار اول
+    workflows: ["1. Collect and Categorize Configs"] # نام گردش کار اول
     types:
       - completed
 
 jobs:
   test_and_commit:
+    # فقط در صورتی اجرا شو که گردش کار اول موفق بوده باشد
     if: github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     permissions:
@@ -25,10 +26,11 @@ jobs:
           gunzip lite-linux-amd64-v0.14.1.gz
           chmod +x lite-linux-amd64-v0.14.1
       
-      - name: Run the tester on all configs
+      - name: Run the tester on Port 80 configs
         run: |
-          # خروجی تست را به فایل مورد نظر هدایت می‌کند
-          ./lite-linux-amd64-v0.14.1 -test sub/all.txt -p 100 > sub/tested_configs.txt
+          # <<< تغییر جدید: تست فقط روی فایل کانفیگ‌های پورت ۸۰ >>>
+          # این دستور فقط کانفیگ‌های فایل ports/80.txt را تست می‌کند
+          ./lite-linux-amd64-v0.14.1 -test ports/80.txt -p 100 > sub/tested_configs.txt
 
       - name: Commit and push tested configs
         run: |
@@ -37,7 +39,7 @@ jobs:
           git add sub/tested_configs.txt
           # فقط در صورتی کامیت کن که فایل تست شده محتوایی داشته باشد
           if [ -s sub/tested_configs.txt ]; then
-            git commit -m "Add/Update speed-tested configs" || echo "No changes to commit"
+            git commit -m "Add/Update speed-tested configs (Port 80 TEST)" || echo "No changes to commit"
             git push
           else
             echo "Tested configs file is empty. No commit needed."
