@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwZW4zMjFUQXY0YmZEWUQ1RTZCbjRy@141.98.233.98:1443#🔒 SS-TCP-NA 🇧🇪 BE-141.98.233.98:1443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.245.95.160:1443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇸🇬 SG-47.245.95.160:1443
-vless://0878eb75-6121-6138-8f06-1aed31aeabe0@188.119.148.81:1443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#🔒 VL-TCP-RLT 🇬🇧 GB-188.119.148.81:1443
-trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-106.180.225.69-4497
+vless://0878eb75-6121-6138-8f06-1aed31aeabe0@45.142.212.217:1443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#🔒 VL-TCP-RLT 🇲🇩 MD-45.142.212.217:1443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelZsTg==@95.164.34.7:1443#🔒 SS-TCP-NA 🇹🇷 TR-95.164.34.7:1443
 vmess://ewogICAgImFkZCI6ICJ0dzIuc2RrbGtkLm9yZyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZmE5ODcxNGMtMWQyYi0zYjYwLTgxZTAtZjcxNTExMTBlODAxIiwKICAgICJuZXQiOiAiaHR0cCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAxNDQzLAogICAgInBzIjogIvCfh7nwn4e8VFctMTE4LjE2Ny4xLjE3NS03MzM1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAidHcyLnNka2xrZC5vcmciCn0=
+trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-106.180.225.69-4497
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwZW4zMjFUQXY0YmZEWUQ1RTZCbjRy@141.98.233.98:1443#🔒 SS-TCP-NA 🇧🇪 BE-141.98.233.98:1443
+vless://0878eb75-6121-6138-8f06-1aed31aeabe0@188.119.148.81:1443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#🔒 VL-TCP-RLT 🇬🇧 GB-188.119.148.81:1443
+trojan://Aimer@47.245.95.160:1443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-47.245.95.160:1443
 vmess://eyJ2IjoiMiIsInBzIjoiMSB8ICAxLjhNQi9zfDU0JXxZb3V0dWJlfE9wZS4uLiIsImFkZCI6InNzbHZwbi41MWpvYi5jb20iLCJwb3J0IjoiMTQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJhNmEwZDkwMS02N2U5LTQ2MGEtOTBiNS02MzRjNWM0Zjk3ODIiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwicGF0aCI6Ii82MzRjNWM0Zjk3ODIiLCJob3N0IjoiY2VudG9zNyIsInRscyI6InRscyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hr/Cfh7UxIHwgIDEuOE1CL3N8NTQlfFlvdXR1YmV8T3BlLi4uIiwgImFkZCI6ICJzc2x2cG4uNTFqb2IuY29tIiwgInBvcnQiOiAxNDQzLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiYTZhMGQ5MDEtNjdlOS00NjBhLTkwYjUtNjM0YzVjNGY5NzgyIiwgImhvc3QiOiAiY2VudG9zNyIsICJwYXRoIjogIi82MzRjNWM0Zjk3ODIifQ==
-trojan://Aimer@47.245.95.160:1443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-47.245.95.160:1443
-vless://0878eb75-6121-6138-8f06-1aed31aeabe0@45.142.212.217:1443?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#🔒 VL-TCP-RLT 🇲🇩 MD-45.142.212.217:1443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.245.95.160:1443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇸🇬 SG-47.245.95.160:1443

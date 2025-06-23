@@ -1,2 +1,1 @@
-vless://6127d9cc-c1e2-4798-b165-7540a6d0fac2@217.60.36.198:26398?security=none&type=tcp&host=google.com&path=%2F%40VPNPacket&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.36.198:26398
 vless://6127d9cc-c1e2-4798-b165-7540a6d0fac2@217.60.36.198:26398?security=none&type=tcp&host=google.com&path=/@VPNPacket&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.36.198:26398
