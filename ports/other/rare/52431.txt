@@ -1,0 +1,2 @@
+vless://44e1cd61-e242-4a71-a96c-bb0924f87981@185.239.2.3:52431?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.239.2.3:52431
+vless://44e1cd61-e242-4a71-a96c-bb0924f87981@185.239.2.16:52431?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.239.2.16:52431
