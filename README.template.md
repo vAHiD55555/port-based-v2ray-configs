@@ -14,6 +14,10 @@
 *این بخش به زودی با آمار زنده جایگزین خواهد شد.*
 <!-- STATS_END -->
 
+<!-- SOURCE_STATS_START -->
+<!-- این بخش فقط در برنچ بتا نمایش داده می‌شود -->
+<!-- SOURCE_STATS_END -->
+
 ---
 
 ### 🚀 لینک‌های اشتراک عمومی
@@ -22,11 +26,11 @@
 
 - **فقط VLESS (تمام پورت‌ها):**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt)
   ```
 - **فقط VMess (تمام پورت‌ها):**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
   ```
 
 ---
@@ -35,12 +39,11 @@
 
 - **تمام کانفیگ‌ها (ادغام شده):**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt)
   ```
-
 - **پورت 443 (شامل تمام پروتکل‌ها):**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt)
   ```
 
 ---
