@@ -33,11 +33,12 @@ jobs:
         id: ping_test
         run: |
           echo "Testing connectivity of Port 80 configs..."
+          # <<< تغییر جدید: حذف فلگ -url و استفاده از روش پیش‌فرض ابزار >>>
           # تست اتصال و ذخیره نتایج در یک فایل موقت
-          ./lite-linux-amd64-v0.14.1 -test ports/80.txt -p 100 -url http://cp.cloudflare.com/generate_204 > ping_results.json
+          ./lite-linux-amd64-v0.14.1 -test ports/80.txt -p 100 > ping_results.json
           
-          # فیلتر کردن کانفیگ‌های سالم، مرتب‌سازی بر اساس پینگ و ذخیره در فایل جدید
-          cat ping_results.json | jq -r 'select(.result.ok == true) | .result.delay as $delay | .link as $link | {delay: $delay, link: $link}' | jq -s 'sort_by(.delay) | .[] | .link' > sub/ping_tested.txt
+          # فیلتر کردن کانفیگ‌های سالم و ذخیره در فایل جدید
+          cat ping_results.json | jq -r 'select(.result.ok == true) | .link' > sub/ping_tested.txt
 
           echo "Ping test completed."
 
