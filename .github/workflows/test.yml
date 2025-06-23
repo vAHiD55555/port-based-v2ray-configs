@@ -25,25 +25,51 @@ jobs:
           gunzip lite-linux-amd64-v0.14.1.gz
           chmod +x lite-linux-amd64-v0.14.1
       
-      # === مرحله جدید: نصب ابزار تحلیل‌گر jq ===
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Run the tester on Port 80 configs
+      # === مرحله ۱: تست اتصال و پینگ ===
+      - name: Stage 1 - Test Connectivity (Ping)
+        id: ping_test
         run: |
-          # <<< تغییر جدید: استفاده از jq برای فیلتر کردن خروجی >>>
-          # این دستور فقط لینک کانفیگ‌های سالم را استخراج می‌کند
-          ./lite-linux-amd64-v0.14.1 -test ports/80.txt -p 100 | jq -r 'select(.result.ping != "timeout" and .result.speed > 0) | .link' > sub/tested_configs.txt
+          echo "Testing connectivity of Port 80 configs..."
+          # تست اتصال و ذخیره نتایج در یک فایل موقت
+          ./lite-linux-amd64-v0.14.1 -test ports/80.txt -p 100 -url http://cp.cloudflare.com/generate_204 > ping_results.json
+          
+          # فیلتر کردن کانفیگ‌های سالم، مرتب‌سازی بر اساس پینگ و ذخیره در فایل جدید
+          cat ping_results.json | jq -r 'select(.result.ok == true) | .result.delay as $delay | .link as $link | {delay: $delay, link: $link}' | jq -s 'sort_by(.delay) | .[] | .link' > sub/ping_tested.txt
+
+          echo "Ping test completed."
+
+      # === مرحله ۲: تست سرعت کانفیگ‌های سالم ===
+      - name: Stage 2 - Speed Test on Healthy Nodes
+        run: |
+          # فقط در صورتی که فایل کانفیگ‌های سالم خالی نباشد، تست سرعت را انجام بده
+          if [ -s sub/ping_tested.txt ]; then
+            echo "Running speed test on nodes that passed the ping test..."
+            # تست سرعت و ذخیره نتایج در فایل موقت
+            ./lite-linux-amd64-v0.14.1 -test sub/ping_tested.txt -p 100 -speed > speed_results.json
+            
+            # فیلتر کردن کانفیگ‌های پرسرعت و ذخیره در فایل نهایی
+            cat speed_results.json | jq -r 'select(.result.ok == true and .result.speed > 1.0) | .link' > sub/tested_configs.txt
+            echo "Speed test completed."
+          else
+            echo "No nodes passed the ping test. Skipping speed test."
+            # ایجاد یک فایل خالی برای جلوگیری از خطا در مرحله بعد
+            touch sub/tested_configs.txt
+          fi
 
       - name: Commit and push tested configs
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # حذف فایل‌های موقت قبل از کامیت
+          rm -f ping_results.json speed_results.json sub/ping_tested.txt
+          
           git add sub/tested_configs.txt
-          # فقط در صورتی کامیت کن که فایل تست شده محتوایی داشته باشد
           if [ -s sub/tested_configs.txt ]; then
             git commit -m "Add/Update speed-tested configs (Port 80 TEST)" || echo "No changes to commit"
             git push
           else
-            echo "Tested configs file is empty or no nodes passed the test. No commit needed."
+            echo "No nodes passed the speed test. No commit needed."
           fi
