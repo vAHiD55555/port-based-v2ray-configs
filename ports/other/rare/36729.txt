@@ -1,1 +1,2 @@
 vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?security=none&type=tcp&host=canva.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇸🇦 SA-162.128.76.63:36729
+vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?security=none&type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NONE 🇸🇦 SA-162.128.76.63:36729

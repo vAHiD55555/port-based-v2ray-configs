@@ -1,2 +1,3 @@
-vless://d569b044-0dbb-496a-8d28-a3f14a003e73@91.99.99.20:52914?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.99.20:52914
 vless://d569b044-0dbb-496a-8d28-a3f14a003e73@85.198.13.27:52914?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.13.27:52914
+vless://d569b044-0dbb-496a-8d28-a3f14a003e73@91.99.99.20:52914?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-91.99.99.20:52914
+vless://d569b044-0dbb-496a-8d28-a3f14a003e73@91.99.99.20:52914?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.99.20:52914
