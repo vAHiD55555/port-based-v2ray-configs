@@ -11,22 +11,33 @@
 ### 📊 آمار لحظه‌ای
 
 <!-- STATS_START -->
-**آخرین به‌روزرسانی:** 2025-06-23 11:56:08 Tehran Time
-**تعداد کل کانفیگ‌های منحصر به فرد:** 24068
+**آخرین به‌روزرسانی:** 2025-06-23 13:40:26 Tehran Time
+**تعداد کل کانفیگ‌های منحصر به فرد:** 24102
 
 #### تفکیک بر اساس پروتکل:
 - **Hysteria2:** 40 کانفیگ
-- **Shadowsocks:** 3271 کانفیگ
-- **Trojan:** 3824 کانفیگ
-- **Vless:** 14204 کانفیگ
-- **Vmess:** 2694 کانفیگ
+- **Shadowsocks:** 3285 کانفیگ
+- **Trojan:** 3802 کانفیگ
+- **Vless:** 14243 کانفیگ
+- **Vmess:** 2697 کانفیگ
 
 #### تفکیک بر اساس پورت‌های معروف:
-- **پورت 443:** 8627 کانفیگ
-- **پورت 80:** 1826 کانفیگ
+- **پورت 443:** 8654 کانفیگ
+- **پورت 80:** 1834 کانفیگ
 - **پورت 8080:** 474 کانفیگ
 - **پورت 8088:** 7 کانفیگ
 <!-- STATS_END -->
+
+<!-- SOURCE_STATS_START -->
+
+---
+
+### 📦 آمار منابع (فقط در برنچ بتا)
+- **barry-far:** 18870 کانفیگ
+- **mahdibland:** 4985 کانفیگ
+- **Epodonios:** 18930 کانفیگ
+- **soroushmirzaei:** 17831 کانفیگ
+<!-- SOURCE_STATS_END -->
 
 ---
 
@@ -36,11 +47,11 @@
 
 - **فقط VLESS (تمام پورت‌ها):**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt)
   ```
 - **فقط VMess (تمام پورت‌ها):**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
   ```
 
 ---
@@ -49,12 +60,11 @@
 
 - **تمام کانفیگ‌ها (ادغام شده):**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt)
   ```
-
 - **پورت 443 (شامل تمام پروتکل‌ها):**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt)
   ```
 
 ---
