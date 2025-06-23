@@ -30,19 +30,19 @@ jobs:
       - name: Run Python script to generate config files
         run: python categorize_all_protocols.py
 
-      # === مراحل جدید برای تست سرعت با LiteSpeedTest ===
+      # === مراحل جدید برای تست سرعت با ابزار صحیح ===
       - name: Download and prepare LiteSpeedTest
         run: |
-          # <<< تغییر جدید: استفاده از لینک مستقیم و پایدار به LiteSpeedTest >>>
-          wget https://github.com/xxf098/LiteSpeedTest/releases/download/v1.2.3/LiteSpeedTest_linux_amd64.tar.gz
-          tar -xvf LiteSpeedTest_linux_amd64.tar.gz
-          chmod +x LiteSpeedTest
+          # <<< تغییر جدید: استفاده از لینک مستقیم و صحیحی که شما پیدا کردید >>>
+          wget https://github.com/xxf098/LiteSpeedTest/releases/download/v0.14.1/lite-linux-amd64-v0.14.1.gz
+          gunzip lite-linux-amd64-v0.14.1.gz
+          chmod +x lite-linux-amd64-v0.14.1
       
       - name: Run the tester on all configs
         run: |
-          # این دستور تمام کانفیگ‌ها را از فایل all.txt می‌خواند، تست سرعت می‌گیرد
-          # و فقط سالم‌ها را به ترتیب سرعت در فایل جدید ذخیره می‌کند
-          ./LiteSpeedTest -sub sub/all.txt -o sub/tested_configs.txt
+          # اجرای تستر و ذخیره خروجی
+          # پرچم -p برای تست موازی و افزایش سرعت است
+          ./lite-linux-amd64-v0.14.1 -test sub/all.txt -o sub/tested_configs.txt -p 100
 
       - name: Configure Git
         run: |
