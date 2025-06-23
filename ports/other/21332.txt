@@ -1,5 +1,5 @@
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@[2409:8c20:bea1:1:0:e:0:40]:21332?sni=k65.tudou211.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-[2409:8c20:bea1:1:0:e:0:40]:21332
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@36.156.184.33:21332?sni=k65.tudou211.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-36.156.184.33:21332
-vless://422899ac-7bfb-441a-89c2-5b9eee312790@157.230.21.101:21332?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&host=/JOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#🔒 VL-TCP-RLT 🇩🇪 DE-157.230.21.101:21332
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@xd-js.timiwc.com:21332?allowInsecure=1&sni=k65.tudou211.com#CN_speednode_0034
 trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@xd-js.timiwc.com:21332?security=tls&sni=k65.tudou211.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.184.33-1986
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@xd-js.timiwc.com:21332?allowInsecure=1&sni=k65.tudou211.com#CN_speednode_0034
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@[2409:8c20:bea1:1:0:e:0:40]:21332?sni=k65.tudou211.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-[2409:8c20:bea1:1:0:e:0:40]:21332
+vless://422899ac-7bfb-441a-89c2-5b9eee312790@157.230.21.101:21332?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&host=/JOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#🔒 VL-TCP-RLT 🇩🇪 DE-157.230.21.101:21332
+trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@36.156.184.33:21332?sni=k65.tudou211.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-36.156.184.33:21332
