@@ -1,2 +1,1 @@
 trojan://Aimer@121.140.60.17:10046?sni=epcct.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-121.140.60.17:10046
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.140.60.17:10046?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇰🇷 KR-121.140.60.17:10046

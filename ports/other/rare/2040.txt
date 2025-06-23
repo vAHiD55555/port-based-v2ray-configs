@@ -1,0 +1,2 @@
+vless://c5b791b2-473e-4139-85d5-30e590c54e05@85.133.194.252:2040?security=none&type=tcp&host=aparat.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.194.252:2040
+vless://10b59513-ef76-4494-a925-305ec45dd3a4@109.172.94.249:2040?security=tls&sni=fr.ign.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇩🇪 DE-109.172.94.249:2040

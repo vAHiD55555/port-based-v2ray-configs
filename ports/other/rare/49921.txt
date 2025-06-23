@@ -1,3 +1,1 @@
-trojan://a25ed269-105b-4f15-bee2-bc2785d38912@wb.kaiqsz.com:49921?allowInsecure=0&sni=wb.kaiqsz.com#_%E4%B8%AD%E5%9B%BD
-trojan://a25ed269-105b-4f15-bee2-bc2785d38912@120.198.71.173:49921?sni=wb.kaiqsz.com&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-120.198.71.173:49921
-trojan://a25ed269-105b-4f15-bee2-bc2785d38912@[2409:8754:5630:210:0:2:0:162]:49921?sni=wb.kaiqsz.com&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-[2409:8754:5630:210:0:2:0:162]:49921
+trojan://a25ed269-105b-4f15-bee2-bc2785d38912@120.198.71.173:49921?security=tls&sni=wb.kaiqsz.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.198.71.173:49921

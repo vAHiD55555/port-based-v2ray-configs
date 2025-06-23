@@ -1,2 +1,1 @@
 vless://d5455ee6-6f9b-41d0-9043-ce160bff5e13@91.99.146.31:8787?security=none&type=tcp&host=tgju.org&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.146.31:8787
-vless://19744009-f344-4e25-a480-a9122bc1af9e@78.47.203.133:8787?security=none&type=tcp&host=tgju.org&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-78.47.203.133:8787
