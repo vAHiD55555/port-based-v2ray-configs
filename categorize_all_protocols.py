@@ -106,6 +106,12 @@ def update_readme(stats):
         stats_lines.append("\n#### تفکیک بر اساس پورت‌های معروف:")
         for port in sorted(FAMOUS_PORTS):
             stats_lines.append(f"- **پورت {port}:** {stats['ports'].get(port, 0)} کانفیگ")
+        
+        stats_lines.append("\n#### تفکیک ویژه:")
+        for protocol, ports_dict in stats['special_categorization'].items():
+            for port, count in ports_dict.items():
+                stats_lines.append(f"- **{protocol.capitalize()} روی پورت {port}:** {count} کانفیگ")
+
 
         stats_block = "\n".join(stats_lines)
         
@@ -174,6 +180,7 @@ def main():
         "update_time": get_tehran_time(),
         "protocols": {p: len(c) for p, c in sorted(categorized_by_protocol.items())},
         "ports": {p: len(c) for p, c in sorted(categorized_by_port.items())},
+        "special_categorization": {p: {port: len(cfgs) for port, cfgs in ports.items()} for p, ports in special_categorization.items()},
         "reality_vless": len(vless_reality_list)
     }
     update_readme(stats)
