@@ -47,6 +47,8 @@ jobs:
           git checkout main
           # فایل README.md را از برنچ بتا به برنچ main منتقل می‌کنیم
           git checkout beta -- README.md
+          # <<< تغییر جدید: حذف بخش آمار منابع از README اصلی >>>
+          sed -i '/<!-- SOURCE_STATS_START -->/,/<!-- SOURCE_STATS_END -->/d' README.md
           # حذف فایل‌های ویژه از برنچ main
           rm -rf protocols/vless protocols/vmess protocols/trojan protocols/special
           rm -rf sub/protocols/vless sub/protocols/vmess sub/protocols/trojan sub/special
