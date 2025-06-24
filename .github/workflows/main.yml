@@ -1,0 +1,44 @@
+name: Update Configs
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */4 * * *'  # هر ۴ ساعت یک بار اجرا می‌شود
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build_and_push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Python script to generate all files and stats
+        id: run_script
+        run: python categorize_all_protocols.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          # فقط در صورتی کامیت کن که تغییری وجود داشته باشد
+          git diff-index --quiet HEAD || git commit -m "📊 Update configs and stats"
+          git push origin main
