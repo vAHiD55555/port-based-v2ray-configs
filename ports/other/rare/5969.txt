@@ -1,3 +1,0 @@
-vless://e63e93a0-d092-4d12-9f79-b5137ae03af4@157.180.41.190:5969?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-157.180.41.190:5969
-vless://2a3b707f-fa3c-4629-871f-62dfe3dc14ba@157.180.126.72:5969?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇫🇮 FI-157.180.126.72:5969
-vless://994eabdb-f1ad-4d42-b3d7-c7aebebb095c@85.133.215.9:5969?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.133.215.9:5969
