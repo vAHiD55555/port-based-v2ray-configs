@@ -8,12 +8,23 @@ from urllib.parse import urlparse
 from datetime import datetime, timezone, timedelta
 
 # === Config Sources ===
+# Dictionary of sources for fetching configs
 SOURCES = {
     "barry-far": "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
     "mahdibland": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "Epodonios": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
     "soroushmirzaei": "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
 }
+
+# === Source Repository URLs for Linking ===
+# This dictionary links source names to their GitHub pages
+SOURCE_REPOS = {
+    "barry-far": "https://github.com/barry-far/V2ray-Config",
+    "mahdibland": "https://github.com/mahdibland/V2RayAggregator",
+    "Epodonios": "https://github.com/Epodonios/v2ray-configs",
+    "soroushmirzaei": "https://github.com/soroushmirzaei/telegram-configs-collector"
+}
+
 
 # === Classification Parameters ===
 FAMOUS_PORTS = {'80', '443', '8080', '8088', '2052', '2053', '2082', '2083', '2086', '2087', '2095', '2096'}
@@ -81,7 +92,10 @@ def update_readme(stats):
     try:
         print("\nUpdating README.md...")
         with open('README.template.md', 'r', encoding='utf-8') as f:
-            template_content = f.read()
+            # We read the template, but we will get the content from the variable.
+            # This is to avoid issues with how the environment handles markdown.
+            # The actual template content is what matters.
+            template_content = stats['readme_template']
 
         detailed_stats = stats.get('detailed_stats', {})
         protocol_totals = {p: sum(len(cfgs) for cfgs in data.values()) for p, data in detailed_stats.items()}
@@ -102,15 +116,15 @@ def update_readme(stats):
         table_rows.append(" | ".join(footer) + " |")
         stats_table_string = "\n".join(table_rows)
 
-        protocol_links_string = "\n".join([f"- **{proto.capitalize()}:**\n  ```\n  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/protocols/{proto}.txt\n  ```" for proto in sorted_protocols])
-        port_links_string = "\n".join([f"- **Port {port}:**\n  ```\n  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/{port}.txt\n  ```" for port in sorted_ports])
+        protocol_links_string = "\n".join([f"- **{proto.capitalize()}:**\n  ```\n[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/protocols/{proto}.txt\n  ```" for proto in sorted_protocols])
+        port_links_string = "\n".join([f"- **Port {port}:**\n  ```\n[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/{port}.txt\n  ```" for port in sorted_ports])
 
-        # --- Generate Two-Column Source Statistics Table ---
+        # Generate Two-Column Source Statistics Table with Links
         summary_lines = [
             f"**Total Fetched (Raw):** {stats['raw_total']}",
             f"**Duplicates Removed:** {stats['duplicates_removed']}"
         ]
-        details_lines = [f"**{name}:** {count}" for name, count in stats['source_stats'].items()]
+        details_lines = [f"**[{name}]({SOURCE_REPOS.get(name, '#')}):** {count} configs" for name, count in sorted(stats['source_stats'].items(), key=lambda item: item[1], reverse=True)]
         
         source_table_rows = ["| Summary | Source Details |", "|:---|:---|"]
         max_len = max(len(summary_lines), len(details_lines))
@@ -119,8 +133,8 @@ def update_readme(stats):
             right_col = details_lines[i] if i < len(details_lines) else ""
             source_table_rows.append(f"| {left_col} | {right_col} |")
         source_stats_string = "\n".join(source_table_rows)
-        # --- End of New Table Logic ---
 
+        # Replace All Placeholders
         new_readme_content = template_content.replace('<!-- UPDATE_TIME -->', stats['update_time'])
         new_readme_content = new_readme_content.replace('<!-- TOTAL_CONFIGS -->', str(stats['total_configs']))
         new_readme_content = re.sub(r'(<!-- STATS_TABLE_START -->)(.|\n)*?(<!-- STATS_TABLE_END -->)', f'\\1\n{stats_table_string}\n\\3', new_readme_content)
@@ -129,7 +143,7 @@ def update_readme(stats):
         new_readme_content = re.sub(r'(<!-- SOURCE_STATS_START -->)(.|\n)*?(<!-- SOURCE_STATS_END -->)', f'\\1\n{source_stats_string}\n\\3', new_readme_content)
         
         with open('README.md', 'w', encoding='utf-8') as f: f.write(new_readme_content)
-        print("✅ README.md updated successfully with two-column source stats.")
+        print("✅ README.md updated successfully with final layout.")
 
     except FileNotFoundError:
         print("\n❌ Error: README.template.md not found!")
@@ -137,6 +151,51 @@ def update_readme(stats):
         print(f"\n❌ An error occurred while updating README.md: {e}")
 
 def main():
+    readme_template_content = """
+# Config Collector
+
+[![Auto-Update Status](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
+
+An automated repository that collects and categorizes free V2Ray/Clash configurations from reputable sources with advanced classification.
+
+---
+
+### 📊 Live Statistics
+
+**Last Updated:** <!-- UPDATE_TIME -->
+
+**Total Unique Configurations:** <!-- TOTAL_CONFIGS -->
+
+<!-- STATS_TABLE_START -->
+*The statistics table will be generated here.*
+<!-- STATS_TABLE_END -->
+
+<!-- SOURCE_STATS_START -->
+---
+*The source statistics table will be generated here.*
+<!-- SOURCE_STATS_END -->
+
+---
+
+### 🚀 Subscription Links
+
+#### By Protocol
+
+<!-- PROTOCOL_LINKS_START -->
+*Subscription links for protocols will be generated here.*
+<!-- PROTOCOL_LINKS_END -->
+
+#### By Famous Ports
+
+<!-- PORT_LINKS_START -->
+*Subscription links for famous ports will be generated here.*
+<!-- PORT_LINKS_END -->
+
+"""
+    # Write the template to a file to be read by update_readme, ensuring it exists.
+    with open('README.template.md', 'w', encoding='utf-8') as f:
+        f.write(readme_template_content)
+
     unique_configs, source_stats, raw_total = fetch_all_configs(SOURCES)
     if not unique_configs:
         print("\nNo configs found. Exiting.")
@@ -148,7 +207,6 @@ def main():
         if protocol and port:
             categorized_by_protocol_and_port[protocol][port].append(config_link)
 
-    # ... (Writing files part remains unchanged) ...
     print("\nWriting all subscription files...")
     os.makedirs('sub/protocols', exist_ok=True)
     with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write('\n'.join(unique_configs))
@@ -180,7 +238,8 @@ def main():
         "duplicates_removed": raw_total - len(unique_configs),
         "update_time": get_tehran_time(),
         "source_stats": source_stats,
-        "detailed_stats": categorized_by_protocol_and_port
+        "detailed_stats": categorized_by_protocol_and_port,
+        "readme_template": readme_template_content # Pass template content directly
     }
     update_readme(stats)
     
