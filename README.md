@@ -8,29 +8,28 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-06-24 14:51:24 Tehran Time
+**Last Updated:** 2025-06-24 14:58:38 Tehran Time
 
-**Total Unique Configurations:** 25536
+**Total Unique Configurations:** 24979
 
 <!-- STATS_TABLE_START -->
 | Protocol | 443 | 80 | 2096 | 8080 | 2053 | 2087 | 2083 | 2095 | 2052 | 2086 | 2082 | 8088 | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|
-| Vless | 5416 | 1524 | 462 | 270 | 290 | 287 | 201 | 129 | 177 | 101 | 95 | 15 | **15092** |
-| Trojan | 2169 | 25 | 135 | 10 | 190 | 119 | 138 | 0 | 0 | 0 | 0 | 0 | **4154** |
-| Shadowsocks | 442 | 8 | 0 | 188 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **3486** |
-| Vmess | 1030 | 288 | 10 | 53 | 18 | 41 | 5 | 125 | 24 | 18 | 24 | 1 | **2727** |
+| Vless | 5313 | 1463 | 454 | 254 | 280 | 280 | 200 | 123 | 170 | 95 | 89 | 15 | **14693** |
+| Trojan | 2115 | 25 | 134 | 9 | 186 | 119 | 136 | 0 | 0 | 0 | 0 | 0 | **4060** |
+| Shadowsocks | 436 | 8 | 0 | 177 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **3461** |
+| Vmess | 1029 | 287 | 10 | 52 | 18 | 40 | 5 | 124 | 23 | 18 | 23 | 1 | **2688** |
 | Hysteria2 | 3 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **40** |
-| **Total** | **9060** | **1846** | **607** | **522** | **498** | **447** | **344** | **254** | **201** | **119** | **119** | **16** | **14033** |
+| **Total** | **8896** | **1784** | **598** | **493** | **484** | **439** | **341** | **247** | **193** | **113** | **112** | **16** | **13716** |
 <!-- STATS_TABLE_END -->
 
 <!-- SOURCE_STATS_START -->
-- **Total configs fetched (raw):** 64681
-- **Duplicate configs removed:** 39145
----
-- **barry-far:** 20272 configs
-- **mahdibland:** 4998 configs
-- **Epodonios:** 20276 configs
-- **soroushmirzaei:** 19135 configs
+| Summary | Source Details |
+|:---|:---|
+| **Total Fetched (Raw):** 64737 | **barry-far:** 20272 |
+| **Duplicates Removed:** 39758 | **mahdibland:** 4998 |
+|  | **Epodonios:** 20332 |
+|  | **soroushmirzaei:** 19135 |
 <!-- SOURCE_STATS_END -->
 
 ---

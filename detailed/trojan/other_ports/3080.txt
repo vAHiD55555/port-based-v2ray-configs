@@ -1,3 +1,2 @@
 trojan://CPbhv1RtdImqair6J4zrNw@217.145.79.43:3080?security=none&type=ws#🔒 TR-WS-NONE 🇫🇮 FI-217.145.79.43:3080
-trojan://aaabbcc-bcaa-abac-dabc-acbbcabcbcaa@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
 trojan://abacacb-caab-aabc-dacb-acbbacaabcbc@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
