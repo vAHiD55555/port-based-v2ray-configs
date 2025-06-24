@@ -1,3 +1,4 @@
+
 # Config Collector
 
 [![Auto-Update Status](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
@@ -16,6 +17,11 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 *The statistics table will be generated here.*
 <!-- STATS_TABLE_END -->
 
+<!-- SOURCE_STATS_START -->
+---
+*The source statistics table will be generated here.*
+<!-- SOURCE_STATS_END -->
+
 ---
 
 ### 🚀 Subscription Links
@@ -32,10 +38,3 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 *Subscription links for famous ports will be generated here.*
 <!-- PORT_LINKS_END -->
 
----
-
-### 📚 Sources
-
-<!-- SOURCE_STATS_START -->
-*The source statistics table will be generated here.*
-<!-- SOURCE_STATS_END -->
