@@ -98,24 +98,41 @@ def build_readme_content(stats):
     port_totals = {port: sum(len(detailed_stats.get(p, {}).get(port, [])) for p in sorted_protocols) for port in FAMOUS_PORTS}
     sorted_ports = sorted(port_totals.keys(), key=lambda p: port_totals[p], reverse=True)
 
-    # --- Part 2: Build the Stats Table ---
+    # --- Part 2: Build the Stats Table with "Other Ports" column ---
     stats_table_lines = []
-    header = "| Protocol | " + " | ".join(sorted_ports) + " | Total |"
-    separator = "|:---| " + " | ".join([":---:" for _ in sorted_ports]) + " |:---:|"
+    header = "| Protocol | " + " | ".join(sorted_ports) + " | Other Ports | Total |"
+    separator = "|:---| " + " | ".join([":---:" for _ in sorted_ports]) + " |:---:|:---:|"
     stats_table_lines.extend([header, separator])
+    
+    total_other_ports = 0
     for proto in sorted_protocols:
         row = [f"| {proto.capitalize()}"]
+        famous_ports_sum = 0
         for port in sorted_ports:
-            row.append(str(len(detailed_stats.get(proto, {}).get(port, []))))
+            count = len(detailed_stats.get(proto, {}).get(port, []))
+            row.append(str(count))
+            famous_ports_sum += count
+        
+        # Calculate and add "Other Ports" count
+        other_ports_count = protocol_totals[proto] - famous_ports_sum
+        total_other_ports += other_ports_count
+        row.append(str(other_ports_count))
+        
         row.append(f"**{protocol_totals[proto]}**")
         stats_table_lines.append(" | ".join(row) + " |")
-    footer = ["| **Total**", *[f"**{port_totals[port]}**" for port in sorted_ports], f"**{sum(port_totals.values())}**"]
+
+    # Footer row
+    footer = ["| **Total**"]
+    for port in sorted_ports:
+        footer.append(f"**{port_totals[port]}**")
+    footer.append(f"**{total_other_ports}**") # Add total for Other Ports
+    footer.append(f"**{sum(protocol_totals.values())}**") # Grand total
     stats_table_lines.append(" | ".join(footer) + " |")
     stats_table_string = "\n".join(stats_table_lines)
 
-    # --- Part 3: Build Subscription Links (Simplified and Corrected) ---
-    protocol_links_string = "\n".join([f"- **{proto.capitalize()}:** https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/protocols/{proto}.txt" for proto in sorted_protocols])
-    port_links_string = "\n".join([f"- **Port {port}:** https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/{port}.txt" for port in sorted_ports])
+    # --- Part 3: Build Subscription Links with newlines ---
+    protocol_links_string = "\n".join([f"- **{proto.capitalize()}:**\n  https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/protocols/{proto}.txt" for proto in sorted_protocols])
+    port_links_string = "\n".join([f"- **Port {port}:**\n  https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/{port}.txt" for port in sorted_ports])
 
     # --- Part 4: Build the Source Stats Table ---
     source_stats_lines = []
@@ -222,7 +239,7 @@ def main():
     # Write the content to the README.md file
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(final_readme_content)
-    print("✅ README.md updated successfully with the final self-contained script.")
+    print("✅ README.md updated successfully with all final changes.")
 
     print("\n🎉 Project update finished successfully.")
 
