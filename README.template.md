@@ -1,54 +1,82 @@
-# Config Collector
+<div dir="rtl">
 
-[![Auto Update](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
+# کانفیگ کالکتور | Config Collector
 
-An automated repository that collects and categorizes free configs from reputable sources.
+[![وضعیت آپدیت خودکار](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
 
----
-
-### 📊 Live Statistics
-
-<!-- STATS_START -->
-*Stats will be generated here soon.*
-<!-- STATS_END -->
+یک مخزن خودکار که کانفیگ‌های رایگان را از منابع معتبر جمع‌آوری کرده و با قابلیت‌های پیشرفته دسته‌بندی می‌کند.
 
 ---
 
-### 🚀 Public Subscription Links
+### 📊 آمار لحظه‌ای
 
-#### By Protocol
+**آخرین به‌روزرسانی:** <!-- UPDATE_TIME -->
 
-- **All VLESS Configs:**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt)
-  ```
-- **All VMess Configs:**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
-  ```
+**تعداد کل کانفیگ‌های منحصر به فرد:** <!-- TOTAL_CONFIGS -->
+
+<!-- STATS_TABLE_START -->
+*جدول آمار در اینجا ساخته خواهد شد.*
+<!-- STATS_TABLE_END -->
+
+<!-- SOURCE_STATS_START -->
+---
+
+### 📦 آمار بر اساس منبع
+<!-- SOURCE_STATS_END -->
 
 ---
 
-#### By Port
+### 🚀 لینک‌های اشتراک عمومی
 
-- **All Configs (Merged):**
+#### دسته‌بندی بر اساس نوع پروتکل
+
+- **تمام کانفیگ‌ها (ادغام شده):**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt)
   ```
-
-- **Port 443 (All Protocols):**
+- **فقط VLESS (تمام پورت‌ها):**
   ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt)
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt)
+  ```
+- **فقط VMess (تمام پورت‌ها):**
+  ```
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
+  ```
+- **فقط Trojan (تمام پورت‌ها):**
+  ```
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt)
+  ```
+- **فقط Shadowsocks (تمام پورت‌ها):**
+  ```
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/shadowsocks.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/shadowsocks.txt)
   ```
 
 ---
 
-### 📚 Sources
+#### دسته‌بندی بر اساس شماره پورت
 
-This project collects configs from the following aggregators. Thanks to their maintainers:
+- **پورت 443 (شامل تمام پروتکل‌ها):**
+  ```
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt)
+  ```
+- **پورت 80 (شامل تمام پروتکل‌ها):**
+  ```
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt)
+  ```
+- **پورت 8080 (شامل تمام پروتکل‌ها):**
+  ```
+  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8080.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8080.txt)
+  ```
+
+---
+
+### 📚 منابع جمع‌آوری
+
+این پروژه کانفیگ‌ها را از مخازن تجمعی زیر دریافت می‌کند. با تشکر فراوان از صاحبان این مخازن:
 
 - **V2ray-Config** by [barry-far](https://github.com/barry-far/V2ray-Config)
 - **V2RayAggregator** by [mahdibland](https://github.com/mahdibland/V2RayAggregator)
 - **v2ray-configs** by [Epodonios](https://github.com/Epodonios/v2ray-configs)
 - **telegram-configs-collector** by [soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector)
 
+</div>
