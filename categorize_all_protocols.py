@@ -118,8 +118,8 @@ def update_readme(stats):
         stats_block = "\n".join(stats_lines)
         
         new_readme_content = re.sub(
-            r'(.|\n)*?',
-            f'\n{stats_block}\n',
+            r'<!-- STATS_START -->(.|\n)*?<!-- STATS_END -->',
+            f'<!-- STATS_START -->\n{stats_block}\n<!-- STATS_END -->',
             template_content
         )
 
