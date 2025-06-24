@@ -1,2 +1,2 @@
-vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:1212?security=none&type=ws&host=app.filemanagerplusonline.com#🔒 VL-WS-NONE 🇮🇷 IR-46.100.13.17:1212
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.188.119.26:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#🔒 VL-TCP-RLT 🇺🇸 US-18.188.119.26:1212
+vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:1212?security=none&type=ws&host=app.filemanagerplusonline.com#🔒 VL-WS-NONE 🇮🇷 IR-46.100.13.17:1212

@@ -8,23 +8,26 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-06-24 11:11:00 UTC
+**Last Updated:** 2025-06-24 14:51:24 Tehran Time
 
-**Total Unique Configurations:** 25524
+**Total Unique Configurations:** 25536
 
 <!-- STATS_TABLE_START -->
-| Protocol | 443 | 80 | 2096 | 8080 | 2053 | 2087 | 2083 | 2095 | 2052 | 2082 | 2086 | 8088 | Total |
+| Protocol | 443 | 80 | 2096 | 8080 | 2053 | 2087 | 2083 | 2095 | 2052 | 2086 | 2082 | 8088 | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|
-| Vless | 5416 | 1524 | 462 | 269 | 290 | 287 | 201 | 129 | 177 | 95 | 101 | 15 | **15088** |
+| Vless | 5416 | 1524 | 462 | 270 | 290 | 287 | 201 | 129 | 177 | 101 | 95 | 15 | **15092** |
 | Trojan | 2169 | 25 | 135 | 10 | 190 | 119 | 138 | 0 | 0 | 0 | 0 | 0 | **4154** |
-| Shadowsocks | 442 | 8 | 0 | 187 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **3482** |
-| Vmess | 1030 | 288 | 10 | 52 | 18 | 41 | 5 | 125 | 24 | 24 | 18 | 1 | **2723** |
+| Shadowsocks | 442 | 8 | 0 | 188 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **3486** |
+| Vmess | 1030 | 288 | 10 | 53 | 18 | 41 | 5 | 125 | 24 | 18 | 24 | 1 | **2727** |
 | Hysteria2 | 3 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **40** |
-| **Total** | **9060** | **1846** | **607** | **519** | **498** | **447** | **344** | **254** | **201** | **119** | **119** | **16** | **14030** |
+| **Total** | **9060** | **1846** | **607** | **522** | **498** | **447** | **344** | **254** | **201** | **119** | **119** | **16** | **14033** |
 <!-- STATS_TABLE_END -->
 
 <!-- SOURCE_STATS_START -->
-- **barry-far:** 20216 configs
+- **Total configs fetched (raw):** 64681
+- **Duplicate configs removed:** 39145
+---
+- **barry-far:** 20272 configs
 - **mahdibland:** 4998 configs
 - **Epodonios:** 20276 configs
 - **soroushmirzaei:** 19135 configs
@@ -62,51 +65,51 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 <!-- PORT_LINKS_START -->
 - **Port 443:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/443.txt
   ```
 - **Port 80:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/80.txt
   ```
 - **Port 2096:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2096.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/2096.txt
   ```
 - **Port 8080:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8080.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/8080.txt
   ```
 - **Port 2053:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2053.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/2053.txt
   ```
 - **Port 2087:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2087.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/2087.txt
   ```
 - **Port 2083:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2083.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/2083.txt
   ```
 - **Port 2095:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2095.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/2095.txt
   ```
 - **Port 2052:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2052.txt
-  ```
-- **Port 2082:**
-  ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2082.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/2052.txt
   ```
 - **Port 2086:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2086.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/2086.txt
+  ```
+- **Port 2082:**
+  ```
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/2082.txt
   ```
 - **Port 8088:**
   ```
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8088.txt
+  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/8088.txt
   ```
 <!-- PORT_LINKS_END -->
 
