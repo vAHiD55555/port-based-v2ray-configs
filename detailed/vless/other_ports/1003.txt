@@ -1,4 +1,4 @@
 vless://2ca25dc0-c98b-4626-a5da-a3f03c61507b@94.101.177.216:1003?security=none&type=tcp&host=skyroom.online,igap.net,gharar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.101.177.216:1003
-vless://7de5b9f2-430a-4f2c-89b8-88e04a3ba179@37.156.47.137:1003?security=reality&sni=astartap-abr.ir&type=tcp&fp=chrome&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik#🔒 VL-TCP-RLT 🇨🇭 CH-37.156.47.137:1003
 vless://2ca25dc0-c98b-4626-a5da-a3f03c61507b@5.253.25.99:1003?security=none&type=tcp&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.253.25.99:1003
 vless://2ca25dc0-c98b-4626-a5da-a3f03c61507b@94.101.180.50:1003?security=none&type=tcp&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.101.180.50:1003
+vless://7de5b9f2-430a-4f2c-89b8-88e04a3ba179@37.156.47.137:1003?security=reality&sni=astartap-abr.ir&type=tcp&fp=chrome&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik#🔒 VL-TCP-RLT 🇨🇭 CH-37.156.47.137:1003

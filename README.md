@@ -9,7 +9,7 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-06-24 15:45:08 Tehran Time
+**Last Updated:** 2025-06-24 15:45:34 Tehran Time
 
 **Total Unique Configurations:** 25554
 
@@ -23,15 +23,6 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 | Hysteria2 | 3 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **40** |
 | **Total** | **9060** | **1844** | **605** | **520** | **503** | **442** | **341** | **257** | **205** | **120** | **114** | **17** | **14028** |
 <!-- STATS_TABLE_END -->
-
-<!-- SOURCE_STATS_START -->
-| Summary | Source Details |
-|:---|:---|
-| **Total Fetched (Raw):** 64837 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 20361 configs |
-| **Duplicates Removed:** 39283 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 20301 configs |
-|  | **[soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector):** 19177 configs |
-|  | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4998 configs |
-<!-- SOURCE_STATS_END -->
 
 ---
 
@@ -115,3 +106,15 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
   ```
 <!-- PORT_LINKS_END -->
 
+---
+
+### 📚 Sources
+
+<!-- SOURCE_STATS_START -->
+| Summary | Source Details |
+|:---|:---|
+| **Total Fetched (Raw):** 64837 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 20361 configs |
+| **Duplicates Removed:** 39283 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 20301 configs |
+|  | **[soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector):** 19177 configs |
+|  | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4998 configs |
+<!-- SOURCE_STATS_END -->
