@@ -16,6 +16,7 @@ SOURCES = {
 }
 
 # === پارامترهای دسته‌بندی ===
+# فقط برای پورت‌های موجود در این لیست فایل جداگانه در پوشه‌های اصلی ساخته می‌شود
 FAMOUS_PORTS = {'80', '443', '8080', '8088', '2052', '2053', '2082', '2083', '2086', '2087', '2095', '2096'}
 
 def fetch_all_configs(sources_dict):
@@ -150,7 +151,6 @@ def main():
     print("\nشروع دسته‌بندی کانفیگ‌ها...")
     categorized_by_port = defaultdict(list)
     categorized_by_protocol = defaultdict(list)
-    # ساختار داده جدید برای دسته‌بندی تو در تو
     categorized_by_protocol_and_port = defaultdict(lambda: defaultdict(list))
 
     for config_link in raw_configs:
@@ -159,7 +159,6 @@ def main():
             categorized_by_port[port].append(config_link)
         if protocol:
             categorized_by_protocol[protocol].append(config_link)
-        # پر کردن ساختار داده جدید
         if protocol and port:
             categorized_by_protocol_and_port[protocol][port].append(config_link)
 
@@ -192,10 +191,27 @@ def main():
     for protocol, ports_data in categorized_by_protocol_and_port.items():
         protocol_folder = os.path.join(detailed_folder, protocol)
         os.makedirs(protocol_folder, exist_ok=True)
+        
+        # <<<< شروع منطق جدید >>>>
+        other_ports_folder = os.path.join(protocol_folder, 'other_ports')
+        has_other_ports = False # برای جلوگیری از ساخت پوشه خالی
+        
         for port, configs in ports_data.items():
-            file_path = os.path.join(protocol_folder, f'{port}.txt')
+            # اگر پورت جزو پورت‌های معروف بود
+            if port in FAMOUS_PORTS:
+                file_path = os.path.join(protocol_folder, f'{port}.txt')
+            # اگر پورت معروف نبود
+            else:
+                # فقط در اولین باری که به پورت غیرمعروف می‌رسیم، پوشه را بساز
+                if not has_other_ports:
+                    os.makedirs(other_ports_folder, exist_ok=True)
+                    has_other_ports = True
+                file_path = os.path.join(other_ports_folder, f'{port}.txt')
+            
+            # نوشتن کانفیگ‌ها در فایل مربوطه
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(configs))
+        # <<<< پایان منطق جدید >>>>
         print(f"- فایل‌های جزئی برای پروتکل '{protocol}' ایجاد شدند.")
     
     # مرحله ۵: جمع‌آوری آمار و به‌روزرسانی README
