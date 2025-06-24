@@ -1,4 +1,4 @@
-trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?security=tls&sni=120.233.128.68&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.128.68:39001
 trojan://85f133142f04dbf6547da33895cfabb3@113.99.140.184:39001?security=tls&sni=www.yrtok.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-113.99.140.184:39001
-trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?security=tls&sni=www.yrtok.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-203.156.253.11:39001
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.12:39001?security=tls&sni=www.yrtok.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-203.156.253.12:39001
+trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?security=tls&sni=www.yrtok.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-203.156.253.11:39001
+trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?security=tls&sni=120.233.128.68&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.128.68:39001

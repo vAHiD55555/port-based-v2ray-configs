@@ -1,1 +1,1 @@
-vless://b3bc00c6-d65b-4286-adc9-02134b37ae8d@2.188.224.46:34982?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.188.224.46:34982
+vless://b3bc00c6-d65b-4286-adc9-02134b37ae8d@2.188.224.46:34982?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-2.188.224.46:34982
