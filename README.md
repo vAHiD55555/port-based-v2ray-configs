@@ -1,4 +1,3 @@
-
 # Config Collector
 
 [![Auto-Update Status](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
@@ -9,11 +8,10 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-06-24 15:51:30 Tehran Time
+**Last Updated:** 2025-06-24 15:56:25 Tehran Time
 
 **Total Unique Configurations:** 25554
 
-<!-- STATS_TABLE_START -->
 | Protocol | 443 | 80 | 2096 | 8080 | 2053 | 2087 | 2083 | 2095 | 2052 | 2086 | 2082 | 8088 | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|
 | Vless | 5425 | 1522 | 459 | 271 | 296 | 283 | 200 | 133 | 181 | 101 | 90 | 15 | **15125** |
@@ -22,7 +20,6 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 | Vmess | 1029 | 288 | 10 | 52 | 18 | 40 | 5 | 124 | 24 | 19 | 24 | 2 | **2724** |
 | Hysteria2 | 3 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **40** |
 | **Total** | **9060** | **1844** | **605** | **520** | **503** | **442** | **341** | **257** | **205** | **120** | **114** | **17** | **14028** |
-<!-- STATS_TABLE_END -->
 
 ---
 
@@ -30,7 +27,6 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 #### By Protocol
 
-<!-- PROTOCOL_LINKS_START -->
 - **Vless:**
   ```
 [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt
@@ -51,11 +47,9 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
   ```
 [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/protocols/hysteria2.txt
   ```
-<!-- PROTOCOL_LINKS_END -->
 
 #### By Famous Ports
 
-<!-- PORT_LINKS_START -->
 - **Port 443:**
   ```
 [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/443.txt
@@ -104,17 +98,14 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
   ```
 [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/8088.txt
   ```
-<!-- PORT_LINKS_END -->
 
 ---
 
 ### 📚 Sources
 
-<!-- SOURCE_STATS_START -->
 | Summary | Source Details |
 |:---|:---|
 | **Total Fetched (Raw):** 64837 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 20361 configs |
 | **Duplicates Removed:** 39283 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 20301 configs |
-|  | **[soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector):** 19177 configs |
+|  | **[soroushmirzaei](https://github.comcom/soroushmirzaei/telegram-configs-collector):** 19177 configs |
 |  | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4998 configs |
-<!-- SOURCE_STATS_END -->
