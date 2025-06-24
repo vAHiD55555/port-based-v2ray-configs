@@ -9,7 +9,7 @@ An automated repository that collects and categorizes free configs from reputabl
 ### 📊 Live Statistics
 
 <!-- STATS_START -->
-**آخرین به‌روزرسانی:** 2025-06-24 14:20:23 Tehran Time
+**آخرین به‌روزرسانی:** 2025-06-24 14:25:16 Tehran Time
 **تعداد کل کانفیگ‌های منحصر به فرد:** 24923
 
 #### تفکیک بر اساس پروتکل:
