@@ -1,90 +1,76 @@
-<div dir="rtl">
+# Config Collector
 
-# کانفیگ کالکتور | Config Collector
+[![Auto-Update Status](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
 
-[![وضعیت آپدیت خودکار](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
-
-یک مخزن خودکار که کانفیگ‌های رایگان را از منابع معتبر جمع‌آوری کرده و با قابلیت‌های پیشرفته دسته‌بندی می‌کند.
+An automated repository that collects and categorizes free V2Ray/Clash configurations from reputable sources with advanced classification.
 
 ---
 
-### 📊 آمار لحظه‌ای
+### 📊 Live Statistics
 
-**آخرین به‌روزرسانی:** 2025-06-24 14:30:58 Tehran Time
+**Last Updated:** 2025-06-24 14:40:24 Tehran Time
 
-**تعداد کل کانفیگ‌های منحصر به فرد:** 25496
+**Total Unique Configurations:** 25524
 
 <!-- STATS_TABLE_START -->
 | Protocol | 80 | 443 | 2052 | 2053 | 2082 | 2083 | 2086 | 2087 | 2095 | 2096 | 8080 | 8088 | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|
 | Hysteria2 | 1 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | **40** |
-| Shadowsocks | 8 | 442 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 190 | 0 | **3487** |
-| Trojan | 26 | 2154 | 0 | 188 | 0 | 137 | 0 | 120 | 0 | 135 | 10 | 0 | **4128** |
-| Vless | 1516 | 5403 | 176 | 296 | 96 | 201 | 104 | 285 | 131 | 460 | 269 | 15 | **15084** |
-| Vmess | 287 | 1030 | 24 | 18 | 23 | 5 | 18 | 40 | 124 | 11 | 52 | 1 | **2720** |
-| **Total** | **1838** | **9032** | **200** | **502** | **119** | **343** | **122** | **445** | **255** | **606** | **522** | **16** | **14000** |
+| Shadowsocks | 8 | 442 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 187 | 0 | **3482** |
+| Trojan | 25 | 2169 | 0 | 190 | 0 | 138 | 0 | 119 | 0 | 135 | 10 | 0 | **4154** |
+| Vless | 1524 | 5416 | 177 | 290 | 95 | 201 | 101 | 287 | 129 | 462 | 269 | 15 | **15088** |
+| Vmess | 288 | 1030 | 24 | 18 | 24 | 5 | 18 | 41 | 125 | 10 | 52 | 1 | **2723** |
+| **Total** | **1846** | **9060** | **201** | **498** | **119** | **344** | **119** | **447** | **254** | **607** | **519** | **16** | **14030** |
 <!-- STATS_TABLE_END -->
 
 <!-- SOURCE_STATS_START -->
 - **barry-far:** 20216 کانفیگ
 - **mahdibland:** 4998 کانفیگ
 - **Epodonios:** 20276 کانفیگ
-- **soroushmirzaei:** 19126 کانفیگ
+- **soroushmirzaei:** 19135 کانفیگ
 <!-- SOURCE_STATS_END -->
 
 ---
 
-### 🚀 لینک‌های اشتراک عمومی
+### 🚀 Subscription Links
 
-#### دسته‌بندی بر اساس نوع پروتکل
+#### By Protocol
 
-- **تمام کانفیگ‌ها (ادغام شده):**
+- **All Merged Configs:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt)
   ```
-- **فقط VLESS (تمام پورت‌ها):**
+- **VLESS:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt)
   ```
-- **فقط VMess (تمام پورت‌ها):**
+- **VMess:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
   ```
-- **فقط Trojan (تمام پورت‌ها):**
+- **Trojan:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt)
   ```
-- **فقط Shadowsocks (تمام پورت‌ها):**
+- **Shadowsocks:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/shadowsocks.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/shadowsocks.txt)
   ```
 
----
+#### By Famous Ports
 
-#### دسته‌بندی بر اساس شماره پورت
-
-- **پورت 443 (شامل تمام پروتکل‌ها):**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt)
-  ```
-- **پورت 80 (شامل تمام پروتکل‌ها):**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt)
-  ```
-- **پورت 8080 (شامل تمام پروتکل‌ها):**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8080.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8080.txt)
-  ```
+<!-- PORT_LINKS_START -->
+*Subscription links for famous ports will be generated here.*
+<!-- PORT_LINKS_END -->
 
 ---
 
-### 📚 منابع جمع‌آوری
+### 📚 Sources
 
-این پروژه کانفیگ‌ها را از مخازن تجمعی زیر دریافت می‌کند. با تشکر فراوان از صاحبان این مخازن:
+This project collects configurations from the following aggregate repositories. A huge thanks to their maintainers:
 
 - **V2ray-Config** by [barry-far](https://github.com/barry-far/V2ray-Config)
 - **V2RayAggregator** by [mahdibland](https://github.com/mahdibland/V2RayAggregator)
 - **v2ray-configs** by [Epodonios](https://github.com/Epodonios/v2ray-configs)
 - **telegram-configs-collector** by [soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector)
 
-</div>

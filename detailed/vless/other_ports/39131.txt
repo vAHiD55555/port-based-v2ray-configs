@@ -1,1 +1,2 @@
 vless://3949e54e-919d-4192-94b3-e398e7911ecf@89.44.243.113:39131?security=none&type=tcp&host=skyroom.online,+igap.net,+gharar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.44.243.113:39131
+vless://3949e54e-919d-4192-94b3-e398e7911ecf@89.44.243.113:39131?security=none&type=tcp&host=skyroom.online%2C%20igap.net%2C%20gharar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.44.243.113:39131
