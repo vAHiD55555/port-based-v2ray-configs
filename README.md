@@ -8,20 +8,29 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-06-24 15:27:06 Tehran Time
+**Last Updated:** 2025-06-24 15:38:05 Tehran Time
 
-**Total Unique Configurations:** 25541
+**Total Unique Configurations:** 25554
 
 <!-- STATS_TABLE_START -->
 | Protocol | 443 | 80 | 2096 | 8080 | 2053 | 2087 | 2083 | 2095 | 2052 | 2086 | 2082 | 8088 | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|
-| Vless | 5414 | 1527 | 465 | 265 | 289 | 283 | 201 | 132 | 176 | 101 | 91 | 15 | **15101** |
-| Trojan | 2164 | 26 | 135 | 10 | 187 | 120 | 139 | 0 | 0 | 0 | 0 | 0 | **4147** |
-| Shadowsocks | 441 | 8 | 0 | 185 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **3488** |
-| Vmess | 1030 | 287 | 11 | 53 | 18 | 40 | 5 | 125 | 24 | 18 | 24 | 2 | **2728** |
+| Vless | 5425 | 1522 | 459 | 271 | 296 | 283 | 200 | 133 | 181 | 101 | 90 | 15 | **15125** |
+| Trojan | 2160 | 25 | 136 | 10 | 189 | 119 | 136 | 0 | 0 | 0 | 0 | 0 | **4137** |
+| Shadowsocks | 443 | 8 | 0 | 186 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **3491** |
+| Vmess | 1029 | 288 | 10 | 52 | 18 | 40 | 5 | 124 | 24 | 19 | 24 | 2 | **2724** |
 | Hysteria2 | 3 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **40** |
-| **Total** | **9052** | **1849** | **611** | **514** | **494** | **443** | **345** | **257** | **200** | **119** | **115** | **17** | **14016** |
+| **Total** | **9060** | **1844** | **605** | **520** | **503** | **442** | **341** | **257** | **205** | **120** | **114** | **17** | **14028** |
 <!-- STATS_TABLE_END -->
+
+<!-- SOURCE_STATS_START -->
+| Summary | Source Details |
+|:---|:---|
+| **Total Fetched (Raw):** 64837 | **barry-far:** 20301 |
+| **Duplicates Removed:** 39283 | **mahdibland:** 4998 |
+|  | **Epodonios:** 20361 |
+|  | **soroushmirzaei:** 19177 |
+<!-- SOURCE_STATS_END -->
 
 ---
 
@@ -104,23 +113,3 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
   [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/8088.txt
   ```
 <!-- PORT_LINKS_END -->
-
----
-
-### 📚 Sources
-
-This project collects configurations from the following aggregate repositories. A huge thanks to their maintainers:
-
-- **V2ray-Config** by [barry-far](https://github.com/barry-far/V2ray-Config)
-- **V2RayAggregator** by [mahdibland](https://github.com/mahdibland/V2RayAggregator)
-- **v2ray-configs** by [Epodonios](https://github.com/Epodonios/v2ray-configs)
-- **telegram-configs-collector** by [soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector)
-
-<!-- SOURCE_STATS_START -->
-| Summary | Source Details |
-|:---|:---|
-| **Total Fetched (Raw):** 64795 | **barry-far:** 20301 |
-| **Duplicates Removed:** 39254 | **mahdibland:** 4998 |
-|  | **Epodonios:** 20332 |
-|  | **soroushmirzaei:** 19164 |
-<!-- SOURCE_STATS_END -->
