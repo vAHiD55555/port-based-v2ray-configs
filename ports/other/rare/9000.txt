@@ -1,2 +1,2 @@
-trojan://ttfang@47.245.91.197:9000?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.245.91.197:9000
 vless://f1f2440e-6d9a-4611-9b8d-4cb3ee65fc21@5.159.49.176:9000?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-5.159.49.176:9000
+trojan://ttfang@47.245.91.197:9000?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.245.91.197:9000
