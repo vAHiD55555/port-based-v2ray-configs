@@ -1,82 +1,68 @@
-<div dir="rtl">
+# Config Collector
 
-# کانفیگ کالکتور | Config Collector
+[![Auto-Update Status](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
 
-[![وضعیت آپدیت خودکار](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
-
-یک مخزن خودکار که کانفیگ‌های رایگان را از منابع معتبر جمع‌آوری کرده و با قابلیت‌های پیشرفته دسته‌بندی می‌کند.
+An automated repository that collects and categorizes free V2Ray/Clash configurations from reputable sources with advanced classification.
 
 ---
 
-### 📊 آمار لحظه‌ای
+### 📊 Live Statistics
 
-**آخرین به‌روزرسانی:** <!-- UPDATE_TIME -->
+**Last Updated:** <!-- UPDATE_TIME -->
 
-**تعداد کل کانفیگ‌های منحصر به فرد:** <!-- TOTAL_CONFIGS -->
+**Total Unique Configurations:** <!-- TOTAL_CONFIGS -->
 
 <!-- STATS_TABLE_START -->
-*جدول آمار در اینجا ساخته خواهد شد.*
+*The statistics table will be generated here.*
 <!-- STATS_TABLE_END -->
 
 <!-- SOURCE_STATS_START -->
 ---
 
-### 📦 آمار بر اساس منبع
+### 📦 Statistics by Source
 <!-- SOURCE_STATS_END -->
 
 ---
 
-### 🚀 لینک‌های اشتراک عمومی
+### 🚀 Subscription Links
 
-#### دسته‌بندی بر اساس نوع پروتکل
+#### By Protocol
 
-- **تمام کانفیگ‌ها (ادغام شده):**
+- **All Merged Configs:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt)
   ```
-- **فقط VLESS (تمام پورت‌ها):**
+- **VLESS:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt)
   ```
-- **فقط VMess (تمام پورت‌ها):**
+- **VMess:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
   ```
-- **فقط Trojan (تمام پورت‌ها):**
+- **Trojan:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt)
   ```
-- **فقط Shadowsocks (تمام پورت‌ها):**
+- **Shadowsocks:**
   ```
   [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/shadowsocks.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/shadowsocks.txt)
   ```
 
----
+#### By Famous Ports
 
-#### دسته‌بندی بر اساس شماره پورت
-
-- **پورت 443 (شامل تمام پروتکل‌ها):**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/443.txt)
-  ```
-- **پورت 80 (شامل تمام پروتکل‌ها):**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt)
-  ```
-- **پورت 8080 (شامل تمام پروتکل‌ها):**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8080.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8080.txt)
-  ```
+<!-- PORT_LINKS_START -->
+*Subscription links for famous ports will be generated here.*
+<!-- PORT_LINKS_END -->
 
 ---
 
-### 📚 منابع جمع‌آوری
+### 📚 Sources
 
-این پروژه کانفیگ‌ها را از مخازن تجمعی زیر دریافت می‌کند. با تشکر فراوان از صاحبان این مخازن:
+This project collects configurations from the following aggregate repositories. A huge thanks to their maintainers:
 
 - **V2ray-Config** by [barry-far](https://github.com/barry-far/V2ray-Config)
 - **V2RayAggregator** by [mahdibland](https://github.com/mahdibland/V2RayAggregator)
 - **v2ray-configs** by [Epodonios](https://github.com/Epodonios/v2ray-configs)
 - **telegram-configs-collector** by [soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector)
 
-</div>
