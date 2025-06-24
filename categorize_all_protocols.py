@@ -7,14 +7,8 @@ from collections import defaultdict
 from urllib.parse import urlparse, parse_qs
 from datetime import datetime, timedelta, timezone
 
-# === منابع نهایی و تایید شده توسط شما ===
-SOURCES = [
-#    "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
-#    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
-#    "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-#    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/channels"
-]
+# === منابع ===
+SOURCES_FILE = "sources.txt"
 
 # پارامترهای دسته‌بندی
 FAMOUS_PORTS = {'80', '443', '8080', '8088'}
@@ -22,12 +16,25 @@ SPECIAL_PROTOCOLS = {'vless', 'vmess', 'trojan'}
 SPECIAL_PORTS = {'80', '443', '8080', '8088'}
 RARE_PORT_THRESHOLD = 5
 
+def read_sources(file_path):
+    active_sources = []
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#'):
+                    active_sources.append(line)
+        print(f"✅ {len(active_sources)} منبع فعال از فایل '{file_path}' خوانده شد.")
+    except FileNotFoundError:
+        print(f"❌ فایل منابع '{file_path}' پیدا نشد. برنامه متوقف می‌شود.")
+    return active_sources
+
 def fetch_all_configs(source_urls):
     all_configs = []
-    print("شروع دریافت کانفیگ از لیست انتخابی شما...")
+    print("شروع دریافت کانفیگ...")
     for i, url in enumerate(source_urls):
         try:
-            print(f"--> در حال دریافت از منبع شماره {i+1}...")
+            print(f"--> در حال دریافت از منبع شماره {i+1}: {url}")
             response = requests.get(url, timeout=90)
             if response.status_code == 200 and response.text:
                 content = response.text.strip()
@@ -107,18 +114,12 @@ def update_readme(stats):
         stats_lines.append("\n#### تفکیک بر اساس پورت‌های معروف:")
         for port in sorted(FAMOUS_PORTS):
             stats_lines.append(f"- **پورت {port}:** {stats['ports'].get(port, 0)} کانفیگ")
-        
-        stats_lines.append("\n#### تفکیک ویژه:")
-        for protocol, ports_dict in stats['special_categorization'].items():
-            for port, count in ports_dict.items():
-                stats_lines.append(f"- **{protocol.capitalize()} روی پورت {port}:** {count} کانفیگ")
-
 
         stats_block = "\n".join(stats_lines)
         
         new_readme_content = re.sub(
-            r'<!-- STATS_START -->(.|\n)*?<!-- STATS_END -->',
-            f'<!-- STATS_START -->\n{stats_block}\n<!-- STATS_END -->',
+            r'(.|\n)*?',
+            f'\n{stats_block}\n',
             template_content
         )
 
@@ -130,7 +131,10 @@ def update_readme(stats):
 
 
 def main():
-    raw_configs = fetch_all_configs(SOURCES)
+    sources = read_sources(SOURCES_FILE)
+    if not sources: return
+        
+    raw_configs = fetch_all_configs(sources)
     if not raw_configs: return
 
     categorized_by_port = defaultdict(list)
@@ -181,7 +185,6 @@ def main():
         "update_time": get_tehran_time(),
         "protocols": {p: len(c) for p, c in sorted(categorized_by_protocol.items())},
         "ports": {p: len(c) for p, c in sorted(categorized_by_port.items())},
-        "special_categorization": {p: {port: len(cfgs) for port, cfgs in ports.items()} for p, ports in special_categorization.items()},
         "reality_vless": len(vless_reality_list)
     }
     update_readme(stats)
