@@ -16,38 +16,15 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 *The statistics table will be generated here.*
 <!-- STATS_TABLE_END -->
 
-<!-- SOURCE_STATS_START -->
----
-
-### 📦 Statistics by Source
-<!-- SOURCE_STATS_END -->
-
 ---
 
 ### 🚀 Subscription Links
 
 #### By Protocol
 
-- **All Merged Configs:**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/all.txt)
-  ```
-- **VLESS:**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt)
-  ```
-- **VMess:**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vmess.txt)
-  ```
-- **Trojan:**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt)
-  ```
-- **Shadowsocks:**
-  ```
-  [https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/shadowsocks.txt](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/shadowsocks.txt)
-  ```
+<!-- PROTOCOL_LINKS_START -->
+*Subscription links for protocols will be generated here.*
+<!-- PROTOCOL_LINKS_END -->
 
 #### By Famous Ports
 
@@ -66,3 +43,7 @@ This project collects configurations from the following aggregate repositories. 
 - **v2ray-configs** by [Epodonios](https://github.com/Epodonios/v2ray-configs)
 - **telegram-configs-collector** by [soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector)
 
+<!-- SOURCE_STATS_START -->
+---
+*The source statistics table will be generated here.*
+<!-- SOURCE_STATS_END -->
