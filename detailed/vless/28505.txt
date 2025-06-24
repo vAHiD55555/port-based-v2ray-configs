@@ -1,0 +1,2 @@
+vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@84.47.233.110:28505?security=none&type=tcp&host=Fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.233.110:28505
+vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@84.47.233.108:28505?security=none&type=tcp&host=Fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.233.108:28505
