@@ -1,1 +1,2 @@
+vless://5eb7f372-49e3-4d6d-a9db-c6dc80a5abf8@62.60.204.139:4009?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.204.139:4009
 vless://46677716-490d-4a51-8a68-c44090505da3@62.60.204.139:4009?type=tcp&host=www.stackoverflow.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.204.139:4009

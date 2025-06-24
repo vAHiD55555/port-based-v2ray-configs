@@ -1,1 +1,2 @@
+vless://06ae467d-6c3b-42f2-a582-4ff5649c0e24@185.60.136.74:8010?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.60.136.74:8010
 vless://25570fff-a682-47b3-8d6d-2d20bdcd945c@185.60.136.74:8010?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.60.136.74:8010

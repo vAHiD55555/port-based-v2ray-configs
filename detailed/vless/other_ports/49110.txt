@@ -1,1 +1,2 @@
 vless://05ccf3cd-d205-4e7a-b8af-373bb37ee7a2@103.71.21.243:49110?security=none&type=tcp#🔒 VL-TCP-NONE 🇦🇪 AE-103.71.21.243:49110
+vless://cbe98b2c-3060-4369-80ae-d37be7ab036b@103.71.21.243:49110?security=none#🔒 VL-TCP-NONE 🇦🇪 AE-103.71.21.243:49110
