@@ -8,7 +8,7 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-06-24 15:56:25 Tehran Time
+**Last Updated:** 2025-06-24 15:56:51 Tehran Time
 
 **Total Unique Configurations:** 25554
 
