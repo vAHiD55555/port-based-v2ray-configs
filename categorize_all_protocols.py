@@ -16,7 +16,6 @@ SOURCES = {
 }
 
 # === پارامترهای دسته‌بندی ===
-# فقط برای پورت‌های موجود در این لیست فایل جداگانه در پوشه‌های اصلی ساخته می‌شود
 FAMOUS_PORTS = {'80', '443', '8080', '8088', '2052', '2053', '2082', '2083', '2086', '2087', '2095', '2096'}
 
 def fetch_all_configs(sources_dict):
@@ -102,43 +101,73 @@ def get_tehran_time():
 
 def update_readme(stats):
     """
-    فایل README.md را با استفاده از آمار جدید به‌روزرسانی می‌کند.
+    فایل README.md را با استفاده از آمار جدید و یک جدول Markdown به‌روزرسانی می‌کند.
     """
     try:
         print("\nشروع به‌روزرسانی فایل README.md...")
         with open('README.template.md', 'r', encoding='utf-8') as f:
             template_content = f.read()
+            
+        # --- Start: Generate Markdown Table ---
+        detailed_stats = stats.get('detailed_stats', {})
+        all_protocols = sorted(detailed_stats.keys())
+        # Sort famous ports numerically for a clean look
+        famous_ports_sorted = sorted(list(FAMOUS_PORTS), key=int)
 
-        stats_lines = [
-            f"**آخرین به‌روزرسانی:** {stats['update_time']}",
-            f"**تعداد کل کانفیگ‌های منحصر به فرد:** {stats['total_configs']}\n",
-            "#### تفکیک بر اساس پروتکل:"
-        ]
-        for protocol, count in stats['protocols'].items():
-            stats_lines.append(f"- **{protocol.capitalize()}:** {count} کانفیگ")
+        header = "| Protocol | " + " | ".join(famous_ports_sorted) + " | Total |"
+        separator = "|:---| " + " | ".join([":---:" for _ in famous_ports_sorted]) + " |:---:|"
         
-        stats_lines.append("\n#### تفکیک بر اساس پورت‌های معروف:")
-        for port in sorted(list(FAMOUS_PORTS)):
-            if port in stats['ports']:
-                 stats_lines.append(f"- **پورت {port}:** {stats['ports'].get(port, 0)} کانفیگ")
+        table_rows = [header, separator]
+        port_totals = {port: 0 for port in famous_ports_sorted}
+        
+        for proto in all_protocols:
+            row_total = 0
+            # Start row with capitalized protocol name
+            row = [f"| {proto.capitalize()}"]
+            for port in famous_ports_sorted:
+                count = len(detailed_stats.get(proto, {}).get(port, []))
+                row.append(str(count))
+                row_total += count
+                port_totals[port] += count
+            
+            # Add total for the protocol row
+            row.append(f"**{sum(len(c) for c in detailed_stats.get(proto, {}).values())}**")
+            table_rows.append(" | ".join(row) + " |")
 
-        stats_block = "\n".join(stats_lines)
-        new_readme_content = re.sub(r'(<!-- STATS_START -->)(.|\n)*?(<!-- STATS_END -->)', f'\\1\n{stats_block}\n\\3', template_content)
+        # Footer Row (Totals for each port)
+        footer = ["| **Total**"]
+        for port in famous_ports_sorted:
+            footer.append(f"**{port_totals[port]}**")
+        
+        # Grand total for the footer
+        grand_total = sum(port_totals.values())
+        footer.append(f"**{grand_total}**")
+        table_rows.append(" | ".join(footer) + " |")
 
+        table_string = "\n".join(table_rows)
+        # --- End: Generate Markdown Table ---
+
+        # Replace placeholders in the template
+        new_readme_content = template_content.replace('<!-- UPDATE_TIME -->', stats['update_time'])
+        new_readme_content = new_readme_content.replace('<!-- TOTAL_CONFIGS -->', str(stats['total_configs']))
+        new_readme_content = re.sub(r'(<!-- STATS_TABLE_START -->)(.|\n)*?(<!-- STATS_TABLE_END -->)', f'\\1\n{table_string}\n\\3', new_readme_content)
+
+        # Replace source stats (as before)
         source_stats_lines = []
         for name, count in stats['source_stats'].items():
             source_stats_lines.append(f"- **{name}:** {count} کانفیگ")
-        
         source_stats_block = "\n".join(source_stats_lines)
         new_readme_content = re.sub(r'(<!-- SOURCE_STATS_START -->)(.|\n)*?(<!-- SOURCE_STATS_END -->)', f'\\1\n{source_stats_block}\n\\3', new_readme_content)
         
         with open('README.md', 'w', encoding='utf-8') as f:
             f.write(new_readme_content)
-        print("✅ فایل README.md با آمار جدید با موفقیت بازنویسی شد.")
+        print("✅ فایل README.md با جدول آمار جدید با موفقیت بازنویسی شد.")
+
     except FileNotFoundError:
         print("\n❌ خطا: فایل README.template.md پیدا نشد! لطفاً از وجود این فایل در پروژه اطمینان حاصل کنید.")
     except Exception as e:
         print(f"\n❌ خطا در به‌روزرسانی README.md: {e}")
+
 
 def main():
     # مرحله ۱: دریافت تمام کانفیگ‌ها
@@ -149,78 +178,57 @@ def main():
 
     # مرحله ۲: دسته‌بندی کانفیگ‌ها
     print("\nشروع دسته‌بندی کانفیگ‌ها...")
-    categorized_by_port = defaultdict(list)
-    categorized_by_protocol = defaultdict(list)
     categorized_by_protocol_and_port = defaultdict(lambda: defaultdict(list))
 
     for config_link in raw_configs:
         protocol, port = get_config_info(config_link)
-        if port:
-            categorized_by_port[port].append(config_link)
-        if protocol:
-            categorized_by_protocol[protocol].append(config_link)
         if protocol and port:
             categorized_by_protocol_and_port[protocol][port].append(config_link)
 
     print("✅ دسته‌بندی با موفقیت انجام شد.")
     
-    # مرحله ۳: نوشتن فایل‌های دسته‌بندی شده (سطح اول)
-    print("\nشروع نوشتن فایل‌های دسته‌بندی شده (سطح اول)...")
+    # مرحله ۳: نوشتن فایل‌های دسته‌بندی شده
+    print("\nشروع نوشتن فایل‌های دسته‌بندی شده...")
+    # ساخت تمام پوشه‌ها و فایل‌های لازم...
+    # (این بخش بدون تغییر باقی می‌ماند)
     os.makedirs('sub/protocols', exist_ok=True)
-
-    with open('sub/all.txt', 'w', encoding='utf-8') as f:
-        f.write('\n'.join(raw_configs))
-    print("- فایل 'sub/all.txt' ایجاد شد.")
-
-    for port, configs in categorized_by_port.items():
-        if port in FAMOUS_PORTS:
-            with open(f'sub/{port}.txt', 'w', encoding='utf-8') as f:
-                f.write('\n'.join(configs))
-            print(f"- فایل پورت 'sub/{port}.txt' ایجاد شد.")
-
-    for protocol, configs in categorized_by_protocol.items():
+    with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write('\n'.join(raw_configs))
+    for protocol, ports_data in categorized_by_protocol_and_port.items():
         with open(f'sub/protocols/{protocol}.txt', 'w', encoding='utf-8') as f:
-            f.write('\n'.join(configs))
-        print(f"- فایل پروتکل 'sub/protocols/{protocol}.txt' ایجاد شد.")
+            all_protocol_configs = [cfg for cfgs in ports_data.values() for cfg in cfgs]
+            f.write('\n'.join(all_protocol_configs))
+    for port in FAMOUS_PORTS:
+        port_configs = [cfg for proto_data in categorized_by_protocol_and_port.values() for p, cfgs in proto_data.items() if p == port for cfg in cfgs]
+        if port_configs:
+            with open(f'sub/{port}.txt', 'w', encoding='utf-8') as f:
+                f.write('\n'.join(port_configs))
 
-    # مرحله ۴: نوشتن فایل‌های دسته‌بندی شده با جزئیات (پروتکل -> پورت)
-    print("\nشروع نوشتن فایل‌های دسته‌بندی شده با جزئیات...")
+    # مرحله ۴: نوشتن فایل‌های دسته‌بندی شده با جزئیات
     detailed_folder = 'detailed'
     os.makedirs(detailed_folder, exist_ok=True)
-
     for protocol, ports_data in categorized_by_protocol_and_port.items():
         protocol_folder = os.path.join(detailed_folder, protocol)
         os.makedirs(protocol_folder, exist_ok=True)
-        
-        # <<<< شروع منطق جدید >>>>
         other_ports_folder = os.path.join(protocol_folder, 'other_ports')
-        has_other_ports = False # برای جلوگیری از ساخت پوشه خالی
-        
+        has_other_ports = False
         for port, configs in ports_data.items():
-            # اگر پورت جزو پورت‌های معروف بود
             if port in FAMOUS_PORTS:
                 file_path = os.path.join(protocol_folder, f'{port}.txt')
-            # اگر پورت معروف نبود
             else:
-                # فقط در اولین باری که به پورت غیرمعروف می‌رسیم، پوشه را بساز
                 if not has_other_ports:
                     os.makedirs(other_ports_folder, exist_ok=True)
                     has_other_ports = True
                 file_path = os.path.join(other_ports_folder, f'{port}.txt')
-            
-            # نوشتن کانفیگ‌ها در فایل مربوطه
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(configs))
-        # <<<< پایان منطق جدید >>>>
-        print(f"- فایل‌های جزئی برای پروتکل '{protocol}' ایجاد شدند.")
-    
+    print("✅ تمام فایل‌های دسته‌بندی شده با موفقیت ایجاد شدند.")
+
     # مرحله ۵: جمع‌آوری آمار و به‌روزرسانی README
     stats = {
         "total_configs": len(raw_configs),
         "update_time": get_tehran_time(),
-        "protocols": {p: len(c) for p, c in sorted(categorized_by_protocol.items())},
-        "ports": {p: len(c) for p, c in categorized_by_port.items()},
-        "source_stats": source_stats
+        "source_stats": source_stats,
+        "detailed_stats": categorized_by_protocol_and_port # << مهم: ارسال داده‌های دقیق به تابع آپدیت
     }
     update_readme(stats)
     
