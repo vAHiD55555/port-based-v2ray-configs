@@ -5,7 +5,7 @@ import os
 import re
 from collections import defaultdict
 from urllib.parse import urlparse
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 # === Config Sources ===
 SOURCES = {
@@ -17,13 +17,14 @@ SOURCES = {
 
 # === Classification Parameters ===
 FAMOUS_PORTS = {'80', '443', '8080', '8088', '2052', '2053', '2082', '2083', '2086', '2087', '2095', '2096'}
-# You can get your GitHub repo URL from environment variables for dynamic link generation
-# Example: 'hamed1124/port-based-v2ray-configs'
 GITHUB_REPO = os.environ.get('GITHUB_REPOSITORY', 'hamed1124/port-based-v2ray-configs')
 
 
 def fetch_all_configs(sources_dict):
-    all_configs, source_stats = [], defaultdict(int)
+    """
+    Fetches configs from all defined sources, returns unique configs, source stats, and raw total.
+    """
+    raw_configs_list, source_stats = [], defaultdict(int)
     print("Fetching configs from sources...")
     for name, url in sources_dict.items():
         try:
@@ -35,18 +36,23 @@ def fetch_all_configs(sources_dict):
                     configs = base64.b64decode(content).decode('utf-8').strip().split('\n') if len(content) > 1000 and "://" not in content else content.split('\n')
                     valid_configs = [line.strip() for line in configs if line.strip() and '://' in line]
                     if valid_configs:
-                        all_configs.extend(valid_configs)
+                        raw_configs_list.extend(valid_configs)
                         source_stats[name] = len(valid_configs)
                         print(f"  ✅ Added {len(valid_configs)} valid configs from {name}.")
                 except Exception as e:
                     print(f"  ⚠️ Error processing content from {name}: {e}")
         except requests.RequestException as e:
             print(f"❌ Connection error for {name}: {e}")
-    unique_configs = list(set(all_configs))
-    print(f"\nTotal unique configurations found: {len(unique_configs)}")
-    return unique_configs, source_stats
+            
+    raw_total = len(raw_configs_list)
+    unique_configs = list(set(raw_configs_list))
+    print(f"\nFetched {raw_total} configs in total. Found {len(unique_configs)} unique configs.")
+    return unique_configs, source_stats, raw_total
 
 def get_config_info(link):
+    """
+    Parses a config link to extract its protocol and port.
+    """
     try:
         protocol = link.split("://")[0].lower()
         port = None
@@ -72,63 +78,68 @@ def get_config_info(link):
     except Exception:
         return None, None
 
-def get_utc_time():
-    return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+def get_tehran_time():
+    """
+    Returns the current time in Tehran time zone.
+    """
+    tehran_tz = timezone(timedelta(hours=3, minutes=30))
+    now_tehran = datetime.now(timezone.utc).astimezone(tehran_tz)
+    return now_tehran.strftime("%Y-%m-%d %H:%M:%S Tehran Time")
 
 def update_readme(stats):
+    """
+    Updates the README.md file with all the new stats and dynamic links.
+    """
     try:
         print("\nUpdating README.md...")
         with open('README.template.md', 'r', encoding='utf-8') as f:
             template_content = f.read()
 
-        # --- Generate and Sort Statistics Table ---
         detailed_stats = stats.get('detailed_stats', {})
-        
-        # Sort protocols by total count (descending)
         protocol_totals = {p: sum(len(cfgs) for cfgs in data.values()) for p, data in detailed_stats.items()}
         sorted_protocols = sorted(protocol_totals.keys(), key=lambda p: protocol_totals[p], reverse=True)
-
-        # Sort famous ports by total count (descending)
         port_totals = {port: sum(len(detailed_stats.get(p, {}).get(port, [])) for p in sorted_protocols) for port in FAMOUS_PORTS}
         sorted_ports = sorted(port_totals.keys(), key=lambda p: port_totals[p], reverse=True)
 
+        # --- Generate Statistics Table ---
         header = "| Protocol | " + " | ".join(sorted_ports) + " | Total |"
         separator = "|:---| " + " | ".join([":---:" for _ in sorted_ports]) + " |:---:|"
-        
         table_rows = [header, separator]
         for proto in sorted_protocols:
             row = [f"| {proto.capitalize()}"]
             for port in sorted_ports:
-                count = len(detailed_stats.get(proto, {}).get(port, []))
-                row.append(str(count))
+                row.append(str(len(detailed_stats.get(proto, {}).get(port, []))))
             row.append(f"**{protocol_totals[proto]}**")
             table_rows.append(" | ".join(row) + " |")
-
-        footer = ["| **Total**"]
-        for port in sorted_ports:
-            footer.append(f"**{port_totals[port]}**")
-        footer.append(f"**{sum(port_totals.values())}**")
+        footer = ["| **Total**", *[f"**{port_totals[port]}**" for port in sorted_ports], f"**{sum(port_totals.values())}**"]
         table_rows.append(" | ".join(footer) + " |")
         table_string = "\n".join(table_rows)
 
-        # --- Generate Dynamic Port Subscription Links ---
-        port_links = []
-        for port in sorted_ports:
-            link = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/{port}.txt"
-            port_links.append(f"- **Port {port}:**\n  ```\n  {link}\n  ```")
-        port_links_string = "\n".join(port_links)
+        # --- Generate Dynamic Protocol Links ---
+        protocol_links_string = "\n".join([f"- **{proto.capitalize()}:**\n  ```\n  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/protocols/{proto}.txt\n  ```" for proto in sorted_protocols])
 
-        # --- Replace Placeholders ---
+        # --- Generate Dynamic Port Links ---
+        port_links_string = "\n".join([f"- **Port {port}:**\n  ```\n  [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/{port}.txt\n  ```" for port in sorted_ports])
+
+        # --- Generate Source Statistics ---
+        source_stats_summary = [
+            f"- **Total configs fetched (raw):** {stats['raw_total']}",
+            f"- **Duplicate configs removed:** {stats['duplicates_removed']}",
+            "---"
+        ]
+        source_stats_details = [f"- **{name}:** {count} configs" for name, count in stats['source_stats'].items()]
+        source_stats_string = "\n".join(source_stats_summary + source_stats_details)
+
+        # --- Replace All Placeholders ---
         new_readme_content = template_content.replace('<!-- UPDATE_TIME -->', stats['update_time'])
         new_readme_content = new_readme_content.replace('<!-- TOTAL_CONFIGS -->', str(stats['total_configs']))
         new_readme_content = re.sub(r'(<!-- STATS_TABLE_START -->)(.|\n)*?(<!-- STATS_TABLE_END -->)', f'\\1\n{table_string}\n\\3', new_readme_content)
+        new_readme_content = re.sub(r'(<!-- PROTOCOL_LINKS_START -->)(.|\n)*?(<!-- PROTOCOL_LINKS_END -->)', f'\\1\n{protocol_links_string}\n\\3', new_readme_content)
         new_readme_content = re.sub(r'(<!-- PORT_LINKS_START -->)(.|\n)*?(<!-- PORT_LINKS_END -->)', f'\\1\n{port_links_string}\n\\3', new_readme_content)
-        
-        source_stats_lines = [f"- **{name}:** {count} configs" for name, count in stats['source_stats'].items()]
-        new_readme_content = re.sub(r'(<!-- SOURCE_STATS_START -->)(.|\n)*?(<!-- SOURCE_STATS_END -->)', f'\\1\n' + '\n'.join(source_stats_lines) + '\n\\3', new_readme_content)
+        new_readme_content = re.sub(r'(<!-- SOURCE_STATS_START -->)(.|\n)*?(<!-- SOURCE_STATS_END -->)', f'\\1\n{source_stats_string}\n\\3', new_readme_content)
         
         with open('README.md', 'w', encoding='utf-8') as f: f.write(new_readme_content)
-        print("✅ README.md updated successfully with sorted table and dynamic links.")
+        print("✅ README.md updated successfully with final enhancements.")
 
     except FileNotFoundError:
         print("\n❌ Error: README.template.md not found! Please ensure the file exists.")
@@ -136,31 +147,38 @@ def update_readme(stats):
         print(f"\n❌ An error occurred while updating README.md: {e}")
 
 def main():
-    raw_configs, source_stats = fetch_all_configs(SOURCES)
-    if not raw_configs:
+    # Step 1: Fetch all configs and get raw count for stats
+    unique_configs, source_stats, raw_total = fetch_all_configs(SOURCES)
+    if not unique_configs:
         print("\nNo configs found to process. Exiting.")
         return
 
+    # Step 2: Categorize all configs
     print("\nCategorizing all configurations...")
     categorized_by_protocol_and_port = defaultdict(lambda: defaultdict(list))
-    for config_link in raw_configs:
+    for config_link in unique_configs: # Process only unique configs
         protocol, port = get_config_info(config_link)
         if protocol and port:
             categorized_by_protocol_and_port[protocol][port].append(config_link)
     print("✅ Categorization complete.")
 
-    print("\nWriting categorized files...")
-    # This part remains the same, writing files to sub/ and detailed/ folders
+    # Step 3: Write all categorized files
+    print("\nWriting all subscription files...")
     os.makedirs('sub/protocols', exist_ok=True)
-    with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write('\n'.join(raw_configs))
+    with open('sub/all.txt', 'w', encoding='utf-8') as f: f.write('\n'.join(unique_configs))
+    
+    # Write files by protocol
     for protocol, ports_data in categorized_by_protocol_and_port.items():
         all_protocol_configs = [cfg for cfgs in ports_data.values() for cfg in cfgs]
         with open(f'sub/protocols/{protocol}.txt', 'w', encoding='utf-8') as f: f.write('\n'.join(all_protocol_configs))
+    
+    # Write files by famous port
     for port in FAMOUS_PORTS:
         port_configs = [cfg for p_data in categorized_by_protocol_and_port.values() for p, cfgs in p_data.items() if p == port for cfg in cfgs]
         if port_configs:
             with open(f'sub/{port}.txt', 'w', encoding='utf-8') as f: f.write('\n'.join(port_configs))
     
+    # Write detailed files (protocol -> port)
     detailed_folder = 'detailed'
     os.makedirs(detailed_folder, exist_ok=True)
     for protocol, ports_data in categorized_by_protocol_and_port.items():
@@ -176,9 +194,12 @@ def main():
             with open(file_path, 'w', encoding='utf-8') as f: f.write('\n'.join(configs))
     print("✅ All subscription files written successfully.")
 
+    # Step 4: Gather final stats and update README
     stats = {
-        "total_configs": len(raw_configs),
-        "update_time": get_utc_time(),
+        "total_configs": len(unique_configs),
+        "raw_total": raw_total,
+        "duplicates_removed": raw_total - len(unique_configs),
+        "update_time": get_tehran_time(),
         "source_stats": source_stats,
         "detailed_stats": categorized_by_protocol_and_port
     }
