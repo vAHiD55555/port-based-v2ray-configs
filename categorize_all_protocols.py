@@ -20,7 +20,7 @@ SOURCE_REPOS = {
     "barry-far": "https://github.com/barry-far/V2ray-Config",
     "mahdibland": "https://github.com/mahdibland/V2RayAggregator",
     "Epodonios": "https://github.com/Epodonios/v2ray-configs",
-    "soroushmirzaei": "https://github.comcom/soroushmirzaei/telegram-configs-collector"
+    "soroushmirzaei": "https://github.com/soroushmirzaei/telegram-configs-collector"
 }
 
 # === پارامترهای دسته‌بندی ===
@@ -113,9 +113,9 @@ def build_readme_content(stats):
     stats_table_lines.append(" | ".join(footer) + " |")
     stats_table_string = "\n".join(stats_table_lines)
 
-    # --- Part 3: Build Subscription Links ---
-    protocol_links_string = "\n".join([f"- **{proto.capitalize()}:**\n  ```\n[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/protocols/{proto}.txt\n  ```" for proto in sorted_protocols])
-    port_links_string = "\n".join([f"- **Port {port}:**\n  ```\n[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/{port}.txt\n  ```" for port in sorted_ports])
+    # --- Part 3: Build Subscription Links (Simplified and Corrected) ---
+    protocol_links_string = "\n".join([f"- **{proto.capitalize()}:** https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/protocols/{proto}.txt" for proto in sorted_protocols])
+    port_links_string = "\n".join([f"- **Port {port}:** https://raw.githubusercontent.com/{GITHUB_REPO}/main/sub/{port}.txt" for port in sorted_ports])
 
     # --- Part 4: Build the Source Stats Table ---
     source_stats_lines = []
