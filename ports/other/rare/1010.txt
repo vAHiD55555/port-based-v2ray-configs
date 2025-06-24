@@ -1,1 +1,2 @@
 vless://adeee029-e9b5-4312-8d00-71be8d86a7d3@37.32.41.184:1010?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.184:1010
+vless://cd1b9054-d950-41f7-a61e-4496a4bf9970@87.236.38.206:1010?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-87.236.38.206:1010

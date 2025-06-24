@@ -1,3 +1,4 @@
 vless://da8d9428-7e89-4699-adaf-3d7bd20fefd1@109.94.165.106:10000?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-109.94.165.106:10000
 vmess://eyJhZGQiOiAiMTU4LjY5LjQ4LjE0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmZTI1ODA4YS00ZDdkLTExZjAtYmQzMy0xN2JhODY2MjY3NDciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZwbmphbnRpdCIsICJwb3J0IjogIjEwMDAwIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1XUy1OQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ0EtMTU4LjY5LjQ4LjE0OjEwMDAwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://ef020e8a-f6a4-48dd-9cd7-335137fef016@95.38.101.63:10000?security=none&type=tcp&host=zula.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.101.63:10000
 vless://541134bb-8e88-4785-84a0-14ca47a12b9f@109.94.165.104:10000?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-109.94.165.104:10000

@@ -1,2 +1,2 @@
-vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@109.120.186.86:7091?type=tcp&host=bmw.com&headerType=http#🔒 VL-TCP-NA 🇬🇧 GB-109.120.186.86:7091
 vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@81.30.108.228:7091?type=tcp&host=bmw.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-81.30.108.228:7091
+vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@109.120.186.86:7091?type=tcp&host=bmw.com&headerType=http#🔒 VL-TCP-NA 🇬🇧 GB-109.120.186.86:7091

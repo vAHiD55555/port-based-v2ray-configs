@@ -1,2 +1,1 @@
-vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@85.198.23.128:7031?security=none&type=tcp&host=parssafe.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.23.128:7031
 vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@85.198.23.128:7031?type=tcp&host=parssafe.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.198.23.128:7031

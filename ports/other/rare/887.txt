@@ -1,1 +1,1 @@
-vless://ebbc9338-4ed3-4812-97f5-c1745d5a70bb@46.38.150.227:887?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.150.227:887
+vless://1db6e734-7383-4fb9-a24e-e95a52c46ae3@46.38.150.227:887?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-46.38.150.227:887
