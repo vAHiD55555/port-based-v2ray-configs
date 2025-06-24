@@ -20,7 +20,7 @@ SOURCE_REPOS = {
     "barry-far": "https://github.com/barry-far/V2ray-Config",
     "mahdibland": "https://github.com/mahdibland/V2RayAggregator",
     "Epodonios": "https://github.com/Epodonios/v2ray-configs",
-    "soroushmirzaei": "https://github.com/soroushmirzaei/telegram-configs-collector"
+    "soroushmirzaei": "https://github.comcom/soroushmirzaei/telegram-configs-collector"
 }
 
 # === پارامترهای دسته‌بندی ===
@@ -85,10 +85,56 @@ def get_tehran_time():
     now_tehran = datetime.now(timezone.utc).astimezone(tehran_tz)
     return now_tehran.strftime("%Y-%m-%d %H:%M:%S Tehran Time")
 
-def update_readme(stats):
-    # الگو به صورت یک متغیر داخلی تعریف شده تا نیازی به فایل خارجی نباشد
-    template_content = """
-# Config Collector
+def build_readme_content(stats):
+    """
+    This function generates the entire README content as a single string.
+    """
+    print("\nBuilding README content...")
+    
+    # --- Part 1: Prepare all dynamic data ---
+    detailed_stats = stats.get('detailed_stats', {})
+    protocol_totals = {p: sum(len(cfgs) for cfgs in data.values()) for p, data in detailed_stats.items()}
+    sorted_protocols = sorted(protocol_totals.keys(), key=lambda p: protocol_totals[p], reverse=True)
+    port_totals = {port: sum(len(detailed_stats.get(p, {}).get(port, [])) for p in sorted_protocols) for port in FAMOUS_PORTS}
+    sorted_ports = sorted(port_totals.keys(), key=lambda p: port_totals[p], reverse=True)
+
+    # --- Part 2: Build the Stats Table ---
+    stats_table_lines = []
+    header = "| Protocol | " + " | ".join(sorted_ports) + " | Total |"
+    separator = "|:---| " + " | ".join([":---:" for _ in sorted_ports]) + " |:---:|"
+    stats_table_lines.extend([header, separator])
+    for proto in sorted_protocols:
+        row = [f"| {proto.capitalize()}"]
+        for port in sorted_ports:
+            row.append(str(len(detailed_stats.get(proto, {}).get(port, []))))
+        row.append(f"**{protocol_totals[proto]}**")
+        stats_table_lines.append(" | ".join(row) + " |")
+    footer = ["| **Total**", *[f"**{port_totals[port]}**" for port in sorted_ports], f"**{sum(port_totals.values())}**"]
+    stats_table_lines.append(" | ".join(footer) + " |")
+    stats_table_string = "\n".join(stats_table_lines)
+
+    # --- Part 3: Build Subscription Links ---
+    protocol_links_string = "\n".join([f"- **{proto.capitalize()}:**\n  ```\n[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/protocols/{proto}.txt\n  ```" for proto in sorted_protocols])
+    port_links_string = "\n".join([f"- **Port {port}:**\n  ```\n[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/{port}.txt\n  ```" for port in sorted_ports])
+
+    # --- Part 4: Build the Source Stats Table ---
+    source_stats_lines = []
+    summary_lines = [
+        f"**Total Fetched (Raw):** {stats['raw_total']}",
+        f"**Duplicates Removed:** {stats['duplicates_removed']}"
+    ]
+    details_lines = [f"**[{name}]({SOURCE_REPOS.get(name, '#')}):** {count} configs" for name, count in sorted(stats['source_stats'].items(), key=lambda item: item[1], reverse=True)]
+    
+    source_stats_lines.extend(["| Summary | Source Details |", "|:---|:---|"])
+    max_len = max(len(summary_lines), len(details_lines))
+    for i in range(max_len):
+        left_col = summary_lines[i] if i < len(summary_lines) else ""
+        right_col = details_lines[i] if i < len(details_lines) else ""
+        source_stats_lines.append(f"| {left_col} | {right_col} |")
+    source_stats_string = "\n".join(source_stats_lines)
+
+    # --- Part 5: Assemble the final README string using an f-string ---
+    final_readme = f"""# Config Collector
 
 [![Auto-Update Status](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml/badge.svg)](https://github.com/hamed1124/port-based-v2ray-configs/actions/workflows/main.yml)
 
@@ -98,13 +144,11 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** <!-- UPDATE_TIME -->
+**Last Updated:** {stats['update_time']}
 
-**Total Unique Configurations:** <!-- TOTAL_CONFIGS -->
+**Total Unique Configurations:** {stats['total_configs']}
 
-<!-- STATS_TABLE_START -->
-*The statistics table will be generated here.*
-<!-- STATS_TABLE_END -->
+{stats_table_string}
 
 ---
 
@@ -112,75 +156,19 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 #### By Protocol
 
-<!-- PROTOCOL_LINKS_START -->
-*Subscription links for protocols will be generated here.*
-<!-- PROTOCOL_LINKS_END -->
+{protocol_links_string}
 
 #### By Famous Ports
 
-<!-- PORT_LINKS_START -->
-*Subscription links for famous ports will be generated here.*
-<!-- PORT_LINKS_END -->
+{port_links_string}
 
 ---
 
 ### 📚 Sources
 
-<!-- SOURCE_STATS_START -->
-*The source statistics table will be generated here.*
-<!-- SOURCE_STATS_END -->
+{source_stats_string}
 """
-    try:
-        print("\nUpdating README.md...")
-
-        detailed_stats = stats.get('detailed_stats', {})
-        protocol_totals = {p: sum(len(cfgs) for cfgs in data.values()) for p, data in detailed_stats.items()}
-        sorted_protocols = sorted(protocol_totals.keys(), key=lambda p: protocol_totals[p], reverse=True)
-        port_totals = {port: sum(len(detailed_stats.get(p, {}).get(port, [])) for p in sorted_protocols) for port in FAMOUS_PORTS}
-        sorted_ports = sorted(port_totals.keys(), key=lambda p: port_totals[p], reverse=True)
-
-        header = "| Protocol | " + " | ".join(sorted_ports) + " | Total |"
-        separator = "|:---| " + " | ".join([":---:" for _ in sorted_ports]) + " |:---:|"
-        table_rows = [header, separator]
-        for proto in sorted_protocols:
-            row = [f"| {proto.capitalize()}"]
-            for port in sorted_ports:
-                row.append(str(len(detailed_stats.get(proto, {}).get(port, []))))
-            row.append(f"**{protocol_totals[proto]}**")
-            table_rows.append(" | ".join(row) + " |")
-        footer = ["| **Total**", *[f"**{port_totals[port]}**" for port in sorted_ports], f"**{sum(port_totals.values())}**"]
-        table_rows.append(" | ".join(footer) + " |")
-        stats_table_string = "\n".join(table_rows)
-
-        protocol_links_string = "\n".join([f"- **{proto.capitalize()}:**\n  ```\n[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/protocols/{proto}.txt\n  ```" for proto in sorted_protocols])
-        port_links_string = "\n".join([f"- **Port {port}:**\n  ```\n[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/){GITHUB_REPO}/main/sub/{port}.txt\n  ```" for port in sorted_ports])
-
-        summary_lines = [
-            f"**Total Fetched (Raw):** {stats['raw_total']}",
-            f"**Duplicates Removed:** {stats['duplicates_removed']}"
-        ]
-        details_lines = [f"**[{name}]({SOURCE_REPOS.get(name, '#')}):** {count} configs" for name, count in sorted(stats['source_stats'].items(), key=lambda item: item[1], reverse=True)]
-        
-        source_table_rows = ["| Summary | Source Details |", "|:---|:---|"]
-        max_len = max(len(summary_lines), len(details_lines))
-        for i in range(max_len):
-            left_col = summary_lines[i] if i < len(summary_lines) else ""
-            right_col = details_lines[i] if i < len(details_lines) else ""
-            source_table_rows.append(f"| {left_col} | {right_col} |")
-        source_stats_string = "\n".join(source_table_rows)
-
-        new_readme_content = template_content.replace('<!-- UPDATE_TIME -->', stats['update_time'])
-        new_readme_content = new_readme_content.replace('<!-- TOTAL_CONFIGS -->', str(stats['total_configs']))
-        new_readme_content = re.sub(r'(<!-- STATS_TABLE_START -->)(.|\n)*?(<!-- STATS_TABLE_END -->)', f'\\1\n{stats_table_string}\n\\3', new_readme_content)
-        new_readme_content = re.sub(r'(<!-- PROTOCOL_LINKS_START -->)(.|\n)*?(<!-- PROTOCOL_LINKS_END -->)', f'\\1\n{protocol_links_string}\n\\3', new_readme_content)
-        new_readme_content = re.sub(r'(<!-- PORT_LINKS_START -->)(.|\n)*?(<!-- PORT_LINKS_END -->)', f'\\1\n{port_links_string}\n\\3', new_readme_content)
-        new_readme_content = re.sub(r'(<!-- SOURCE_STATS_START -->)(.|\n)*?(<!-- SOURCE_STATS_END -->)', f'\\1\n{source_stats_string}\n\\3', new_readme_content)
-        
-        with open('README.md', 'w', encoding='utf-8') as f: f.write(new_readme_content)
-        print("✅ README.md updated successfully with the final layout.")
-
-    except Exception as e:
-        print(f"\n❌ An error occurred while updating README.md: {e}")
+    return final_readme
 
 def main():
     unique_configs, source_stats, raw_total = fetch_all_configs(SOURCES)
@@ -227,8 +215,15 @@ def main():
         "source_stats": source_stats,
         "detailed_stats": categorized_by_protocol_and_port
     }
-    update_readme(stats)
     
+    # Generate the final README content
+    final_readme_content = build_readme_content(stats)
+    
+    # Write the content to the README.md file
+    with open('README.md', 'w', encoding='utf-8') as f:
+        f.write(final_readme_content)
+    print("✅ README.md updated successfully with the final self-contained script.")
+
     print("\n🎉 Project update finished successfully.")
 
 if __name__ == "__main__":
