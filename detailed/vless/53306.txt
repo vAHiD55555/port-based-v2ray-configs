@@ -1,1 +1,0 @@
-vless://42768ada-dfea-4776-8e7d-e5d86c4e6fdb@99.199.73.53:53306?security=tls&sni=prod2-hge-cloud-tl01.cyberscaler.com&type=tcp&host=sourceforge.net-prod2-hge-cloud02.cyberscaler.com&path=%2F&headerType=http&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇨🇦 CA-99.199.73.53:53306
