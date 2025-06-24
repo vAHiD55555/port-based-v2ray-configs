@@ -1,1 +1,2 @@
 vless://fbddfda4-ce1e-4af5-adbd-a70454551a1d@87.236.38.152:58034?security=none&type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.152:58034
+vless://fbddfda4-ce1e-4af5-adbd-a70454551a1d@87.236.38.152:58034?type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-87.236.38.152:58034

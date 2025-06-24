@@ -1,1 +1,2 @@
 trojan://Aimer@154.21.93.92:37955?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-154.21.93.92:37955
+trojan://Aimer@154.21.93.92:37955?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#US19
