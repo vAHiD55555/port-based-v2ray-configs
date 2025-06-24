@@ -16,6 +16,11 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 *The statistics table will be generated here.*
 <!-- STATS_TABLE_END -->
 
+<!-- SOURCE_STATS_START -->
+---
+*The source statistics table will be generated here.*
+<!-- SOURCE_STATS_END -->
+
 ---
 
 ### 🚀 Subscription Links
@@ -31,19 +36,3 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 <!-- PORT_LINKS_START -->
 *Subscription links for famous ports will be generated here.*
 <!-- PORT_LINKS_END -->
-
----
-
-### 📚 Sources
-
-This project collects configurations from the following aggregate repositories. A huge thanks to their maintainers:
-
-- **V2ray-Config** by [barry-far](https://github.com/barry-far/V2ray-Config)
-- **V2RayAggregator** by [mahdibland](https://github.com/mahdibland/V2RayAggregator)
-- **v2ray-configs** by [Epodonios](https://github.com/Epodonios/v2ray-configs)
-- **telegram-configs-collector** by [soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector)
-
-<!-- SOURCE_STATS_START -->
----
-*The source statistics table will be generated here.*
-<!-- SOURCE_STATS_END -->
