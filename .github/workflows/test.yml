@@ -1,4 +1,4 @@
-name: 2. Speed Test Collected Configs
+name: 2. Test Manual Configs
 
 on:
   workflow_run:
@@ -28,25 +28,26 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Run the tester on all configs
+      - name: Test known working configs from manual_test.txt
         run: |
-          # تست روی تمام کانفیگ‌ها و هدایت تمام خروجی‌ها به فایل لاگ
-          ./lite-linux-amd64-v0.14.1 -test sub/all.txt -p 200 > results.log 2>&1
-          
-          # فیلتر کردن کانفیگ‌های سالم و پرسرعت و مرتب‌سازی بر اساس سرعت
-          cat results.log | grep '^{' | jq -r 'select(.result.ok == true and .result.speed > 1.0) | .result.speed as $speed | .link as $link | {speed: $speed, link: $link}' | jq -s 'sort_by(.speed) | reverse | .[] | .link' > sub/tested_configs.txt
+          # فقط در صورتی تست کن که فایل دستی وجود داشته باشد
+          if [ -f manual_test.txt ]; then
+            echo "Testing configs from manual_test.txt..."
+            ./lite-linux-amd64-v0.14.1 -test manual_test.txt -p 100 2>&1 | grep '^{' | jq -r 'select(.result.ok == true) | .link' > sub/tested_manual_configs.txt
+          else
+            echo "manual_test.txt not found. Skipping test."
+            touch sub/tested_manual_configs.txt
+          fi
 
       - name: Commit and push tested configs
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          # حذف فایل‌های موقت
-          rm -f results.log
-          git add sub/tested_configs.txt
+          git add sub/tested_manual_configs.txt
           
-          if [ -s sub/tested_configs.txt ]; then
-            git commit -m "Add/Update speed-tested configs" || echo "No changes to commit"
+          if [ -s sub/tested_manual_configs.txt ]; then
+            git commit -m "Add/Update manually tested configs" || echo "No changes to commit"
             git push
           else
-            echo "No nodes passed the speed test. No commit needed."
+            echo "No nodes from manual_test.txt passed the test. No commit needed."
           fi
