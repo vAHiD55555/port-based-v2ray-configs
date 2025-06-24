@@ -1,2 +1,2 @@
-trojan://ttfang@138.2.100.221:26621?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#🔒 TR-WS-TLS 🇸🇬 SG-138.2.100.221:26621
 trojan://ttfang@138.2.100.221:26621?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-138.2.100.221:26621
+trojan://ttfang@138.2.100.221:26621?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#🔒 TR-WS-TLS 🇸🇬 SG-138.2.100.221:26621
