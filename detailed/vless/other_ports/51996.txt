@@ -1,4 +1,4 @@
-vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@45.82.138.39:51996?security=none&type=tcp&host=www.google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.82.138.39:51996
-vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@185.231.182.198:51996?security=none&type=tcp&host=www.google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.231.182.198:51996
 vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@62.60.204.74:51996?security=none&type=tcp&host=www.google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.204.74:51996
 vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@45.82.138.240:51996?security=none&type=tcp&host=www.google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.82.138.240:51996
+vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@185.231.182.198:51996?security=none&type=tcp&host=www.google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.231.182.198:51996
+vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@45.82.138.39:51996?security=none&type=tcp&host=www.google.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.82.138.39:51996
