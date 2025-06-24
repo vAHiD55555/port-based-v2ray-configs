@@ -29,7 +29,7 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 - **Vless:**
   ```
-[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt
+https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt
   ```
 - **Trojan:**
   ```
@@ -60,7 +60,7 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
   ```
 - **Port 2096:**
   ```
-[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)hamed1124/port-based-v2ray-configs/main/sub/2096.txt
+[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2096.txt
   ```
 - **Port 8080:**
   ```
