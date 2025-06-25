@@ -1,1 +1,2 @@
+vless://4dc8a288-f838-4b1b-8768-c0b8fe9f45c5@193.228.168.66:41376?security=none&type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.228.168.66:41376
 vless://4dc8a288-f838-4b1b-8768-c0b8fe9f45c5@193.228.168.66:41376?type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-193.228.168.66:41376
