@@ -1,1 +1,2 @@
 vless://4b8fa6eb-2834-4bc3-acf9-971819ae42a0@2.189.85.180:3060?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-2.189.85.180:3060
+vless://4b8fa6eb-2834-4bc3-acf9-971819ae42a0@2.189.85.180:3060?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.85.180:3060

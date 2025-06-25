@@ -1,2 +1,2 @@
-vless://272a9b53-172b-4f7f-87aa-d70237de1648@87.248.154.180:25054?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.248.154.180:25054
 vless://272a9b53-172b-4f7f-87aa-d70237de1648@87.248.154.214:25054?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.248.154.214:25054
+vless://272a9b53-172b-4f7f-87aa-d70237de1648@87.248.154.180:25054?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.248.154.180:25054
