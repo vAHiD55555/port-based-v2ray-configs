@@ -1,1 +1,1 @@
-vless://e71b96b5-63bc-4387-8471-582aff68afb1@85.133.201.194:2775?security=none&type=tcp&host=fararu.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.201.194:2775
+vless://e71b96b5-63bc-4387-8471-582aff68afb1@85.133.201.194:2775?type=tcp&host=fararu.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.133.201.194:2775

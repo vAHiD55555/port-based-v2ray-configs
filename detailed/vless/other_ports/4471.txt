@@ -1,1 +1,2 @@
+vless://fdf85f13-94b3-47ca-ab79-f90463f155ed@185.239.1.44:4471?security=none&type=tcp&host=irna.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.239.1.44:4471
 vless://b3d0438a-195e-4b37-b9ac-27e07781ba38@79.127.70.66:4471?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-79.127.70.66:4471

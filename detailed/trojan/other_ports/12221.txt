@@ -1,3 +1,1 @@
-trojan://f6df0dd1-3ea7-449b-8f54-b95fde3adc2e@120.198.71.173:12221?security=tls&sni=mmbiz.redapricotcloud.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.198.71.173:12221
 trojan://f6df0dd1-3ea7-449b-8f54-b95fde3adc2e@120.198.71.173:12221?security=tls&sni=mmbiz.redapricotcloud.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-120.198.71.173:12221
-trojan://f6df0dd1-3ea7-449b-8f54-b95fde3adc2e@120.198.71.173:12221?security=tls&type=tcp&sni=mmbiz.redapricotcloud.com#%E6%9C%AA%E7%9F%A572
