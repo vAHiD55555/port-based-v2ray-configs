@@ -1,2 +1,1 @@
 vless://e2ef8941-008b-4bd5-b31f-d6397cc0c74b@87.107.172.70:56823?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.172.70:56823
-vless://2185121f-2760-4043-aa10-46ccb285c4f6@87.107.172.70:56823?type=tcpHa&headerType=http#🔒 VL-TCPHA-NA 🇮🇷 IR-87.107.172.70:56823

@@ -1,2 +1,2 @@
+vless://1a2b6387-6e32-4507-a5b0-b96017dab463@84.47.232.214:2058?type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-84.47.232.214:2058
 vless://1a2b6387-6e32-4507-a5b0-b96017dab463@84.47.232.214:2058?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.232.214:2058
-vless://1a2b6387-6e32-4507-a5b0-b96017dab463@84.47.232.214:2058?security=none&type=tcp&host=divarcdn.com&headerType=http&fp=chrome#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.232.214:2058
