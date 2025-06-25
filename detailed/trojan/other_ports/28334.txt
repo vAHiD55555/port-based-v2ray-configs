@@ -1,3 +1,3 @@
-trojan://ZI3OeTA9Clx3AFS78DejwENjaZAa3FSwSluxY3EOClyycDqyzpYD0a6DI2eS28q7X3NpC@154.17.28.98:28334?sni=aluminum.wireshop.net&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-154.17.28.98:28334
-trojan://l3ESwpOSN3FYFAR93RYe6SAyxa0XSFC2zlSaqTClDZ4OAanXOxweCDZznRc28DyY3yTID@154.31.114.182:28334?security=tls&sni=sakoku.meijireform.com#🔒 TR-TCP-TLS 🇯🇵 JP-154.31.114.182:28334
 trojan://ZI3OeTA9Clx3AFS78DejwENjaZAa3FSwSluxY3EOClyycDqyzpYD0a6DI2eS28q7X3NpC@154.17.28.98:28334?sni=aluminum.wireshop.net#🔒 TR-TCP-NA 🇺🇸 US-154.17.28.98:28334
+trojan://l3ESwpOSN3FYFAR93RYe6SAyxa0XSFC2zlSaqTClDZ4OAanXOxweCDZznRc28DyY3yTID@154.31.114.182:28334?security=tls&sni=sakoku.meijireform.com#🔒 TR-TCP-TLS 🇯🇵 JP-154.31.114.182:28334
+trojan://ZI3OeTA9Clx3AFS78DejwENjaZAa3FSwSluxY3EOClyycDqyzpYD0a6DI2eS28q7X3NpC@154.17.28.98:28334?sni=aluminum.wireshop.net&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-154.17.28.98:28334

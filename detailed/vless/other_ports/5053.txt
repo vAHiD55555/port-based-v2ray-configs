@@ -1,2 +1,2 @@
-vless://2cf55e47-b788-43b3-8e2c-bc0672991b88@2.189.175.37:5053?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.175.37:5053
 vless://aa2be8f1-32f2-4358-a2d3-e98f3c458955@165.232.39.122:5053?security=reality&sni=refersion.com&type=tcp&fp=firefox&pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604#🔒 VL-TCP-RLT 🇬🇧 GB-165.232.39.122:5053
+vless://2cf55e47-b788-43b3-8e2c-bc0672991b88@2.189.175.37:5053?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.175.37:5053

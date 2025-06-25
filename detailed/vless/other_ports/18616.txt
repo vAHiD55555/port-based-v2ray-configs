@@ -1,1 +1,2 @@
 vless://8058f619-5305-4c4c-b764-509685f68c91@99.199.73.53:18616?security=none&type=tcp&host=sourceforge.net&headerType=http#🔒 VL-TCP-NONE 🇨🇦 CA-99.199.73.53:18616
+vless://8b221384-5793-461c-c754-bf83bfe10eda@99.199.73.53:18616?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇨🇦 CA-99.199.73.53:18616
