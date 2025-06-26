@@ -1,2 +1,6 @@
-vless://c78bce12-1796-466f-b8a0-800c32b06679@45.159.148.165:4555?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.165:4555
 vless://7c1438c0-f28b-4fdf-821e-558931edac3e@45.159.148.165:4555?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.165:4555
+vless://c78bce12-1796-466f-b8a0-800c32b06679@104.21.41.241:4555?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-104.21.41.241:4555
+vless://c78bce12-1796-466f-b8a0-800c32b06679@45.159.148.165:4555?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.165:4555
+vless://c78bce12-1796-466f-b8a0-800c32b06679@[2606:4700:3032::ac43:c4f2]:4555?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-[2606:4700:3032::ac43:c4f2]:4555
+vless://c78bce12-1796-466f-b8a0-800c32b06679@[2606:4700:3033::6815:29f1]:4555?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-[2606:4700:3033::6815:29f1]:4555
+vless://c78bce12-1796-466f-b8a0-800c32b06679@172.67.196.242:4555?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-172.67.196.242:4555

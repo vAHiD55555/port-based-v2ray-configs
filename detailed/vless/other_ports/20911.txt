@@ -1,1 +1,1 @@
-vless://623a1b9d-bf41-4181-9466-d099996dc706@99.199.73.53:20911?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇨🇦 CA-99.199.73.53:20911
+vless://5573c35c-76f6-459c-8ed2-4bdb9da31ffd@99.199.73.53:20911?security=none&type=tcp&host=www.speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇨🇦 CA-99.199.73.53:20911

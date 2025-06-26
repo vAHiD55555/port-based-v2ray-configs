@@ -1,2 +1,1 @@
 vless://0dd5ea89-7171-41e6-840c-b52773dde4a0@154.90.54.4:16075?type=tcp#🔒 VL-TCP-NA 🇦🇪 AE-154.90.54.4:16075
-vless://f989cf76-ac22-4fe4-ae9a-dcbcf0aab6ac@154.90.54.4:16075?security=none&type=tcp#🔒 VL-TCP-NONE 🇦🇪 AE-154.90.54.4:16075
