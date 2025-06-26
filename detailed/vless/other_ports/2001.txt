@@ -1,3 +1,2 @@
-vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-78.111.84.137:2001
-vless://eff6dd56-ce95-498b-ae46-11daf010dbf5@5.83.150.30:2001?type=tcp&host=xbox.com&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-5.83.150.30:2001
 vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NA 🇫🇮 FI-37.27.220.198:2001
+vless://eff6dd56-ce95-498b-ae46-11daf010dbf5@5.83.150.30:2001?type=tcp&host=xbox.com&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-5.83.150.30:2001
