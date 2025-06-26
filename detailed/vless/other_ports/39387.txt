@@ -1,7 +1,2 @@
-vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@85.133.249.124:39387?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.249.124:39387
-vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@2.189.85.218:39387?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.85.218:39387
-vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@185.231.180.111:39387?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.231.180.111:39387
 vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@185.226.119.38:39387?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.226.119.38:39387
-vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@94.182.142.23:39387?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.142.23:39387
 vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@5.202.14.221:39387?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.14.221:39387
-vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@5.160.197.144:39387?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.197.144:39387

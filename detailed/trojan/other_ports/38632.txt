@@ -1,1 +1,2 @@
 trojan://HrTsLJvh@36.151.251.62:38632?security=tls&sni=TG.WangCai2&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-36.151.251.62:38632
+trojan://HrTsLJvh@36.151.251.62:38632?security=tls&type=tcp&sni=TG.WangCai2#%E6%9C%AA%E7%9F%A524

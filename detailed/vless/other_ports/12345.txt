@@ -1,2 +1,2 @@
-vless://329535df-1a2f-4ff3-9426-c0ffc1ec772d@159.223.216.68:12345?security=none&type=tcp&host=uplod.ir&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-159.223.216.68:12345
 vless://874bac05-f530-406f-a57f-a3b329e18917@51.89.229.26:12345?security=reality&sni=www.stackoverflow.com&type=tcp&path=/@Vpn_Mikey،@Vpn_Mikey&headerType=http&fp=chrome&pbk=cjHs5dUmE_JJisr3JZKEqVk93HoocY_5Vd3baedRrx4&sid=b4d2#🔒 VL-TCP-RLT 🇬🇧 GB-51.89.229.26:12345
+vless://329535df-1a2f-4ff3-9426-c0ffc1ec772d@159.223.216.68:12345?security=none&type=tcp&host=uplod.ir&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-159.223.216.68:12345

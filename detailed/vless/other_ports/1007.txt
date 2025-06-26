@@ -1,2 +1,1 @@
 vless://f8765e8a-8e83-41da-8379-451ddd2cf56a@185.83.182.217:1007?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.182.217:1007
-vless://f2c9ff01-a155-408c-9f9e-53031c10e60c@78.39.47.173:1007?type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-78.39.47.173:1007

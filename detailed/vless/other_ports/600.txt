@@ -1,3 +1,2 @@
 vless://bffceece-a818-45d2-ad04-eb819eec8f78@109.172.54.5:600?security=tls&sni=marzban.negintel.xyz&type=tcp#🔒 VL-TCP-TLS 🇫🇮 FI-109.172.54.5:600
-vless://b54e6e70-1379-4055-8584-8baccb4e5789@165.22.77.172:600?security=tls&sni=marzban.negintel.xyz&type=tcp&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇩🇪 DE-165.22.77.172:600
 vless://bb138034-fb6a-4668-8736-222b4a15dbd8@92.114.20.16:600?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.20.16:600

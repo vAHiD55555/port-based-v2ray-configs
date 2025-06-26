@@ -1,2 +1,2 @@
+vless://2b4a6b04-9924-4206-b08a-9f0e81382efa@91.99.86.28:54848?security=none&type=tcp&host=anten.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.86.28:54848
 vless://2b4a6b04-9924-4206-b08a-9f0e81382efa@212.80.9.180:54848?security=none&type=tcp&host=anten.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.9.180:54848
-vless://2b4a6b04-9924-4206-b08a-9f0e81382efa@178.239.146.9:54848?security=none&type=tcp&host=anten.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.146.9:54848
