@@ -1,7 +1,7 @@
-trojan://96cad374-7573-4463-8804-4665c2c3d932@18.143.179.35:6001?#🔒 TR-TCP-NA 🇸🇬 SG-18.143.179.35:6001
 trojan://96cad374-7573-4463-8804-4665c2c3d932@18.143.93.20:6001?#🔒 TR-TCP-NA 🇸🇬 SG-18.143.93.20:6001
-trojan://96cad374-7573-4463-8804-4665c2c3d932@47.128.216.161:6001?security=tls&sni=ho82IA13QmjF5Atv.apple.com#🔒 TR-TCP-TLS 🇸🇬 SG-47.128.216.161:6001
-trojan://96cad374-7573-4463-8804-4665c2c3d932@52.77.220.89:6001?security=tls&sni=tj-hk-2.aikunapp.com&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-52.77.220.89:6001
-trojan://96cad374-7573-4463-8804-4665c2c3d932@47.128.216.161:6001?security=tls&sni=ho82IA13QmjF5Atv.apple.com#%E6%9C%AA%E7%9F%A589
 trojan://96cad374-7573-4463-8804-4665c2c3d932@13.250.16.38:6001?#🔒 TR-TCP-NA 🇸🇬 SG-13.250.16.38:6001
+trojan://96cad374-7573-4463-8804-4665c2c3d932@47.128.216.161:6001?security=tls&sni=ho82IA13QmjF5Atv.apple.com#🔒 TR-TCP-TLS 🇸🇬 SG-47.128.216.161:6001
+trojan://96cad374-7573-4463-8804-4665c2c3d932@47.128.216.161:6001?security=tls&sni=ho82IA13QmjF5Atv.apple.com#%E6%9C%AA%E7%9F%A589
+trojan://96cad374-7573-4463-8804-4665c2c3d932@52.77.220.89:6001?security=tls&sni=tj-hk-2.aikunapp.com&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-52.77.220.89:6001
 trojan://96cad374-7573-4463-8804-4665c2c3d932@18.143.93.20:6001?allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-18.143.93.20:6001
+trojan://96cad374-7573-4463-8804-4665c2c3d932@18.143.179.35:6001?#🔒 TR-TCP-NA 🇸🇬 SG-18.143.179.35:6001

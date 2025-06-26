@@ -1,0 +1,2 @@
+vless://9ab6e7f3-e771-4ac3-95aa-e22ac4ee7a0d@217.60.198.134:42686?security=none&type=tcp&host=head.irshecan.com&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.198.134:42686
+vless://9ab6e7f3-e771-4ac3-95aa-e22ac4ee7a0d@217.60.198.146:42686?security=none&type=tcp&host=head.irshecan.com&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-217.60.198.146:42686
