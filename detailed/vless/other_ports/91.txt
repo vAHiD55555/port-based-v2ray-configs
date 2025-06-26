@@ -1,1 +1,2 @@
+vless://0845a79e-3324-4416-982f-e1f5dd8151d7@164.90.168.55:91?security=none&type=tcp&host=Cloudflare.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-164.90.168.55:91
 vless://80c7995a-2dd5-4e38-8f3c-6d5617ebcee4@185.14.160.52:91?security=tls&sni=m7.mjsariii.top&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-185.14.160.52:91
