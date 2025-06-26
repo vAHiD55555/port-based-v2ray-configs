@@ -1,2 +1,1 @@
-vless://83bce2cc-5b32-4246-80bd-6cdd0fd1c714@103.249.132.237:9191?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-103.249.132.237:9191
 vless://453da4f7-c1cb-4a1f-b15a-a513b5305a3d@185.49.105.236:9191?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.49.105.236:9191
