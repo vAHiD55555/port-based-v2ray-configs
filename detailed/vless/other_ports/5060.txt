@@ -1,1 +1,2 @@
 vless://5d8b8f8c-2b06-49cd-b4ea-08dee087a967@91.240.95.48:5060?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-91.240.95.48:5060
+vless://5d8b8f8c-2b06-49cd-b4ea-08dee087a967@91.240.95.48:5060?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-91.240.95.48:5060

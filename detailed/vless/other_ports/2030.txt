@@ -1,3 +1,4 @@
-vless://9164db4d-862a-4e00-938c-77cbae9b3189@212.16.71.76:2030?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.16.71.76:2030
+vless://54e25aa4-0340-4791-be67-d6320db32e74@141.227.140.42:2030?security=reality&sni=wordpress.org&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#🔒 VL-GRPC-RLT 🇮🇹 IT-141.227.140.42:2030
 vless://4dc8f79d-ae3a-4288-5b4a-11eb9c453dbb@45.159.148.122:2030?security=none&type=tcp&host=yasdl.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.122:2030
 vless://41cab7f4-a25d-467f-4830-b4cc805aa68f@45.159.148.122:2030?security=none&type=tcp&host=yasdl.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.122:2030
+vless://9164db4d-862a-4e00-938c-77cbae9b3189@212.16.71.76:2030?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.16.71.76:2030
