@@ -1,2 +1,1 @@
 trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@62.220.127.47:6000?security=tls&sni=node1.servernode.store&type=tcp#🔒 TR-TCP-TLS 🇮🇷 IR-62.220.127.47:6000
-trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@62.220.127.47:6000?security=tls&type=tcp&sni=node1.servernode.store#%E6%9C%AA%E7%9F%A560
