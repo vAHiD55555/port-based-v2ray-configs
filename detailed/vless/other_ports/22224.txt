@@ -1,3 +1,2 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.236.205:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒 VL-WS-TLS 🇫🇷 FR-15.237.236.205:22224
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.66.186:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒 VL-WS-TLS 🇫🇷 FR-13.39.66.186:22224
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.36.198:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒 VL-WS-TLS 🇩🇪 DE-3.74.36.198:22224
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.206.161:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒 VL-WS-TLS 🇫🇷 FR-35.181.206.161:22224
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.252.0:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒 VL-WS-TLS 🇩🇪 DE-35.158.252.0:22224

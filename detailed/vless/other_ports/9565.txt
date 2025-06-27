@@ -1,0 +1,2 @@
+vless://61bf12ed-a82d-4b83-9807-cf08b9f0de54@185.133.125.178:9565?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.178:9565
+vless://b61cc5a5-6bc9-4cae-95db-e4f7445677ae@185.133.125.178:9565?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.133.125.178:9565

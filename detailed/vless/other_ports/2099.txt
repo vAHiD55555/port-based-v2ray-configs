@@ -1,1 +1,1 @@
-vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?encryption=tls&type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-109.122.255.184:2099
+vless://2a891f1d-8727-46e2-b7b4-a8f56c43fd4b@213.176.2.16:2099?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-213.176.2.16:2099
