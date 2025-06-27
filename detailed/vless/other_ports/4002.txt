@@ -1,2 +1,2 @@
-vless://adb34ed3-d31e-40cb-8e54-4d2d83f5908e@46.38.148.83:4002?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.148.83:4002
 vless://adb34ed3-d31e-40cb-8e54-4d2d83f5908e@46.38.148.83:4002?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-46.38.148.83:4002
+vless://adb34ed3-d31e-40cb-8e54-4d2d83f5908e@46.38.148.83:4002?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.148.83:4002
