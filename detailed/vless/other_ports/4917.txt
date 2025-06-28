@@ -1,1 +1,2 @@
 vless://8d46a3da-d5ae-4418-b3b4-511200b14c59@46.38.149.174:4917?type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-46.38.149.174:4917
+vless://805908a4-893d-44fa-b925-3ae660dd1564@185.215.228.253:4917?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.215.228.253:4917

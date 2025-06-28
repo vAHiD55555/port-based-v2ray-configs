@@ -1,1 +1,1 @@
-vless://46fca1a5-2dbd-4076-8ebb-131caf77bcec@109.122.241.96:1162?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.122.241.96:1162
+vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@109.122.241.96:1162?security=none&type=tcp&path=%2Fmomasvpn&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.122.241.96:1162
