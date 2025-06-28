@@ -1,6 +1,5 @@
 trojan://ttfang@144.24.87.69:50001?sni=ttfang.fange.me#🔒 TR-TCP-NA 🇰🇷 KR-144.24.87.69:50001
-trojan://Aimer@118.36.92.99:50001?sni=epma.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-118.36.92.99:50001
-trojan://Aimer@118.36.92.99:50001?sni=epma.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
 trojan://Aimer@118.36.92.99:50001?sni=epma.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-118.36.92.99:50001
+trojan://Aimer@118.36.92.99:50001?sni=epma.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-118.36.92.99:50001
 trojan://Aimer@211.57.90.42:50001?sni=epccf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-211.57.90.42:50001
 trojan://Aimer@118.43.90.224:50001?security=tls&sni=epmg.ambercc.filegear-sg.me&type=ws&host=epmg.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇰🇷 KR-118.43.90.224:50001
