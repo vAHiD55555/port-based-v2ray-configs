@@ -8,17 +8,17 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-06-27 23:43:08 Tehran Time
+**Last Updated:** 2025-06-28 04:20:03 Tehran Time
 
-**Total Unique Configurations (Working):** 19481
+**Total Unique Configurations (Working):** 19888
 
 | Protocol | 443 | 80 | 2096 | 2053 | 2087 | 8080 | 2083 | 2052 | 2095 | 2086 | 2082 | 8088 | Other Ports | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|
-| Vless | 5201 | 1681 | 463 | 269 | 312 | 242 | 210 | 167 | 135 | 129 | 100 | 9 | 5811 | **14729** |
-| Trojan | 2154 | 24 | 151 | 203 | 144 | 8 | 163 | 0 | 0 | 0 | 0 | 0 | 593 | **3440** |
-| Ss | 267 | 9 | 0 | 0 | 0 | 166 | 0 | 0 | 0 | 0 | 0 | 0 | 868 | **1310** |
+| Vless | 5292 | 1749 | 473 | 279 | 317 | 248 | 210 | 170 | 139 | 134 | 108 | 10 | 5927 | **15056** |
+| Trojan | 2180 | 24 | 158 | 203 | 145 | 8 | 165 | 0 | 0 | 0 | 0 | 0 | 600 | **3483** |
+| Ss | 265 | 9 | 0 | 0 | 0 | 171 | 0 | 0 | 0 | 0 | 0 | 0 | 902 | **1347** |
 | Hysteria2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | **2** |
-| **Total** | **7622** | **1714** | **614** | **472** | **456** | **416** | **373** | **167** | **135** | **129** | **100** | **9** | **7274** | **19481** |
+| **Total** | **7737** | **1782** | **631** | **482** | **462** | **427** | **375** | **170** | **139** | **134** | **108** | **10** | **7431** | **19888** |
 
 ---
 
@@ -90,8 +90,8 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 | Summary | Source Details |
 |:---|:---|
-| **Total Fetched (Raw):** 59572 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 20476 configs |
-| **Duplicates Removed:** 30961 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 17586 configs |
-| --- | **[soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector):** 16575 configs |
-| **Unique Configs Tested:** 28611 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4935 configs |
-| **Working Configs Found:** 19481 |  |
+| **Total Fetched (Raw):** 59608 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 20476 configs |
+| **Duplicates Removed:** 30597 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 17590 configs |
+| --- | **[soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector):** 16607 configs |
+| **Unique Configs Tested:** 29011 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4935 configs |
+| **Working Configs Found:** 19888 |  |

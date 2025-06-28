@@ -1,2 +1,2 @@
-vless://eff6dd56-ce95-498b-ae46-11daf010dbf5@5.83.150.30:2001?type=tcp&host=xbox.com&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-5.83.150.30:2001
 vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NA 🇫🇮 FI-37.27.220.198:2001
+vless://eff6dd56-ce95-498b-ae46-11daf010dbf5@5.83.150.30:2001?type=tcp&host=xbox.com&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-5.83.150.30:2001
