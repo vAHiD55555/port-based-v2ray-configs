@@ -1,2 +1,3 @@
 vless://d8810bbc-ae3f-43ad-bc8d-4f3ee0ef02a5@138.68.96.231:6890?type=tcp#🔒 VL-TCP-NA 🇩🇪 DE-138.68.96.231:6890
+vless://498b2237-0990-41b3-921d-dc69f23d3c93@46.101.169.90:6890?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-46.101.169.90:6890
 vless://d8810bbc-ae3f-43ad-bc8d-4f3ee0ef02a5@46.101.169.90:6890?type=tcp#🔒 VL-TCP-NA 🇩🇪 DE-46.101.169.90:6890
