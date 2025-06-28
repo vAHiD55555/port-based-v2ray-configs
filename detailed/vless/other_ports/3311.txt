@@ -1,3 +1,5 @@
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@62.60.249.178:3311?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-62.60.249.178:3311
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@77.221.158.149:3311?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-77.221.158.149:3311
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@77.221.158.149:3311?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-77.221.158.149:3311
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-213.176.0.144:3311
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-85.133.215.188:3311

@@ -1,2 +1,1 @@
 vless://2fa19c27-05b2-45b9-abce-4ca6371d7f75@37.202.228.27:44628?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.228.27:44628
-vless://2fa19c27-05b2-45b9-abce-4ca6371d7f75@45.94.213.124:44628?type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-45.94.213.124:44628

@@ -1,2 +1,2 @@
+vless://52ddd2b7-d2da-4169-b11d-b51679c01eb0@91.99.140.98:9090?security=reality&sni=refersion.com&type=grpc&serviceName=mgrpcm&fp=firefox&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&sid=e17185329455b179#🔒 VL-GRPC-RLT 🇩🇪 DE-91.99.140.98:9090
 vless://31a0713a-2c36-41ec-8bc5-52a5f546cc4e@46.38.150.199:9090?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.150.199:9090
-vless://8cc6d208-a2d8-42f2-e366-6fe8483801cf@85.9.121.124:9090?security=none&type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.121.124:9090
