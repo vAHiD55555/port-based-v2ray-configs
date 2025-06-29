@@ -1,1 +1,1 @@
-vless://3e11c334-1a82-4988-8dcc-b8bac99bab18@138.197.44.159:8585?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-138.197.44.159:8585
+vless://c64829ed-b7c9-407b-bb2d-f72ce7840df2@91.99.203.43:8585?security=reality&sni=tgju.org&type=tcp&fp=firefox&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&sid=ea0e387f2b260e0d#🔒 VL-TCP-RLT 🇩🇪 DE-91.99.203.43:8585
