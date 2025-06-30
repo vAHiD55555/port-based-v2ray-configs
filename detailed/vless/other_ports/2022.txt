@@ -1,2 +1,2 @@
-vless://f08e95ae-5e18-40aa-992d-8a50a3e91f74@31.58.237.83:2022?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-31.58.237.83:2022
 vless://dc348913-8eec-4535-b9f8-814d63b24301@94.182.83.82:2022?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.83.82:2022
+vless://f08e95ae-5e18-40aa-992d-8a50a3e91f74@31.58.237.83:2022?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-31.58.237.83:2022

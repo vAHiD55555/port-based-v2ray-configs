@@ -1,3 +1,2 @@
-trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@52.195.213.163:20230?security=tls&sni=421421.xyz#🔒 TR-TCP-TLS 🇯🇵 JP-52.195.213.163:20230
 trojan://072c477b-90c1-4600-998f-1a2990542782@52.195.213.163:20230?allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-52.195.213.163:20230
 trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@13.229.51.85:20230?sni=421421.xyz&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-13.229.51.85:20230
