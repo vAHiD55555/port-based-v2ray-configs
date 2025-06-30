@@ -1,2 +1,3 @@
-vless://d8475b82-f561-4e8b-99b4-b03158810dd0@91.99.186.203:2089?security=reality&sni=refersion.com&type=tcp&host=refersion.com&fp=chrome&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&sid=e3c5c005cae07eb8#🔒 VL-TCP-RLT 🇩🇪 DE-91.99.186.203:2089
+vless://d8475b82-f561-4e8b-99b4-b03158810dd0@91.99.186.203:2089?security=reality&sni=refersion.com&type=tcp&host=refersion.com&fp=firefox&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&sid=e3c5c005cae07eb8#🔒 VL-TCP-RLT 🇩🇪 DE-91.99.186.203:2089
+vless://d8475b82-f561-4e8b-99b4-b03158810dd0@103.231.75.184:2089?security=reality&sni=microsoft.org&type=tcp&fp=firefox&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&sid=e3c5c005cae07eb8#🔒 VL-TCP-RLT 🇹🇷 TR-103.231.75.184:2089
 vless://a953e567-ce00-4c95-a96f-6e9fd55d4378@78.39.9.155:2089?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-78.39.9.155:2089

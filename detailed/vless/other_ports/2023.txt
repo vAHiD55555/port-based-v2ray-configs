@@ -1,1 +1,2 @@
 vless://737d83d2-368e-430b-8292-7a7f1d38d783@62.60.176.61:2023?security=none&type=grpc&serviceName=2023vless#🔒 VL-GRPC-NONE 🇮🇷 IR-62.60.176.61:2023
+vless://bf05ec75-6d48-460f-b719-f9ebb1257c26@193.141.126.114:2023?type=grpc&serviceName=2023vless#🔒 VL-GRPC-NA 🇮🇷 IR-193.141.126.114:2023
