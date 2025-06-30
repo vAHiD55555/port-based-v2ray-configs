@@ -1,3 +1,3 @@
-vless://37c6ed34-9359-41d1-9c41-485392b54a23@87.236.38.42:2400?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.42:2400
-vless://37c6ed34-9359-41d1-9c41-485392b54a23@87.236.38.36:2400?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.36:2400
 vless://37c6ed34-9359-41d1-9c41-485392b54a23@87.236.38.49:2400?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.49:2400
+vless://37c6ed34-9359-41d1-9c41-485392b54a23@87.236.38.36:2400?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.36:2400
+vless://37c6ed34-9359-41d1-9c41-485392b54a23@87.236.38.42:2400?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.42:2400
