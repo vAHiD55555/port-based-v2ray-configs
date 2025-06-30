@@ -1,3 +1,1 @@
-trojan://telegram-id-privatevpns@51.44.59.118:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.59.118:22222
-trojan://telegram-id-privatevpns@13.37.59.91:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.37.59.91-5119
-trojan://telegram-id-privatevpns@13.37.59.91:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.59.91:22222
+trojan://telegram-id-privatevpns@18.198.80.85:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.198.80.85:22222

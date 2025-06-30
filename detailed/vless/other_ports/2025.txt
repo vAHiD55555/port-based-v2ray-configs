@@ -1,4 +1,2 @@
-vless://be91a34d-6faf-43b6-a70b-14e12e5cf973@209.38.243.0:2025?security=reality&sni=journalofbigdata.springeropen.com&type=grpc&fp=chrome&pbk=hQhLQS4IVfzjFrTD5unsIJJDfEcJrXQgDezwjMxL8x0&sid=a0d3059a#🔒 VL-GRPC-RLT 🇩🇪 DE-209.38.243.0:2025
 vless://be91a34d-6faf-43b6-a70b-14e12e5cf973@209.38.243.0:2025?security=reality&sni=journalofbigdata.springeropen.com&type=grpc&fp=random&pbk=hQhLQS4IVfzjFrTD5unsIJJDfEcJrXQgDezwjMxL8x0&sid=a0d3059a#🔒 VL-GRPC-RLT 🇩🇪 DE-209.38.243.0:2025
 vless://38da6bf8-a35f-4a75-84b4-39e894e938d9@31.58.237.83:2025?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-31.58.237.83:2025
-vless://e8a78312-5989-4b00-bf4f-75eef7819168@37.32.5.234:2025?security=none&type=grpc&serviceName=vless#🔒 VL-GRPC-NONE 🇮🇷 IR-37.32.5.234:2025
