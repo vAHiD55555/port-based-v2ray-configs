@@ -1,5 +1,4 @@
+vless://421403de-ca02-4d34-ac5b-c98262a8ed48@94.182.107.17:9898?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.107.17:9898
 vless://421403de-ca02-4d34-ac5b-c98262a8ed48@37.202.225.163:9898?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.225.163:9898
 vless://421403de-ca02-4d34-ac5b-c98262a8ed48@37.202.225.162:9898?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.225.162:9898
-vless://421403de-ca02-4d34-ac5b-c98262a8ed48@94.182.107.17:9898?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.107.17:9898
 vless://421403de-ca02-4d34-ac5b-c98262a8ed48@37.202.225.164:9898?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.225.164:9898
-vless://421403de-ca02-4d34-ac5b-c98262a8ed48@178.239.148.50:9898?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.148.50:9898

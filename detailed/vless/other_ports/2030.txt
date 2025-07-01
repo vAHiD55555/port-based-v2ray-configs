@@ -1,2 +1,1 @@
-vless://9164db4d-862a-4e00-938c-77cbae9b3189@212.16.71.76:2030?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.16.71.76:2030
-vless://4dc8f79d-ae3a-4288-5b4a-11eb9c453dbb@45.159.148.122:2030?security=none&type=tcp&host=yasdl.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.159.148.122:2030
+vless://c5b791b2-473e-4139-85d5-30e590c54e05@94.182.104.164:2030?type=tcp&host=aparat.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-94.182.104.164:2030
