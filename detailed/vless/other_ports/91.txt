@@ -1,2 +1,2 @@
 vless://80c7995a-2dd5-4e38-8f3c-6d5617ebcee4@185.14.160.52:91?security=tls&sni=m7.mjsariii.top&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-185.14.160.52:91
-vless://cdc83e7f-963e-41af-9ac6-a70a57969a7c@195.182.38.176:91?security=none&type=tcp&host=Cloudflare.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-195.182.38.176:91
+vless://f34acdb4-a7ca-4b25-bf62-823806cd31f5@195.182.38.176:91?security=none&type=tcp&host=Cloudflare.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-195.182.38.176:91

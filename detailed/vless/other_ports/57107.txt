@@ -1,1 +1,2 @@
-vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-109.122.249.156:57107
+vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.122.249.156:57107
+vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?type=tcp&host=speedtest.net&headerType=http&fp=chrome#🔒 VL-TCP-NA 🇮🇷 IR-109.122.249.156:57107
