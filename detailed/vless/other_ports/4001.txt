@@ -1,2 +1,2 @@
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.154.98.230:4001?security=tls&sni=az.ylka.dpdns.org&type=ws&host=az.ylka.dpdns.org&path=%2F#🔒 VL-WS-TLS 🇳🇱 NL-45.154.98.230:4001
-vless://30e09ed1-4b76-45e6-b744-d3a03bca8b98@185.83.182.217:4001?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.182.217:4001
+vless://30e09ed1-4b76-45e6-b744-d3a03bca8b98@194.1.155.186:4001?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-194.1.155.186:4001
