@@ -1,3 +1,3 @@
-trojan://Aimer@14.42.89.42:50004?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A568
-trojan://Aimer@14.42.89.42:50004?sni=epcch.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-14.42.89.42:50004
 trojan://Aimer@222.97.9.166:50004?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-222.97.9.166:50004
+trojan://Aimer@14.42.89.42:50004?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A568
+trojan://Aimer@14.42.89.42:50004?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-14.42.89.42:50004

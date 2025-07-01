@@ -1,2 +1,2 @@
+trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@154.64.226.149:9150?security=tls&sni=hk.catxstar.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-154.64.226.149:9150
 trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@154.64.226.149:9150?security=tls&type=tcp&sni=hk.catxstar.com#%E6%9C%AA%E7%9F%A584
-trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@154.64.226.149:9150?security=tls&sni=hk.catxstar.com&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇯🇵 JP-154.64.226.149:9150
