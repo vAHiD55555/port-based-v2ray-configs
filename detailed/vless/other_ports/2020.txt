@@ -1,2 +1,2 @@
-vless://b2465f21-e52e-4256-8e55-1d971ce4bcbb@185.239.104.38:2020?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.239.104.38:2020
+vless://e902a09d-4acb-4633-b776-4d3091f7b758@95.38.140.173:2020?security=none&type=tcp&host=fast.com&headerType=http#рЯФТ VL-TCP-NONE рЯЗЃрЯЗЈ IR-95.38.140.173:2020
 vless://e902a09d-4acb-4633-b776-4d3091f7b758@95.38.140.173:2020?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.140.173:2020

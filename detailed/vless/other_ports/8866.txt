@@ -1,2 +1,4 @@
+vless://ee1a7f09-5d15-4f1c-80d1-35e053b16a98@157.245.72.246:8866?security=none&type=tcp&host=zula.ir&path=%2F&headerType=http#рЯФТ VL-TCP-NONE рЯЗ≥рЯЗ± NL-157.245.72.246:8866
 vless://ee1a7f09-5d15-4f1c-80d1-35e053b16a98@157.245.72.246:8866?security=none&type=tcp&host=zula.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-157.245.72.246:8866
 vless://b722886c-e0aa-4720-9812-0f8ccf7a24aa@167.99.141.33:8866?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-167.99.141.33:8866
+vless://b722886c-e0aa-4720-9812-0f8ccf7a24aa@167.99.141.33:8866?security=none&type=tcp&host=zula.ir&headerType=http#рЯФТ VL-TCP-NONE рЯЗ©рЯЗ™ DE-167.99.141.33:8866

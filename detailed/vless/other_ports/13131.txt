@@ -1,2 +1,4 @@
 vless://dd278bce-4973-40a0-8070-cd73e988e16a@95.38.38.143:13131?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.38.143:13131
+vless://dd278bce-4973-40a0-8070-cd73e988e16a@95.38.38.143:13131?security=none&type=tcp#рЯФТ VL-TCP-NONE рЯЗЃрЯЗЈ IR-95.38.38.143:13131
+vless://dd278bce-4973-40a0-8070-cd73e988e16a@2.189.118.77:13131?security=none&type=tcp#рЯФТ VL-TCP-NONE рЯЗЃрЯЗЈ IR-2.189.118.77:13131
 vless://dd278bce-4973-40a0-8070-cd73e988e16a@2.189.118.77:13131?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.118.77:13131

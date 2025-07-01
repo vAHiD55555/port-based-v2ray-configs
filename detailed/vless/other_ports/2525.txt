@@ -1,1 +1,2 @@
 vless://5a288285-74f6-40ea-83a3-12b25ead755e@109.122.247.198:2525?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.122.247.198:2525
+vless://5a288285-74f6-40ea-83a3-12b25ead755e@109.122.247.198:2525?security=none&type=tcp&path=%2F&headerType=http#рЯФТ VL-TCP-NONE рЯЗЃрЯЗЈ IR-109.122.247.198:2525

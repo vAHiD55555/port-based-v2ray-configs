@@ -1,2 +1,4 @@
 vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@94.182.150.200:4041?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.150.200:4041
+vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@94.182.150.200:4041?security=none&type=tcp&headerType=http#рЯФТ VL-TCP-NONE рЯЗЃрЯЗЈ IR-94.182.150.200:4041
+vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@193.151.144.168:4041?security=none&type=tcp&headerType=http#рЯФТ VL-TCP-NONE рЯЗЃрЯЗЈ IR-193.151.144.168:4041
 vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@193.151.144.168:4041?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.144.168:4041

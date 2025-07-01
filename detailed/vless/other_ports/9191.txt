@@ -1,2 +1,2 @@
-vless://83bce2cc-5b32-4246-80bd-6cdd0fd1c714@103.249.132.237:9191?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-103.249.132.237:9191
-vless://4f40de3c-3ab3-4f92-ba65-d6985c6f1e24@185.49.105.236:9191?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.49.105.236:9191
+vless://0dcce720-1d72-431e-af20-f793dc32c1b8@185.49.105.236:9191?security=none&type=tcp&host=speedtest.net&headerType=http#рЯФТ VL-TCP-NONE рЯЗЃрЯЗЈ IR-185.49.105.236:9191
+vless://0dcce720-1d72-431e-af20-f793dc32c1b8@185.49.105.236:9191?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.49.105.236:9191

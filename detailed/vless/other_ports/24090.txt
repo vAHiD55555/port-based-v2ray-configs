@@ -1,2 +1,4 @@
+vless://3b6cdf68-8dbb-4d76-903d-de4a389cc3a9@87.248.154.214:24090?security=none&type=tcp&host=parsabr.com&headerType=http#рЯФТ VL-TCP-NONE рЯЗЃрЯЗЈ IR-87.248.154.214:24090
 vless://3b6cdf68-8dbb-4d76-903d-de4a389cc3a9@87.248.154.214:24090?security=none&type=tcp&host=parsabr.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.248.154.214:24090
+vless://b15befdf-175e-425b-b2ba-667eded3e52d@37.32.41.208:24090?security=none&type=tcp&host=parsabr.com&headerType=http#рЯФТ VL-TCP-NONE рЯЗЃрЯЗЈ IR-37.32.41.208:24090
 vless://b15befdf-175e-425b-b2ba-667eded3e52d@37.32.41.208:24090?security=none&type=tcp&host=parsabr.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.208:24090
