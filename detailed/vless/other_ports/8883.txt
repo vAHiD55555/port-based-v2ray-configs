@@ -1,2 +1,1 @@
-vless://aa7bd686-5bda-41a1-8f17-3541a73b813f@78.39.47.201:8883?security=none&type=tcp&host=bmi.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.47.201:8883
-vless://44f29d79-4bba-420a-9e3e-fa7c6c82e354@78.39.47.201:8883?type=tcp&host=bmi.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-78.39.47.201:8883
+vless://44f29d79-4bba-420a-9e3e-fa7c6c82e354@78.39.47.201:8883?security=none&type=tcp&host=bmi.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.47.201:8883

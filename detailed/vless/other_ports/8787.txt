@@ -1,2 +1,2 @@
-vless://19744009-f344-4e25-a480-a9122bc1af9e@78.47.203.133:8787?security=none&type=tcp&host=tgju.org&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-78.47.203.133:8787
-vless://b3d0438a-195e-4b37-b9ac-27e07781ba38@91.99.146.31:8787?type=tcp&host=tgju.org&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-91.99.146.31:8787
+vless://b24657bb-418e-4a23-8d8e-3a699fb71a3d@194.36.209.104:8787?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-194.36.209.104:8787
+vless://26cdf54f-1583-4dd9-afdd-a3b981ac7853@49.13.194.244:8787?security=none&type=tcp&host=tgju.org&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.194.244:8787
