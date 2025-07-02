@@ -1,3 +1,2 @@
 vless://acca7ed3-50b9-4736-bc91-3b009106dc54@91.99.198.209:2084?security=reality&sni=canva.com&type=tcp&fp=chrome&pbk=EiTjM7gQCagZI0HkqyO57jwp1D7varEWDUs1LTBpS2w&sid=c7d80f2b01a1d1fe#🔒 VL-TCP-RLT 🇩🇪 DE-91.99.198.209:2084
-vless://96a9bb13-9278-4b90-9632-f528fb884915@3.70.70.60:2084?security=reality&sni=tgju.org&type=tcp&path=/www.python.org/downloads/&fp=chrome&pbk=5GbLSpPmrHvrw9FWUE4hJFA-6WDGlKlw1874njXXBX4&sid=5852a2dac3553560#🔒 VL-TCP-RLT 🇩🇪 DE-3.70.70.60:2084
 vless://96a9bb13-9278-4b90-9632-f528fb884915@3.70.70.60:2084?security=reality&sni=tgju.org&type=tcp&path=/www.python.org/downloads/&fp=firefox&pbk=5GbLSpPmrHvrw9FWUE4hJFA-6WDGlKlw1874njXXBX4&sid=5852a2dac3553560#🔒 VL-TCP-RLT 🇩🇪 DE-3.70.70.60:2084
