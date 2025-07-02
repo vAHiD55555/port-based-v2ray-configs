@@ -1,2 +1,1 @@
-trojan://e3087591-ca09-4edc-93c5-71148a6434a8@62.3.54.31:14103?security=tls&sni=155.yuanul.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-62.3.54.31:14103
-trojan://e3087591-ca09-4edc-93c5-71148a6434a8@62.3.54.31:14103?security=tls&type=tcp&sni=155.yuanul.com#%E6%9C%AA%E7%9F%A591
+trojan://e3087591-ca09-4edc-93c5-71148a6434a8@62.3.54.31:14103?security=tls&sni=155.yuanul.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-62.3.54.31:14103
