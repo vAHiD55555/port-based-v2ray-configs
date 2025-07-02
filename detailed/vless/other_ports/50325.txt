@@ -1,1 +1,2 @@
 vless://fc24641e-5042-4038-832f-b0703a570254@185.124.175.102:50325?security=none&type=tcp&host=anten.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.124.175.102:50325
+vless://bdd9b3a0-d57c-4de0-aaa9-53ba0241bffe@185.124.175.102:50325?security=none&type=tcp&host=anten.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.124.175.102:50325

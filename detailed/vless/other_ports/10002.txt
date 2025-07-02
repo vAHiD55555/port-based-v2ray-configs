@@ -1,2 +1,3 @@
 vless://123e4567e89b12d3a456426614174000@51.91.248.209:10002?security=tls&sni=fr1.vpnjantit.com&type=ws&host=fr1.vpnjantit.com&path=%2Fray&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-51.91.248.209:10002
 vless://123e4567-e89b-12d3-a456-426614174000@51.195.91.135:10002?security=tls&sni=gr1.vpnjantit.com&type=ws&host=gr1.vpnjantit.com&path=%2Fray&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-51.195.91.135:10002
+vless://c9eeb167-aa1d-49c6-a843-807bd17fe17c@94.182.145.197:10002?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.145.197:10002

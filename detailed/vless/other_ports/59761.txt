@@ -1,1 +1,2 @@
-vless://ae9539b5-70dd-41b5-9666-11a29559a840@185.155.72.101:59761?security=none&type=tcp&host=Fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.155.72.101:59761
+vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?encryption=none&security=none&fp=chrome&type=tcp&headerType=http&host=Fast.com#qoli_30
+vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&type=tcp&host=Fast.com&headerType=http&fp=chrome#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.233.110:59761

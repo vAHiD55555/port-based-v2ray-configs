@@ -1,1 +1,2 @@
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.243.49.205:8444
+vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.243.49.205:8444
