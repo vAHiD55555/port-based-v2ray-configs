@@ -1,2 +1,1 @@
 vless://8c4df824-560c-45b7-9a71-4595bc9ea543@95.179.159.217:51501?security=tls&sni=hi.forgesis.ir&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇳🇱 NL-95.179.159.217:51501
-vless://8c4df824-560c-45b7-9a71-4595bc9ea543@95.179.159.217:51501?security=tls&sni=hi.forgesis.ir&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#рЯФТ VL-TCP-TLS рЯЗ≥рЯЗ± NL-95.179.159.217:51501

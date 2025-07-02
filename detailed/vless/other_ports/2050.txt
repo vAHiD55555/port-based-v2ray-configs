@@ -1,4 +1,2 @@
 vless://acbab574-fbb3-48fe-948f-f2c173d5dfeb@103.167.234.110:2050?security=reality&sni=refersion.com&type=tcp&fp=firefox&pbk=sHzIKPKqTTq77wusV6qaa0bwx41ap2r_sCXjHwHl4m8&sid=3466c6b00f1201c2#🔒 VL-TCP-RLT 🇦🇱 AL-103.167.234.110:2050
-vless://acbab574-fbb3-48fe-948f-f2c173d5dfeb@103.167.234.110:2050?security=reality&sni=refersion.com&type=tcp&fp=firefox&pbk=sHzIKPKqTTq77wusV6qaa0bwx41ap2r_sCXjHwHl4m8&sid=3466c6b00f1201c2#рЯФТ VL-TCP-RLT рЯЗ¶рЯЗ± AL-103.167.234.110:2050
-vless://22d01af5-8d00-407b-882a-aa0a2ce3045b@85.133.241.220:2050?security=none&type=http&host=uptv.ir#рЯФТ VL-HTTP-NONE рЯЗЃрЯЗЈ IR-85.133.241.220:2050
 vless://22d01af5-8d00-407b-882a-aa0a2ce3045b@85.133.241.220:2050?security=none&type=http&host=uptv.ir#🔒 VL-HTTP-NONE 🇮🇷 IR-85.133.241.220:2050
