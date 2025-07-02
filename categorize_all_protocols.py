@@ -12,7 +12,8 @@ from datetime import datetime, timezone, timedelta
 
 # === منابع کانفیگ ===
 SOURCES = {
-    "barry-far": "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
+    #"barry-far": "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
+    "kobabi": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "mahdibland": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "Epodonios": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
     "soroushmirzaei": "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
@@ -20,7 +21,8 @@ SOURCES = {
 
 # === آدرس مخازن منابع برای لینک‌دهی ===
 SOURCE_REPOS = {
-    "barry-far": "https://github.com/barry-far/V2ray-Config",
+    #"barry-far": "https://github.com/barry-far/V2ray-Config",
+    "kobabi": "https://github.com/liketolivefree/kobabi",
     "mahdibland": "https://github.com/mahdibland/V2RayAggregator",
     "Epodonios": "https://github.com/Epodonios/v2ray-configs",
     "soroushmirzaei": "https://github.com/soroushmirzaei/telegram-configs-collector"
