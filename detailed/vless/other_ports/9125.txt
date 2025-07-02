@@ -1,1 +1,2 @@
 vless://52ddd2b7-d2da-4169-b11d-b51679c01eb0@94.182.83.85:9125?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-94.182.83.85:9125
+vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@94.182.83.85:9125?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.83.85:9125

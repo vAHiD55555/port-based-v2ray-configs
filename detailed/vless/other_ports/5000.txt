@@ -1,2 +1,1 @@
 vless://c48da5b2-98a7-4ca3-9ef3-1c9b8dbd3901@104.168.10.27:5000?security=reality&sni=www.unpkg.com&type=tcp&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#🔒 VL-TCP-RLT 🇫🇷 FR-104.168.10.27:5000
-vless://ae110a62-fa2b-455b-b620-1e85dbdf870a@185.49.105.233:5000?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.49.105.233:5000

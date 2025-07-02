@@ -1,1 +1,2 @@
-trojan://ttfang@129.150.50.21:44009?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-129.150.50.21:44009
+trojan://ttfang@129.150.50.21:44009?security=tls&type=ws&sni=ttfang.fange.me&path=/&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A567
+trojan://ttfang@129.150.50.21:44009?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#🔒 TR-WS-TLS 🇸🇬 SG-129.150.50.21:44009
