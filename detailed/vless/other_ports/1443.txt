@@ -1,2 +1,1 @@
-vless://e2a586aa-0e2b-42ac-af68-cc840b5c94cd@94.182.138.139:1443?security=none&type=tcp&host=isna.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.138.139:1443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.245.95.160:1443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇸🇬 SG-47.245.95.160:1443

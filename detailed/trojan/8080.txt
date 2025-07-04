@@ -1,6 +1,5 @@
-trojan://O3666Ckn6N@104.16.252.135:8080?security=none&type=ws&host=darkevil.news&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.16.252.135:8080
 trojan://FcnFFxR3'Q4S@104.21.31.75:8080?security=tls&sni=c6dtqfgoyuvajucfmufcxzwii-f-d841.dalali1441.workers.dev&type=ws&host=c6dtqfgoyuvajucfmufcxzwii-f-d841.dalali1441.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.31.75:8080
 trojan://FcnFFxR3'Q4S@172.67.175.69:8080?security=tls&sni=c6dtqfgoyuvajucfmufcxzwii-f-d841.dalali1441.workers.dev&type=ws&host=c6dtqfgoyuvajucfmufcxzwii-f-d841.dalali1441.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.175.69:8080
+trojan://O3666Ckn6N@104.16.252.135:8080?security=none&type=ws&host=darkevil.news&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.16.252.135:8080
 trojan://Aimer@154.29.150.2:8080?sni=agepl.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-154.29.150.2:8080
 trojan://Aimer@45.12.88.145:8080?sni=epmf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-45.12.88.145:8080
-trojan://Aimer@45.12.88.145:8080?sni=epmf.ambercc.filegear-sg.me#US5
