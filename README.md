@@ -8,17 +8,17 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-07-05 11:43:37 Tehran Time
+**Last Updated:** 2025-07-05 15:47:53 Tehran Time
 
-**Total Unique Configurations (Working):** 18458
+**Total Unique Configurations (Working):** 18453
 
 | Protocol | 443 | 80 | 2096 | 2053 | 2087 | 2083 | 8080 | 2052 | 2095 | 2086 | 2082 | 8088 | Other Ports | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|
-| Vless | 5271 | 1490 | 467 | 267 | 301 | 208 | 189 | 144 | 119 | 118 | 89 | 1 | 5590 | **14254** |
-| Trojan | 1911 | 23 | 137 | 191 | 116 | 130 | 6 | 0 | 0 | 1 | 0 | 0 | 533 | **3048** |
-| Ss | 216 | 7 | 0 | 3 | 0 | 0 | 124 | 0 | 0 | 0 | 0 | 0 | 803 | **1153** |
+| Vless | 5267 | 1492 | 467 | 267 | 301 | 209 | 189 | 144 | 119 | 118 | 89 | 1 | 5590 | **14253** |
+| Trojan | 1890 | 24 | 141 | 195 | 119 | 138 | 7 | 0 | 0 | 0 | 0 | 0 | 531 | **3045** |
+| Ss | 222 | 8 | 0 | 3 | 0 | 0 | 122 | 0 | 0 | 0 | 0 | 0 | 797 | **1152** |
 | Hysteria2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | **3** |
-| **Total** | **7399** | **1520** | **604** | **461** | **417** | **338** | **319** | **144** | **119** | **119** | **89** | **1** | **6928** | **18458** |
+| **Total** | **7380** | **1524** | **608** | **465** | **420** | **347** | **318** | **144** | **119** | **118** | **89** | **1** | **6920** | **18453** |
 
 ---
 
@@ -94,4 +94,4 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 | **Duplicates Removed:** 17827 | **[soroushmirzaei](https://github.com/soroushmirzaei/telegram-configs-collector):** 17494 configs |
 | --- | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 5319 configs |
 | **Unique Configs Tested:** 23827 | **[kobabi](https://github.com/liketolivefree/kobabi):** 101 configs |
-| **Working Configs Found:** 18458 |  |
+| **Working Configs Found:** 18453 |  |
