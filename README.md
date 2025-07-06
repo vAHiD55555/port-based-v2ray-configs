@@ -8,18 +8,18 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-07-06 07:55:41 Tehran Time
+**Last Updated:** 2025-07-06 11:43:04 Tehran Time
 
-**Total Unique Configurations (Working):** 1600
+**Total Unique Configurations (Working):** 1567
 
 | Protocol | 443 | 80 | 8080 | 2053 | 2096 | 2083 | 2087 | 2082 | 2052 | 2095 | 8088 | 2086 | Other Ports | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|
-| Ss | 119 | 22 | 41 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 421 | **606** |
-| Vless | 77 | 24 | 3 | 7 | 10 | 5 | 5 | 1 | 0 | 0 | 0 | 0 | 444 | **576** |
-| Trojan | 234 | 10 | 0 | 27 | 18 | 15 | 12 | 0 | 0 | 0 | 0 | 0 | 97 | **413** |
+| Ss | 114 | 22 | 41 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 415 | **595** |
+| Vless | 74 | 23 | 3 | 7 | 10 | 5 | 5 | 1 | 0 | 0 | 0 | 0 | 443 | **571** |
+| Trojan | 225 | 10 | 0 | 27 | 17 | 14 | 10 | 0 | 0 | 0 | 0 | 0 | 93 | **396** |
 | Hysteria2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | **4** |
 | Vmess | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | **1** |
-| **Total** | **433** | **56** | **44** | **34** | **29** | **20** | **19** | **1** | **0** | **0** | **0** | **0** | **964** | **1600** |
+| **Total** | **416** | **55** | **44** | **34** | **28** | **19** | **17** | **1** | **0** | **0** | **0** | **0** | **953** | **1567** |
 
 ---
 
@@ -94,8 +94,8 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 | Summary | Source Details |
 |:---|:---|
-| **Total Fetched (Raw):** 6815 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 5210 configs |
-| **Duplicates Removed:** 326 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 1504 configs |
+| **Total Fetched (Raw):** 6819 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 5210 configs |
+| **Duplicates Removed:** 337 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 1508 configs |
 | --- | **[kobabi](https://github.com/liketolivefree/kobabi):** 101 configs |
-| **Unique Configs Tested:** 6489 |  |
-| **Working Configs Found:** 1600 |  |
+| **Unique Configs Tested:** 6482 |  |
+| **Working Configs Found:** 1567 |  |
