@@ -8,18 +8,18 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-07-07 07:56:24 Tehran Time
+**Last Updated:** 2025-07-07 11:46:41 Tehran Time
 
-**Total Unique Configurations (Working):** 1096
+**Total Unique Configurations (Working):** 1212
 
-| Protocol | 443 | 80 | 8080 | 2053 | 2096 | 2083 | 2087 | 2082 | 2052 | 2095 | 8088 | 2086 | Other Ports | Total |
+| Protocol | 443 | 80 | 8080 | 2053 | 2096 | 2083 | 2087 | 2082 | 2052 | 2086 | 2095 | 8088 | Other Ports | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|
+| Ss | 103 | 22 | 41 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 313 | **482** |
 | Vless | 73 | 26 | 3 | 7 | 10 | 5 | 5 | 1 | 0 | 0 | 0 | 0 | 296 | **426** |
-| Ss | 99 | 22 | 41 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 253 | **418** |
-| Trojan | 131 | 9 | 0 | 16 | 3 | 8 | 2 | 0 | 0 | 0 | 0 | 0 | 76 | **245** |
-| Hysteria2 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | **6** |
+| Trojan | 144 | 9 | 0 | 17 | 8 | 10 | 4 | 0 | 0 | 0 | 0 | 0 | 104 | **296** |
+| Hysteria2 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | **7** |
 | Vmess | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | **1** |
-| **Total** | **307** | **57** | **44** | **23** | **14** | **13** | **9** | **1** | **0** | **0** | **0** | **0** | **628** | **1096** |
+| **Total** | **324** | **57** | **44** | **24** | **19** | **15** | **11** | **1** | **0** | **0** | **0** | **0** | **717** | **1212** |
 
 ---
 
@@ -27,11 +27,11 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 #### By Protocol
 
-- **Vless:**
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt
-
 - **Ss:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/ss.txt
+
+- **Vless:**
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt
 
 - **Trojan:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt
@@ -71,14 +71,14 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 - **Port 2052:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2052.txt
 
+- **Port 2086:**
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2086.txt
+
 - **Port 2095:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2095.txt
 
 - **Port 8088:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8088.txt
-
-- **Port 2086:**
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2086.txt
 
 ---
 
@@ -94,8 +94,8 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 | Summary | Source Details |
 |:---|:---|
-| **Total Fetched (Raw):** 6331 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 5006 configs |
-| **Duplicates Removed:** 341 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 1224 configs |
+| **Total Fetched (Raw):** 6435 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 5006 configs |
+| **Duplicates Removed:** 336 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 1328 configs |
 | --- | **[kobabi](https://github.com/liketolivefree/kobabi):** 101 configs |
-| **Unique Configs Tested:** 5990 |  |
-| **Working Configs Found:** 1096 |  |
+| **Unique Configs Tested:** 6099 |  |
+| **Working Configs Found:** 1212 |  |
