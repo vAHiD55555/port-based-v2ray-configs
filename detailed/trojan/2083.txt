@@ -1,8 +1,8 @@
-trojan://Aimer@188.164.159.214:2083?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#AM_speednode_0001
-trojan://Aimer@188.164.159.234:2083?type=ws&sni=epml.ambercc.filegear-sg.me&path=/&host=epml.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A510
-trojan://Aimer@188.164.159.234:2083?security=tls&sni=epml.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.234-0265
-trojan://Aimer@188.164.159.214:2083?type=ws&sni=epmk.ambercc.filegear-sg.me&path=/&host=epmk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A59
-trojan://Aimer@188.164.159.234:2083?allowInsecure=0&sni=epml.ambercc.filegear-sg.me&ws=1&wspath=%2F#AM_speednode_0002
-trojan://Aimer@188.164.159.214:2083?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&ws=1&wspath=%2F#AM_speednode_0001
-trojan://Aimer@188.164.159.234:2083?allowInsecure=0&sni=epml.ambercc.filegear-sg.me&type=ws&host=epml.ambercc.filegear-sg.me&path=/#AM_speednode_0002
+trojan://Aimer@188.164.159.214:2083?type=ws&sni=epmk.ambercc.filegear-sg.me&path=/&host=epmk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
 trojan://Aimer@188.164.159.214:2083?security=tls&sni=epmk.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.214-0749
+trojan://Aimer@188.164.159.214:2083?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&ws=1&wspath=%2F#AM_speednode_0001
+trojan://Aimer@188.164.159.214:2083?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#AM_speednode_0001
+trojan://Aimer@188.164.159.234:2083?security=tls&sni=epml.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.234-0265
+trojan://Aimer@188.164.159.234:2083?type=ws&sni=epml.ambercc.filegear-sg.me&path=/&host=epml.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@188.164.159.234:2083?allowInsecure=0&sni=epml.ambercc.filegear-sg.me&ws=1&wspath=%2F#AM_speednode_0002
+trojan://Aimer@188.164.159.234:2083?allowInsecure=0&sni=epml.ambercc.filegear-sg.me&type=ws&host=epml.ambercc.filegear-sg.me&path=/#AM_speednode_0002
