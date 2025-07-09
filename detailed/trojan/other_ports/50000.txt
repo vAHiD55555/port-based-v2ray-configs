@@ -1,2 +1,2 @@
-trojan://Aimer@14.36.202.242:50000?sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD8
-trojan://Aimer@59.2.75.64:50000?sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD4
+trojan://Aimer@14.36.202.242:50000?security=tls&sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-14.36.202.242-0939
+trojan://Aimer@59.2.75.64:50000?security=tls&sni=epmx.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-59.2.75.64-0945
