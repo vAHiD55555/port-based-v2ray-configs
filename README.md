@@ -8,17 +8,17 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-07-10 15:50:35 Tehran Time
+**Last Updated:** 2025-07-10 19:43:17 Tehran Time
 
-**Total Unique Configurations (Working):** 805
+**Total Unique Configurations (Working):** 883
 
-| Protocol | 443 | 8080 | 80 | 2096 | 2053 | 2083 | 2087 | 2095 | 2082 | 2052 | 8088 | 2086 | Other Ports | Total |
+| Protocol | 443 | 8080 | 2096 | 80 | 2053 | 2083 | 2087 | 2095 | 2082 | 8088 | 2052 | 2086 | Other Ports | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|
-| Ss | 73 | 40 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 159 | **274** |
-| Trojan | 151 | 0 | 9 | 13 | 13 | 12 | 9 | 0 | 0 | 0 | 0 | 0 | 58 | **265** |
-| Vless | 102 | 0 | 15 | 10 | 6 | 4 | 2 | 1 | 1 | 0 | 0 | 0 | 115 | **256** |
-| Hysteria2 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | **10** |
-| **Total** | **332** | **40** | **26** | **23** | **19** | **16** | **11** | **1** | **1** | **0** | **0** | **0** | **336** | **805** |
+| Trojan | 164 | 0 | 22 | 9 | 19 | 18 | 13 | 0 | 0 | 0 | 0 | 0 | 62 | **307** |
+| Ss | 74 | 44 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 170 | **291** |
+| Vless | 107 | 1 | 16 | 21 | 7 | 5 | 2 | 1 | 1 | 0 | 0 | 0 | 115 | **276** |
+| Hysteria2 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | **9** |
+| **Total** | **351** | **45** | **38** | **33** | **26** | **23** | **15** | **1** | **1** | **0** | **0** | **0** | **350** | **883** |
 
 ---
 
@@ -26,11 +26,11 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 #### By Protocol
 
-- **Ss:**
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/ss.txt
-
 - **Trojan:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/trojan.txt
+
+- **Ss:**
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/ss.txt
 
 - **Vless:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt
@@ -46,11 +46,11 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 - **Port 8080:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8080.txt
 
-- **Port 80:**
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt
-
 - **Port 2096:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2096.txt
+
+- **Port 80:**
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/80.txt
 
 - **Port 2053:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2053.txt
@@ -67,11 +67,11 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 - **Port 2082:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2082.txt
 
-- **Port 2052:**
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2052.txt
-
 - **Port 8088:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8088.txt
+
+- **Port 2052:**
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2052.txt
 
 - **Port 2086:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2086.txt
@@ -90,8 +90,8 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 | Summary | Source Details |
 |:---|:---|
-| **Total Fetched (Raw):** 5946 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4865 configs |
-| **Duplicates Removed:** 325 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 895 configs |
+| **Total Fetched (Raw):** 6035 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4938 configs |
+| **Duplicates Removed:** 325 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 911 configs |
 | --- | **[kobabi](https://github.com/liketolivefree/kobabi):** 186 configs |
-| **Unique Configs Tested:** 5621 |  |
-| **Working Configs Found:** 805 |  |
+| **Unique Configs Tested:** 5710 |  |
+| **Working Configs Found:** 883 |  |
