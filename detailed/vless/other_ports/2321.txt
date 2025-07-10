@@ -1,4 +1,2 @@
-vless://55c065e4-3429-49bf-aea2-d05ff7dd6586@172.233.141.49:2321?type=tcp#🔒 VL-TCP-NA 🇺🇸 US-172.233.141.49:2321
-vless://a4fb0780-e6d5-4e5e-b22d-d431db4aa53b@172.234.31.209:2321?type=tcp#🔒 VL-TCP-NA 🇺🇸 US-172.234.31.209:2321
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?type=tcp#🔒 VL-TCP-NA 🇮🇩 ID-172.232.248.242:2321
-vless://fdfc88b6-d0af-47ca-acbc-a875c81c35ac@45.118.133.29:2321?type=tcp#🔒 VL-TCP-NA 🇸🇬 SG-45.118.133.29:2321
+vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs
+vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321/?type=tcp&encryption=none&flow=#%F0%9F%9B%9168%40oneclickvpnkeys
