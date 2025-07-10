@@ -1,1 +1,1 @@
-vless://2fc97eb0-d9d2-4567-99bf-bb5f64b5d5e9@45.63.60.98:12188?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-45.63.60.98:12188
+vless://2fc97eb0-d9d2-4567-99bf-bb5f64b5d5e9@45.63.60.98:12188/?type=tcp&encryption=none&flow=&packetEncoding=xudp#%F0%9F%AA%9099%40oneclickvpnkeys`
