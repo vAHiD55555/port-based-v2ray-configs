@@ -1,5 +1,5 @@
-trojan://Aimer@46.254.92.142:2087?security=tls&sni=epml.ambercc.filegear-sg.me&type=ws&path=/&Host=epml.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-46.254.92.142-0643
-trojan://Aimer@45.67.215.217:2087?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B03
-trojan://Aimer@103.116.7.100:2087?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
-trojan://Aimer@209.94.90.87:2087?sni=epmk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
 trojan://Aimer@46.254.92.142:2087?sni=epmk.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF5
+trojan://Aimer@209.94.90.87:2087?sni=epmk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://Aimer@103.116.7.100:2087?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+trojan://Aimer@45.67.215.217:2087?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%A6UA%E4%B9%8C%E5%85%8B%E5%85%B03
+trojan://Aimer@46.254.92.142:2087?security=tls&sni=epml.ambercc.filegear-sg.me&type=ws&path=/&Host=epml.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-46.254.92.142-0643
