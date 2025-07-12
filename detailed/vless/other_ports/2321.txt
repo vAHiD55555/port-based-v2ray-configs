@@ -1,1 +1,2 @@
-vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321/?type=tcp&encryption=none&flow=#%F0%9F%9B%9168%40oneclickvpnkeys
+vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs
+vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BB%F0%9F%87%B3
