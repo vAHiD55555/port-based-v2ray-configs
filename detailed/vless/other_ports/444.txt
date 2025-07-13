@@ -2,5 +2,4 @@ vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?flow=xtls-rprx-vi
 vless://b0d141a5-27bb-4aeb-d9d4-88163b3cc189@mj.persianshield.ir:444?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#✅@v2ray_configs_pools
 vless://b0d141a5-27bb-4aeb-d9d4-88163b3cc189@mj.persianshield.ir:444?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#✅@parsproxy_ir
 vless://b0d141a5-27bb-4aeb-d9d4-88163b3cc189@mj.persianshield.ir:444?type=tcp&path=/&host=hub.docker.com&headerType=http&security=none#✅@parsproxy_ir
-vless://b0d141a5-27bb-4aeb-d9d4-88163b3cc189@mj.persianshield.ir:444?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#Telegram : @heragAbad 🇹🇷
 vless://b0d141a5-27bb-4aeb-d9d4-88163b3cc189@mj.persianshield.ir:444?type=tcp&path=/&host=hub.docker.com&headerType=http&security=none#✅@v2ray_configs_pools
