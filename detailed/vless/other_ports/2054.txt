@@ -1,1 +1,5 @@
-vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@5.75.205.77:2054?&security=tls&fp=random&sni=oty.myto.ip-ddns.com&type=ws&headerType=none&host=oty.myto.ip-ddns.com&path=%2F%3Fed%3D2560#🇨🇦[openproxylist.com]
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.231:2054?encryption=none&security=none&type=tcp&headerType=http&host=snapp.taxi#@Sezar_Sec
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@icv2ray
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?encryption=none&security=none&type=tcp&headerType=http&host=snapp.taxi#@Sezar_Sec
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@31.7.78.132:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@v2raying
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@icv2ray

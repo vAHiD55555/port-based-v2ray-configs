@@ -1,1 +1,3 @@
-vless://bdd9b3a0-d57c-4de0-aaa9-53ba0241bffe@185.124.175.102:50325?security=none&type=tcp&host=anten.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.124.175.102:50325
+vless://ff6c61d6-c45c-4928-9090-692bb920172d@bauty.snapptcp.nikastoring.ir:50325?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@iProxy_Channel ⚪ WiFi 10
+vless://ff6c61d6-c45c-4928-9090-692bb920172d@bauty.snapptcp.nikastoring.ir:50325?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#@iProxy_Channel ⚪ WiFi 4
+vless://9b89b47d-f93f-4530-abfd-b49c27a979a0@bauty.snapptcp.nikastoring.ir:50325?security=none&type=tcp&headerType=http&path=/&host=anten.ir#@sockss_http 1718

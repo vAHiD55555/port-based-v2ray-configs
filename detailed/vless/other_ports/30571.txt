@@ -1,1 +1,2 @@
-vless://c23bab9e-a746-46a9-94eb-d1a39ab5e55a@46.38.136.226:30571?security=none&type=tcp&host=cloudflare.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.38.136.226:30571
+vless://c23bab9e-a746-46a9-94eb-d1a39ab5e55a@46.38.136.226:30571?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🇸🇪@ai_duet • @v2rayngsupbot
+vless://c23bab9e-a746-46a9-94eb-d1a39ab5e55a@46.38.136.226:30571?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🇳🇱@ai_duet • @v2rayngsupbot

@@ -1,1 +1,1 @@
-vless://0adfd6b8-baac-4a91-88dc-7f2bdb4274c8@45.84.88.243:53758?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-45.84.88.243:53758
+vless://0adfd6b8-baac-4a91-88dc-7f2bdb4274c8@a2.aliranjbar.top:53758?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@vpnowl

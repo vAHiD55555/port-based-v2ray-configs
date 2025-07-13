@@ -1,1 +1,1 @@
-vless://aa7bd686-5bda-41a1-8f17-3541a73b813f@109.94.165.25:8883?security=none&type=tcp&host=bmi.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.94.165.25:8883
+vless://aa7bd686-5bda-41a1-8f17-3541a73b813f@lb-pl.didiservices.site:8883?security=none&type=tcp&headerType=http&path=/&host=bmi.ir#60G MCi🇫🇷

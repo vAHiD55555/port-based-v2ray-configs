@@ -1,1 +1,1 @@
-vless://fbddfd48-22f2-a619-4151-4be8b8b9f6fa@46.102.157.79:58071?security=none&type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NONE 🇦🇹 AT-46.102.157.79:58071
+vless://fbddfd48-22f2-a619-4151-4be8b8b9f6fa@46.102.157.79:58071?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#.

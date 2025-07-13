@@ -1,1 +1,1 @@
-vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.178.27:43434
+vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@159.69.162.184:43434?encryption=none&security=tls&sni=oty.myto.ip-ddns.com&type=ws&host=oty.myto.ip-ddns.com&path=/?ed=2560#🇪🇸 西班牙 02

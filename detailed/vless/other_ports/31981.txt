@@ -1,1 +1,2 @@
-vless://8a723553-2445-bb1d-38a9-bb2866ba4ed3@91.99.124.128:31981?security=none&sni=1&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.124.128:31981
+vless://8a723553-2445-bb1d-38a9-bb2866ba4ed3@s6.itgetway.ir:31981?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp&sni=1#📦@FreakConfig
+vless://8a723553-2445-bb1d-38a9-bb2866ba4ed3@s6.itgetway.ir:31981?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp&sni=1#Telegram:@GOLDllVPN 🔥

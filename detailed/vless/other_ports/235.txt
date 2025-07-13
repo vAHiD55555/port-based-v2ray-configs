@@ -1,1 +1,1 @@
-vless://c2df3028-a48c-4f0f-a104-013594dfa659@85.133.215.108:235?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-85.133.215.108:235
+vless://c2df3028-a48c-4f0f-a104-013594dfa659@85.133.215.108:235?security=&encryption=none=&headerType=http&type=tcp#@bored_vpn

@@ -1,2 +1,1 @@
-trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#BESTIIVPN
-trojan://telegram-id-directvpn@63.177.166.9:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#BESTIIVPN
+trojan://telegram-id-directvpn@51.44.58.153:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN

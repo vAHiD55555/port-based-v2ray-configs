@@ -1,4 +1,2 @@
-trojan://vpn@109.120.132.80:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#🔒 TR-WS-NONE 🇸🇪 SE-109.120.132.80:2025
-trojan://vpn@109.120.132.142:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#🔒 TR-WS-NONE 🇸🇪 SE-109.120.132.142:2025
-trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=/#🔒 TR-WS-NONE 🇱🇹 LT-46.29.234.154:2025
-trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=%2F#🔒 TR-WS-NONE 🇷🇺 RU-45.82.14.144:2025
+trojan://vpn@109.120.132.80:2025?type=ws&path=/&security=none#Config🇸🇪@Do_itforyou
+trojan://vpn@79.137.204.130:2025?security=&allowInsecure=1&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#058 ✂️-🏴‍☠️-last 14 total=11731(@GheychiAmoozesh)
