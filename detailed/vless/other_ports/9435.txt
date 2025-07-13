@@ -1,2 +1,1 @@
-vless://68594162-da62-4792-94d5-5102e717f7f6@107.170.5.15:9435?security=none&type=tcp&host=docker.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-107.170.5.15:9435
-vless://c75bc57e-6585-4dcb-90a5-dfc46f049b74@217.114.40.216:9435?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.114.40.216:9435
+vless://17319ae5-2ad4-441d-888a-e6de1d3f7542@all3.blackkwolff.com:9435?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@CaV2ray ⚡️

@@ -1,2 +1,1 @@
-vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@91.223.61.232:7091?type=tcp&host=bmw.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-91.223.61.232:7091
-vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@91.223.61.232:7091?type=tcp&host=bmw.com&headerType=http#рЯФТ VL-TCP-NA рЯЗЃрЯЗЈ IR-91.223.61.232:7091
+vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@silver.mihansea.com:7091?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Hmrh3
