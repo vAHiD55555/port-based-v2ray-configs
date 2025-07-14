@@ -16,6 +16,7 @@ SOURCES = {
     "kobabi": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "mahdibland": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
     "Epodonios": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
+    "Rayan-Config": "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
     #"soroushmirzaei": "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed"
 }
 
@@ -25,6 +26,7 @@ SOURCE_REPOS = {
     "kobabi": "https://github.com/liketolivefree/kobabi",
     "mahdibland": "https://github.com/mahdibland/V2RayAggregator",
     "Epodonios": "https://github.com/Epodonios/v2ray-configs",
+    "Rayan-Config": "https://github.com/Rayan-Config/C-Sub",
     #"soroushmirzaei": "https://github.com/soroushmirzaei/telegram-configs-collector"
 }
 
