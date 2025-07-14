@@ -1,1 +1,2 @@
-vless://9e920ecc-22aa-43a9-ebc9-3120f1f2b892@85.133.250.30:20729?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.250.30:20729
+vless://9e920ecc-22aa-43a9-ebc9-3120f1f2b892@t.nargil00.site:20729?security=none&encryption=none&headerType=http&type=tcp#✅@v2ray_configs_pools
+vless://9e920ecc-22aa-43a9-ebc9-3120f1f2b892@t.nargil00.site:20729?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Malāyer🅿️ping:114.12ms
