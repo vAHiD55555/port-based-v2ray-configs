@@ -1,3 +1,2 @@
-vless://214424d8-99e0-46fe-82ff-7128ef45d126@143.14.220.111:25888?security=reality&encryption=none&pbk=eHaAkgZIfsYhrH_0HCj07-Vbd7nrMHnnAa663_969DA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=be1be5fc#Telegram:@GOLDllVPN 🔥
-vless://ca14efe8-d119-47df-a7f7-421bc6884bb4@143.14.220.111:25888?allowInsecure=0&sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#US_speednode_0234
 vless://214424d8-99e0-46fe-82ff-7128ef45d126@143.14.220.111:25888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=edge&pbk=eHaAkgZIfsYhrH_0HCj07-Vbd7nrMHnnAa663_969DA&sid=be1be5fc&type=tcp&headerType=none#q_135
+vless://ca14efe8-d119-47df-a7f7-421bc6884bb4@143.14.220.111:25888?allowInsecure=0&sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#US_speednode_0234
