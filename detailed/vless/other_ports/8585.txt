@@ -1,4 +1,3 @@
 vless://6490c5cb-933b-4f28-bfdb-80a61cdb3278@sv2.iranazizm.com:8585?security=none&encryption=none&host=skyroom.online,+igap.net,+gharar.ir&headerType=http&type=tcp#@sockss_http 2423
 vless://6490c5cb-933b-4f28-bfdb-80a61cdb3278@sv2.iranazizm.com:8585/?security=none&encryption=none&host=skyroom.online,+igap.net,+gharar.ir&headerType=http&type=tcp#✅@v2ray_configs_pools
 vless://6490c5cb-933b-4f28-bfdb-80a61cdb3278@sv2.iranazizm.com:8585?security=none&encryption=none&host=skyroom.online,+igap.net,+gharar.ir&headerType=http&type=tcp#✅@v2ray_configs_pools
-vless://83f79baf-b03f-4fa3-be3e-f32ae64142a0@irani.yousefbn.com:8585?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net
