@@ -1,6 +1,3 @@
-vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@78234873823.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#🇺🇸 USA
-vless://ec0824c9-fd7e-470a-aaad-4074c4de7e74@78234873823.webnama.com.tr:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@proxygodratmand سرورای بیشتر با سرعت خوب داخل چنل
 vless://ec0824c9-fd7e-470a-aaad-4074c4de7e74@78234873823.webnama.com.tr:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@proxygodratmand سرورای بیشتر با
-vless://320f7ff5-4fd8-4c5d-a28a-8a4eb194dffa@78234873823.webnama.com.tr:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@Moft_Vpn کانال
-vless://90dcc859-52b2-4571-b485-1f2cc78723e9@78234873823.webnama.com.tr:3789?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@varn_Net
-vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-4.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🇺🇸
+vless://ec0824c9-fd7e-470a-aaad-4074c4de7e74@78234873823.webnama.com.tr:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@proxygodratmand سرورای بیشتر با سرعت خوب داخل چنل
+vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@78234873823.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#🇺🇸 USA

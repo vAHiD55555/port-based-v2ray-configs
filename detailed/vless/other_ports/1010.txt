@@ -1,2 +1,1 @@
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.154.98.100:1010?security=tls&sni=nv.bgm2024.dpdns.org&type=ws&host=nv.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-45.154.98.100:1010
-vless://a3ed4feb-d7c5-4f8f-bd9e-74cb01597843@85.133.204.235:1010?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.204.235:1010
+vless://b999801f-c751-484c-bb04-51e417e4bb7a@Host.iranservers.space:1010?security=none&encryption=none&host=baam.bmi.ir&headerType=http&type=tcp#@NETMelliAnti
