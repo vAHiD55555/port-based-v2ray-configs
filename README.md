@@ -8,19 +8,19 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-07-16 08:01:48 Tehran Time
+**Last Updated:** 2025-07-16 11:47:26 Tehran Time
 
-**Total Unique Configurations (Working):** 13180
+**Total Unique Configurations (Working):** 13357
 
-| Protocol | 443 | 80 | 8080 | 2096 | 2053 | 2052 | 2087 | 2086 | 2083 | 2095 | 2082 | 8088 | Other Ports | Total |
+| Protocol | 443 | 80 | 8080 | 2096 | 2053 | 2052 | 2087 | 2086 | 2095 | 2083 | 2082 | 8088 | Other Ports | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|
-| Vless | 3063 | 2930 | 461 | 432 | 246 | 141 | 117 | 106 | 68 | 73 | 64 | 0 | 2954 | **10655** |
-| Ss | 902 | 7 | 351 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 603 | **1863** |
-| Trojan | 245 | 15 | 0 | 7 | 22 | 0 | 5 | 0 | 14 | 0 | 0 | 0 | 320 | **628** |
-| Hysteria2 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | **19** |
-| Hy2 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8 | **12** |
-| Vmess | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | **3** |
-| **Total** | **4223** | **2952** | **812** | **439** | **268** | **141** | **122** | **106** | **82** | **74** | **64** | **0** | **3897** | **13180** |
+| Vless | 3144 | 2922 | 481 | 455 | 248 | 135 | 121 | 118 | 92 | 67 | 73 | 0 | 2999 | **10855** |
+| Ss | 876 | 7 | 349 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 595 | **1827** |
+| Trojan | 281 | 15 | 0 | 17 | 28 | 0 | 10 | 0 | 0 | 20 | 0 | 0 | 269 | **640** |
+| Hysteria2 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 12 | **21** |
+| Hy2 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | **11** |
+| Vmess | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | **3** |
+| **Total** | **4314** | **2944** | **830** | **472** | **276** | **135** | **131** | **118** | **93** | **87** | **73** | **0** | **3884** | **13357** |
 
 ---
 
@@ -72,11 +72,11 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 - **Port 2086:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2086.txt
 
-- **Port 2083:**
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2083.txt
-
 - **Port 2095:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2095.txt
+
+- **Port 2083:**
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2083.txt
 
 - **Port 2082:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2082.txt
@@ -98,8 +98,8 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 | Summary | Source Details |
 |:---|:---|
-| **Total Fetched (Raw):** 25742 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 19333 configs |
-| **Duplicates Removed:** 2742 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4934 configs |
-| --- | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 1105 configs |
-| **Unique Configs Tested:** 23000 | **[Rayan-Config](https://github.com/Rayan-Config/C-Sub):** 229 configs |
-| **Working Configs Found:** 13180 | **[kobabi](https://github.com/liketolivefree/kobabi):** 141 configs |
+| **Total Fetched (Raw):** 25893 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 19533 configs |
+| **Duplicates Removed:** 2634 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4934 configs |
+| --- | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 1056 configs |
+| **Unique Configs Tested:** 23259 | **[Rayan-Config](https://github.com/Rayan-Config/C-Sub):** 229 configs |
+| **Working Configs Found:** 13357 | **[kobabi](https://github.com/liketolivefree/kobabi):** 141 configs |
