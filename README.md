@@ -8,19 +8,19 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-07-16 11:47:26 Tehran Time
+**Last Updated:** 2025-07-16 15:52:41 Tehran Time
 
-**Total Unique Configurations (Working):** 13357
+**Total Unique Configurations (Working):** 13388
 
-| Protocol | 443 | 80 | 8080 | 2096 | 2053 | 2052 | 2087 | 2086 | 2095 | 2083 | 2082 | 8088 | Other Ports | Total |
+| Protocol | 443 | 80 | 8080 | 2096 | 2053 | 2087 | 2052 | 2083 | 2086 | 2095 | 2082 | 8088 | Other Ports | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|
-| Vless | 3144 | 2922 | 481 | 455 | 248 | 135 | 121 | 118 | 92 | 67 | 73 | 0 | 2999 | **10855** |
-| Ss | 876 | 7 | 349 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 595 | **1827** |
-| Trojan | 281 | 15 | 0 | 17 | 28 | 0 | 10 | 0 | 0 | 20 | 0 | 0 | 269 | **640** |
-| Hysteria2 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 12 | **21** |
+| Vless | 3127 | 2929 | 500 | 454 | 268 | 121 | 109 | 68 | 91 | 66 | 63 | 0 | 3024 | **10820** |
+| Ss | 893 | 7 | 369 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 623 | **1892** |
+| Trojan | 286 | 15 | 0 | 16 | 25 | 13 | 0 | 25 | 0 | 0 | 0 | 0 | 263 | **643** |
+| Hysteria2 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | **19** |
 | Hy2 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | **11** |
-| Vmess | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | **3** |
-| **Total** | **4314** | **2944** | **830** | **472** | **276** | **135** | **131** | **118** | **93** | **87** | **73** | **0** | **3884** | **13357** |
+| Vmess | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | **3** |
+| **Total** | **4319** | **2951** | **869** | **470** | **293** | **134** | **109** | **93** | **91** | **67** | **63** | **0** | **3929** | **13388** |
 
 ---
 
@@ -63,20 +63,20 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 - **Port 2053:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2053.txt
 
+- **Port 2087:**
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2087.txt
+
 - **Port 2052:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2052.txt
 
-- **Port 2087:**
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2087.txt
+- **Port 2083:**
+  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2083.txt
 
 - **Port 2086:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2086.txt
 
 - **Port 2095:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2095.txt
-
-- **Port 2083:**
-  https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2083.txt
 
 - **Port 2082:**
   https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2082.txt
@@ -98,8 +98,8 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 | Summary | Source Details |
 |:---|:---|
-| **Total Fetched (Raw):** 25893 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 19533 configs |
-| **Duplicates Removed:** 2634 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4934 configs |
-| --- | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 1056 configs |
-| **Unique Configs Tested:** 23259 | **[Rayan-Config](https://github.com/Rayan-Config/C-Sub):** 229 configs |
-| **Working Configs Found:** 13357 | **[kobabi](https://github.com/liketolivefree/kobabi):** 141 configs |
+| **Total Fetched (Raw):** 25919 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 19596 configs |
+| **Duplicates Removed:** 2580 | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 4934 configs |
+| --- | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 1034 configs |
+| **Unique Configs Tested:** 23339 | **[Rayan-Config](https://github.com/Rayan-Config/C-Sub):** 214 configs |
+| **Working Configs Found:** 13388 | **[kobabi](https://github.com/liketolivefree/kobabi):** 141 configs |
