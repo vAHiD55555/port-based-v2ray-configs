@@ -1,2 +1,2 @@
-vless://c8ac2d55-6430-425d-a615-9eaa655eea52@185.208.79.126:25565?path=/home.php&security=&encryption=none&host=xray.com&type=ws#@varn_Net    trojan://telegram-id-directvpn@51.44.89.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=t
 vless://c8ac2d55-6430-425d-a615-9eaa655eea52@185.208.79.126:25565?path=/home.php&security=&encryption=none&host=xray.com&type=ws#@varn_Net
+vless://c8ac2d55-6430-425d-a615-9eaa655eea52@185.208.79.126:25565?path=/home.php&security=&encryption=none&host=xray.com&type=ws#@varn_Net    trojan://telegram-id-directvpn@51.44.89.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=t

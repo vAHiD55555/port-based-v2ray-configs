@@ -1,7 +1,5 @@
-vless://06f14984-f7b0-43af-9694-e54f18f9daa5@193.3.182.246:2070?encryption=none&security=none&type=tcp&headerType=none#@meli_proxyy
-vless://d16407ba-e859-4a02-a15b-fa88b791ebae@193.5.44.197:2070?security=&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng سرورای بیشتر با سرعت خوب داخل چنل
 vless://06f14984-f7b0-43af-9694-e54f18f9daa5@193.3.182.246:2070/?type=tcp&security=none#@bolbolvpn 👈 چنل ما
-vless://ba46706a-9ff3-4cd6-ab89-e54f6f8ece10@2.188.227.134:2070?type=tcp&security=none#@bolbolvpn 👈 چنل ما
+vless://d16407ba-e859-4a02-a15b-fa88b791ebae@193.5.44.197:2070?security=&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng سرورای بیشتر با سرعت خوب داخل چنل
 vless://d57b2927-22af-450b-a34e-620321d7d27f@2.188.227.134:2070?type=tcp&security=none#𝑩𝒐𝒍𝑩𝒐𝒍𝑽𝑷𝑵90
-vless://7b1897d8-9509-4be7-97c4-e3ed44c77154@tunell-rezidental.az9x99.ir:2070?type=tcp&security=none#245 | ⚡️🇮🇷-IR  •  GE-🇩🇪-Saghi 🇮🇷
+vless://ba46706a-9ff3-4cd6-ab89-e54f6f8ece10@2.188.227.134:2070?type=tcp&security=none#@bolbolvpn 👈 چنل ما
 vless://28e61570-789a-45d0-b3e7-b8511b49ab4e@p.paliss.ir:2070?security=none&type=tcp&headerType=http&path=/heu6FayCxmdp0097Cajz&host=#ae_proxy
