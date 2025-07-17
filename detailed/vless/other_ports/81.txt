@@ -1,1 +1,2 @@
 vless://9ef68890-9a43-4f28-b118-1921dbdd6b1e@46.8.227.178:81?security=&encryption=none&headerType=none&type=tcp#@Viturey 🔒
+vless://9ef68890-9a43-4f28-b118-1921dbdd6b1e@46.8.227.178:81?type=tcp&security=none#✅@v2ray_configs_pools
