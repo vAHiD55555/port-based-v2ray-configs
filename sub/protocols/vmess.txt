@@ -1,1 +1,2 @@
+vmess://f4bf418d-5285-4376-ad55-c74654b718ec@homa.cybsecguru.com:62002?security=auto&type=tcp&name=@Filter_breaker-Iran#@Filter_breaker-Iran
 vmess://9d5cf123-416b-45f4-a56b-b1fe9002b819@prom.learn-new.ir:80?encryption=auto&security=none&sni=soft98.ir&fp=&type=tcp&headerType=http&host=soft98.ir#@NetAccount
