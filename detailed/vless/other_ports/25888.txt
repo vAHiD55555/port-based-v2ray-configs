@@ -1,5 +1,5 @@
-vless://2ac0e285-4f51-406b-805f-4e4c3cfbfe27@143.14.220.111:25888?allowInsecure=0&sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#US_speednode_0129
 vless://a1399176-adb3-4529-bfc3-bf4fa5f767a4@143.14.220.111:25888?allowInsecure=0&sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#US_speednode_0126
 vless://2534cb9d-061a-474e-b9d1-40aa2bd55db9@143.14.220.111:25888?allowInsecure=0&sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#US_speednode_0130
-vless://8db41d88-269d-48d6-88b4-ab6ccc7291a5@143.14.220.111:25888?allowInsecure=0&sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#US_speednode_0127
+vless://c5cd9845-55c5-4c0d-8709-d62211d61536@143.14.220.111:25888?allowInsecure=0&sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#US_speednode_0121
 vless://6dc666d1-cb55-4225-8034-a6fba1f37113@143.14.220.111:25888?allowInsecure=0&sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#US_speednode_0123
+vless://8db41d88-269d-48d6-88b4-ab6ccc7291a5@143.14.220.111:25888?allowInsecure=0&sni=www.samsung.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#US_speednode_0127

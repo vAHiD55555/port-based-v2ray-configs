@@ -1,1 +1,2 @@
 vless://eed94d72-d35e-47f9-bc6b-2262ee151cca@85.133.250.161:13971?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
+vless://a9b310d1-0340-4809-ab99-0c7c57f22a4a@85.133.250.161:13971?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#@Daily_Configs
