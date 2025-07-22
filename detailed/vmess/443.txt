@@ -1,1 +1,2 @@
 vmess://6693fcae-4c20-46dc-9033-44be4a148804@104.18.26.164:443?encryption=auto&security=tls&sni=jqpfw.cfiqrk.net&fp=&type=grpc&serviceName=argo#@NetAccount
+vmess://268f7e36-625d-4fba-dc73-fb87cf90a104@xc133.meiziba5566.com:443?encryption=auto&security=tls&fp=&type=ws&path=/268f7e36&host=xc133.meiziba5566.com#@NetAccount
