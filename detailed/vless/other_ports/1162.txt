@@ -1,1 +1,1 @@
-vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@109.122.241.96:1162?security=none&type=tcp&path=%2Fmomasvpn&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.122.241.96:1162
+vless://f48ce62c-85cb-422f-9478-7d049b781ac7@tun4.momasserver.ir:1162?security=none&encryption=none&headerType=http&type=tcp#Telegram:@config_proxy 🔥
