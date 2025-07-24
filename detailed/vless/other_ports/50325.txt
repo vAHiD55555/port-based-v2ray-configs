@@ -1,6 +1,5 @@
-vless://eb2cf563-9685-419b-8c5c-d52c158ab30e@bauty.snapptcp.nikastoring.ir:50325?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Telegram+:+@V2rayEnglish
+vless://aa0cf563-4be2-4140-b5e4-e47fae1d7efb@bauty.snapptcp.nikastoring.ir:50325?security=none&type=tcp&headerType=http&path=/&host=anten.ir#🇩🇪 Germany-2
+vless://aa0cf563-4be2-4140-b5e4-e47fae1d7efb@us.snappus.nikastoring.ir:50325?security=none&type=tcp&headerType=http&path=/&host=anten.ir#🇺🇸 USA
 vless://eb2cf563-9685-419b-8c5c-d52c158ab30e@bauty.snapptcp.nikastoring.ir:50325?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vless://985ef6c9-1c2a-4b66-9520-905481a144cd@bauty.snapptcp.nikastoring.ir:50325?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#@varn_Net
-vless://aa0cf563-4be2-4140-b5e4-e47fae1d7efb@us.snappus.nikastoring.ir:50325?security=none&type=tcp&headerType=http&path=/&host=anten.ir#🇺🇸 USA
-vless://aa0cf563-4be2-4140-b5e4-e47fae1d7efb@bauty.snapptcp.nikastoring.ir:50325?security=none&type=tcp&headerType=http&path=/&host=anten.ir#🇩🇪 Germany-2
-vless://aa0cf563-4be2-4140-b5e4-e47fae1d7efb@us.snappus.nikastoring.ir:50325?security=none&type=tcp&headerType=http&path=/&host=anten.ir#Telegram:@config_proxy 🔥
+vless://eb2cf563-9685-419b-8c5c-d52c158ab30e@bauty.snapptcp.nikastoring.ir:50325?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Telegram+:+@V2rayEnglish
