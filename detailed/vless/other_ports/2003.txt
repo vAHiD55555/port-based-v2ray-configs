@@ -1,1 +1,2 @@
-vless://23d0866f-6a8a-4520-9250-9898b1d4f0b5@panel-finland-3.subcenter.net:2003?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@one_shop_official
+vless://6731ebf8-68b8-4b31-bd05-06d32fe667bd@panel-finland-3.subcenter.net:2003?type=tcp&path=/&host=telewebion.com&headerType=http#HOOKVPN(vip)test-305374686435
+vless://57174a67-f96b-4ddc-b557-3637e64a5f2b@panel-finland-3.subcenter.net:2003?type=tcp&path=/&host=telewebion.com&headerType=http#HOOKVIP-test6-494846271758

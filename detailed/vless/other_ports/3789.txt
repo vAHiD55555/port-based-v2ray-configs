@@ -2,3 +2,5 @@ vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-4.webnama.com.tr:3789?security=n
 vless://7efa17d3-ce1f-41f3-aad2-3f15e88e414a@em-4.webnama.com.tr:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#✅@v2ray_configs_pools
 vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@78234873823.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#🇺🇸 USA
 vless://6ee73a6b-c696-4e0e-aafe-00a4500451b1@em-4.webnama.com.tr:3789?type=tcp&headerType=http&host=varzesh3.com&path=/#🇺🇸 USA-SaghiBOX
+vless://6ee73a6b-c696-4e0e-aafe-00a4500451b1@em-4.webnama.com.tr:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Telegram:@config_proxy 🔥
+vless://6ee73a6b-c696-4e0e-aafe-00a4500451b1@em-4.webnama.com.tr:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#t.me/entryNET/config=1838506577425659
