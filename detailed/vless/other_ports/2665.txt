@@ -1,2 +1,2 @@
-vless://7c2068d4-cd59-4c8a-8dc7-ef00d24857c7@s-1.faster-service.top:2665?security=&encryption=none&headerType=http&type=tcp#@varn_Net
 vless://63e9ca2b-59d0-4acb-9930-57d41e11f98e@s-1.faster-service.top:2665?security=none&encryption=none&headerType=http&type=tcp#(@V2rayN5)
+vless://7c2068d4-cd59-4c8a-8dc7-ef00d24857c7@s-1.faster-service.top:2665?security=&encryption=none&headerType=http&type=tcp#@varn_Net
