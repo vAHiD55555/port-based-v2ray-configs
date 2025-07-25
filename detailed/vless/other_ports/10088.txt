@@ -1,2 +1,2 @@
-vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088?security=reality&encryption=none&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=63cace289fb97072#@V2RAY_VMESS_free
 vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088?security=reality&sni=learn.microsoft.com&fp=chrome&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&sid=63cace289fb97072&type=tcp&flow=xtls-rprx-vision&encryption=none#q_058
+vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088?security=reality&encryption=none&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=63cace289fb97072#@V2RAY_VMESS_free
