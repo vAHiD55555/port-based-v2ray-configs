@@ -1,7 +1,8 @@
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?security=none&type=ws&headerType=&path=&host=#@meli_proxyy
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#@meli_proxyy
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&type=ws&headerType=&path=&host=#@meli_proxyy
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#@NETMelliAnti
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?encryption=none&security=none&type=ws&path=/#🔷🆔@v2ray_configs_pool🔷
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#@vmesskhodam
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&type=ws&packetEncoding=xudp&encryption=none#@NetAccount
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#@meli_proxyy
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#@NETMelliAnti
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#@vmesskhodam
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#@Academi_vpn⁴
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?security=&encryption=none&type=ws#🇺🇸  test-panel 2 Active
