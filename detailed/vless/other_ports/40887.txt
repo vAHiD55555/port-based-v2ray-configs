@@ -1,5 +1,4 @@
-vless://5c105446-0e06-48ad-e3d0-6ccc3f97a574@185.209.21.36:40887?type=tcp&path=/&host=tgju.org&headerType=http&security=none#@meli_proxyy
-vless://5c105446-0e06-48ad-e3d0-6ccc3f97a574@185.209.21.36:40887?type=tcp&path=%2F&host=tgju.org&headerType=http&security=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayprotocol%20%7C%2010
 vless://f782fd9e-8c73-4c00-d7c3-92e3eb48eb4b@185.209.21.36:40887?type=tcp&path=/&host=tgju.org&headerType=http&security=none#@meli_proxyy
 vless://8a2e7f51-54c3-48e5-8da6-ca71f9eb2c05@185.209.21.36:40887?encryption=none&security=none&type=tcp&headerType=http&host=tgju.org#@meli_proxyy
-vless://f782fd9e-8c73-4c00-d7c3-92e3eb48eb4b@185.209.21.36:40887?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#Telegram:@config_proxy 🔥
+vless://5c105446-0e06-48ad-e3d0-6ccc3f97a574@185.209.21.36:40887?type=tcp&path=%2F&host=tgju.org&headerType=http&security=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayprotocol%20%7C%2010
+vless://5c105446-0e06-48ad-e3d0-6ccc3f97a574@185.209.21.36:40887?type=tcp&path=/&host=tgju.org&headerType=http&security=none#@meli_proxyy
