@@ -1,1 +1,2 @@
-vless://168ff749-f14d-4092-a456-cdaf25afc290@sb.g7pm.xyz:2065?type=tcp&headerType=http&path=/path&security=none#@SaghiVpnX[🇳🇱]
+vless://168ff749-f14d-4092-a456-cdaf25afc290@s3.sbarshia.ir:2065?security=none&type=tcp&path=/path&headerType=http&host=&packetEncoding=xudp&encryption=none#🇳🇱 | S3_2065 | @Filter_breaker
+vless://168ff749-f14d-4092-a456-cdaf25afc290@s3.sbarshia.ir:2065?security=&encryption=none&headerType=http&type=tcp#Telegram:@config_proxy 🔥
