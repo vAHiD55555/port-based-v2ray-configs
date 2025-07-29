@@ -1,1 +1,2 @@
 vless://85d04767-c908-4cf0-b6b9-162e537e01e1@193.164.155.224:26592?&type=tcp&headerType=none&path=/#@meli_proxyy
+vless://85d04767-c908-4cf0-b6b9-162e537e01e1@193.164.155.224:26592?encryption=none&security=none&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
