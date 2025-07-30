@@ -1,1 +1,1 @@
-vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?security=reality&sni=yahoo.com&fp=random&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&sid=3b6239cf6fd84dd3&type=tcp&flow=xtls-rprx-vision&encryption=none#q_073
+vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=random&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&sid=3b6239cf6fd84dd3&type=tcp&headerType=none#q_073
