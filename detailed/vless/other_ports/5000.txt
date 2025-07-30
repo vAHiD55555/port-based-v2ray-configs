@@ -1,2 +1,1 @@
-vless://720008cb-a774-446d-a7ad-c2a0d82e5310@ali66.iranman.shop:5000?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#برای تهیه کانفیگ اختصاصی پیام بدید@TheMob_VPN
 vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?mode=gun&security=tls&encryption=none&type=grpc&sni=servers.xvon.in#@EXPRESSVPN_420
