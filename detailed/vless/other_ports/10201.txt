@@ -1,1 +1,1 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@49.1.224.28:10201?security=tls&sni=edmk.aimercc.filegear-sg.me&type=ws&host=edmk.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇰🇷 KR-49.1.224.28:10201
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@223.16.138.113:10201?encryption=none&security=tls&sni=vxh.wxgqlfx.cn&alpn=http/1.1&fp=chrome&allowInsecure=1&type=ws&host=vxh.wxgqlfx.cn&path=/TG@wxgqlfx?ed=2560#🔷🆔@v2ray_configs_pool🔷

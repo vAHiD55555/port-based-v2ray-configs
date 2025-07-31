@@ -1,1 +1,1 @@
-vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@45.76.192.129:24434?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇯🇵 JP-45.76.192.129:24434
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@45.76.192.129:24434?encryption=none&security=tls&sni=vxh.wxgqlfx.cn&alpn=http/1.1&fp=chrome&allowInsecure=1&type=ws&host=vxh.wxgqlfx.cn&path=/TG@wxgqlfx?ed=2560#🔷🆔@v2ray_configs_pool🔷
