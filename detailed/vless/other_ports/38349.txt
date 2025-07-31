@@ -1,1 +1,2 @@
-vless://3564cd2f-db77-76fb-feb5-9d56d1885e20@95.38.104.100:38349?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.104.100:38349
+vless://4342cf4b-b129-42aa-bc44-bfcd1e186261@ppower.teammplus.ir:38349?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ppower.teammplus.ir#Telegram:@config_proxy 🔥
+vless://4342cf4b-b129-42aa-bc44-bfcd1e186261@ppower.teammplus.ir:38349?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ppower.teammplus.ir#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:42.15ms
