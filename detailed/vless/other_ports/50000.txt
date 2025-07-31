@@ -1,5 +1,7 @@
-vless://70c2e363-a934-4ea5-9e29-7cadd817194c@125.134.160.98:50000?allowInsecure=0&sni=v2-3h5.pages.dev&type=ws&host=v2-3h5.pages.dev&path=/?ed=2560security=tls#KR_speednode_0074
 vless://70c2e363-a934-4ea5-9e29-7cadd817194c@125.134.160.98:50000?allowInsecure=0&sni=v2-3h5.pages.dev&type=ws&host=v2-3h5.pages.dev&path=/?ed=2560security=tls#KR_speednode_0085
-vless://70c2e363-a934-4ea5-9e29-7cadd817194c@125.134.160.98:50000?allowInsecure=0&sni=v2-3h5.pages.dev&type=ws&host=v2-3h5.pages.dev&path=/?ed=2560security=tls#KR_speednode_0054
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@211.221.20.167:50000?allowInsecure=0&sni=edgetunnel.xiaomayi.nyc.mn&type=ws&host=edgetunnel.xiaomayi.nyc.mn&path=%2FTelegram#%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40hope_net%20%5B19%5D
 vless://70c2e363-a934-4ea5-9e29-7cadd817194c@125.134.160.98:50000?allowInsecure=0&sni=v2-3h5.pages.dev&type=ws&host=v2-3h5.pages.dev&path=/?ed=2560security=tls#KR_speednode_0076
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@tg.wxgqlfx.top:50000?encryption=none&security=tls&sni=vxh.wxgqlfx.cn&alpn=http/1.1&fp=chrome&allowInsecure=1&type=ws&host=vxh.wxgqlfx.cn&path=/TG@wxgqlfx?ed=2560#🔷🆔@v2ray_configs_pool🔷
+vless://70c2e363-a934-4ea5-9e29-7cadd817194c@125.134.160.98:50000?allowInsecure=0&sni=v2-3h5.pages.dev&type=ws&host=v2-3h5.pages.dev&path=/?ed=2560security=tls#KR_speednode_0054
+vless://70c2e363-a934-4ea5-9e29-7cadd817194c@125.134.160.98:50000?allowInsecure=0&sni=v2-3h5.pages.dev&type=ws&host=v2-3h5.pages.dev&path=/?ed=2560security=tls#KR_speednode_0074
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@211.221.20.167:50000?allowInsecure=0&sni=edgetunnel.xiaomayi.nyc.mn&type=ws&host=edgetunnel.xiaomayi.nyc.mn&path=/Telegram#Telegram:@config_proxy 🔥
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@61.81.13.82:50000?allowInsecure=0&sni=edgetunnel.xiaomayi.nyc.mn&type=ws&host=edgetunnel.xiaomayi.nyc.mn&path=/Telegram#Telegram:@config_proxy 🔥
