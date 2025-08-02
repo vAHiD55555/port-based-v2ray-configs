@@ -12,18 +12,21 @@
       <h1>🔗 لینک‌های سابسکریپشن</h1>
       <p>برای هر پروتکل یا پورت معروف، روی گزینه مربوطه کلیک کن</p>
     </div>
+
     <h2 class="title">بر اساس پروتکل</h2>
     <div class="protocol-grid">
-      <div class="protocol-card" onclick="showLink('VLESS', links.vless)"><div class="card-content"><div class="icon">🟦</div><span>VLESS</span></div></div>
-      <div class="protocol-card" onclick="showLink('Shadowsocks', links.ss)"><div class="card-content"><div class="icon">🟨</div><span>Shadowsocks</span></div></div>
-      <div class="protocol-card" onclick="showLink('Trojan', links.trojan)"><div class="card-content"><div class="icon">🟥</div><span>Trojan</span></div></div>
-      <div class="protocol-card" onclick="showLink('Hysteria2', links.hysteria2)"><div class="card-content"><div class="icon">🟩</div><span>Hysteria2</span></div></div>
-      <div class="protocol-card" onclick="showLink('VMESS', links.vmess)"><div class="card-content"><div class="icon">🟪</div><span>VMESS</span></div></div>
-      <div class="protocol-card" onclick="showLink('Hy2', links.hy2)"><div class="card-content"><div class="icon">🟫</div><span>Hy2</span></div></div>
-      <div class="protocol-card" onclick="showLink('HTTPS', links.https)"><div class="card-content"><div class="icon">🌐</div><span>HTTPS</span></div></div>
+      <div class="protocol-card" onclick="showLink('VLESS', 'vless')"><div class="card-content"><div class="icon">🟦</div><span>VLESS</span></div></div>
+      <div class="protocol-card" onclick="showLink('Shadowsocks', 'ss')"><div class="card-content"><div class="icon">🟨</div><span>Shadowsocks</span></div></div>
+      <div class="protocol-card" onclick="showLink('Trojan', 'trojan')"><div class="card-content"><div class="icon">🟥</div><span>Trojan</span></div></div>
+      <div class="protocol-card" onclick="showLink('Hysteria2', 'hysteria2')"><div class="card-content"><div class="icon">🟩</div><span>Hysteria2</span></div></div>
+      <div class="protocol-card" onclick="showLink('VMESS', 'vmess')"><div class="card-content"><div class="icon">🟪</div><span>VMESS</span></div></div>
+      <div class="protocol-card" onclick="showLink('Hy2', 'hy2')"><div class="card-content"><div class="icon">🟫</div><span>Hy2</span></div></div>
+      <div class="protocol-card" onclick="showLink('HTTPS', 'https')"><div class="card-content"><div class="icon">🌐</div><span>HTTPS</span></div></div>
     </div>
+
     <h2 class="title" style="margin-top:50px">بر اساس پورت معروف</h2>
     <div class="protocol-grid" id="port-grid"></div>
+
     <div class="output-wrapper">
       <div class="output-container" id="output" style="display:none;">
         <div class="output-header">
@@ -32,11 +35,12 @@
         </div>
         <div class="output-body">
           <pre id="output-body"></pre>
-          <p id="counter" style="color:#8b949e; font-size:0.9rem; margin-top:10px;">طول لینک: 0 کاراکتر</p>
+          <p id="counter" style="color:#8b949e; font-size:0.9rem; margin-top:10px;">تعداد کانفیگ: ۰</p>
         </div>
       </div>
     </div>
   </div>
+
   <script>
     const links = {
       vless: "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/protocols/vless.txt",
@@ -59,28 +63,54 @@
       p2086: "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/2086.txt",
       p8088: "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/sub/8088.txt"
     };
+
     const ports = [443,80,8080,2096,2053,2087,2095,2052,2083,2082,2086,8088];
     const portGrid = document.getElementById("port-grid");
+
     ports.forEach(port => {
       const div = document.createElement("div");
       div.className = "protocol-card";
-      div.onclick = () => showLink("پورت " + port, links["p" + port]);
+      div.onclick = () => showLink("پورت " + port, "p" + port);
       div.innerHTML = `<div class="card-content"><div class="icon">🧩</div><span>پورت ${port}</span></div>`;
       portGrid.appendChild(div);
     });
-    function showLink(title, link) {
+
+    function showLink(title, key) {
+      const link = links[key];
       const titleEl = document.getElementById("output-title");
       const bodyEl = document.getElementById("output-body");
       const counter = document.getElementById("counter");
       const container = document.getElementById("output");
+
       titleEl.textContent = title;
-      bodyEl.textContent = link || "❌ لینک یافت نشد";
-      counter.textContent = link ? `طول لینک: ${link.length} کاراکتر` : "";
-      container.style.display = "block";
+
+      if (!link) {
+        bodyEl.textContent = "❌ لینک یافت نشد";
+        counter.textContent = "";
+        container.style.display = "block";
+        return;
+      }
+
+      fetch(link)
+        .then(res => res.text())
+        .then(data => {
+          const lines = data.trim().split(/[\r\n]+/);
+          bodyEl.textContent = link;
+          counter.textContent = `🔢 تعداد کانفیگ‌ها: ${lines.length}`;
+          container.style.display = "block";
+        })
+        .catch(err => {
+          bodyEl.textContent = "❌ خطا در بارگذاری لینک";
+          counter.textContent = "";
+          container.style.display = "block";
+        });
     }
+
     function copyToClipboard() {
       const text = document.getElementById("output-body").textContent;
-      navigator.clipboard.writeText(text).then(() => alert("✅ کپی شد!"));
+      navigator.clipboard.writeText(text).then(() => {
+        alert("✅ لینک با موفقیت کپی شد");
+      });
     }
   </script>
 </body>
