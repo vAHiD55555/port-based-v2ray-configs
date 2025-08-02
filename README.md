@@ -8,20 +8,20 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 ### 📊 Live Statistics
 
-**Last Updated:** 2025-08-02 22:07:17 Tehran Time
+**Last Updated:** 2025-08-02 22:18:44 Tehran Time
 
-**Total Unique Configurations (Working):** 21774
+**Total Unique Configurations (Working):** 21824
 
 | Protocol | 443 | 80 | 8080 | 2096 | 2053 | 2087 | 2095 | 2052 | 2083 | 2082 | 2086 | 8088 | Other Ports | Total |
 |:---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---:|:---:|
-| Vless | 5196 | 4080 | 785 | 660 | 342 | 250 | 227 | 174 | 116 | 139 | 133 | 1 | 5559 | **17662** |
-| Ss | 1059 | 34 | 630 | 2 | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 1507 | **3235** |
-| Trojan | 515 | 17 | 2 | 25 | 31 | 29 | 0 | 0 | 42 | 0 | 0 | 0 | 191 | **852** |
+| Vless | 5195 | 4080 | 784 | 662 | 341 | 246 | 228 | 177 | 115 | 139 | 132 | 1 | 5554 | **17654** |
+| Ss | 1049 | 36 | 633 | 2 | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 0 | 1554 | **3277** |
+| Trojan | 518 | 17 | 2 | 25 | 31 | 29 | 0 | 0 | 42 | 0 | 0 | 0 | 202 | **866** |
 | Hysteria2 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | **11** |
-| Vmess | 5 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | **8** |
+| Vmess | 6 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | **10** |
 | Hy2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | **5** |
 | Https | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | **1** |
-| **Total** | **6786** | **4132** | **1417** | **687** | **373** | **281** | **227** | **174** | **159** | **140** | **133** | **1** | **7264** | **21774** |
+| **Total** | **6779** | **4134** | **1419** | **689** | **372** | **277** | **228** | **177** | **158** | **140** | **132** | **1** | **7318** | **21824** |
 
 ---
 
@@ -102,8 +102,8 @@ An automated repository that collects and categorizes free V2Ray/Clash configura
 
 | Summary | Source Details |
 |:---|:---|
-| **Total Fetched (Raw):** 482959 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 461736 configs |
-| **Duplicates Removed:** 444647 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 15632 configs |
+| **Total Fetched (Raw):** 482985 | **[Epodonios](https://github.com/Epodonios/v2ray-configs):** 461736 configs |
+| **Duplicates Removed:** 444640 | **[barry-far](https://github.com/barry-far/V2ray-Config):** 15658 configs |
 | --- | **[mahdibland](https://github.com/mahdibland/V2RayAggregator):** 5341 configs |
-| **Unique Configs Tested:** 38312 | **[Rayan-Config](https://github.com/Rayan-Config/C-Sub):** 161 configs |
-| **Working Configs Found:** 21774 | **[kobabi](https://github.com/liketolivefree/kobabi):** 89 configs |
+| **Unique Configs Tested:** 38345 | **[Rayan-Config](https://github.com/Rayan-Config/C-Sub):** 161 configs |
+| **Working Configs Found:** 21824 | **[kobabi](https://github.com/liketolivefree/kobabi):** 89 configs |
