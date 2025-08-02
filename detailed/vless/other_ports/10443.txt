@@ -1,1 +1,3 @@
+vless://hqV2ray@65.108.208.201:10443?security=&encryption=none&headerType=none=#@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&type=tcp#@mehrosaboran
+vless://hqV2ray@65.108.208.201:10443?security=&encryption=none&headerType=none=#@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&type=tcp#@bored_vpn
 vless://hqV2ray@65.108.208.201:10443?security=&encryption=none&headerType=none=/@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray&type=tcp#@icv2ray
