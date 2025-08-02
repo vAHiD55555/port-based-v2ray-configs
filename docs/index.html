@@ -2,17 +2,17 @@
 <html lang="fa">
 <head>
   <meta charset="UTF-8">
-  <title>پورت‌بیس V2Ray</title>
+  <title>کانفیگ V2Ray بر اساس پورت</title>
   <link rel="stylesheet" href="style.css">
   <style>
-    .protocols {
+    .protocols, .ports {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 15px;
       margin-top: 30px;
     }
-    .protocol-btn {
+    .protocol-btn, .port-btn {
       background-color: #00ccff;
       color: #000;
       padding: 15px 30px;
@@ -23,11 +23,11 @@
       border: none;
       transition: background 0.3s;
     }
-    .protocol-btn:hover {
+    .protocol-btn:hover, .port-btn:hover {
       background-color: #00aacc;
     }
     #output {
-      margin-top: 50px;
+      margin-top: 40px;
       font-size: 16px;
       direction: ltr;
       white-space: pre-wrap;
@@ -36,38 +36,76 @@
       padding-top: 20px;
       min-height: 40px;
     }
+    .title {
+      font-size: 26px;
+      color: #00ffff;
+      margin-bottom: 20px;
+    }
   </style>
 </head>
 <body>
   <div class="title">🔌 انتخاب نوع کانفیگ</div>
 
   <div class="protocols">
-    <button class="protocol-btn" onclick="showLink('vmess')">VMESS</button>
-    <button class="protocol-btn" onclick="showLink('vless')">VLESS</button>
-    <button class="protocol-btn" onclick="showLink('ss')">Shadowsocks</button>
-    <button class="protocol-btn" onclick="showLink('trojan')">Trojan</button>
+    <button class="protocol-btn" onclick="selectProtocol('vmess')">VMESS</button>
+    <button class="protocol-btn" onclick="selectProtocol('vless')">VLESS</button>
+    <button class="protocol-btn" onclick="selectProtocol('ss')">Shadowsocks</button>
+    <button class="protocol-btn" onclick="selectProtocol('trojan')">Trojan</button>
   </div>
 
+  <div id="ports" class="ports" style="display:none;"></div>
   <div id="output"></div>
 
   <script>
-    const links = {
-      vmess: "https://yourdomain.com/sub/vmess.txt",
-      vless: "https://yourdomain.com/sub/vless.txt",
-      ss:    "https://yourdomain.com/sub/ss.txt",
-      trojan:"https://yourdomain.com/sub/trojan.txt"
+    const configs = {
+      vmess: {
+        443: "https://yourdomain.com/sub/vmess-443.txt",
+        2086: "https://yourdomain.com/sub/vmess-2086.txt"
+      },
+      vless: {
+        443: "https://yourdomain.com/sub/vless-443.txt",
+        8880: "https://yourdomain.com/sub/vless-8880.txt"
+      },
+      ss: {
+        8488: "https://yourdomain.com/sub/ss-8488.txt"
+      },
+      trojan: {
+        443: "https://yourdomain.com/sub/trojan-443.txt"
+      }
     };
 
-    function showLink(protocol) {
+    let selectedProtocol = null;
+
+    function selectProtocol(protocol) {
+      selectedProtocol = protocol;
+      const portsDiv = document.getElementById("ports");
+      portsDiv.innerHTML = "";
+      portsDiv.style.display = "flex";
+
+      const ports = Object.keys(configs[protocol]);
+      ports.forEach(port => {
+        const btn = document.createElement("button");
+        btn.className = "port-btn";
+        btn.textContent = `پورت ${port}`;
+        btn.onclick = () => showLink(protocol, port);
+        portsDiv.appendChild(btn);
+      });
+
+      document.getElementById("output").innerHTML = "";
+    }
+
+    function showLink(protocol, port) {
+      const link = configs[protocol][port];
+      const text = `📥 لینک ${protocol.toUpperCase()} پورت ${port}:\n${link}`;
       const output = document.getElementById("output");
-      output.innerHTML = ""; // پاک کردن متن قبلی
-      typeText(`📥 لینک سابسکریپشن ${protocol.toUpperCase()}:\n${links[protocol]}`, output);
+      output.innerHTML = "";
+      typeText(text, output);
     }
 
     function typeText(text, element, i = 0) {
       if (i < text.length) {
         element.innerHTML += text.charAt(i);
-        setTimeout(() => typeText(text, element, i + 1), 30); // سرعت تایپ
+        setTimeout(() => typeText(text, element, i + 1), 30);
       }
     }
   </script>
