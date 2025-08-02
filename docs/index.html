@@ -17,46 +17,25 @@
     <h2 class="title">بر اساس پروتکل</h2>
     <div class="protocol-grid">
       <div class="protocol-card" onclick="showLink('VLESS', links.vless)">
-        <div class="card-content">
-          <div class="icon">🟦</div>
-          <span>VLESS</span>
-        </div>
+        <div class="card-content"><div class="icon">🟦</div><span>VLESS</span></div>
       </div>
       <div class="protocol-card" onclick="showLink('Shadowsocks', links.ss)">
-        <div class="card-content">
-          <div class="icon">🟨</div>
-          <span>Shadowsocks</span>
-        </div>
+        <div class="card-content"><div class="icon">🟨</div><span>Shadowsocks</span></div>
       </div>
       <div class="protocol-card" onclick="showLink('Trojan', links.trojan)">
-        <div class="card-content">
-          <div class="icon">🟥</div>
-          <span>Trojan</span>
-        </div>
+        <div class="card-content"><div class="icon">🟥</div><span>Trojan</span></div>
       </div>
       <div class="protocol-card" onclick="showLink('Hysteria2', links.hysteria2)">
-        <div class="card-content">
-          <div class="icon">🟩</div>
-          <span>Hysteria2</span>
-        </div>
+        <div class="card-content"><div class="icon">🟩</div><span>Hysteria2</span></div>
       </div>
       <div class="protocol-card" onclick="showLink('VMESS', links.vmess)">
-        <div class="card-content">
-          <div class="icon">🟪</div>
-          <span>VMESS</span>
-        </div>
+        <div class="card-content"><div class="icon">🟪</div><span>VMESS</span></div>
       </div>
       <div class="protocol-card" onclick="showLink('Hy2', links.hy2)">
-        <div class="card-content">
-          <div class="icon">🟫</div>
-          <span>Hy2</span>
-        </div>
+        <div class="card-content"><div class="icon">🟫</div><span>Hy2</span></div>
       </div>
       <div class="protocol-card" onclick="showLink('HTTPS', links.https)">
-        <div class="card-content">
-          <div class="icon">🌐</div>
-          <span>HTTPS</span>
-        </div>
+        <div class="card-content"><div class="icon">🌐</div><span>HTTPS</span></div>
       </div>
     </div>
 
@@ -77,7 +56,6 @@
           2086: "2086",
           8088: "8088",
         };
-
         for (const port in portList) {
           document.write(`
             <div class="protocol-card" onclick="showLink('Port ${port}', links['p${port}'])">
@@ -99,6 +77,7 @@
         </div>
         <div class="output-body">
           <pre id="output-body" class="typing-cursor"></pre>
+          <p id="counter" style="color:#8b949e; font-size:0.9rem; margin-top:10px;">طول لینک: 0 کاراکتر</p>
         </div>
       </div>
     </div>
@@ -131,25 +110,28 @@
       const titleEl = document.getElementById("output-title");
       const bodyEl = document.getElementById("output-body");
       const container = document.getElementById("output");
+      const counter = document.getElementById("counter");
 
       titleEl.textContent = title;
       bodyEl.textContent = "";
+      counter.textContent = "طول لینک: 0 کاراکتر";
       container.style.display = "block";
 
-      typeText(link, bodyEl);
+      typeText(link, bodyEl, counter);
     }
 
-    function typeText(text, el, i = 0) {
+    function typeText(text, el, counterEl, i = 0) {
       if (i < text.length) {
         el.textContent += text.charAt(i);
-        setTimeout(() => typeText(text, el, i + 1), 20);
+        counterEl.textContent = `طول لینک: ${i + 1} کاراکتر`;
+        setTimeout(() => typeText(text, el, counterEl, i + 1), 20);
       }
     }
 
     function copyToClipboard() {
       const text = document.getElementById("output-body").textContent;
       navigator.clipboard.writeText(text).then(() => {
-        alert("✅ کپی شد!");
+        alert("✅ لینک با موفقیت کپی شد");
       });
     }
   </script>
