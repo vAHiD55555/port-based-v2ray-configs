@@ -1,1 +1,1 @@
-vless://b13e686d-ba69-4597-953c-cac8fe7b30eb@45.89.220.54:8060?type=tcp#🔒 VL-TCP-NA 🇳🇱 NL-45.89.220.54:8060
+vless://3d7cce92-6574-4166-b85e-d69d154065b5@test.callofdutyfree.com:8060?encryption=none&security=none&type=tcp&headerType=http#@v2ray_configs_pool
