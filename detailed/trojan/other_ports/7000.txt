@@ -1,2 +1,1 @@
-trojan://Aimer@154.17.12.30:7000?allowInsecure=1&sni=epga.aimercc.dpdns.org&type=ws&host=epga.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0072
-trojan://Aimer@154.17.12.30:7000?type=ws&sni=epga.aimercc.dpdns.org&path=/?ed=2560&host=epga.aimercc.dpdns.org#US16
+trojan://Aimer@154.17.12.30:7000?security=tls&sni=epga.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US-154.17.12.30-0699
