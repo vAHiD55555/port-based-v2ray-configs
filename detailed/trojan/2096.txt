@@ -1,13 +1,10 @@
-trojan://Aimer@66.81.247.230:2096?security=tls&sni=epga.aimercc.dpdns.org#%F0%9F%8F%81RELAY-66.81.247.230-0664
-trojan://Aimer@66.81.247.230:2096?type=ws&sni=epga.aimercc.dpdns.org&path=/?ed=2560&host=epga.aimercc.dpdns.org#US15
-trojan://Aimer@135.84.64.77:2096?security=tls&sni=epga.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US-135.84.64.77-0670
-trojan://Aimer@66.81.247.230:2096?allowInsecure=1&sni=epga.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6
-trojan://Aimer@103.116.7.220:2096?security=tls&sni=epga.aimercc.dpdns.org#%F0%9F%8F%81RELAY-103.116.7.220-0643
-trojan://Aimer@103.116.7.220:2096?type=ws&sni=epga.aimercc.dpdns.org&path=/?ed=2560&host=epga.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@66.81.247.230:2096?security=tls&sni=epga.aimercc.dpdns.org#%F0%9F%8F%81RELAY-66.81.247.230-0691
 trojan://SSorg@135.84.64.77:2096?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#t.me/entryNET/config=1837880452958988
-trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
-trojan://Aimer@135.84.64.77:2096?allowInsecure=1&sni=epga.aimercc.dpdns.org&type=ws&host=epga.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0169
-trojan://Aimer@66.81.247.230:2096?allowInsecure=1&sni=epga.aimercc.dpdns.org&type=ws&host=epga.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0159
-trojan://Aimer@103.116.7.220:2096?allowInsecure=1&sni=epga.aimercc.dpdns.org&type=ws&host=epga.aimercc.dpdns.org&path=/?ed=2560#JP_speednode_0065
 trojan://Aimer@135.84.64.77:2096?type=ws&sni=epga.aimercc.dpdns.org&path=/?ed=2560&host=epga.aimercc.dpdns.org#US10
+trojan://Aimer@135.84.64.77:2096?security=tls&sni=epga.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US-135.84.64.77-0697
+trojan://Aimer@66.81.247.230:2096?type=ws&sni=epga.aimercc.dpdns.org&path=/?ed=2560&host=epga.aimercc.dpdns.org#US15
+trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
+trojan://Aimer@135.84.64.77:2096?allowInsecure=1&sni=epga.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
+trojan://Aimer@103.116.7.220:2096?type=ws&sni=epga.aimercc.dpdns.org&path=/?ed=2560&host=epga.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@103.116.7.220:2096?security=tls&sni=epga.aimercc.dpdns.org#%F0%9F%8F%81RELAY-103.116.7.220-0671
 trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=/tr/v/tNtL/gfdr&security=none&type=ws#🇩🇪All³ | @BigSmoke_Config
