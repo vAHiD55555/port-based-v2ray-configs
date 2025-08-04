@@ -1,1 +1,2 @@
+vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?encryption=none&security=none&type=ws&path=/#@v2ray_configs_pool
 vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#@Filter_breaker```
