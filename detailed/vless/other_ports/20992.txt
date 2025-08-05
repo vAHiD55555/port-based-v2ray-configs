@@ -1,2 +1,2 @@
-vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
 vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?security=none&encryption=none&headerType=none&type=tcp#✅@v2ray_configs_pools
+vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
