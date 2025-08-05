@@ -1,1 +1,2 @@
 trojan://b9b452d5-d041-47d3-9902-f2a95266cabd@w-jp1.standpronode.us:19039?security=tls&sni=subpi.alibabasouth.com&allowInsecure=1&type=tcp&headerType=none#@v2ray_configs_pool
+trojan://b9b452d5-d041-47d3-9902-f2a95266cabd@zgxjzy02.sssnisua.com:19039?security=tls&sni=subpijp.alibabasouth.com&allowInsecure=1&type=tcp&headerType=none#@v2ray_configs_pool
