@@ -1,2 +1,3 @@
-vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?security=reality&sni=stackoverflow.com&fp=chrome&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&sid=ac&type=tcp&flow=xtls-rprx-vision&encryption=none#q_015
 vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?security=reality&sni=stackoverflow.com&fp=random&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&sid=ac&type=tcp&flow=xtls-rprx-vision&encryption=none#q_078
+vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?security=reality&encryption=none&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=ac#@V2RAY_VMESS_free
+vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?security=reality&sni=stackoverflow.com&fp=chrome&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&sid=ac&type=tcp&flow=xtls-rprx-vision&encryption=none#q_015

@@ -1,2 +1,2 @@
-vless://1ae71b47-30f4-47a3-f961-d5e438e5bf9f@31.56.146.132:56583?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=P2ZwmZkn0t1oar2m9n_iWXUNVN01CSOaMzaIbscu5xI&spx=%2F&type=tcp&headerType=none#%3E%3E%40VmessProtocol%3A%3AXX
 vless://1ae71b47-30f4-47a3-f961-d5e438e5bf9f@31.56.146.132:56583?security=reality&sni=cloudflare.com&fp=chrome&pbk=P2ZwmZkn0t1oar2m9n_iWXUNVN01CSOaMzaIbscu5xI&type=tcp&encryption=none#q_134
+vless://1ae71b47-30f4-47a3-f961-d5e438e5bf9f@31.56.146.132:56583?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=P2ZwmZkn0t1oar2m9n_iWXUNVN01CSOaMzaIbscu5xI&spx=%2F&type=tcp&headerType=none#%3E%3E%40VmessProtocol%3A%3AXX
