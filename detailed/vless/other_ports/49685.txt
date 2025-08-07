@@ -1,2 +1,1 @@
-vless://55a1f6f1-2272-4830-80dd-4558920fb1f8@87.236.208.192:49685?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-87.236.208.192:49685
-vless://55a1f6f1-2272-4830-80dd-4558920fb1f8@87.236.208.192:49685?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-87.236.208.192:49685
+vless://3e0a14f1-caf1-4cbb-a0fc-c9e7597fc19c@51.195.43.122:49685?security=tls&sni=de.musicbaaz.ir&type=tcp&host=tc.donya-e-eqtesad.com&path=/&headerType=http&fp=chrome&alpn=h3,h2,http/1.1#Telegram:@config_proxy 🔥
