@@ -1,3 +1,1 @@
-vless://6a40b013-21df-4a75-94c5-51e3ce87a017@162.55.188.221:2081?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
-vless://ddc69a7f-f475-432f-a35b-02b9050224da@162.55.188.221:2081?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]
-vless://6a40b013-21df-4a75-94c5-51e3ce87a017@162.55.188.221:2081?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
+vless://1b21d02a-2b20-442a-958a-d1a31976692a@v2de.imesaagetext.ir:2081?encryption=none&security=tls&sni=client.imesaagetext.ir&alpn=h2,http/1.1&fp=chrome&type=tcp&headerType=none#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
