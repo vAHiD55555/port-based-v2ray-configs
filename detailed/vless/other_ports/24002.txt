@@ -1,2 +1,2 @@
-vless://e8661019-72cb-4e48-c3c2-4da75f99e3bc@31.56.146.132:24002?encryption=none&security=none&type=ws&host=tgju.org&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmessprotocol%20%5B4%5D
 vless://e8661019-72cb-4e48-c3c2-4da75f99e3bc@31.56.146.132:24002?security=none&type=ws&path=/&host=tgju.org&packetEncoding=xudp&encryption=none#@NetAccount
+vless://e8661019-72cb-4e48-c3c2-4da75f99e3bc@31.56.146.132:24002?encryption=none&security=none&type=ws&host=tgju.org&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmessprotocol%20%5B3%5D
