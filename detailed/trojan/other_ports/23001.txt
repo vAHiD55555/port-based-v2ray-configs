@@ -1,5 +1,5 @@
 trojan://82d0fb76-b9ff-41c2-ba15-2aec44f78e7c@okanc.iepl.cac.cab:23001?allowInsecure=0&sni=www.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40stairnode
-trojan://82d0fb76-b9ff-41c2-ba15-2aec44f78e7c@okanc.iepl.cac.cab:23001?allowInsecure=1&sni=www.bilibili.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%9C%E8%8E%9E%E5%B8%82%20%E7%94%B5%E4%BF%A1IDC%E6%9C%BA%E6%88%BF
-trojan://82d0fb76-b9ff-41c2-ba15-2aec44f78e7c@okanc.iepl.cac.cab:23001?allowInsecure=1&sni=www.bilibili.com#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://82d0fb76-b9ff-41c2-ba15-2aec44f78e7c@okanc.iepl.cac.cab:23001?allowInsecure=1&sni=www.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://82d0fb76-b9ff-41c2-ba15-2aec44f78e7c@okanc.iepl.cac.cab:23001?sni=www.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF4
+trojan://82d0fb76-b9ff-41c2-ba15-2aec44f78e7c@okanc.iepl.cac.cab:23001?allowInsecure=1&sni=www.bilibili.com#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
+trojan://82d0fb76-b9ff-41c2-ba15-2aec44f78e7c@okanc.iepl.cac.cab:23001?security=tls&sni=www.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8US-154.83.90.11-0658
