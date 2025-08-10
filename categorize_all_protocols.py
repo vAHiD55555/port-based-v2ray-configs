@@ -3,12 +3,9 @@ import base64
 import json
 import os
 import re
-import socket
-import time
-import concurrent.futures
 from collections import defaultdict
-from urllib.parse import urlparse, unquote
-from datetime import datetime, timezone, timedelta
+from urllib.parse import urlparse
+from datetime import datetime, timezone
 
 # === Sources ===
 SOURCES = {
@@ -19,29 +16,12 @@ SOURCES = {
     "Rayan-Config": "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
 }
 
-# === Repo links for credits ===
-SOURCE_REPOS = {
-    "barry-far": "https://github.com/barry-far/V2ray-Config",
-    "kobabi": "https://github.com/liketolivefree/kobabi",
-    "mahdibland": "https://github.com/mahdibland/V2RayAggregator",
-    "Epodonios": "https://github.com/Epodonios/v2ray-configs",
-    "Rayan-Config": "https://github.com/Rayan-Config/C-Sub",
-}
-
-# === Known ports ===
-FAMOUS_PORTS = {
-    '80', '443', '8080', '8088', '2052', '2053', '2082', '2083', '2086', '2087',
-    '2095', '2096', '8443'
-}
-
 # === Helpers ===
 def parse_configs(data):
     configs = []
     for line in data.splitlines():
         line = line.strip()
-        if not line:
-            continue
-        if line.startswith(("vmess://", "vless://", "trojan://", "ss://")):
+        if line and line.startswith(("vmess://", "vless://", "trojan://", "ss://")):
             configs.append(line)
     return configs
 
@@ -70,7 +50,6 @@ def extract_info(config):
     return protocol, port
 
 # === Main process ===
-all_configs = []
 protocol_count = defaultdict(int)
 port_count = defaultdict(int)
 proto_port_count = defaultdict(int)
@@ -86,7 +65,6 @@ for name, url in SOURCES.items():
             for cfg in configs:
                 protocol, port = extract_info(cfg)
                 if protocol and port:
-                    all_configs.append(cfg)
                     protocol_count[protocol] += 1
                     port_count[port] += 1
                     proto_port_count[(protocol, port)] += 1
@@ -100,21 +78,27 @@ for name, url in SOURCES.items():
 def make_table_by_protocol():
     rows = ["| Protocol | Config Count | Subscription Link |", "|----------|--------------|-------------------|"]
     for proto in sorted(protocol_count.keys()):
-        link = f"[📎 Link](data:text/plain;base64,{base64.b64encode('\n'.join(proto_links[proto]).encode()).decode()})"
+        configs_text = "\n".join(proto_links[proto])
+        encoded = base64.b64encode(configs_text.encode()).decode()
+        link = f"[📎 Link](data:text/plain;base64,{encoded})"
         rows.append(f"| {proto} | {protocol_count[proto]} | {link} |")
     return "\n".join(rows)
 
 def make_table_by_port():
     rows = ["| Port | Config Count | Subscription Link |", "|------|--------------|-------------------|"]
     for port in sorted(port_count.keys(), key=lambda x: int(x) if x.isdigit() else 99999):
-        link = f"[📎 Link](data:text/plain;base64,{base64.b64encode('\n'.join(port_links[port]).encode()).decode()})"
+        configs_text = "\n".join(port_links[port])
+        encoded = base64.b64encode(configs_text.encode()).decode()
+        link = f"[📎 Link](data:text/plain;base64,{encoded})"
         rows.append(f"| {port} | {port_count[port]} | {link} |")
     return "\n".join(rows)
 
 def make_table_detailed():
     rows = ["| Protocol | Port | Config Count | Subscription Link |", "|----------|------|--------------|-------------------|"]
     for (proto, port) in sorted(proto_port_count.keys(), key=lambda x: (x[0], int(x[1]) if x[1].isdigit() else 99999)):
-        link = f"[📎 Link](data:text/plain;base64,{base64.b64encode('\n'.join(proto_port_links[(proto, port)]).encode()).decode()})"
+        configs_text = "\n".join(proto_port_links[(proto, port)])
+        encoded = base64.b64encode(configs_text.encode()).decode()
+        link = f"[📎 Link](data:text/plain;base64,{encoded})"
         rows.append(f"| {proto} | {port} | {proto_port_count[(proto, port)]} | {link} |")
     return "\n".join(rows)
 
