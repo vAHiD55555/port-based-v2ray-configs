@@ -2,7 +2,6 @@ import requests
 import base64
 import json
 import os
-import re
 from collections import defaultdict
 from urllib.parse import urlparse
 from datetime import datetime, timezone
@@ -102,10 +101,8 @@ def make_table_detailed():
         rows.append(f"| {proto} | {port} | {proto_port_count[(proto, port)]} | {link} |")
     return "\n".join(rows)
 
-# === Write to README.md ===
-readme_content = f"""
-# Subscription Links Overview
-
+# === Final content for dynamic section ===
+dynamic_section = f"""
 _Last update: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}_
 
 ## 1️⃣ Table by Protocols
@@ -118,7 +115,23 @@ _Last update: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}_
 {make_table_detailed()}
 """
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
+# === Update README.md only between START and END ===
+readme_path = "README.md"
+if os.path.exists(readme_path):
+    with open(readme_path, "r", encoding="utf-8") as f:
+        readme_data = f.read()
+else:
+    readme_data = ""
 
-print("README.md updated successfully!")
+if "<!-- START -->" in readme_data and "<!-- END -->" in readme_data:
+    before = readme_data.split("<!-- START -->")[0]
+    after = readme_data.split("<!-- END -->")[1]
+    new_readme = before + "<!-- START -->\n" + dynamic_section + "\n<!-- END -->" + after
+else:
+    # If markers not found, append them
+    new_readme = readme_data + "\n<!-- START -->\n" + dynamic_section + "\n<!-- END -->"
+
+with open(readme_path, "w", encoding="utf-8") as f:
+    f.write(new_readme)
+
+print("README.md updated successfully between markers!")
