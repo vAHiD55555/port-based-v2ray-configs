@@ -5,7 +5,7 @@ vless://9dfccdc2-69a0-4a59-bb01-9fa879abfe1b@91.99.18.180:8558?security=none&enc
 vless://9dfccdc2-69a0-4a59-bb01-9fa879abfe1b@91.99.18.180:8558?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://9dfccdc2-69a0-4a59-bb01-9fa879abfe1b@91.99.18.180:8558?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://9dfccdc2-69a0-4a59-bb01-9fa879abfe1b@91.99.18.180:8558?security=none&type=tcp&packetEncoding=xudp&encryption=none#Telegram:@config_proxy 🔥
-vless://9dfccdc2-69a0-4a59-bb01-9fa879abfe1b@91.99.18.180:8558?type=tcp&security=none#Telegram:@config_proxy 🔥
-vless://c0d203a3-c690-42e2-9bbf-5d1d70717134@91.99.18.180:8558?type=tcp&security=none#Telegram:@config_proxy 🔥
 vless://f280ec5d-098e-45ce-8558-6e172a8988ba@91.99.18.180:8558?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://9dfccdc2-69a0-4a59-bb01-9fa879abfe1b@91.99.18.180:8558?type=tcp&security=none#%F0%9F%93%A2%20%20%20-%20%20%20%40XiliVpN%20%20%20%E2%80%A2%20%20%E2%80%8C%E2%80%8C-%5B%20Free-26%20%5D%20-%20%22500%20GB%22```
+vless://9dfccdc2-69a0-4a59-bb01-9fa879abfe1b@91.99.18.180:8558?type=tcp&security=none#Telegram:@config_proxy 🔥
+vless://c0d203a3-c690-42e2-9bbf-5d1d70717134@91.99.18.180:8558?type=tcp&security=none#Telegram:@config_proxy 🔥

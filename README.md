@@ -2,16 +2,16 @@
 
 ## 📊 Statistics
 <!-- START-STATS -->
-_Last update: 2025-08-11 19:36:12 UTC_
+_Last update: 2025-08-11 20:11:15 UTC_
 
 | Protocol | 80 | 443 | 2053 | 2083 | 2087 | 2096 | 8443 | Total |
 |---|---|---|---|---|---|---|---|---|
-| VLESS | 2269 | 3501 | 155 | 79 | 203 | 522 | 600 | 7329 |
-| VMESS | 436 | 1175 | 31 | 20 | 11 | 17 | 196 | 1886 |
-| TROJAN | 30 | 488 | 28 | 11 | 4 | 4 | 75 | 640 |
-| SS | 13 | 577 | 0 | 1 | 2 | 0 | 22 | 615 |
+| VLESS | 2279 | 3520 | 155 | 79 | 205 | 522 | 602 | 7362 |
+| VMESS | 435 | 1170 | 31 | 20 | 11 | 17 | 196 | 1880 |
+| TROJAN | 30 | 494 | 28 | 11 | 4 | 4 | 75 | 646 |
+| SS | 13 | 579 | 0 | 1 | 2 | 0 | 22 | 617 |
 | OTHER | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Total | 2748 | 5741 | 214 | 111 | 220 | 543 | 893 | 10470 |
+| Total | 2757 | 5763 | 214 | 111 | 222 | 543 | 895 | 10505 |
 <!-- END-STATS -->
 
 ---
@@ -24,23 +24,23 @@ _Last update: 2025-08-11 19:36:12 UTC_
 
 | Port | Config Count | Subscription Link |
 |---|---|---|
-| 80 | 2748 | [📎 Link](./sub/port_80.txt) |
-| 443 | 5741 | [📎 Link](./sub/port_443.txt) |
+| 80 | 2757 | [📎 Link](./sub/port_80.txt) |
+| 443 | 5763 | [📎 Link](./sub/port_443.txt) |
 | 2053 | 214 | [📎 Link](./sub/port_2053.txt) |
 | 2083 | 111 | [📎 Link](./sub/port_2083.txt) |
-| 2087 | 220 | [📎 Link](./sub/port_2087.txt) |
+| 2087 | 222 | [📎 Link](./sub/port_2087.txt) |
 | 2096 | 543 | [📎 Link](./sub/port_2096.txt) |
-| 8443 | 893 | [📎 Link](./sub/port_8443.txt) |
+| 8443 | 895 | [📎 Link](./sub/port_8443.txt) |
 
 **By Protocol**
 
 | Protocol | Config Count | Subscription Link |
 |---|---|---|
-| VLESS | 13027 | [📎 Link](./sub/vless.txt) |
-| VMESS | 3245 | [📎 Link](./sub/vmess.txt) |
-| TROJAN | 1190 | [📎 Link](./sub/trojan.txt) |
-| SS | 3535 | [📎 Link](./sub/ss.txt) |
-| OTHER | 15 | [📎 Link](./sub/other.txt) |
+| VLESS | 13082 | [📎 Link](./sub/vless.txt) |
+| VMESS | 3233 | [📎 Link](./sub/vmess.txt) |
+| TROJAN | 1188 | [📎 Link](./sub/trojan.txt) |
+| SS | 3534 | [📎 Link](./sub/ss.txt) |
+| OTHER | 16 | [📎 Link](./sub/other.txt) |
 
 **By Protocol & Port**
 
@@ -76,17 +76,17 @@ For full list and other ports see the `detailed/` folder.
 
 | Source | Fetched Lines |
 |---|---|
-| barry-far | 15942 |
+| barry-far | 15854 |
 | kobabi | 313 |
 | mahdibland | 4906 |
-| Epodonios | 15947 |
+| Epodonios | 15942 |
 | Rayan-Config | 77 |
 
 ---
 
 | Metric | Value |
 |---|---|
-| Total fetched | 37185 |
-| Duplicates removed | 16173 |
-| Unique configs | 21012 |
+| Total fetched | 37092 |
+| Duplicates removed | 16039 |
+| Unique configs | 21053 |
 <!-- END-SOURCES -->

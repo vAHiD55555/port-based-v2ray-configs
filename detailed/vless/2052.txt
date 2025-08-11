@@ -152,4 +152,3 @@ vless://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?path=%2Fvless%23T
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?encryption=none&security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_sub%20%5B8%5D
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052?path=%2F&security=none&encryption=none&type=ws#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%2099%D8%AA%20%3D%C2%BB%20SabznetVPN%40
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052/?type=ws&encryption=none&flow=&path=%2F#40%F0%9F%8F%B5%EF%B8%8F%40oneclickvpnkeys
-vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_mtproto_vpns_free%20%5B14%5D
