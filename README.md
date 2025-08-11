@@ -63,6 +63,44 @@ _Last update: 2025-08-11 12:22:58 UTC_
 | SS | 2083 | [Link](subs/ss_2083.txt) |    |    |    |
 | SS | 2053 | [Link](subs/ss_2053.txt) |    |    |    |
 
+### By Port
+| Port | Link |
+|------|------|
+| 80 | [Link](subs/port_80.txt) |
+| 443 | [Link](subs/port_443.txt) |
+| 8443 | [Link](subs/port_8443.txt) |
+| 2083 | [Link](subs/port_2083.txt) |
+| 2053 | [Link](subs/port_2053.txt) |
+
+---
+
+### By Protocol
+| Protocol | Link |
+|----------|------|
+| VLESS | [Link](subs/vless.txt) |
+| VMESS | [Link](subs/vmess.txt) |
+| TROJAN | [Link](subs/trojan.txt) |
+| SS | [Link](subs/ss.txt) |
+
+---
+
+### By Protocol & Port
+| Protocol | Port | Link | Protocol | Port | Link |
+|----------|------|------|----------|------|------|
+| VLESS | 80 | [Link](subs/vless_80.txt) | VMESS | 80 | [Link](subs/vmess_80.txt) |
+| VLESS | 443 | [Link](subs/vless_443.txt) | VMESS | 443 | [Link](subs/vmess_443.txt) |
+| VLESS | 8443 | [Link](subs/vless_8443.txt) | VMESS | 8443 | [Link](subs/vmess_8443.txt) |
+| TROJAN | 80 | [Link](subs/trojan_80.txt) |    |    |    |
+| TROJAN | 443 | [Link](subs/trojan_443.txt) |    |    |    |
+| TROJAN | 8443 | [Link](subs/trojan_8443.txt) |    |    |    |
+| TROJAN | 2083 | [Link](subs/trojan_2083.txt) |    |    |    |
+| TROJAN | 2053 | [Link](subs/trojan_2053.txt) |    |    |    |
+| SS | 80 | [Link](subs/ss_80.txt) |    |    |    |
+| SS | 443 | [Link](subs/ss_443.txt) |    |    |    |
+| SS | 8443 | [Link](subs/ss_8443.txt) |    |    |    |
+| SS | 2083 | [Link](subs/ss_2083.txt) |    |    |    |
+| SS | 2053 | [Link](subs/ss_2053.txt) |    |    |    |
+
 ## Sources & Summary
 <!-- START-SOURCES -->
 | Source | Collected |
@@ -90,6 +128,44 @@ _Last update: 2025-08-11 12:22:58 UTC_
 - If you want additional ports to appear in the README, add them to `COMMON_PORTS` in the script.
 
 ## Subscription Links
+
+### By Port
+| Port | Link |
+|------|------|
+| 80 | [Link](subs/port_80.txt) |
+| 443 | [Link](subs/port_443.txt) |
+| 8443 | [Link](subs/port_8443.txt) |
+| 2083 | [Link](subs/port_2083.txt) |
+| 2053 | [Link](subs/port_2053.txt) |
+
+---
+
+### By Protocol
+| Protocol | Link |
+|----------|------|
+| VLESS | [Link](subs/vless.txt) |
+| VMESS | [Link](subs/vmess.txt) |
+| TROJAN | [Link](subs/trojan.txt) |
+| SS | [Link](subs/ss.txt) |
+
+---
+
+### By Protocol & Port
+| Protocol | Port | Link | Protocol | Port | Link |
+|----------|------|------|----------|------|------|
+| VLESS | 80 | [Link](subs/vless_80.txt) | VMESS | 80 | [Link](subs/vmess_80.txt) |
+| VLESS | 443 | [Link](subs/vless_443.txt) | VMESS | 443 | [Link](subs/vmess_443.txt) |
+| VLESS | 8443 | [Link](subs/vless_8443.txt) | VMESS | 8443 | [Link](subs/vmess_8443.txt) |
+| TROJAN | 80 | [Link](subs/trojan_80.txt) |    |    |    |
+| TROJAN | 443 | [Link](subs/trojan_443.txt) |    |    |    |
+| TROJAN | 8443 | [Link](subs/trojan_8443.txt) |    |    |    |
+| TROJAN | 2083 | [Link](subs/trojan_2083.txt) |    |    |    |
+| TROJAN | 2053 | [Link](subs/trojan_2053.txt) |    |    |    |
+| SS | 80 | [Link](subs/ss_80.txt) |    |    |    |
+| SS | 443 | [Link](subs/ss_443.txt) |    |    |    |
+| SS | 8443 | [Link](subs/ss_8443.txt) |    |    |    |
+| SS | 2083 | [Link](subs/ss_2083.txt) |    |    |    |
+| SS | 2053 | [Link](subs/ss_2053.txt) |    |    |    |
 
 ### By Port
 | Port | Link |
