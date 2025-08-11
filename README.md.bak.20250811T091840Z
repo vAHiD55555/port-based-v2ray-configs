@@ -7,7 +7,7 @@ The README is partially dynamic: three sections are auto-updated by `categorize_
 
 ## Statistics (Protocol × Common Ports)
 <!-- START-STATS -->
-_Last update: 2025-08-11 09:18:40 UTC_
+_Last update: 2025-08-11 09:18:25 UTC_
 
 | Protocol | 80 | 443 | 8080 | 2053 | 2083 | 2087 | 2096 | Total |
 |---|---|---|---|---|---|---|---|---|
