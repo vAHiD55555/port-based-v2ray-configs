@@ -8,7 +8,7 @@ Links are dynamically updated from multiple public sources.
 ## 📌 Dynamic Subscription Tables
 
 <!-- START -->
-_Last update: 2025-08-11 05:12:35 UTC_
+_Last update: 2025-08-11 05:14:36 UTC_
 
 ## 1️⃣ Table by Protocols
 | Protocol | Count | Link |
