@@ -98,3 +98,31 @@ For the full list of ports / files see the `detailed/` folder.
 - The script writes subscription files to `sub/` and detailed per-protocol files to `detailed/`.
 - README will contain only links to files (not inline config content) to keep size small.
 - If you want additional ports to appear in the README, add them to `COMMON_PORTS` in the script.
+
+## Subscription Links
+<!-- SUB_LINKS_START -->
+| Protocol | Port | Link |
+|----------|------|------|
+| **trojan** | 443 | [📎 Link](./sub/trojan_443.txt) |
+| **---** | **---** | **---** |
+| **vless** | 80 | [📎 Link](./sub/vless_80.txt) |
+| **vless** | 443 | [📎 Link](./sub/vless_443.txt) |
+| **vless** | 8080 | [📎 Link](./sub/vless_8080.txt) |
+| **---** | **---** | **---** |
+| **vmess** | 80 | [📎 Link](./sub/vmess_80.txt) |
+| **vmess** | 443 | [📎 Link](./sub/vmess_443.txt) |
+
+> ℹ️ More ports and protocols are available in the `sub/` and `detailed/` folders.
+
+<!-- SUB_LINKS_END -->
+
+## Sources
+<!-- SOURCES_START -->
+| Source URL | Collected | Removed Duplicates |
+|------------|-----------|--------------------|
+| `https://example1.com` | 120 | 20 |
+| `https://example2.com` | 90 | 5 |
+| --- | --- | --- |
+| **Total** | **210** | **25** |
+
+<!-- SOURCES_END -->
