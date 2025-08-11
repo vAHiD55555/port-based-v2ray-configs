@@ -1,137 +1,101 @@
-import requests
-import base64
-import json
 import os
+import datetime
 from collections import defaultdict
-from urllib.parse import urlparse
-from datetime import datetime, timezone
 
-# === Sources ===
-SOURCES = {
-    "barry-far": "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
-    "kobabi": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
-    "mahdibland": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
-    "Epodonios": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-    "Rayan-Config": "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
-}
+# Simulated function to get configs — Replace this with your actual logic
+def get_all_configs():
+    # Example: Each config is (protocol, port, content)
+    return [
+        ("vless", 80, "vless://example1"),
+        ("vless", 443, "vless://example2"),
+        ("vmess", 80, "vmess://example3"),
+        ("trojan", 443, "trojan://example4"),
+    ]
 
-# === Helpers ===
-def parse_configs(data):
-    configs = []
-    for line in data.splitlines():
-        line = line.strip()
-        if line and line.startswith(("vmess://", "vless://", "trojan://", "ss://")):
-            configs.append(line)
-    return configs
+# Create directories
+os.makedirs("sub", exist_ok=True)
+os.makedirs("detailed", exist_ok=True)
 
-def extract_info(config):
-    protocol = None
-    port = None
-    try:
-        if config.startswith("vmess://"):
-            protocol = "VMESS"
-            decoded = json.loads(base64.b64decode(config[8:] + '==').decode('utf-8', errors='ignore'))
-            port = str(decoded.get('port'))
-        elif config.startswith("vless://"):
-            protocol = "VLESS"
-            parsed = urlparse(config)
-            port = str(parsed.port) if parsed.port else None
-        elif config.startswith("trojan://"):
-            protocol = "TROJAN"
-            parsed = urlparse(config)
-            port = str(parsed.port) if parsed.port else None
-        elif config.startswith("ss://"):
-            protocol = "SS"
-            parsed = urlparse(config)
-            port = str(parsed.port) if parsed.port else None
-    except Exception:
-        pass
-    return protocol, port
-
-# === Main process ===
-protocol_count = defaultdict(int)
-port_count = defaultdict(int)
-proto_port_count = defaultdict(int)
-proto_links = defaultdict(list)
+# Data structures
+protocol_links = defaultdict(list)
 port_links = defaultdict(list)
-proto_port_links = defaultdict(list)
+proto_port_links = defaultdict(lambda: defaultdict(list))
 
-for name, url in SOURCES.items():
-    try:
-        r = requests.get(url, timeout=15)
-        if r.status_code == 200:
-            configs = parse_configs(r.text)
-            for cfg in configs:
-                protocol, port = extract_info(cfg)
-                if protocol and port:
-                    protocol_count[protocol] += 1
-                    port_count[port] += 1
-                    proto_port_count[(protocol, port)] += 1
-                    proto_links[protocol].append(cfg)
-                    port_links[port].append(cfg)
-                    proto_port_links[(protocol, port)].append(cfg)
-    except Exception:
-        continue
+# Collect configs
+for proto, port, content in get_all_configs():
+    # Add to protocol group
+    protocol_links[proto].append(content)
+    # Add to port group
+    port_links[port].append(content)
+    # Add to protocol+port group
+    proto_port_links[proto][port].append(content)
 
-# === Table generators ===
-def make_table_by_protocol():
-    rows = ["| Protocol | Config Count | Subscription Link |", "|----------|--------------|-------------------|"]
-    for proto in sorted(protocol_count.keys()):
-        configs_text = "\n".join(proto_links[proto])
-        encoded = base64.b64encode(configs_text.encode()).decode()
-        link = f"[📎 Link](data:text/plain;base64,{encoded})"
-        rows.append(f"| {proto} | {protocol_count[proto]} | {link} |")
-    return "\n".join(rows)
+# Write protocol files in sub/
+for proto, configs in protocol_links.items():
+    with open(f"sub/{proto}.txt", "w") as f:
+        f.write("\n".join(configs))
 
-def make_table_by_port():
-    rows = ["| Port | Config Count | Subscription Link |", "|------|--------------|-------------------|"]
-    for port in sorted(port_count.keys(), key=lambda x: int(x) if x.isdigit() else 99999):
-        configs_text = "\n".join(port_links[port])
-        encoded = base64.b64encode(configs_text.encode()).decode()
-        link = f"[📎 Link](data:text/plain;base64,{encoded})"
-        rows.append(f"| {port} | {port_count[port]} | {link} |")
-    return "\n".join(rows)
+# Write port files in sub/
+for port, configs in port_links.items():
+    with open(f"sub/port_{port}.txt", "w") as f:
+        f.write("\n".join(configs))
 
-def make_table_detailed():
-    rows = ["| Protocol | Port | Config Count | Subscription Link |", "|----------|------|--------------|-------------------|"]
-    for (proto, port) in sorted(proto_port_count.keys(), key=lambda x: (x[0], int(x[1]) if x[1].isdigit() else 99999)):
-        configs_text = "\n".join(proto_port_links[(proto, port)])
-        encoded = base64.b64encode(configs_text.encode()).decode()
-        link = f"[📎 Link](data:text/plain;base64,{encoded})"
-        rows.append(f"| {proto} | {port} | {proto_port_count[(proto, port)]} | {link} |")
-    return "\n".join(rows)
+# Write detailed files
+for proto, ports in proto_port_links.items():
+    proto_dir = f"detailed/{proto}"
+    os.makedirs(proto_dir, exist_ok=True)
+    for port, configs in ports.items():
+        with open(f"{proto_dir}/{port}.txt", "w") as f:
+            f.write("\n".join(configs))
 
-# === Final content for dynamic section ===
-dynamic_section = f"""
-_Last update: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}_
+# Build README dynamic content
+def build_table_by_protocol():
+    table = "| Protocol | Count | Link |\n|----------|-------|------|\n"
+    for proto, configs in sorted(protocol_links.items()):
+        table += f"| {proto.upper()} | {len(configs)} | [📎 Link](sub/{proto}.txt) |\n"
+    return table
+
+def build_table_by_port():
+    table = "| Port | Count | Link |\n|------|-------|------|\n"
+    for port, configs in sorted(port_links.items()):
+        table += f"| {port} | {len(configs)} | [📎 Link](sub/port_{port}.txt) |\n"
+    return table
+
+def build_detailed_table():
+    table = "| Protocol | Port | Count | Link |\n|----------|------|-------|------|\n"
+    for proto, ports in sorted(proto_port_links.items()):
+        for port, configs in sorted(ports.items()):
+            table += f"| {proto.upper()} | {port} | {len(configs)} | [📎 Link](detailed/{proto}/{port}.txt) |\n"
+    return table
+
+# Read current README
+readme_path = "README.md"
+with open(readme_path, "r", encoding="utf-8") as f:
+    readme_content = f.read()
+
+# Generate new dynamic section
+new_section = f"""<!-- START -->
+_Last update: {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC_
 
 ## 1️⃣ Table by Protocols
-{make_table_by_protocol()}
+{build_table_by_protocol()}
 
 ## 2️⃣ Table by Ports
-{make_table_by_port()}
+{build_table_by_port()}
 
 ## 3️⃣ Detailed Table (Protocol + Port)
-{make_table_detailed()}
-"""
+{build_detailed_table()}
+<!-- END -->"""
 
-# === Update README.md only between START and END ===
-readme_path = "README.md"
-if os.path.exists(readme_path):
-    with open(readme_path, "r", encoding="utf-8") as f:
-        readme_data = f.read()
+# Replace old section
+import re
+if "<!-- START -->" in readme_content and "<!-- END -->" in readme_content:
+    readme_content = re.sub(r"<!-- START -->.*<!-- END -->", new_section, readme_content, flags=re.S)
 else:
-    readme_data = ""
+    readme_content += "\n\n" + new_section
 
-if "<!-- START -->" in readme_data and "<!-- END -->" in readme_data:
-    before = readme_data.split("<!-- START -->")[0]
-    after = readme_data.split("<!-- END -->")[1]
-    new_readme = before + "<!-- START -->\n" + dynamic_section + "\n<!-- END -->" + after
-else:
-    # If markers not found, append them
-    new_readme = readme_data + "\n<!-- START -->\n" + dynamic_section + "\n<!-- END -->"
-
+# Write updated README
 with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(new_readme)
+    f.write(readme_content)
 
-print("README.md updated successfully between markers!")
+print("README updated successfully!")
