@@ -1,0 +1,2 @@
+vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none
+vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none

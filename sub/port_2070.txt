@@ -1,0 +1,3 @@
+vless://06f14984-f7b0-43af-9694-e54f18f9daa5@193.3.182.246:2070/?type=tcp&security=none#@bolbolvpn 👈 چنل ما
+vless://ba46706a-9ff3-4cd6-ab89-e54f6f8ece10@2.188.227.134:2070?type=tcp&security=none#@bolbolvpn 👈 چنل ما
+vless://e120c299-935b-4c78-abdd-f4b46fbf37c5@de1a.configsrv.pw:2070?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
