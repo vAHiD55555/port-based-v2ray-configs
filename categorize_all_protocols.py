@@ -1,72 +1,101 @@
 import os
-import re
+import datetime
+from collections import defaultdict
+from tabulate import tabulate
 
+# تنظیمات
+KNOWN_PORTS = [80, 443, 2053, 2083, 2087, 2096, 8443]
+PROTOCOLS = ["VLESS", "VMESS", "TROJAN"]
+DATA_DIR = "data"
+RAW_FILE = os.path.join(DATA_DIR, "raw.txt")
+SUBS_FILE = os.path.join(DATA_DIR, "subs.txt")
+DETAIL_FILE = os.path.join(DATA_DIR, "detailed.txt")
 README_FILE = "README.md"
-SUB_DIR = "subs"
-DETAILED_DIR = "detailed"
 
-COMMON_PORTS = [80, 443, 8443, 2083, 2053]  # پورت‌های معروف
-PROTOCOLS = ["vless", "vmess", "trojan", "ss"]
+# کمک کننده برای خواندن دیتا
+def read_lines(path):
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return [line.strip() for line in f if line.strip()]
+    return []
 
+# آمار بر اساس پروتکل و پورت
+def build_statistics(configs):
+    stats = defaultdict(lambda: defaultdict(int))
+    for conf in configs:
+        proto = conf.split("://")[0].upper()
+        port = int(conf.split(":")[-1].split("?")[0].split("/")[0])
+        stats[proto][port] += 1
+        stats[proto]["total"] += 1
+        stats["TOTAL"][port] += 1
+        stats["TOTAL"]["total"] += 1
+    ports_sorted = sorted({p for proto in stats for p in stats[proto] if p != "total"})
+    headers = ["Protocol"] + [str(p) for p in ports_sorted] + ["Total"]
+    table = []
+    for proto in PROTOCOLS + ["TOTAL"]:
+        row = [proto] + [stats[proto].get(p, 0) for p in ports_sorted] + [stats[proto]["total"]]
+        table.append(row)
+    return "### Statistics (Protocol × Common Ports)\n\n" + \
+           f"Last update: {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n" + \
+           tabulate(table, headers=headers, tablefmt="github")
 
-def generate_subscription_links():
-    md = "## Subscription Links\n\n"
+# لینک‌های اشتراک
+def build_subscription_links(configs):
+    base_url = "https://example.com/sub"
+    links = []
 
-    # Table 1: By Port
-    md += "### By Port\n"
-    md += "| Port | Link |\n|------|------|\n"
-    for port in COMMON_PORTS:
-        md += f"| {port} | [Link]({SUB_DIR}/port_{port}.txt) |\n"
-    md += "\n---\n\n"
+    # بر اساس پورت (همه پروتکل‌ها)
+    links.append("#### By Port (all protocols)\n")
+    for p in KNOWN_PORTS:
+        links.append(f"- **Port {p}** → [Link]({base_url}?port={p})")
 
-    # Table 2: By Protocol
-    md += "### By Protocol\n"
-    md += "| Protocol | Link |\n|----------|------|\n"
+    # بر اساس پروتکل
+    links.append("\n#### By Protocol\n")
     for proto in PROTOCOLS:
-        md += f"| {proto.upper()} | [Link]({SUB_DIR}/{proto}.txt) |\n"
-    md += "\n---\n\n"
+        links.append(f"- **{proto}** → [Link]({base_url}?proto={proto.lower()})")
 
-    # Table 3: By Protocol & Port
-    md += "### By Protocol & Port\n"
-    md += "| Protocol | Port | Link | Protocol | Port | Link |\n"
-    md += "|----------|------|------|----------|------|------|\n"
+    # بر اساس پروتکل + پورت (دو ستونه)
+    links.append("\n#### By Protocol × Port\n")
+    rows = []
+    for proto in PROTOCOLS:
+        row = [f"**{proto} {p}** → [Link]({base_url}?proto={proto.lower()}&port={p})"
+               for p in KNOWN_PORTS]
+        for i in range(0, len(row), 2):
+            rows.append(row[i:i+2])
+    links.append(tabulate(rows, tablefmt="github"))
 
-    # دو ستونه برای صرفه‌جویی در فضا
-    half = (len(COMMON_PORTS) + 1) // 2
-    for i in range(half):
-        left = f"{PROTOCOLS[0].upper()} | {COMMON_PORTS[i]} | [Link]({SUB_DIR}/{PROTOCOLS[0]}_{COMMON_PORTS[i]}.txt)" if i < len(COMMON_PORTS) else " |  | "
-        right = f"{PROTOCOLS[1].upper()} | {COMMON_PORTS[i]} | [Link]({SUB_DIR}/{PROTOCOLS[1]}_{COMMON_PORTS[i]}.txt)" if i < len(COMMON_PORTS) else " |  | "
-        md += f"| {left} | {right} |\n"
+    return "### Subscription Links\n\n" + "\n".join(links)
 
-    for proto in PROTOCOLS[2:]:
-        for port in COMMON_PORTS:
-            md += f"| {proto.upper()} | {port} | [Link]({SUB_DIR}/{proto}_{port}.txt) |    |    |    |\n"
+# منابع و خلاصه
+def build_sources_summary(configs):
+    total = len(configs)
+    unique = len(set(configs))
+    duplicates = total - unique
+    table = [
+        ["Total Retrieved", total],
+        ["Duplicates Removed", duplicates],
+        ["Unique Configs", unique]
+    ]
+    return "### Sources & Summary\n\n" + tabulate(table, headers=["Metric", "Value"], tablefmt="github")
 
-    return md
+# تولید README
+def generate_readme():
+    configs = read_lines(RAW_FILE)
+    stats_section = build_statistics(configs)
+    subs_section = build_subscription_links(configs)
+    summary_section = build_sources_summary(configs)
+    notes = "### Notes\n\n- Script auto-generates subscription links and statistics.\n- Includes only popular ports in main table."
 
-
-def update_readme():
-    if not os.path.exists(README_FILE):
-        print(f"{README_FILE} not found.")
-        return
-
-    with open(README_FILE, "r", encoding="utf-8") as f:
-        readme_content = f.read()
-
-    # جایگزینی بخش Subscription Links با نسخه جدید
-    new_links_section = generate_subscription_links()
-    updated_content = re.sub(
-        r"## Subscription Links.*?(?=\n##|\Z)",
-        new_links_section,
-        readme_content,
-        flags=re.S
-    )
-
+    content = [
+        "# Port-based V2Ray Configs",
+        stats_section,
+        subs_section,
+        summary_section,
+        notes
+    ]
     with open(README_FILE, "w", encoding="utf-8") as f:
-        f.write(updated_content)
-
-    print("README.md updated successfully.")
-
+        f.write("\n\n".join(content))
+    print(f"README.md updated with {len(configs)} configs.")
 
 if __name__ == "__main__":
-    update_readme()
+    generate_readme()
