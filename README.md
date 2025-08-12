@@ -2,16 +2,16 @@
 
 ## 📊 Statistics
 <!-- START-STATS -->
-_Last update: 2025-08-11 20:11:15 UTC_
+_Last update: 2025-08-12 00:49:30 UTC_
 
 | Protocol | 80 | 443 | 2053 | 2083 | 2087 | 2096 | 8443 | Total |
 |---|---|---|---|---|---|---|---|---|
-| VLESS | 2279 | 3520 | 155 | 79 | 205 | 522 | 602 | 7362 |
-| VMESS | 435 | 1170 | 31 | 20 | 11 | 17 | 196 | 1880 |
-| TROJAN | 30 | 494 | 28 | 11 | 4 | 4 | 75 | 646 |
-| SS | 13 | 579 | 0 | 1 | 2 | 0 | 22 | 617 |
+| VLESS | 2257 | 3484 | 156 | 79 | 204 | 515 | 609 | 7304 |
+| VMESS | 436 | 1176 | 31 | 19 | 11 | 14 | 190 | 1877 |
+| TROJAN | 31 | 504 | 28 | 12 | 4 | 3 | 77 | 659 |
+| SS | 13 | 594 | 0 | 1 | 2 | 0 | 22 | 632 |
 | OTHER | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Total | 2757 | 5763 | 214 | 111 | 222 | 543 | 895 | 10505 |
+| Total | 2737 | 5758 | 215 | 111 | 221 | 532 | 898 | 10472 |
 <!-- END-STATS -->
 
 ---
@@ -24,23 +24,23 @@ _Last update: 2025-08-11 20:11:15 UTC_
 
 | Port | Config Count | Subscription Link |
 |---|---|---|
-| 80 | 2757 | [📎 Link](./sub/port_80.txt) |
-| 443 | 5763 | [📎 Link](./sub/port_443.txt) |
-| 2053 | 214 | [📎 Link](./sub/port_2053.txt) |
+| 80 | 2737 | [📎 Link](./sub/port_80.txt) |
+| 443 | 5758 | [📎 Link](./sub/port_443.txt) |
+| 2053 | 215 | [📎 Link](./sub/port_2053.txt) |
 | 2083 | 111 | [📎 Link](./sub/port_2083.txt) |
-| 2087 | 222 | [📎 Link](./sub/port_2087.txt) |
-| 2096 | 543 | [📎 Link](./sub/port_2096.txt) |
-| 8443 | 895 | [📎 Link](./sub/port_8443.txt) |
+| 2087 | 221 | [📎 Link](./sub/port_2087.txt) |
+| 2096 | 532 | [📎 Link](./sub/port_2096.txt) |
+| 8443 | 898 | [📎 Link](./sub/port_8443.txt) |
 
 **By Protocol**
 
 | Protocol | Config Count | Subscription Link |
 |---|---|---|
-| VLESS | 13082 | [📎 Link](./sub/vless.txt) |
-| VMESS | 3233 | [📎 Link](./sub/vmess.txt) |
-| TROJAN | 1188 | [📎 Link](./sub/trojan.txt) |
-| SS | 3534 | [📎 Link](./sub/ss.txt) |
-| OTHER | 16 | [📎 Link](./sub/other.txt) |
+| VLESS | 13015 | [📎 Link](./sub/vless.txt) |
+| VMESS | 3253 | [📎 Link](./sub/vmess.txt) |
+| TROJAN | 1197 | [📎 Link](./sub/trojan.txt) |
+| SS | 3551 | [📎 Link](./sub/ss.txt) |
+| OTHER | 27 | [📎 Link](./sub/other.txt) |
 
 **By Protocol & Port**
 
@@ -76,17 +76,17 @@ For full list and other ports see the `detailed/` folder.
 
 | Source | Fetched Lines |
 |---|---|
-| barry-far | 15854 |
+| barry-far | 16022 |
 | kobabi | 313 |
 | mahdibland | 4906 |
-| Epodonios | 15942 |
-| Rayan-Config | 77 |
+| Epodonios | 16022 |
+| Rayan-Config | 83 |
 
 ---
 
 | Metric | Value |
 |---|---|
-| Total fetched | 37092 |
-| Duplicates removed | 16039 |
-| Unique configs | 21053 |
+| Total fetched | 37346 |
+| Duplicates removed | 16303 |
+| Unique configs | 21043 |
 <!-- END-SOURCES -->
