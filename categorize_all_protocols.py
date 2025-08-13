@@ -162,6 +162,35 @@ port_table_md = md_table_from_rows(["Port", "Count", "Subscription Link"], port_
 proto_rows = [[p, len(protocol_links.get(p, [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/{safe_filename(p.lower())}.txt)"] for p in protocols_all]
 proto_table_md = md_table_from_rows(["Protocol", "Count", "Subscription Link"], proto_rows)
 
+# -- By Protocol & Port (Re-added) --
+pp_md_lines = []
+for proto in protocols_all:
+    entries = []
+    for p in COMMON_PORTS:
+        count = len(proto_port_links.get(proto, {}).get(str(p), []))
+        if count > 0:
+            relative_path = f"{DETAILED_DIR}/{safe_filename(proto.lower())}/{safe_filename(str(p))}.txt"
+            raw_url = f"{RAW_URL_BASE}/{relative_path}"
+            entries.append((proto, str(p), count, raw_url))
+    
+    if not entries:
+        continue
+
+    for i in range(0, len(entries), 2):
+        left = entries[i]
+        right = entries[i+1] if i+1 < len(entries) else None
+        
+        left_md = f"| {left[0]} | {left[1]} | {left[2]} | [Sub Link]({left[3]})"
+        if right:
+            right_md = f"| {right[0]} | {right[1]} | {right[2]} | [Sub Link]({right[3]}) |"
+            pp_md_lines.append(f"{left_md} {right_md}")
+        else:
+            pp_md_lines.append(f"{left_md} | | | | |")
+
+pp_header = "| Protocol | Port | Count | Link | Protocol | Port | Count | Link |"
+pp_sep = "|:---|:---|:---|:---|:---|:---|:---|:---|"
+pp_table_md = f"{pp_header}\n{pp_sep}\n" + "\n".join(pp_md_lines) if pp_md_lines else "_No specific protocol-port combinations found for common ports._"
+
 # --- Sources Block ---
 sources_rows = sorted(source_counts.items())
 summary_rows = [
@@ -175,7 +204,7 @@ summary_table_md = md_table_from_rows(["Metric", "Value"], summary_rows)
 # --- Compose Blocks ---
 now_ts = datetime.utcnow().replace(tzinfo=timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 stats_block = f"{MARKERS['stats'][0]}\n_Last update: {now_ts}_\n\n{stats_table_md}\n{MARKERS['stats'][1]}"
-links_block = f"{MARKERS['links'][0]}\n### By Port\n{port_table_md}\n\n### By Protocol\n{proto_table_md}\n{MARKERS['links'][1]}"
+links_block = f"{MARKERS['links'][0]}\n### By Port\n{port_table_md}\n\n### By Protocol\n{proto_table_md}\n\n### By Protocol & Port (Common Ports)\n{pp_table_md}\n{MARKERS['links'][1]}"
 sources_block = f"{MARKERS['sources'][0]}\n{sources_table_md}\n\n{summary_table_md}\n{MARKERS['sources'][1]}"
 
 print("Updating README.md...")
@@ -183,9 +212,6 @@ try:
     with open(README_PATH, "r", encoding="utf-8") as f:
         readme_text = f.read()
 
-    # --- Replace in correct order ---
-    # The order of these replacements matters if markers are nested, but for safety we do it sequentially.
-    # The final order in the file depends on the order of markers in the template.
     readme_text = re.sub(f"{re.escape(MARKERS['stats'][0])}.*?{re.escape(MARKERS['stats'][1])}", stats_block, readme_text, flags=re.S)
     readme_text = re.sub(f"{re.escape(MARKERS['links'][0])}.*?{re.escape(MARKERS['links'][1])}", links_block, readme_text, flags=re.S)
     readme_text = re.sub(f"{re.escape(MARKERS['sources'][0])}.*?{re.escape(MARKERS['sources'][1])}", sources_block, readme_text, flags=re.S)
