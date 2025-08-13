@@ -2200,9 +2200,11 @@ vless://a3151e51-8945-4cd4-9db7-6729bc551c63@cdn-assets-edge.cyberscaler.net:80?
 vless://da70ccc8-4da5-4f04-aa4c-3c7f31e57ff7@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%F0%9F%87%A6%F0%9F%87%AA%20GR%20%28631332800%29%20%F0%9F%93%8A%20GB%203000%20%2F%207%20%D8%B1%D9%88%D8%B2%D9%87`
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?encryption=none&security=none&type=ws&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443#%40Daily_Configs
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80/?type=ws&encryption=none&flow=&host=light-presence.oneeat.co&path=%2F#52%F0%9F%A6%96%40oneclickvpnkeys
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#%D9%84%D8%B7%D9%81%D8%A7%D9%8B%20%D8%B9%D8%B6%D9%88%20%D8%A8%D8%B4%DB%8C%20%F0%9F%8C%B9%0A%40netmelli15
 vless://586b88a5-a911-4a0b-b5c6-a1bfa1b44a0e@zoomgov.vipren.biz.id:80?encryption=none&security=none&type=ws&host=zoomgov.vipren.biz.id&path=%2F132.226.8.109%3D43257#%40Daily_Configs
 vless://586b88a5-a911-4a0b-b5c6-a1bfa1b44a0e@zoomgov.vipren.biz.id:80?path=%2F132.226.8.109%3D43257&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40netmelli15%20%7C%7E%7C%20%20%DA%86%D9%86%D9%84%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D8%A2%D8%B2%D8%A7%D8%AF%20%F0%9F%A7%A8
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?security=&type=ws&path=/193.123.81.105%3D443&host=zoomgov.vipren.biz.id&encryption=none#QEYxbHRlcmJyZWFrZXJib3Q=
+vless://0b7f5e30-bffd-419a-814c-885e9dabd4dd@151.101.3.8:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=welcomtofreeboarders.com&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Cook_Vpn%20%5B%20Irancell%20%2F%20Rightel%20%5D-JOIN%20%20%3A%20%40Cook_Vpn`
+vless://22253331-3afd-4b87-ec6f-25e995664743@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?encryption=none&security=none&type=ws&host=onlytesla1.xz027.com&path=%2F#%40Daily_Configs
+vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80/?type=ws&encryption=none&flow=&host=light-presence.oneeat.co&path=%2F#52%F0%9F%A6%96%40oneclickvpnkeys
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#%D9%84%D8%B7%D9%81%D8%A7%D9%8B%20%D8%B9%D8%B6%D9%88%20%D8%A8%D8%B4%DB%8C%20%F0%9F%8C%B9%0A%40netmelli15
