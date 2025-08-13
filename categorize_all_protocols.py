@@ -85,6 +85,16 @@ def md_table_from_rows(header_cells, rows):
     body = "\n".join("| " + " | ".join(str(cell) for cell in row) + " |" for row in rows)
     return f"{header}\n{sep}\n{body}"
 
+def html_table_from_rows(header_cells, rows):
+    """Generates a pure HTML table string."""
+    header_html = "<thead><tr>" + "".join(f"<th>{cell}</th>" for cell in header_cells) + "</tr></thead>"
+    body_html = "<tbody>"
+    for row in rows:
+        body_html += "<tr>" + "".join(f"<td>{cell}</td>" for cell in row) + "</tr>"
+    body_html += "</tbody>"
+    # GitHub's CSS will style the table, so no need for border="1"
+    return f"<table>{header_html}{body_html}</table>"
+
 # ---------------- Main Logic ----------------
 print("Fetching sources...")
 all_items = []
@@ -197,20 +207,22 @@ summary_rows = [
     ["Unique Configs", unique_count],
     ["Duplicates Removed", total_fetched - unique_count],
 ]
-sources_table_md = md_table_from_rows(["Source", "Fetched Lines"], sources_rows)
-summary_table_md = md_table_from_rows(["Metric", "Value"], summary_rows)
+
+# Create pure HTML tables
+sources_table_html = html_table_from_rows(["Source", "Fetched Lines"], sources_rows)
+summary_table_html = html_table_from_rows(["Metric", "Value"], summary_rows)
 
 # Create HTML structure for side-by-side tables
 side_by_side_html = f"""
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="background-color: transparent;">
+    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
       <h4>Sources</h4>
-      {sources_table_md}
+      {sources_table_html}
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
       <h4>Summary</h4>
-      {summary_table_md}
+      {summary_table_html}
     </td>
   </tr>
 </table>
@@ -240,4 +252,3 @@ except FileNotFoundError:
     print(f"ERROR: {README_PATH} not found. Please create it using the provided template.")
 except Exception as e:
     print(f"An error occurred while updating README: {e}")
-
