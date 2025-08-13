@@ -235,7 +235,7 @@ proto_rows = []
 for proto in protocols_all:
     path = f"./{SUB_DIR}/{safe_filename(proto.lower())}.txt"
     count = len(protocol_links.get(proto, []))
-    proto_rows.append([proto, str(count), f"[ðŸ“Ž Link]({path})"])
+    proto_rows.append([proto, str(count), f"[Sub Link]({path})"])
 proto_table_md = md_table_from_rows(["Protocol", "Config Count", "Subscription Link"], proto_rows)
 
 # 3) By Protocol + Port (grouped by protocol, two entries per row)
@@ -256,9 +256,9 @@ for proto in protocols_all:
         left = entries[i]
         right = entries[i+1] if i+1 < len(entries) else None
         if right:
-            pp_md_lines.append(f"| {left[0]} | {left[1]} | [ðŸ“Ž Link]({left[3]}) | {right[0]} | {right[1]} | [ðŸ“Ž Link]({right[3]}) |")
+            pp_md_lines.append(f"| {left[0]} | {left[1]} | [Sub Link]({left[3]}) | {right[0]} | {right[1]} | [Sub Link]({right[3]}) |")
         else:
-            pp_md_lines.append(f"| {left[0]} | {left[1]} | [ðŸ“Ž Link]({left[3]}) |  |  |  |")
+            pp_md_lines.append(f"| {left[0]} | {left[1]} | [Sub Link]({left[3]}) |  |  |  |")
     # separator row between protocols
     pp_md_lines.append("| **---** | **---** | **---** | **---** | **---** | **---** |")
 
