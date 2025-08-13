@@ -8,7 +8,7 @@ This repository contains a collection of V2Ray configurations, aggregated from v
 ## 📊 Config Stats
 
 <!-- START-STATS -->
-_Last update: 2025-08-13 17:25:38 UTC_
+_Last update: 2025-08-13 17:31:33 UTC_
 
 | Protocol | 80 | 443 | 2053 | 2083 | 2087 | 2096 | 8443 | Total |
 |---|---|---|---|---|---|---|---|---|
@@ -70,25 +70,15 @@ _Last update: 2025-08-13 17:25:38 UTC_
 
 <!-- START-SOURCES -->
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="background-color: transparent;">
+    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
       <h4>Sources</h4>
-      | Source | Fetched Lines |
-|---|---|
-| Epodonios | 16170 |
-| Rayan-Config | 103 |
-| barry-far | 16138 |
-| kobabi | 313 |
-| mahdibland | 4938 |
+      <table><thead><tr><th>Source</th><th>Fetched Lines</th></tr></thead><tbody><tr><td>Epodonios</td><td>16170</td></tr><tr><td>Rayan-Config</td><td>103</td></tr><tr><td>barry-far</td><td>16138</td></tr><tr><td>kobabi</td><td>313</td></tr><tr><td>mahdibland</td><td>4938</td></tr></tbody></table>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
       <h4>Summary</h4>
-      | Metric | Value |
-|---|---|
-| Total Fetched | 37662 |
-| Unique Configs | 21275 |
-| Duplicates Removed | 16387 |
+      <table><thead><tr><th>Metric</th><th>Value</th></tr></thead><tbody><tr><td>Total Fetched</td><td>37662</td></tr><tr><td>Unique Configs</td><td>21275</td></tr><tr><td>Duplicates Removed</td><td>16387</td></tr></tbody></table>
     </td>
   </tr>
 </table>
