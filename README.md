@@ -8,7 +8,7 @@ This repository contains a collection of V2Ray configurations, aggregated from v
 ## 📊 Config Stats
 
 <!-- START-STATS -->
-_Last update: 2025-08-13 11:33:39 UTC_
+_Last update: 2025-08-13 11:36:48 UTC_
 
 | Protocol | 80 | 443 | 2053 | 2083 | 2087 | 2096 | 8443 | Total |
 |---|---|---|---|---|---|---|---|---|
