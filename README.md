@@ -8,15 +8,15 @@ This repository contains a collection of V2Ray configurations, aggregated from v
 ## 📊 Config Stats
 
 <!-- START-STATS -->
-_Last update: 2025-08-13 17:31:33 UTC_
+_Last update: 2025-08-13 18:39:48 UTC_
 
 | Protocol | 80 | 443 | 2053 | 2083 | 2087 | 2096 | 8443 | Total |
 |---|---|---|---|---|---|---|---|---|
-| VLESS | 2211 | 3550 | 145 | 83 | 197 | 483 | 602 | 13014 |
-| VMESS | 409 | 1197 | 31 | 17 | 10 | 12 | 193 | 3206 |
-| TROJAN | 32 | 610 | 50 | 44 | 33 | 25 | 90 | 1481 |
-| SS | 13 | 589 | 0 | 1 | 1 | 0 | 23 | 3568 |
-| OTHER | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
+| VLESS | 2220 | 3544 | 145 | 80 | 198 | 483 | 605 | 13038 |
+| VMESS | 408 | 1195 | 31 | 18 | 10 | 12 | 192 | 3217 |
+| TROJAN | 32 | 622 | 49 | 44 | 33 | 25 | 90 | 1487 |
+| SS | 13 | 583 | 0 | 1 | 1 | 0 | 22 | 3551 |
+| OTHER | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 16 |
 <!-- END-STATS -->
 
 ---
@@ -27,41 +27,25 @@ _Last update: 2025-08-13 17:31:33 UTC_
 ### By Port
 | Port | Count | Subscription Link |
 |---|---|---|
-| 80 | 2665 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_80.txt) |
-| 443 | 5946 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_443.txt) |
-| 2053 | 226 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2053.txt) |
-| 2083 | 145 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2083.txt) |
-| 2087 | 241 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2087.txt) |
+| 80 | 2673 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_80.txt) |
+| 443 | 5944 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_443.txt) |
+| 2053 | 225 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2053.txt) |
+| 2083 | 143 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2083.txt) |
+| 2087 | 242 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2087.txt) |
 | 2096 | 520 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2096.txt) |
-| 8443 | 908 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_8443.txt) |
+| 8443 | 909 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_8443.txt) |
 
 ### By Protocol
 | Protocol | Count | Subscription Link |
 |---|---|---|
-| VLESS | 13014 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vless.txt) |
-| VMESS | 3206 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vmess.txt) |
-| TROJAN | 1481 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/trojan.txt) |
-| SS | 3568 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/ss.txt) |
-| OTHER | 6 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/other.txt) |
+| VLESS | 13038 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vless.txt) |
+| VMESS | 3217 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vmess.txt) |
+| TROJAN | 1487 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/trojan.txt) |
+| SS | 3551 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/ss.txt) |
+| OTHER | 16 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/other.txt) |
 
 ### By Protocol & Port (Common Ports)
-| Protocol | Port | Count | Link | Protocol | Port | Count | Link |
-|:---|:---|:---|:---|:---|:---|:---|:---|
-| VLESS | 80 | 2211 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vless/80.txt) | VLESS | 443 | 3550 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vless/443.txt) |
-| VLESS | 2053 | 145 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vless/2053.txt) | VLESS | 2083 | 83 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vless/2083.txt) |
-| VLESS | 2087 | 197 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vless/2087.txt) | VLESS | 2096 | 483 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vless/2096.txt) |
-| VLESS | 8443 | 602 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vless/8443.txt) | | | | |
-| VMESS | 80 | 409 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vmess/80.txt) | VMESS | 443 | 1197 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vmess/443.txt) |
-| VMESS | 2053 | 31 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vmess/2053.txt) | VMESS | 2083 | 17 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vmess/2083.txt) |
-| VMESS | 2087 | 10 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vmess/2087.txt) | VMESS | 2096 | 12 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vmess/2096.txt) |
-| VMESS | 8443 | 193 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/vmess/8443.txt) | | | | |
-| TROJAN | 80 | 32 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/trojan/80.txt) | TROJAN | 443 | 610 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/trojan/443.txt) |
-| TROJAN | 2053 | 50 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/trojan/2053.txt) | TROJAN | 2083 | 44 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/trojan/2083.txt) |
-| TROJAN | 2087 | 33 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/trojan/2087.txt) | TROJAN | 2096 | 25 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/trojan/2096.txt) |
-| TROJAN | 8443 | 90 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/trojan/8443.txt) | | | | |
-| SS | 80 | 13 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/ss/80.txt) | SS | 443 | 589 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/ss/443.txt) |
-| SS | 2083 | 1 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/ss/2083.txt) | SS | 2087 | 1 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/ss/2087.txt) |
-| SS | 8443 | 23 | [Sub Link](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/detailed/ss/8443.txt) | | | | |
+_No specific protocol-port combinations found for common ports._
 <!-- END-LINKS -->
 
 ---
@@ -74,11 +58,11 @@ _Last update: 2025-08-13 17:31:33 UTC_
   <tr style="background-color: transparent;">
     <td width="50%" valign="top" style="border: none; padding-right: 10px;">
       <h4>Sources</h4>
-      <table><thead><tr><th>Source</th><th>Fetched Lines</th></tr></thead><tbody><tr><td>Epodonios</td><td>16170</td></tr><tr><td>Rayan-Config</td><td>103</td></tr><tr><td>barry-far</td><td>16138</td></tr><tr><td>kobabi</td><td>313</td></tr><tr><td>mahdibland</td><td>4938</td></tr></tbody></table>
+      <table><thead><tr><th>Source</th><th>Fetched Lines</th></tr></thead><tbody><tr><td>Epodonios</td><td>16138</td></tr><tr><td>Rayan-Config</td><td>103</td></tr><tr><td>barry-far</td><td>16068</td></tr><tr><td>kobabi</td><td>313</td></tr><tr><td>mahdibland</td><td>4938</td></tr></tbody></table>
     </td>
     <td width="50%" valign="top" style="border: none; padding-left: 10px;">
       <h4>Summary</h4>
-      <table><thead><tr><th>Metric</th><th>Value</th></tr></thead><tbody><tr><td>Total Fetched</td><td>37662</td></tr><tr><td>Unique Configs</td><td>21275</td></tr><tr><td>Duplicates Removed</td><td>16387</td></tr></tbody></table>
+      <table><thead><tr><th>Metric</th><th>Value</th></tr></thead><tbody><tr><td>Total Fetched</td><td>37560</td></tr><tr><td>Unique Configs</td><td>21309</td></tr><tr><td>Duplicates Removed</td><td>16251</td></tr></tbody></table>
     </td>
   </tr>
 </table>
