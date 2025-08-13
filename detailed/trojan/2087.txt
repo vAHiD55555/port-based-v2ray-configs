@@ -20,7 +20,6 @@ trojan://Aimer@108.165.152.59:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ty
 trojan://Aimer@104.19.60.99:2087?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇨🇦
 trojan://Aimer@173.245.59.109:2087?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇨🇦
 trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=/speedtest&security=tls&fp=chrome&sni=jfkgfuiodghlf.ahmadinabaz.ir&alpn=h2,http/1.1#@SaghiVpnXBOT[🇨🇦]
-trojan://dns68@206.238.237.1:2087?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed&host=trojan.putata.us.kg#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@154.211.8.227:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-154.211.8.227-1819
 trojan://Aimer@46.254.92.142:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-46.254.92.142-1836
 trojan://Aimer@46.254.93.251:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-46.254.93.251-1838
@@ -31,3 +30,4 @@ trojan://Aimer@108.165.152.1:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F
 trojan://Aimer@167.68.5.248:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-167.68.5.248-1877
 trojan://Aimer@108.165.152.59:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-108.165.152.59-1878
 trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net&type=grpc&serviceName=trgrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.255.171-7963
+trojan://dns68@206.238.237.1:2087?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed&host=trojan.putata.us.kg#@Hope_Net-join-us-on-Telegram
