@@ -27,7 +27,7 @@ GITHUB_REPO = "port-based-v2ray-configs"
 GITHUB_BRANCH = "main"
 RAW_URL_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}"
 
-COMMON_PORTS = [80, 443, 2053, 2083, 2087, 2096, 8880, 8080]
+COMMON_PORTS = [80, 443, 2053, 2083, 2087, 2096, 8443]
 README_PATH = "README.md"
 SUB_DIR = "sub"
 DETAILED_DIR = "detailed"
@@ -162,7 +162,6 @@ port_table_md = md_table_from_rows(["Port", "Count", "Subscription Link"], port_
 proto_rows = [[p, len(protocol_links.get(p, [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/{safe_filename(p.lower())}.txt)"] for p in protocols_all]
 proto_table_md = md_table_from_rows(["Protocol", "Count", "Subscription Link"], proto_rows)
 
-# -- By Protocol & Port (Re-added) --
 pp_md_lines = []
 for proto in protocols_all:
     entries = []
@@ -191,7 +190,7 @@ pp_header = "| Protocol | Port | Count | Link | Protocol | Port | Count | Link |
 pp_sep = "|:---|:---|:---|:---|:---|:---|:---|:---|"
 pp_table_md = f"{pp_header}\n{pp_sep}\n" + "\n".join(pp_md_lines) if pp_md_lines else "_No specific protocol-port combinations found for common ports._"
 
-# --- Sources Block ---
+# --- Sources Block (Side-by-side HTML) ---
 sources_rows = sorted(source_counts.items())
 summary_rows = [
     ["Total Fetched", total_fetched],
@@ -201,11 +200,27 @@ summary_rows = [
 sources_table_md = md_table_from_rows(["Source", "Fetched Lines"], sources_rows)
 summary_table_md = md_table_from_rows(["Metric", "Value"], summary_rows)
 
+# Create HTML structure for side-by-side tables
+side_by_side_html = f"""
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Sources</h4>
+      {sources_table_md}
+    </td>
+    <td width="50%" valign="top">
+      <h4>Summary</h4>
+      {summary_table_md}
+    </td>
+  </tr>
+</table>
+"""
+
 # --- Compose Blocks ---
 now_ts = datetime.utcnow().replace(tzinfo=timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 stats_block = f"{MARKERS['stats'][0]}\n_Last update: {now_ts}_\n\n{stats_table_md}\n{MARKERS['stats'][1]}"
 links_block = f"{MARKERS['links'][0]}\n### By Port\n{port_table_md}\n\n### By Protocol\n{proto_table_md}\n\n### By Protocol & Port (Common Ports)\n{pp_table_md}\n{MARKERS['links'][1]}"
-sources_block = f"{MARKERS['sources'][0]}\n{sources_table_md}\n\n{summary_table_md}\n{MARKERS['sources'][1]}"
+sources_block = f"{MARKERS['sources'][0]}\n{side_by_side_html}\n{MARKERS['sources'][1]}"
 
 print("Updating README.md...")
 try:
