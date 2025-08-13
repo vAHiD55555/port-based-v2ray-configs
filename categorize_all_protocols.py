@@ -170,18 +170,16 @@ proto_rows = [[p, len(protocol_links.get(p, [])), f"[Sub Link]({RAW_URL_BASE}/{S
 proto_table_md = md_table_from_rows(["Protocol", "Count", "Subscription Link"], proto_rows)
 
 # --- By Protocol & Port (Smart Columnar HTML Table) ---
+# CORRECTED LOGIC: Iterate over protocols and then COMMON_PORTS to build the list directly.
 all_pp_entries = []
 for proto in protocols_all:
-    # Sort ports numerically where possible
-    sorted_ports = sorted(proto_port_links.get(proto, {}).keys(), key=lambda x: int(x) if x.isdigit() else float('inf'))
-    for p in sorted_ports:
-        if int(p) if p.isdigit() else -1 not in COMMON_PORTS:
-             continue
-        count = len(proto_port_links.get(proto, {}).get(p, []))
+    for p_int in COMMON_PORTS:
+        p_str = str(p_int)
+        count = len(proto_port_links.get(proto, {}).get(p_str, []))
         if count > 0:
-            relative_path = f"{DETAILED_DIR}/{safe_filename(proto.lower())}/{safe_filename(p)}.txt"
+            relative_path = f"{DETAILED_DIR}/{safe_filename(proto.lower())}/{safe_filename(p_str)}.txt"
             raw_url = f"{RAW_URL_BASE}/{relative_path}"
-            all_pp_entries.append({"proto": proto, "port": p, "count": count, "url": raw_url})
+            all_pp_entries.append({"proto": proto, "port": p_str, "count": count, "url": raw_url})
 
 pp_table_html = ""
 if all_pp_entries:
