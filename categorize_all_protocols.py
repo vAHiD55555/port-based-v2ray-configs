@@ -103,7 +103,7 @@ def create_pp_sub_table(entries):
     for i, item in enumerate(entries):
         # Add a top border to the row if the protocol changes
         style = ' style="border-top: 2px solid #d0d7de;"' if i > 0 and item["proto"] != entries[i-1]["proto"] else ''
-        # Changed link text to "Sub"
+        # Link text is "Sub" ONLY for this table
         link = f'<a href="{item["url"]}">Sub</a>'
         # Apply the style to the <tr> element, which is more robust
         table_body += f'<tr{style}><td>{item["proto"]}</td><td>{item["port"]}</td><td>{item["count"]}</td><td>{link}</td></tr>'
@@ -174,15 +174,15 @@ stats_table_md = md_table_from_rows(
 )
 
 # --- Links Block ---
-# Changed link text to "[Sub]"
+# Link text is "[Sub Link]"
 port_table_md = md_table_from_rows(
     ["Port", "Count", "Subscription Link"],
-    [[p, len(port_links.get(str(p), [])), f"[Sub]({RAW_URL_BASE}/{SUB_DIR}/port_{p}.txt)"] for p in COMMON_PORTS]
+    [[p, len(port_links.get(str(p), [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/port_{p}.txt)"] for p in COMMON_PORTS]
 )
-# Changed link text to "[Sub]"
+# Link text is "[Sub Link]"
 proto_table_md = md_table_from_rows(
     ["Protocol", "Count", "Subscription Link"],
-    [[p, len(protocol_links.get(p, [])), f"[Sub]({RAW_URL_BASE}/{SUB_DIR}/{safe_filename(p.lower())}.txt)"] for p in protocols_all]
+    [[p, len(protocol_links.get(p, [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/{safe_filename(p.lower())}.txt)"] for p in protocols_all]
 )
 
 # --- By Protocol & Port (Robust Side-by-Side HTML Tables) ---
