@@ -1,2 +1,0 @@
-vless://37cf2001-eb48-49c5-9fe5-69142fc8fc27@31.58.239.119:3489?type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NA 🇦🇪 AE-31.58.239.119:3489
-vless://37cf2001-eb48-49c5-9fe5-69142fc8fc27@185.14.160.220:3489?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.14.160.220:3489

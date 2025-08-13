@@ -1,3 +1,0 @@
-vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@143.198.239.183:25087?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-143.198.239.183:25087
-vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@134.199.185.237:25087?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-134.199.185.237:25087
-vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@65.109.217.120:25087?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.217.120:25087

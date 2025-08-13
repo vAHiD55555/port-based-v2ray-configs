@@ -1,2 +1,0 @@
-vless://827f24c7-87bf-42de-9d79-10b0b936e680@85.133.202.16:3001?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.202.16:3001
-vless://d7500082-e134-4f60-8f92-9d2280a381a2@85.133.202.16:3001?security=reality&sni=digikala.com&type=tcp&host=digikala.com&path=%2F&headerType=http&fp=chrome&pbk=wNQ9_Sp7w2XOi_k_Yz2ACyDko4biOyCJKN7E8KZ1U3I&sid=530f587db4e6#🔒 VL-TCP-RLT 🇮🇷 IR-85.133.202.16:3001

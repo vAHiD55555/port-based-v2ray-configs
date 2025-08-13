@@ -1,2 +1,0 @@
-vless://7ee9482b-18d1-478f-8208-1395c80048c4@212.80.20.138:999?security=none&type=tcp&host=bmi.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.20.138:999
-vless://ff6640df-783d-4756-8834-44d116d47b05@188.213.128.116:999?security=reality&sni=www.stackoverflow.com&type=tcp&fp=chrome&pbk=s1GsQLL9XVZghdT0zP8WE07TyGGRJ_n8P3dD6K02SFM&sid=f98e4cebc6#🔒 VL-TCP-RLT 🇨🇭 CH-188.213.128.116:999
