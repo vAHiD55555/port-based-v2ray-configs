@@ -20,6 +20,13 @@ SOURCES = {
     "Epodonios": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
     "Rayan-Config": "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
 }
+
+# GitHub repository details for raw links
+GITHUB_USER = "hamedcode"
+GITHUB_REPO = "port-based-v2ray-configs"
+GITHUB_BRANCH = "main"
+RAW_URL_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}"
+
 COMMON_PORTS = [80, 443, 2053, 2083, 2087, 2096, 8443]  # popular ports shown in README
 README_PATH = "README.md"
 SUB_DIR = "sub"
@@ -27,9 +34,9 @@ DETAILED_DIR = "detailed"
 PREFERRED = ["VLESS", "VMESS", "TROJAN", "SS", "OTHER"]
 
 MARKERS = {
-    "stats": ("<!-- START-STATS -->", "<!-- END-STATS -->"),
-    "links": ("<!-- START-LINKS -->", "<!-- END-LINKS -->"),
-    "sources": ("<!-- START-SOURCES -->", "<!-- END-SOURCES -->"),
+    "stats": ("", ""),
+    "links": ("", ""),
+    "sources": ("", ""),
 }
 
 # ---------------- Helpers ----------------
@@ -225,17 +232,19 @@ stats_table_md = md_table_from_rows(header_cells, rows)
 # 1) By Port
 port_rows = []
 for p in ports_header:
-    path = f"./{SUB_DIR}/port_{safe_filename(p)}.txt"
+    relative_path = f"{SUB_DIR}/port_{safe_filename(p)}.txt"
+    raw_url = f"{RAW_URL_BASE}/{relative_path}"
     count = len(port_links.get(str(p), [])) if str(p) in port_links else len(port_links.get(p, []))
-    port_rows.append([str(p), f"{count}", f"[Sub Link]({path})"])
+    port_rows.append([str(p), f"{count}", f"[Sub Link]({raw_url})"])
 port_table_md = md_table_from_rows(["Port", "Config Count", "Subscription Link"], port_rows)
 
 # 2) By Protocol
 proto_rows = []
 for proto in protocols_all:
-    path = f"./{SUB_DIR}/{safe_filename(proto.lower())}.txt"
+    relative_path = f"{SUB_DIR}/{safe_filename(proto.lower())}.txt"
+    raw_url = f"{RAW_URL_BASE}/{relative_path}"
     count = len(protocol_links.get(proto, []))
-    proto_rows.append([proto, str(count), f"[Sub Link]({path})"])
+    proto_rows.append([proto, str(count), f"[Sub Link]({raw_url})"])
 proto_table_md = md_table_from_rows(["Protocol", "Config Count", "Subscription Link"], proto_rows)
 
 # 3) By Protocol + Port (grouped by protocol, two entries per row)
@@ -247,8 +256,9 @@ for proto in protocols_all:
         cnt = len(proto_port_links.get(proto, {}).get(str(p), []))
         if cnt == 0:
             continue
-        path = f"./{DETAILED_DIR}/{safe_filename(proto.lower())}/{safe_filename(str(p))}.txt"
-        entries.append((proto, str(p), cnt, path))
+        relative_path = f"{DETAILED_DIR}/{safe_filename(proto.lower())}/{safe_filename(str(p))}.txt"
+        raw_url = f"{RAW_URL_BASE}/{relative_path}"
+        entries.append((proto, str(p), cnt, raw_url))
     if not entries:
         continue
     # produce two-per-row lines for this protocol group
