@@ -1,14 +1,16 @@
-trojan://Aimer@188.164.159.98:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A57
-trojan://Aimer@188.164.159.138:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A58
-trojan://Aimer@103.116.7.67:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A59
-trojan://Aimer@154.197.64.219:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A510
-trojan://Aimer@108.165.152.78:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US8
-trojan://Aimer@108.165.152.202:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US13
-trojan://Aimer@188.164.159.43:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A524
-trojan://Aimer@161.145.150.29:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US17
-trojan://Aimer@188.164.159.91:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A533
-trojan://Aimer@155.46.213.38:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US24
-trojan://Aimer@135.84.64.36:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US25
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJjYzJkYXNoLjg5MDYwMDA0Lnh5eiIsInBvcnQiOiIyMDgzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjJmYzM3NzEzLTMwMTctNDk3ZS1mZjJkLTk2NWY4MjZhMTlhMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImNjMmQzLjg5MDYwMDA0Lnh5eiIsInRscyI6InRscyJ9
+trojan://Aimer@155.46.213.38:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
+trojan://Aimer@161.145.150.29:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US6
+trojan://Aimer@188.164.159.91:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A59
+trojan://Aimer@108.165.152.202:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US15
+trojan://Aimer@188.164.159.43:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A527
+trojan://Aimer@188.164.159.98:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A530
+trojan://Aimer@154.197.64.219:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A531
+trojan://Aimer@108.165.152.78:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US18
+trojan://Aimer@103.116.7.67:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A542
+trojan://Aimer@188.164.159.138:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A545
+trojan://Aimer@155.46.213.38:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US26
+trojan://Aimer@135.84.64.36:2083?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US28
 trojan://Aimer@188.164.159.138:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#AM_speednode_0013
 trojan://Aimer@188.164.159.91:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#AM_speednode_0014
 trojan://Aimer@188.164.159.43:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#AM_speednode_0015
@@ -37,6 +39,9 @@ vless://0c2a1be7-cdde-4854-a45c-ddec52584fa1@65.109.208.107:2083?mode=gun&securi
 vless://0c2a1be7-cdde-4854-a45c-ddec52584fa1@65.109.208.107:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#FI 1 🇫🇮 | @v2xay
 vless://0c2a1be7-cdde-4854-a45c-ddec52584fa1@65.109.208.107:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#VayNora
 vless://0c2a1be7-cdde-4854-a45c-ddec52584fa1@65.109.208.107:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://12f3c866-a401-474b-f274-e1cacbf2adce@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
+vless://12f3c866-a401-474b-f274-e1cacbf2adce@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#Telegram:@config_proxy 🔥
+vless://12f3c866-a401-474b-f274-e1cacbf2adce@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#[🇫🇮]t.me/ConfigsHub
 vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&encryption=none&host=test.bujidao.org&type=ws&sni=test.bujidao.org#عضو کانال و ربات شوید👆
 vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&encryption=none&host=test.bujidao.org&type=ws&sni=test.bujidao.org#🔒@v2rayngsupbot
 vless://27ab1462-5fa9-47f0-c7fe-f8e83f4be942@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
@@ -46,6 +51,7 @@ vless://2f393071-ac9d-4510-916f-eed41b10d2b6@65.109.191.147:2083?security=none&e
 vless://34208027-101c-4e79-a0e3-87f62ef214e6@172.66.46.220:2083?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=MoRtEzA865.paGES.DEV&type=ws&sni=MoRtEzA865.paGES.DEV#@V2rayNG3
 vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=2096vless#@V2rayNG3
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?path=/&security=tls&encryption=none&type=ws&sni=azadnet05.pages.dev#@v2ray313 کانالمون ✨
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?path=/&security=tls&encryption=none&type=ws&sni=azadnet05.pages.dev#Allnet Telegram:@ultrasurf_12
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#@AYMH19+کانال+تلگرام
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&fp=chrome&type=ws&sni=azadnet05.pages.dev#@V2RAY_VMESS_free
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#
@@ -63,7 +69,6 @@ vless://84cec1f6-8312-40da-b17a-4511e11a6026@cyber.azar.ddns-ip.net:2083?securit
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=/iEKjUnufUjeTiIrt?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=argodev11222.pages.dev&fp=chrome&type=ws&sni=ArGodev11222.PaGes.Dev#@V2rayNG3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?path=/telegram@v2ray_alpha?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=HaSTI.fReeAIrLAINes.COm&fp=chrome&type=ws&sni=hAsTi.frEEairLainEs.Com#@V2rayNG3
 vless://89eeb27d-1a8c-4d84-9ca4-75d614d19900@webshecan.webredirect.org:2083?type=tcp&security=reality&fp=chrome&pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&sni=www.theverge.com&flow=xtls-rprx-vision&sid=7f321171&spx=/#@Webshecan-mci2
-vless://8f320d6a-9953-4065-b61c-d62f89a6767f@172.67.69.129:2083?path=/Telegram@V2ray_Alpha/?ed=2048&security=tls&encryption=none&host=e.exedu.ip-ddns.com&fp=chrome&type=ws&sni=e.exedu.ip-ddns.com#@TeLPJ+تمام+نت+ها+🟦🟨
 vless://914b24f0-ad36-447a-8807-d6fdff103afb@185.143.235.201:2083?path=/BmHlLvr3qZOOinuP?ed&security=tls&alpn=http/1.1&encryption=none&host=s1.www.getasa.ir&fp=chrome&type=ws&sni=snapp.ir#anty_vpn
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.208.107:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#FI 1 🇫🇮 | @v2xay
@@ -105,7 +110,6 @@ vmess://eyJhZGQiOiJ3d3cubWV0ZXIubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://99549e40-01ce-4621-b9d0-75ed8fddfa06@join-bede.deragv2ray.net:2083?type=ws&path=%2F&host=allnet.deragv2ray.net&security=tls&fp=&alpn=&sni=allnet.deragv2ray.net#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40deragv2ray%20%5B1%5D
 vless://254669c0-134b-410f-b47e-229d8877b058@join-bede.deragv2ray.net:2083?type=ws&path=%2F&host=allnet.deragv2ray.net&security=tls&fp=&alpn=&sni=allnet.deragv2ray.net#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40deragv2ray%20%5B2%5D
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FiEKjUnufUjeTiIrt%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iran_access%20%5B13%5D
-vmess://eyJhZGQiOiIxMDQuMTcuMTQ4LjIyIiwiYWlkIjoiMCIsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJhcGkzLndhbHRvbndlYi5pciIsImlkIjoiOGFlNjU2NjQtODRlOC00MGUxLTk3MDgtOTIzNmYwODA4ZGZkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYW5lbD9lZD0yNTYwIiwicG9ydCI6IjIwODMiLCJzY3kiOiJhdXRvIiwic25pIjoiYXBpMy53YWx0b253ZWIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOSBDRiB8IFx1ZDgzZFx1ZGQxMiBWTUVTUyB8IEBtb3dqcHJveHkgWzFdIn0
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@www.visa.com:2083?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=dash.zedmodeon.lat#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40nepo_v2ray%20%5B24%5D
 vless://6ddb0deb-2c1c-47ce-c2fe-85a30253093a@de.melobigg.site:2083?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=&sni=de.melobigg.site#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40red2ray%20%5B13%5D
 vless://d465920c-7be3-4f6a-9d78-c4fd87dd7c68@maz.maznet.cfd:2083?path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=join20.maznet.cfd.&fp=chrome&type=ws&sni=join20.maznet.cfd.#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayng_o%20%5B6%5D
