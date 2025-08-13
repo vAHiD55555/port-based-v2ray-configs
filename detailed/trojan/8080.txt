@@ -1,2 +1,4 @@
-trojan://Aimer@34.85.77.183:8080?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A515
+trojan://Aimer@34.85.77.183:8080?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A534
 trojan://Aimer@34.85.77.183:8080?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#JP_speednode_0067
+trojan://Aimer@34.85.77.183:8080?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A515
+trojan://aaccbba-baca-abca-dbca-aabcbaaccbbc@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
