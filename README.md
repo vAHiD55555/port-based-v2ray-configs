@@ -18,22 +18,22 @@
 ## Subscription Links
 
 ### By Port (All Protocols)
-- **Port 80** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/port_80.txt)
-- **Port 443** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/port_443.txt)
-- **Port 2052** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/port_2052.txt)
-- **Port 2082** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/port_2082.txt)
-- **Port 2086** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/port_2086.txt)
-- **Port 2095** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/port_2095.txt)
+- **Port 80** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_80.txt)
+- **Port 443** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_443.txt)
+- **Port 2052** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2052.txt)
+- **Port 2082** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2082.txt)
+- **Port 2086** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2086.txt)
+- **Port 2095** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_2095.txt)
 
 ### By Protocol (All Ports)
-- **VLESS** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/vless.txt)
-- **VMESS** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/vmess.txt)
-- **TROJAN** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/trojan.txt)
-- **SS** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/ss.txt)
+- **VLESS** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vless.txt)
+- **VMESS** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vmess.txt)
+- **TROJAN** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/trojan.txt)
+- **SS** → [Subscribe](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/ss.txt)
 
 ### By Protocol & Port
-**VLESS** → [80](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/vless_80.txt), [443](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/vless_443.txt) | **VMESS** → [80](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/vmess_80.txt), [443](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/vmess_443.txt)
-**TROJAN** → [443](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/trojan_443.txt) | **SS** → [80](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/ss_80.txt)
+**VLESS** → [80](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vless_80.txt), [443](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vless_443.txt) | **VMESS** → [80](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vmess_80.txt), [443](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vmess_443.txt)
+**TROJAN** → [443](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/trojan_443.txt) | **SS** → [80](https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/ss_80.txt)
 <!-- END-LINKS -->
 
 ---
