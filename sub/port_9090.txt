@@ -2,5 +2,3 @@ vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:9090?mode=gun&se
 vless://71b7cafa-7d98-4190-ae0f-6654886edd5b@germany.playshoptv.com:9090?security=none&encryption=none&headerType=none&type=tcp#IRAN 254 (@Outline_Vpn) free
 vless://b58f421c-cde7-4ee1-bad0-bdaea20efa25@31.41.35.88:9090?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#DE 4 🇩🇪 | @v2xay
 vmess://eyJhZGQiOiIyMTcuMTE0LjQwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ4N2VlZDY2LWQ1OTctNGVmZC1hYmUxLWE5NzUxMWJkNzI5OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTA5MCIsInBzIjoiQFVDSVJBTklSIC0gQHByX3ZwbiAjMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://585b8acd-481c-4cef-9c69-74eefd17980c@vp1.biseda.net:9090?type=tcp&path=/&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:80.82ms
-vless://bdda4f31-3c11-4d3b-9bbe-90ff817154fb@vp1.biseda.net:9090?type=tcp&path=/&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:80.82ms
