@@ -2,7 +2,7 @@
 
 ## 📊 Statistics
 <!-- START-STATS -->
-_Last update: 2025-08-13 10:05:50 UTC_
+_Last update: 2025-08-13 10:08:41 UTC_
 
 | Protocol | 80 | 443 | 2053 | 2083 | 2087 | 2096 | 8443 | Total |
 |---|---|---|---|---|---|---|---|---|
@@ -36,34 +36,34 @@ _Last update: 2025-08-13 10:05:50 UTC_
 
 | Protocol | Config Count | Subscription Link |
 |---|---|---|
-| VLESS | 13173 | [ðŸ“Ž Link](./sub/vless.txt) |
-| VMESS | 3179 | [ðŸ“Ž Link](./sub/vmess.txt) |
-| TROJAN | 1381 | [ðŸ“Ž Link](./sub/trojan.txt) |
-| SS | 3586 | [ðŸ“Ž Link](./sub/ss.txt) |
-| OTHER | 21 | [ðŸ“Ž Link](./sub/other.txt) |
+| VLESS | 13173 | [Sub Link](./sub/vless.txt) |
+| VMESS | 3179 | [Sub Link](./sub/vmess.txt) |
+| TROJAN | 1381 | [Sub Link](./sub/trojan.txt) |
+| SS | 3586 | [Sub Link](./sub/ss.txt) |
+| OTHER | 21 | [Sub Link](./sub/other.txt) |
 
 **By Protocol & Port**
 
 | Protocol | Port | Link | Protocol | Port | Link |
 |----------|------|------|----------|------|------|
-| VLESS | 80 | [ðŸ“Ž Link](./detailed/vless/80.txt) | VLESS | 443 | [ðŸ“Ž Link](./detailed/vless/443.txt) |
-| VLESS | 2053 | [ðŸ“Ž Link](./detailed/vless/2053.txt) | VLESS | 2083 | [ðŸ“Ž Link](./detailed/vless/2083.txt) |
-| VLESS | 2087 | [ðŸ“Ž Link](./detailed/vless/2087.txt) | VLESS | 2096 | [ðŸ“Ž Link](./detailed/vless/2096.txt) |
-| VLESS | 8443 | [ðŸ“Ž Link](./detailed/vless/8443.txt) |  |  |  |
+| VLESS | 80 | [Sub Link](./detailed/vless/80.txt) | VLESS | 443 | [Sub Link](./detailed/vless/443.txt) |
+| VLESS | 2053 | [Sub Link](./detailed/vless/2053.txt) | VLESS | 2083 | [Sub Link](./detailed/vless/2083.txt) |
+| VLESS | 2087 | [Sub Link](./detailed/vless/2087.txt) | VLESS | 2096 | [Sub Link](./detailed/vless/2096.txt) |
+| VLESS | 8443 | [Sub Link](./detailed/vless/8443.txt) |  |  |  |
 | **---** | **---** | **---** | **---** | **---** | **---** |
-| VMESS | 80 | [ðŸ“Ž Link](./detailed/vmess/80.txt) | VMESS | 443 | [ðŸ“Ž Link](./detailed/vmess/443.txt) |
-| VMESS | 2053 | [ðŸ“Ž Link](./detailed/vmess/2053.txt) | VMESS | 2083 | [ðŸ“Ž Link](./detailed/vmess/2083.txt) |
-| VMESS | 2087 | [ðŸ“Ž Link](./detailed/vmess/2087.txt) | VMESS | 2096 | [ðŸ“Ž Link](./detailed/vmess/2096.txt) |
-| VMESS | 8443 | [ðŸ“Ž Link](./detailed/vmess/8443.txt) |  |  |  |
+| VMESS | 80 | [Sub Link](./detailed/vmess/80.txt) | VMESS | 443 | [Sub Link](./detailed/vmess/443.txt) |
+| VMESS | 2053 | [Sub Link](./detailed/vmess/2053.txt) | VMESS | 2083 | [Sub Link](./detailed/vmess/2083.txt) |
+| VMESS | 2087 | [Sub Link](./detailed/vmess/2087.txt) | VMESS | 2096 | [Sub Link](./detailed/vmess/2096.txt) |
+| VMESS | 8443 | [Sub Link](./detailed/vmess/8443.txt) |  |  |  |
 | **---** | **---** | **---** | **---** | **---** | **---** |
-| TROJAN | 80 | [ðŸ“Ž Link](./detailed/trojan/80.txt) | TROJAN | 443 | [ðŸ“Ž Link](./detailed/trojan/443.txt) |
-| TROJAN | 2053 | [ðŸ“Ž Link](./detailed/trojan/2053.txt) | TROJAN | 2083 | [ðŸ“Ž Link](./detailed/trojan/2083.txt) |
-| TROJAN | 2087 | [ðŸ“Ž Link](./detailed/trojan/2087.txt) | TROJAN | 2096 | [ðŸ“Ž Link](./detailed/trojan/2096.txt) |
-| TROJAN | 8443 | [ðŸ“Ž Link](./detailed/trojan/8443.txt) |  |  |  |
+| TROJAN | 80 | [Sub Link](./detailed/trojan/80.txt) | TROJAN | 443 | [Sub Link](./detailed/trojan/443.txt) |
+| TROJAN | 2053 | [Sub Link](./detailed/trojan/2053.txt) | TROJAN | 2083 | [Sub Link](./detailed/trojan/2083.txt) |
+| TROJAN | 2087 | [Sub Link](./detailed/trojan/2087.txt) | TROJAN | 2096 | [Sub Link](./detailed/trojan/2096.txt) |
+| TROJAN | 8443 | [Sub Link](./detailed/trojan/8443.txt) |  |  |  |
 | **---** | **---** | **---** | **---** | **---** | **---** |
-| SS | 80 | [ðŸ“Ž Link](./detailed/ss/80.txt) | SS | 443 | [ðŸ“Ž Link](./detailed/ss/443.txt) |
-| SS | 2083 | [ðŸ“Ž Link](./detailed/ss/2083.txt) | SS | 2087 | [ðŸ“Ž Link](./detailed/ss/2087.txt) |
-| SS | 8443 | [ðŸ“Ž Link](./detailed/ss/8443.txt) |  |  |  |
+| SS | 80 | [Sub Link](./detailed/ss/80.txt) | SS | 443 | [Sub Link](./detailed/ss/443.txt) |
+| SS | 2083 | [Sub Link](./detailed/ss/2083.txt) | SS | 2087 | [Sub Link](./detailed/ss/2087.txt) |
+| SS | 8443 | [Sub Link](./detailed/ss/8443.txt) |  |  |  |
 
 For full list and other ports see the `detailed/` folder.
 <!-- END-LINKS -->
