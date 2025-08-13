@@ -11,7 +11,7 @@ README_FILE = "README.md"
 # GitHub repo info (for raw links)
 GITHUB_USER = "hamedcode"
 GITHUB_REPO = "port-based-v2ray-configs"
-RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/main/{SUB_DIR}"
+RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/refs/heads/main/{SUB_DIR}"
 
 # Ports to display in the "popular ports" section
 POPULAR_PORTS = [80, 443, 2083, 2087, 2096, 8443]
@@ -35,7 +35,6 @@ for filename in os.listdir(SUB_DIR):
     if not lines:
         continue
 
-    # Extract protocol and port from filename
     match = re.match(r"([a-zA-Z0-9]+)_(\d+)\.txt", filename)
     if match:
         proto, port = match.group(1).upper(), int(match.group(2))
@@ -93,23 +92,6 @@ for proto in proto_list:
     headers += [proto, "Port", "Link"]
 by_protocol_port_md = tabulate(by_protocol_port_md, headers=headers, tablefmt="github")
 
-# Sources & Summary
-sources_list = [
-    ("barry-far", "https://github.com/barry-far", 15942),
-    ("kobabi", "https://github.com/kobabi", 313),
-    ("mahdibland", "https://github.com/mahdibland", 4906),
-    ("Epodonios", "https://github.com/Epodonios", 15947),
-    ("Rayan Config", "https://github.com/Rayan-Config", 77),
-]
-sources_md = tabulate([[f"[{name}]({url})", count] for name, url, count in sources_list],
-                      headers=["Source", "Fetched Lines"], tablefmt="github")
-
-summary_md = tabulate([
-    ["Total fetched", 37185],
-    ["Duplicates removed", 16173],
-    ["Unique configs", 21012]
-], headers=["Metric", "Value"], tablefmt="github")
-
 # Update README.md
 with open(README_FILE, "r", encoding="utf-8") as f:
     readme_content = f.read()
@@ -128,9 +110,6 @@ readme_content = replace_between_tags(readme_content, "links",
     f"**By Port**\n\n{by_port_md}\n\n"
     f"**By Protocol**\n\n{by_protocol_md}\n\n"
     f"**By Protocol & Port**\n\n{by_protocol_port_md}"
-)
-readme_content = replace_between_tags(readme_content, "sources",
-    f"### Sources & Summary\n\n{sources_md}\n\n{summary_md}"
 )
 
 with open(README_FILE, "w", encoding="utf-8") as f:
