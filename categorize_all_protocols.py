@@ -94,6 +94,23 @@ def html_table_from_rows(header_cells, rows):
     body_html += "</tbody>"
     return f"<table>{header_html}{body_html}</table>"
 
+def create_pp_sub_table(entries):
+    """Creates a self-contained HTML table for one column of Protocol/Port data."""
+    if not entries:
+        return ""
+    
+    table_body = "<tbody>"
+    for i, item in enumerate(entries):
+        # Add a top border to the row if the protocol changes
+        style = ' style="border-top: 2px solid #d0d7de;"' if i > 0 and item["proto"] != entries[i-1]["proto"] else ''
+        link = f'<a href="{item["url"]}">Sub Link</a>'
+        # Apply the style to the <tr> element, which is more robust
+        table_body += f'<tr{style}><td>{item["proto"]}</td><td>{item["port"]}</td><td>{item["count"]}</td><td>{link}</td></tr>'
+    table_body += "</tbody>"
+    
+    header = "<thead><tr><th>Protocol</th><th>Port</th><th>Count</th><th>Link</th></tr></thead>"
+    return f"<table>{header}{table_body}</table>"
+
 # ---------------- Main Logic ----------------
 print("Fetching sources...")
 all_items = []
@@ -118,7 +135,6 @@ seen = set()
 protocol_links = defaultdict(list)
 port_links = defaultdict(list)
 proto_port_links = defaultdict(lambda: defaultdict(list))
-
 for cfg, src in all_items:
     if cfg in seen:
         continue
@@ -126,16 +142,13 @@ for cfg, src in all_items:
     proto, port = extract_info(cfg)
     key_proto = proto or "OTHER"
     key_port = port or "unknown"
-    
     protocol_links[key_proto].append(cfg)
     port_links[key_port].append(cfg)
     proto_port_links[key_proto][key_port].append(cfg)
-
 unique_count = len(seen)
 print(f"Unique configs: {unique_count}, duplicates removed: {total_fetched - unique_count}")
 
 print("Writing subscription files...")
-# ... (File writing logic remains the same) ...
 os.makedirs(SUB_DIR, exist_ok=True)
 os.makedirs(DETAILED_DIR, exist_ok=True)
 for group, links in protocol_links.items():
@@ -154,23 +167,22 @@ for proto, ports in proto_port_links.items():
 print("Generating README content...")
 # --- Stats Block ---
 protocols_all = sorted(protocol_links.keys(), key=lambda p: (PREFERRED.index(p) if p in PREFERRED else len(PREFERRED), p))
-header_cells = ["Protocol"] + [str(p) for p in COMMON_PORTS] + ["Total"]
-rows = []
-for proto in protocols_all:
-    row = [proto] + [len(proto_port_links.get(proto, {}).get(str(p), [])) for p in COMMON_PORTS]
-    row.append(len(protocol_links.get(proto, [])))
-    rows.append(row)
-stats_table_md = md_table_from_rows(header_cells, rows)
+stats_table_md = md_table_from_rows(
+    ["Protocol"] + [str(p) for p in COMMON_PORTS] + ["Total"],
+    [[p] + [len(proto_port_links.get(p, {}).get(str(port), [])) for port in COMMON_PORTS] + [len(protocol_links.get(p, []))] for p in protocols_all]
+)
 
 # --- Links Block ---
-port_rows = [[p, len(port_links.get(str(p), [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/port_{p}.txt)"] for p in COMMON_PORTS]
-port_table_md = md_table_from_rows(["Port", "Count", "Subscription Link"], port_rows)
+port_table_md = md_table_from_rows(
+    ["Port", "Count", "Subscription Link"],
+    [[p, len(port_links.get(str(p), [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/port_{p}.txt)"] for p in COMMON_PORTS]
+)
+proto_table_md = md_table_from_rows(
+    ["Protocol", "Count", "Subscription Link"],
+    [[p, len(protocol_links.get(p, [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/{safe_filename(p.lower())}.txt)"] for p in protocols_all]
+)
 
-proto_rows = [[p, len(protocol_links.get(p, [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/{safe_filename(p.lower())}.txt)"] for p in protocols_all]
-proto_table_md = md_table_from_rows(["Protocol", "Count", "Subscription Link"], proto_rows)
-
-# --- By Protocol & Port (Smart Columnar HTML Table) ---
-# CORRECTED LOGIC: Iterate over protocols and then COMMON_PORTS to build the list directly.
+# --- By Protocol & Port (Robust Side-by-Side HTML Tables) ---
 all_pp_entries = []
 for proto in protocols_all:
     for p_int in COMMON_PORTS:
@@ -186,33 +198,24 @@ if all_pp_entries:
     split_index = math.ceil(len(all_pp_entries) / 2.0)
     left_col = all_pp_entries[:split_index]
     right_col = all_pp_entries[split_index:]
-    num_rows = len(left_col)
-
-    table_body = "<tbody>"
-    for i in range(num_rows):
-        # --- Left Column ---
-        l_item = left_col[i]
-        l_style = ' style="border-top: 2px solid #d0d7de;"' if i > 0 and l_item["proto"] != left_col[i-1]["proto"] else ''
-        l_link = f'<a href="{l_item["url"]}">Sub Link</a>'
-        l_cells = f'<td{l_style}>{l_item["proto"]}</td><td{l_style}>{l_item["port"]}</td><td{l_style}>{l_item["count"]}</td><td{l_style}>{l_link}</td>'
-
-        # --- Right Column ---
-        if i < len(right_col):
-            r_item = right_col[i]
-            r_style = ' style="border-top: 2px solid #d0d7de;"' if i > 0 and r_item["proto"] != right_col[i-1]["proto"] else ''
-            r_link = f'<a href="{r_item["url"]}">Sub Link</a>'
-            r_cells = f'<td{r_style}>{r_item["proto"]}</td><td{r_style}>{r_item["port"]}</td><td{r_style}>{r_item["count"]}</td><td{r_style}>{r_link}</td>'
-        else:
-            r_cells = "<td></td><td></td><td></td><td></td>"
-        
-        table_body += f"<tr>{l_cells}{r_cells}</tr>"
-    table_body += "</tbody>"
     
-    header = "<thead><tr><th>Protocol</th><th>Port</th><th>Count</th><th>Link</th><th>Protocol</th><th>Port</th><th>Count</th><th>Link</th></tr></thead>"
-    pp_table_html = f"<table>{header}{table_body}</table>"
+    left_table_html = create_pp_sub_table(left_col)
+    right_table_html = create_pp_sub_table(right_col)
+
+    pp_table_html = f"""
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="background-color: transparent;">
+    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
+      {left_table_html}
+    </td>
+    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
+      {right_table_html}
+    </td>
+  </tr>
+</table>
+"""
 else:
     pp_table_html = "_No specific protocol-port combinations found for common ports._"
-
 
 # --- Sources Block (Side-by-side HTML) ---
 sources_rows = sorted(source_counts.items())
