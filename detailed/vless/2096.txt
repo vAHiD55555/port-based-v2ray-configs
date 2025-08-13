@@ -476,4 +476,3 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?security=tls&sni=G9j2KeHn0E.gItI5.oRg&fp=random&type=ws&path=/&host=G9j2KeHn0E.gItI5.oRg&encryption=none#q_126
 vless://32482796-4f79-4c7e-afe3-e9b2d4de71d7@104.21.48.1:2096?security=tls&sni=NETHErS.MOHAmADmBb7.WoRkerS.dEV&fp=chrome&type=ws&path=/&host=NETHErS.MOHAmADmBb7.WoRkerS.dEV&encryption=none#q_291
 vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?security=tls&sni=baomei.pages.dev&fp=random&type=ws&path=/&host=baomei.pages.dev&encryption=none#q_295
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=%2F&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayng3%20%5B12%5D
