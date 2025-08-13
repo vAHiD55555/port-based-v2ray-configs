@@ -11,6 +11,7 @@ import json
 from urllib.parse import urlparse
 from collections import defaultdict
 from datetime import datetime, timezone
+import math
 
 # ---------------- Config ----------------
 SOURCES = {
@@ -86,13 +87,11 @@ def md_table_from_rows(header_cells, rows):
     return f"{header}\n{sep}\n{body}"
 
 def html_table_from_rows(header_cells, rows):
-    """Generates a pure HTML table string."""
     header_html = "<thead><tr>" + "".join(f"<th>{cell}</th>" for cell in header_cells) + "</tr></thead>"
     body_html = "<tbody>"
     for row in rows:
         body_html += "<tr>" + "".join(f"<td>{cell}</td>" for cell in row) + "</tr>"
     body_html += "</tbody>"
-    # GitHub's CSS will style the table, so no need for border="1"
     return f"<table>{header_html}{body_html}</table>"
 
 # ---------------- Main Logic ----------------
@@ -136,17 +135,15 @@ unique_count = len(seen)
 print(f"Unique configs: {unique_count}, duplicates removed: {total_fetched - unique_count}")
 
 print("Writing subscription files...")
+# ... (File writing logic remains the same) ...
 os.makedirs(SUB_DIR, exist_ok=True)
 os.makedirs(DETAILED_DIR, exist_ok=True)
-
 for group, links in protocol_links.items():
     with open(os.path.join(SUB_DIR, f"{safe_filename(group.lower())}.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(links))
-
 for group, links in port_links.items():
     with open(os.path.join(SUB_DIR, f"port_{safe_filename(group)}.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(links))
-
 for proto, ports in proto_port_links.items():
     dirpath = os.path.join(DETAILED_DIR, safe_filename(proto.lower()))
     os.makedirs(dirpath, exist_ok=True)
@@ -172,33 +169,52 @@ port_table_md = md_table_from_rows(["Port", "Count", "Subscription Link"], port_
 proto_rows = [[p, len(protocol_links.get(p, [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/{safe_filename(p.lower())}.txt)"] for p in protocols_all]
 proto_table_md = md_table_from_rows(["Protocol", "Count", "Subscription Link"], proto_rows)
 
-pp_md_lines = []
+# --- By Protocol & Port (Smart Columnar HTML Table) ---
+all_pp_entries = []
 for proto in protocols_all:
-    entries = []
-    for p in COMMON_PORTS:
-        count = len(proto_port_links.get(proto, {}).get(str(p), []))
+    # Sort ports numerically where possible
+    sorted_ports = sorted(proto_port_links.get(proto, {}).keys(), key=lambda x: int(x) if x.isdigit() else float('inf'))
+    for p in sorted_ports:
+        if int(p) if p.isdigit() else -1 not in COMMON_PORTS:
+             continue
+        count = len(proto_port_links.get(proto, {}).get(p, []))
         if count > 0:
-            relative_path = f"{DETAILED_DIR}/{safe_filename(proto.lower())}/{safe_filename(str(p))}.txt"
+            relative_path = f"{DETAILED_DIR}/{safe_filename(proto.lower())}/{safe_filename(p)}.txt"
             raw_url = f"{RAW_URL_BASE}/{relative_path}"
-            entries.append((proto, str(p), count, raw_url))
-    
-    if not entries:
-        continue
+            all_pp_entries.append({"proto": proto, "port": p, "count": count, "url": raw_url})
 
-    for i in range(0, len(entries), 2):
-        left = entries[i]
-        right = entries[i+1] if i+1 < len(entries) else None
-        
-        left_md = f"| {left[0]} | {left[1]} | {left[2]} | [Sub Link]({left[3]})"
-        if right:
-            right_md = f"| {right[0]} | {right[1]} | {right[2]} | [Sub Link]({right[3]}) |"
-            pp_md_lines.append(f"{left_md} {right_md}")
+pp_table_html = ""
+if all_pp_entries:
+    split_index = math.ceil(len(all_pp_entries) / 2.0)
+    left_col = all_pp_entries[:split_index]
+    right_col = all_pp_entries[split_index:]
+    num_rows = len(left_col)
+
+    table_body = "<tbody>"
+    for i in range(num_rows):
+        # --- Left Column ---
+        l_item = left_col[i]
+        l_style = ' style="border-top: 2px solid #d0d7de;"' if i > 0 and l_item["proto"] != left_col[i-1]["proto"] else ''
+        l_link = f'<a href="{l_item["url"]}">Sub Link</a>'
+        l_cells = f'<td{l_style}>{l_item["proto"]}</td><td{l_style}>{l_item["port"]}</td><td{l_style}>{l_item["count"]}</td><td{l_style}>{l_link}</td>'
+
+        # --- Right Column ---
+        if i < len(right_col):
+            r_item = right_col[i]
+            r_style = ' style="border-top: 2px solid #d0d7de;"' if i > 0 and r_item["proto"] != right_col[i-1]["proto"] else ''
+            r_link = f'<a href="{r_item["url"]}">Sub Link</a>'
+            r_cells = f'<td{r_style}>{r_item["proto"]}</td><td{r_style}>{r_item["port"]}</td><td{r_style}>{r_item["count"]}</td><td{r_style}>{r_link}</td>'
         else:
-            pp_md_lines.append(f"{left_md} | | | | |")
+            r_cells = "<td></td><td></td><td></td><td></td>"
+        
+        table_body += f"<tr>{l_cells}{r_cells}</tr>"
+    table_body += "</tbody>"
+    
+    header = "<thead><tr><th>Protocol</th><th>Port</th><th>Count</th><th>Link</th><th>Protocol</th><th>Port</th><th>Count</th><th>Link</th></tr></thead>"
+    pp_table_html = f"<table>{header}{table_body}</table>"
+else:
+    pp_table_html = "_No specific protocol-port combinations found for common ports._"
 
-pp_header = "| Protocol | Port | Count | Link | Protocol | Port | Count | Link |"
-pp_sep = "|:---|:---|:---|:---|:---|:---|:---|:---|"
-pp_table_md = f"{pp_header}\n{pp_sep}\n" + "\n".join(pp_md_lines) if pp_md_lines else "_No specific protocol-port combinations found for common ports._"
 
 # --- Sources Block (Side-by-side HTML) ---
 sources_rows = sorted(source_counts.items())
@@ -207,12 +223,8 @@ summary_rows = [
     ["Unique Configs", unique_count],
     ["Duplicates Removed", total_fetched - unique_count],
 ]
-
-# Create pure HTML tables
 sources_table_html = html_table_from_rows(["Source", "Fetched Lines"], sources_rows)
 summary_table_html = html_table_from_rows(["Metric", "Value"], summary_rows)
-
-# Create HTML structure for side-by-side tables
 side_by_side_html = f"""
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr style="background-color: transparent;">
@@ -231,7 +243,7 @@ side_by_side_html = f"""
 # --- Compose Blocks ---
 now_ts = datetime.utcnow().replace(tzinfo=timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 stats_block = f"{MARKERS['stats'][0]}\n_Last update: {now_ts}_\n\n{stats_table_md}\n{MARKERS['stats'][1]}"
-links_block = f"{MARKERS['links'][0]}\n### By Port\n{port_table_md}\n\n### By Protocol\n{proto_table_md}\n\n### By Protocol & Port (Common Ports)\n{pp_table_md}\n{MARKERS['links'][1]}"
+links_block = f"{MARKERS['links'][0]}\n### By Port\n{port_table_md}\n\n### By Protocol\n{proto_table_md}\n\n### By Protocol & Port (Common Ports)\n{pp_table_html}\n{MARKERS['links'][1]}"
 sources_block = f"{MARKERS['sources'][0]}\n{side_by_side_html}\n{MARKERS['sources'][1]}"
 
 print("Updating README.md...")
