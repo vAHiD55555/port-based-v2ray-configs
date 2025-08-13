@@ -1,7 +1,6 @@
 import os
 import re
 from collections import defaultdict
-from datetime import datetime
 from tabulate import tabulate
 
 # Paths
@@ -13,7 +12,7 @@ GITHUB_USER = "hamedcode"
 GITHUB_REPO = "port-based-v2ray-configs"
 RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/refs/heads/main/{SUB_DIR}"
 
-# Ports to display in the "popular ports" section
+# Popular ports
 POPULAR_PORTS = [80, 443, 2083, 2087, 2096, 8443]
 
 # Gather stats
@@ -21,32 +20,20 @@ protocol_port_counts = defaultdict(lambda: defaultdict(int))
 protocol_totals = defaultdict(int)
 port_totals = defaultdict(int)
 
-# Gather subscription links data
-ports_data = defaultdict(int)
-protocols_data = defaultdict(int)
-protocol_port_data = defaultdict(lambda: defaultdict(int))
-
 for filename in os.listdir(SUB_DIR):
     if not filename.endswith(".txt"):
         continue
-    path = os.path.join(SUB_DIR, filename)
-    with open(path, "r", encoding="utf-8") as f:
-        lines = [line.strip() for line in f if line.strip()]
-    if not lines:
-        continue
-
     match = re.match(r"([a-zA-Z0-9]+)_(\d+)\.txt", filename)
-    if match:
-        proto, port = match.group(1).upper(), int(match.group(2))
-        count = len(lines)
-        protocol_port_counts[proto][port] = count
-        protocol_totals[proto] += count
-        port_totals[port] += count
-        ports_data[port] += count
-        protocols_data[proto] += count
-        protocol_port_data[proto][port] += count
+    if not match:
+        continue
+    proto, port = match.group(1).upper(), int(match.group(2))
+    with open(os.path.join(SUB_DIR, filename), "r", encoding="utf-8") as f:
+        count = sum(1 for line in f if line.strip())
+    protocol_port_counts[proto][port] = count
+    protocol_totals[proto] += count
+    port_totals[port] += count
 
-# Table: Statistics (Protocol × Common Ports)
+# Table: stats
 all_ports_sorted = sorted({p for counts in protocol_port_counts.values() for p in counts})
 stats_table = []
 for proto in sorted(protocol_port_counts.keys()):
@@ -56,43 +43,15 @@ total_row = ["Total"] + [port_totals.get(p, 0) for p in all_ports_sorted] + [sum
 stats_table.append(total_row)
 stats_md = tabulate(stats_table, headers=["Protocol"] + [str(p) for p in all_ports_sorted] + ["Total"], tablefmt="github")
 
-# Subscription Links: By Port
+# Subscription Links: only popular ports
 by_port_md = []
 for port in POPULAR_PORTS:
-    link = f"{RAW_BASE}/port_{port}.txt"
-    by_port_md.append([port, ports_data.get(port, 0), f"[Link]({link})"])
-by_port_md = tabulate(by_port_md, headers=["Port", "Config Count", "Subscription Link"], tablefmt="github")
+    filename = f"port_{port}.txt"
+    link = f"{RAW_BASE}/{filename}"
+    by_port_md.append([port, port_totals.get(port, 0), f"[Link]({link})"])
+by_port_md = tabulate(by_port_md, headers=["Port", "Count", "Subscription Link"], tablefmt="github")
 
-# Subscription Links: By Protocol
-by_protocol_md = []
-for proto in sorted(protocols_data.keys()):
-    link = f"{RAW_BASE}/{proto.lower()}.txt"
-    by_protocol_md.append([proto, protocols_data[proto], f"[Link]({link})"])
-by_protocol_md = tabulate(by_protocol_md, headers=["Protocol", "Config Count", "Subscription Link"], tablefmt="github")
-
-# Subscription Links: By Protocol & Port
-by_protocol_port_md = []
-proto_list = sorted(protocol_port_data.keys())
-max_rows = max(len(protocol_port_data[proto]) for proto in proto_list)
-ports_sorted_per_proto = {proto: sorted(protocol_port_data[proto].keys()) for proto in proto_list}
-
-for i in range(max_rows):
-    row = []
-    for proto in proto_list:
-        if i < len(ports_sorted_per_proto[proto]):
-            port = ports_sorted_per_proto[proto][i]
-            link = f"{RAW_BASE}/{proto.lower()}_{port}.txt"
-            row += [proto, port, f"[Link]({link})"]
-        else:
-            row += ["---", "---", "---"]
-    by_protocol_port_md.append(row)
-
-headers = []
-for proto in proto_list:
-    headers += [proto, "Port", "Link"]
-by_protocol_port_md = tabulate(by_protocol_port_md, headers=headers, tablefmt="github")
-
-# Update README.md
+# Update README.md between markers
 with open(README_FILE, "r", encoding="utf-8") as f:
     readme_content = f.read()
 
@@ -105,12 +64,7 @@ def replace_between_tags(content, tag, new_text):
     )
 
 readme_content = replace_between_tags(readme_content, "stats", stats_md)
-readme_content = replace_between_tags(readme_content, "links",
-    f"### Subscription Links (popular ports only)\n\n"
-    f"**By Port**\n\n{by_port_md}\n\n"
-    f"**By Protocol**\n\n{by_protocol_md}\n\n"
-    f"**By Protocol & Port**\n\n{by_protocol_port_md}"
-)
+readme_content = replace_between_tags(readme_content, "links", f"### Subscription Links (popular ports only)\n\n{by_port_md}")
 
 with open(README_FILE, "w", encoding="utf-8") as f:
     f.write(readme_content)
