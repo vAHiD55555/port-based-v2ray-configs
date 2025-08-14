@@ -1545,4 +1545,3 @@ vless://c54ba325-c1be-4845-a2e7-922b5cd211c3@104.19.122.202:8880?path=/@V2ngFast
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?encryption=none&security=none&type=grpc#Telegram:@config_proxy 🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://f716fa40-e997-42d8-b93c-7122c63cc122@Osi1.speedx3.info:8880?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_mtproto_vpns_free%20%5B13%5D
