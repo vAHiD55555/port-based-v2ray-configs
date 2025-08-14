@@ -237,11 +237,3 @@ vmess://ewogICAgImFkZCI6ICIyMDYuMTY4LjE5MC4yMTgiLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 vmess://ewogICAgImFkZCI6ICIxMDQuMzEuMTYuMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOThiZDQ1YmQtYWQ0YS00NDgwLTg3YjItODRmODFjMDlhYWE4IiwKICAgICJuZXQiOiAiZ3JwYyIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAyMDg3LAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMzEuMTYuMy04ODU3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxMDQuMzEuMTYuMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOThiZDQ1YmQtYWQ0YS00NDgwLTg3YjItODRmODFjMDlhYWE4IiwKICAgICJuZXQiOiAiZ3JwYyIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAyMDg3LAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMzEuMTYuMy04ODU5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxMDQuMzEuMTYuMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOThiZDQ1YmQtYWQ0YS00NDgwLTg3YjItODRmODFjMDlhYWE4IiwKICAgICJuZXQiOiAiZ3JwYyIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAyMDg3LAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMzEuMTYuMy04ODYzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-trojan://Aimer@104.19.60.99:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US3
-trojan://Aimer@108.165.152.59:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US4
-trojan://Aimer@167.68.5.248:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US5
-trojan://Aimer@45.67.215.217:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A532
-trojan://Aimer@108.165.152.1:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US20
-trojan://Aimer@46.254.92.142:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A536
-trojan://Aimer@46.254.93.251:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A541
-trojan://Aimer@154.197.64.196:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A544
