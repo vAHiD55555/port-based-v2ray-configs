@@ -1,12 +1,12 @@
-trojan://Aimer@154.197.64.196:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A54
-trojan://Aimer@45.67.215.217:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A57
+trojan://Aimer@104.19.60.99:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US3
 trojan://Aimer@108.165.152.59:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US4
-trojan://Aimer@108.165.152.1:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US7
-trojan://Aimer@46.254.92.142:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A531
-trojan://Aimer@154.211.8.227:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#HK2
-trojan://Aimer@104.19.60.99:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US21
-trojan://Aimer@46.254.93.251:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A539
-trojan://Aimer@167.68.5.248:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US24
+trojan://Aimer@167.68.5.248:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US5
+trojan://Aimer@154.211.8.227:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#HK
+trojan://Aimer@45.67.215.217:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A532
+trojan://Aimer@108.165.152.1:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#US20
+trojan://Aimer@46.254.92.142:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A536
+trojan://Aimer@46.254.93.251:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A541
+trojan://Aimer@154.197.64.196:2087?type=ws&sni=epgb.aimercc.dpdns.org&path=/?ed=2560&host=epgb.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A544
 trojan://Aimer@154.211.8.227:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#HK_speednode_0061
 trojan://Aimer@46.254.92.142:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0157
 trojan://Aimer@46.254.93.251:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0159
@@ -19,13 +19,13 @@ trojan://Aimer@108.165.152.59:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ty
 trojan://Aimer@104.19.60.99:2087?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇨🇦
 trojan://Aimer@173.245.59.109:2087?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇨🇦
 trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=/speedtest&security=tls&fp=chrome&sni=jfkgfuiodghlf.ahmadinabaz.ir&alpn=h2,http/1.1#@SaghiVpnXBOT[🇨🇦]
-trojan://Aimer@154.211.8.227:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-154.211.8.227-1819
-trojan://Aimer@46.254.92.142:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-46.254.92.142-1836
-trojan://Aimer@46.254.93.251:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-46.254.93.251-1838
-trojan://Aimer@45.67.215.217:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%B7%F0%9F%87%BARU-45.67.215.217-1841
-trojan://Aimer@154.197.64.196:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-154.197.64.196-1846
-trojan://Aimer@104.19.60.99:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-104.19.60.99-1862
-trojan://Aimer@108.165.152.1:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-108.165.152.1-1869
-trojan://Aimer@167.68.5.248:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-167.68.5.248-1877
-trojan://Aimer@108.165.152.59:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-108.165.152.59-1878
-trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net&type=grpc&serviceName=trgrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.255.171-7963
+trojan://Aimer@154.211.8.227:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-154.211.8.227-0644
+trojan://Aimer@46.254.92.142:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-46.254.92.142-0661
+trojan://Aimer@46.254.93.251:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-46.254.93.251-0663
+trojan://Aimer@45.67.215.217:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%B7%F0%9F%87%BARU-45.67.215.217-0666
+trojan://Aimer@154.197.64.196:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-154.197.64.196-0671
+trojan://Aimer@104.19.60.99:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-104.19.60.99-0687
+trojan://Aimer@108.165.152.1:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-108.165.152.1-0694
+trojan://Aimer@167.68.5.248:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-167.68.5.248-0702
+trojan://Aimer@108.165.152.59:2087?security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-108.165.152.59-0703
+trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net&type=grpc&serviceName=trgrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.255.171-8049
