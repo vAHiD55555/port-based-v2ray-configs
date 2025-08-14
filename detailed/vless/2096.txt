@@ -447,4 +447,3 @@ vless://32482796-4f79-4c7e-afe3-e9b2d4de71d7@104.21.48.1:2096?security=tls&sni=N
 vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?security=tls&sni=baomei.pages.dev&fp=random&type=ws&path=/&host=baomei.pages.dev&encryption=none#q_295
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@meli_proxyy
 vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?path=%2Faucvumws&security=tls&encryption=none&host=638874929583333723.zagreb-prx-dnraaad.info&type=ws&sni=638874929583333723.zagreb-prx-dnraaad.info#@meli_proxyy
-vless://af68ac75-7c83-4f78-bf02-555993b4f66f@65.108.148.239:2096?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=free.best-antiaging-reviews.com#@V2RAY_VMESS_free
