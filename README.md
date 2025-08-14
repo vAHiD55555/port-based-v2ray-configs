@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/github/last-commit/hamedcode/port-based-v2ray-configs?style=for-the-badge&logo=git&logoColor=white" alt="Last Commit">
   <img src="https://img.shields.io/github/license/hamedcode/port-based-v2ray-configs?style=for-the-badge" alt="License"><br><!-- Row 2: Stats & Social Badges -->
   <img src="https://komarev.com/ghpvc/?username=hamedcode&repo=port-based-v2ray-configs&color=blue&style=for-the-badge" alt="Visitors">
-  <img src="https://img.shields.io/github/created_at/hamedcode/port-based-v2ray-configs?style=for-the-badge&color=informational" alt="Repo Created">
   <img src="https://img.shields.io/github/stars/hamedcode/port-based-v2ray-configs?style=social" alt="GitHub Stars">
   <img src="https://img.shields.io/github/forks/hamedcode/port-based-v2ray-configs?style=social" alt="GitHub Forks"></p>
 
