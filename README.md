@@ -4,7 +4,7 @@
 
 ---
 
-# Port-Based V2Ray Configs
+# 💠 Port-Based V2Ray Configs
 
 This repository contains a collection of V2Ray configurations, aggregated from various public sources. The configs are automatically categorized by protocol and port using a Python script.
 
@@ -66,7 +66,7 @@ _Last update: 2025-08-14 17:28:07 UTC_
 
 ---
 
-## ðŸ“š Sources & Summary
+## 📚 Sources & Summary
 
 <!-- START-SOURCES -->
 
