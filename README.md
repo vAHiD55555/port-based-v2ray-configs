@@ -5,7 +5,7 @@ Port-Based V2Ray ConfigsThis repository contains a collection of V2Ray configura
 [!NOTE]If you find this repository useful, please consider giving it a ⭐️ to show your support!
 
 📊 Config Stats<!-- START-STATS -->
-_Last update: 2025-08-14 12:36:55 UTC_
+_Last update: 2025-08-14 12:37:37 UTC_
 
 | Protocol | 80 | 443 | 2053 | 8880 | 2087 | 2096 | 8443 | Total |
 |---|---|---|---|---|---|---|---|---|
