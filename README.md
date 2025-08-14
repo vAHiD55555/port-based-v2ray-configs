@@ -1,5 +1,5 @@
 <p align="center"><img src="https://img.shields.io/github/actions/workflow/status/hamedcode/port-based-v2ray-configs/main.yml?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions Status"><img src="https://img.shields.io/github/last-commit/hamedcode/port-based-v2ray-configs?style=for-the-badge&logo=git&logoColor=white" alt="Last Commit"><img src="https://img.shields.io/github/repo-size/hamedcode/port-based-v2ray-configs?style=for-the-badge&logo=github" alt="Repo Size"><img src="https://img.shields.io/github/license/hamedcode/port-based-v2ray-configs?style=for-the-badge" alt="License"><br><img src="https://img.shields.io/github/stars/hamedcode/port-based-v2ray-configs?style=social" alt="GitHub Stars"><img src="https://img.shields.io/github/forks/hamedcode/port-based-v2ray-configs?style=social" alt="GitHub Forks"></p>Port-Based V2Ray ConfigsThis repository contains a collection of V2Ray configurations, aggregated from various public sources. The configs are automatically categorized by protocol and port using a Python script.[!NOTE]If you find this repository useful, please consider giving it a ⭐️ to show your support!📊 Config Stats<!-- START-STATS -->
-_Last update: 2025-08-14 11:29:20 UTC_
+_Last update: 2025-08-14 11:31:57 UTC_
 
 | Protocol | 80 | 443 | 2053 | 8880 | 2087 | 2096 | 8443 | Total |
 |---|---|---|---|---|---|---|---|---|
