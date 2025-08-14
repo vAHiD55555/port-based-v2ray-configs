@@ -28,7 +28,7 @@ GITHUB_REPO = "port-based-v2ray-configs"
 GITHUB_BRANCH = "main"
 RAW_URL_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}"
 
-COMMON_PORTS = [80, 443, 2053, 2083, 2087, 2096, 8443]
+COMMON_PORTS = [80, 443, 2053, 8880, 2087, 2096, 8443]
 README_PATH = "README.md"
 SUB_DIR = "sub"
 DETAILED_DIR = "detailed"
