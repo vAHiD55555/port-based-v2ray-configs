@@ -10,7 +10,7 @@ This repository contains a collection of V2Ray configurations, aggregated from v
 
 ---
 
-## ðŸ“Š Config Stats
+## 📊 Config Stats
 
 <!-- START-STATS -->
 _Last update: 2025-08-14 17:23:12 UTC_
@@ -26,7 +26,7 @@ _Last update: 2025-08-14 17:23:12 UTC_
 
 ---
 
-## ðŸ”— Subscription Links
+## 🔗 Subscription Links
 
 <!-- START-LINKS -->
 ### By Port
