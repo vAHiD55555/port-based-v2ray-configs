@@ -4,4 +4,3 @@ vless://2b16d026-f094-4a83-ab06-df04c51b5e53@188.166.69.72:8990?security=reality
 vless://2b16d026-f094-4a83-ab06-df04c51b5e53@188.166.69.72:8990?security=reality&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d&type=tcp&encryption=none#q_039
 vless://2b16d026-f094-4a83-ab06-df04c51b5e53@165.232.32.128:8990?security=reality&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d&type=tcp&encryption=none#q_059
 vless://2b16d026-f094-4a83-ab06-df04c51b5e53@165.232.32.128:8990?security=reality&sni=refersion.com&fp=chrome&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d&type=tcp&encryption=none#q_124
-vless://2b16d026-f094-4a83-ab06-df04c51b5e53@165.232.32.128:8990?security=reality&encryption=none&type=tcp&sni=refersion.com&sid=9912311de4630f2d&fp=chrome&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&headerType=none#Telegram:@king_v2raay
