@@ -1445,15 +1445,3 @@ trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-8983
 trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@103.234.53.23:50014?security=tls&sni=telewebion.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.234.53.23-8989
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@13.208.153.208:443?security=tls&sni=sg02.trojanyyds.xyz&type=tcp&allowInsecure=1#[🏁]t.me/ConfigsHub
-trojan://Aimer@188.164.159.43:2083?path=/?ed?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#[🏁]t.me/ConfigsHub
-trojan://NISHIKUITAN111@185.193.28.17:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@45.131.209.89:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@94.242.230.245:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.18.246.149:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.21.104.93:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@162.159.138.112:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@172.67.110.232:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@173.245.49.104:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#t.me/entryNET/config=1840274101299445
-trojan://blue2024@pranab.ns.cloudflare.com:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#
