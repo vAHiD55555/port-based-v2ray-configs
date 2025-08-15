@@ -1,3 +1,2 @@
-vless://34dc5416-0787-4f5d-9774-47a55018806f@94.183.233.116:3801?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER🇩🇪
 vless://34dc5416-0787-4f5d-9774-47a55018806f@94.183.233.116:3801?security=none&encryption=none&headerType=http&type=tcp#@v2rayNGcloud🇩🇪
 vless://bc55ee1f-c1d4-4d03-b36b-1482ba586141@94.183.233.98:3801?security=&encryption=none&headerType=http&type=tcp#@v2rayNGcloud

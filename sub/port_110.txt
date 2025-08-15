@@ -2,3 +2,4 @@ trojan://LG7HKcZFIJ@sws.ftpcomand.com:110?allowInsecure=0&sni=sws.ftpcomand.com#
 trojan://LG7HKcZFIJ@sws.ftpcomand.com:110?allowInsecure=1&sni=sws.ftpcomand.com#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 trojan://LG7HKcZFIJ@sws.ftpcomand.com:110?sni=sws.ftpcomand.com#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%201.1MB%2Fs
 trojan://LG7HKcZFIJ@sws.ftpcomand.com:110?security=tls&sni=sws.ftpcomand.com#%F0%9F%87%A8%F0%9F%87%ADCH-45.155.54.117-0280
+trojan://LG7HKcZFIJ@sws.ftpcomand.com:110?security=tls&sni=sws.ftpcomand.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%5Bopenproxylist.com%5D%20trojan-CH
