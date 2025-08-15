@@ -29,17 +29,21 @@ jobs:
           pip install tabulate
 
       - name: Run Python script to generate all files and stats
-        id: run_script
         run: python categorize_all_protocols.py
 
-      - name: Configure Git
+      - name: Commit and Push Changes
         run: |
+          # پیکربندی کاربر گیت برای کامیت
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
-      - name: Commit and push changes
-        run: |
-          git add .
-          # فقط در صورتی کامیت کن که تغییری وجود داشته باشد
-          git diff-index --quiet HEAD || git commit -m "📊 Update configs and stats"
-          git push origin main
+          
+          
+          
+          # بررسی وجود تغییرات و انجام کامیت و پوش فقط در صورت لزوم
+          if ! git diff --staged --quiet; then
+            echo "Changes detected, committing..."
+            git commit -m "📊 Update configs and stats"
+            git push
+          else
+            echo "No changes to commit."
+          fi
