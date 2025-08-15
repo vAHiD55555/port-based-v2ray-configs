@@ -1,2 +1,1 @@
-trojan://Aimer@59.19.192.51:38880?sni=epgb.aimercc.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 trojan://Aimer@59.19.192.51:38880?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&Host=epgb.aimercc.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7KR-59.19.192.51-1049
