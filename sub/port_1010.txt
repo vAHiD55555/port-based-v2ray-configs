@@ -2,4 +2,6 @@ vless://1a35bdb9-217d-4fc5-acef-1fbff95c6b68@31.15.16.95:1010?mode=gun&security=
 vless://7e0e6e2e-31c3-47ac-b243-81b07a14026c@91.99.18.180:1010?security=none&encryption=none&headerType=none&type=tcp#DE 1 🇩🇪 | @v2xay
 vless://a3ed4feb-d7c5-4f8f-bd9e-74cb01597843@85.133.204.235:1010?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#@CaV2ray ⚡️
 vless://a3ed4feb-d7c5-4f8f-bd9e-74cb01597843@85.133.204.235:1010?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔 @EXPRESSVPN_420
+vless://cefe9054-6974-4cd0-8521-a6de8e6f072d@sv4.xiliservice.lol:1010?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
+vless://cefe9054-6974-4cd0-8521-a6de8e6f072d@sv6.xiliservice.lol:1010?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vmess://eyJhZGQiOiJhZHNsLnN0eWxlYmVuZGVyMjA5LmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI0NzFkYjhhNS04NzE1LTRmY2ItOTUyMi1mZGQ3OGQyYzE5MDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMTAxMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwicHMiOiJcdTI3NTQgWFggfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAbmV0X2F6YWRfMSBbMTFdIn0
