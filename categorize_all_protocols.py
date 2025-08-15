@@ -12,6 +12,7 @@ from urllib.parse import urlparse
 from collections import defaultdict
 from datetime import datetime, timezone
 import math
+import shutil # ADDED: For deleting directories
 
 # ---------------- Config ----------------
 SOURCES = {
@@ -32,12 +33,15 @@ COMMON_PORTS = [80, 443, 2053, 8880, 2087, 2096, 8443]
 README_PATH = "README.md"
 SUB_DIR = "sub"
 DETAILED_DIR = "detailed"
+RARE_PORTS_SUBDIR = "rare" # ADDED: Name for the subdirectory for rare ports
+RARE_PORT_THRESHOLD = 5 # ADDED: Configs count threshold
+
 PREFERRED = ["VLESS", "VMESS", "TROJAN", "SS", "OTHER"]
 
 MARKERS = {
-    "stats": ("<!-- START-STATS -->", "<!-- END-STATS -->"),
-    "links": ("<!-- START-LINKS -->", "<!-- END-LINKS -->"),
-    "sources": ("<!-- START-SOURCES -->", "<!-- END-SOURCES -->"),
+    "stats": ("", ""),
+    "links": ("", ""),
+    "sources": ("", ""),
 }
 
 # ---------------- Helpers ----------------
@@ -95,17 +99,13 @@ def html_table_from_rows(header_cells, rows):
     return f"<table>{header_html}{body_html}</table>"
 
 def create_pp_sub_table(entries):
-    """Creates a self-contained HTML table for one column of Protocol/Port data."""
     if not entries:
         return ""
     
     table_body = "<tbody>"
     for i, item in enumerate(entries):
-        # Add a top border to the row if the protocol changes
         style = ' style="border-top: 2px solid #d0d7de;"' if i > 0 and item["proto"] != entries[i-1]["proto"] else ''
-        # Link text is "Sub" ONLY for this table
         link = f'<a href="{item["url"]}">Sub</a>'
-        # Apply the style to the <tr> element, which is more robust
         table_body += f'<tr{style}><td>{item["proto"]}</td><td>{item["port"]}</td><td>{item["count"]}</td><td>{link}</td></tr>'
     table_body += "</tbody>"
     
@@ -149,21 +149,46 @@ for cfg, src in all_items:
 unique_count = len(seen)
 print(f"Unique configs: {unique_count}, duplicates removed: {total_fetched - unique_count}")
 
+# --- CHANGED BLOCK START ---
+print("Cleaning up old directories...")
+if os.path.exists(SUB_DIR):
+    shutil.rmtree(SUB_DIR)
+    print(f"  Removed directory: {SUB_DIR}")
+if os.path.exists(DETAILED_DIR):
+    shutil.rmtree(DETAILED_DIR)
+    print(f"  Removed directory: {DETAILED_DIR}")
+
 print("Writing subscription files...")
 os.makedirs(SUB_DIR, exist_ok=True)
+os.makedirs(os.path.join(SUB_DIR, RARE_PORTS_SUBDIR), exist_ok=True) # Create sub/rare
 os.makedirs(DETAILED_DIR, exist_ok=True)
+
+# Protocol-based files (no changes)
 for group, links in protocol_links.items():
     with open(os.path.join(SUB_DIR, f"{safe_filename(group.lower())}.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(links))
+
+# Port-based files (MODIFIED LOGIC)
 for group, links in port_links.items():
-    with open(os.path.join(SUB_DIR, f"port_{safe_filename(group)}.txt"), "w", encoding="utf-8") as f:
+    count = len(links)
+    # Decide the target directory based on the number of configs
+    if count < RARE_PORT_THRESHOLD:
+        target_dir = os.path.join(SUB_DIR, RARE_PORTS_SUBDIR)
+    else:
+        target_dir = SUB_DIR
+        
+    filepath = os.path.join(target_dir, f"port_{safe_filename(group)}.txt")
+    with open(filepath, "w", encoding="utf-8") as f:
         f.write("\n".join(links))
+
+# Detailed protocol-port files (no changes)
 for proto, ports in proto_port_links.items():
     dirpath = os.path.join(DETAILED_DIR, safe_filename(proto.lower()))
     os.makedirs(dirpath, exist_ok=True)
     for port, links in ports.items():
         with open(os.path.join(dirpath, f"{safe_filename(port)}.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(links))
+# --- CHANGED BLOCK END ---
 
 print("Generating README content...")
 # --- Stats Block ---
@@ -174,18 +199,32 @@ stats_table_md = md_table_from_rows(
 )
 
 # --- Links Block ---
-# Link text is "[Sub Link]"
+# --- MODIFIED: Port table link generation is now aware of the 'rare' subdirectory ---
+port_table_rows = []
+for p in COMMON_PORTS:
+    count = len(port_links.get(str(p), []))
+    if count > 0:
+        # Check if the port file is in the 'rare' subdirectory
+        if count < RARE_PORT_THRESHOLD:
+            link_path = f"{SUB_DIR}/{RARE_PORTS_SUBDIR}/port_{p}.txt"
+        else:
+            link_path = f"{SUB_DIR}/port_{p}.txt"
+        
+        link = f"[Sub Link]({RAW_URL_BASE}/{link_path})"
+        port_table_rows.append([p, count, link])
+
 port_table_md = md_table_from_rows(
     ["Port", "Count", "Subscription Link"],
-    [[p, len(port_links.get(str(p), [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/port_{p}.txt)"] for p in COMMON_PORTS]
+    port_table_rows
 )
-# Link text is "[Sub Link]"
+# --- END MODIFICATION ---
+
 proto_table_md = md_table_from_rows(
     ["Protocol", "Count", "Subscription Link"],
     [[p, len(protocol_links.get(p, [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/{safe_filename(p.lower())}.txt)"] for p in protocols_all]
 )
 
-# --- By Protocol & Port (Robust Side-by-Side HTML Tables) ---
+# By Protocol & Port (No changes needed here)
 all_pp_entries = []
 for proto in protocols_all:
     for p_int in COMMON_PORTS:
@@ -220,7 +259,7 @@ if all_pp_entries:
 else:
     pp_table_html = "_No specific protocol-port combinations found for common ports._"
 
-# --- Sources Block (Side-by-side HTML) ---
+# --- Sources Block (No changes) ---
 sources_rows = sorted(source_counts.items())
 summary_rows = [
     ["Total Fetched", total_fetched],
