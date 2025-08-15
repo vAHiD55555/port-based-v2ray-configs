@@ -26,20 +26,25 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
-          pip install tabulate
 
       - name: Run Python script to generate all files and stats
         run: python categorize_all_protocols.py
 
+      # --- مرحله جدید اشکال‌زدایی ---
+      - name: 🧐 DEBUG - List generated files
+        run: |
+          echo "--- Listing all files and directories recursively ---"
+          ls -R
+          echo "-----------------------------------------------------"
+      # --- پایان مرحله جدید ---
+
       - name: Commit and Push Changes
         run: |
-          # پیکربندی کاربر گیت برای کامیت
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
+          git add -A
           
-          
-          # بررسی وجود تغییرات و انجام کامیت و پوش فقط در صورت لزوم
           if ! git diff --staged --quiet; then
             echo "Changes detected, committing..."
             git commit -m "📊 Update configs and stats"
