@@ -12,7 +12,8 @@ from urllib.parse import urlparse
 from collections import defaultdict
 from datetime import datetime, timezone
 import math
-import shutil # ADDED: For deleting directories
+import shutil # For deleting directories
+import sys # For exiting with an error code
 
 # ---------------- Config ----------------
 SOURCES = {
@@ -33,8 +34,8 @@ COMMON_PORTS = [80, 443, 2053, 8880, 2087, 2096, 8443]
 README_PATH = "README.md"
 SUB_DIR = "sub"
 DETAILED_DIR = "detailed"
-RARE_PORTS_SUBDIR = "rare" # ADDED: Name for the subdirectory for rare ports
-RARE_PORT_THRESHOLD = 5 # ADDED: Configs count threshold
+RARE_PORTS_SUBDIR = "rare" # Name for the subdirectory for rare ports
+RARE_PORT_THRESHOLD = 5 # Configs count threshold
 
 PREFERRED = ["VLESS", "VMESS", "TROJAN", "SS", "OTHER"]
 
@@ -131,6 +132,14 @@ for name, url in SOURCES.items():
 total_fetched = len(all_items)
 print(f"Total fetched: {total_fetched}")
 
+# --- SANITY CHECK BLOCK ---
+# If no configs were fetched, stop the script with an error.
+# This prevents the action from succeeding silently with no data.
+if total_fetched == 0:
+    print("\nERROR: No configs were fetched from any source. Aborting workflow.")
+    sys.exit(1) # Exit with a non-zero code to fail the GitHub Action
+# --- END SANITY CHECK BLOCK ---
+
 print("Deduplicating and categorizing...")
 seen = set()
 protocol_links = defaultdict(list)
@@ -149,7 +158,6 @@ for cfg, src in all_items:
 unique_count = len(seen)
 print(f"Unique configs: {unique_count}, duplicates removed: {total_fetched - unique_count}")
 
-# --- CHANGED BLOCK START ---
 print("Cleaning up old directories...")
 if os.path.exists(SUB_DIR):
     shutil.rmtree(SUB_DIR)
@@ -160,18 +168,15 @@ if os.path.exists(DETAILED_DIR):
 
 print("Writing subscription files...")
 os.makedirs(SUB_DIR, exist_ok=True)
-os.makedirs(os.path.join(SUB_DIR, RARE_PORTS_SUBDIR), exist_ok=True) # Create sub/rare
+os.makedirs(os.path.join(SUB_DIR, RARE_PORTS_SUBDIR), exist_ok=True)
 os.makedirs(DETAILED_DIR, exist_ok=True)
 
-# Protocol-based files (no changes)
 for group, links in protocol_links.items():
     with open(os.path.join(SUB_DIR, f"{safe_filename(group.lower())}.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(links))
 
-# Port-based files (MODIFIED LOGIC)
 for group, links in port_links.items():
     count = len(links)
-    # Decide the target directory based on the number of configs
     if count < RARE_PORT_THRESHOLD:
         target_dir = os.path.join(SUB_DIR, RARE_PORTS_SUBDIR)
     else:
@@ -181,30 +186,24 @@ for group, links in port_links.items():
     with open(filepath, "w", encoding="utf-8") as f:
         f.write("\n".join(links))
 
-# Detailed protocol-port files (no changes)
 for proto, ports in proto_port_links.items():
     dirpath = os.path.join(DETAILED_DIR, safe_filename(proto.lower()))
     os.makedirs(dirpath, exist_ok=True)
     for port, links in ports.items():
         with open(os.path.join(dirpath, f"{safe_filename(port)}.txt"), "w", encoding="utf-8") as f:
             f.write("\n".join(links))
-# --- CHANGED BLOCK END ---
 
 print("Generating README content...")
-# --- Stats Block ---
 protocols_all = sorted(protocol_links.keys(), key=lambda p: (PREFERRED.index(p) if p in PREFERRED else len(PREFERRED), p))
 stats_table_md = md_table_from_rows(
     ["Protocol"] + [str(p) for p in COMMON_PORTS] + ["Total"],
     [[p] + [len(proto_port_links.get(p, {}).get(str(port), [])) for port in COMMON_PORTS] + [len(protocol_links.get(p, []))] for p in protocols_all]
 )
 
-# --- Links Block ---
-# --- MODIFIED: Port table link generation is now aware of the 'rare' subdirectory ---
 port_table_rows = []
 for p in COMMON_PORTS:
     count = len(port_links.get(str(p), []))
     if count > 0:
-        # Check if the port file is in the 'rare' subdirectory
         if count < RARE_PORT_THRESHOLD:
             link_path = f"{SUB_DIR}/{RARE_PORTS_SUBDIR}/port_{p}.txt"
         else:
@@ -217,14 +216,12 @@ port_table_md = md_table_from_rows(
     ["Port", "Count", "Subscription Link"],
     port_table_rows
 )
-# --- END MODIFICATION ---
 
 proto_table_md = md_table_from_rows(
     ["Protocol", "Count", "Subscription Link"],
     [[p, len(protocol_links.get(p, [])), f"[Sub Link]({RAW_URL_BASE}/{SUB_DIR}/{safe_filename(p.lower())}.txt)"] for p in protocols_all]
 )
 
-# By Protocol & Port (No changes needed here)
 all_pp_entries = []
 for proto in protocols_all:
     for p_int in COMMON_PORTS:
@@ -259,7 +256,6 @@ if all_pp_entries:
 else:
     pp_table_html = "_No specific protocol-port combinations found for common ports._"
 
-# --- Sources Block (No changes) ---
 sources_rows = sorted(source_counts.items())
 summary_rows = [
     ["Total Fetched", total_fetched],
@@ -283,7 +279,6 @@ side_by_side_html = f"""
 </table>
 """
 
-# --- Compose Blocks ---
 now_ts = datetime.utcnow().replace(tzinfo=timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 stats_block = f"{MARKERS['stats'][0]}\n_Last update: {now_ts}_\n\n{stats_table_md}\n{MARKERS['stats'][1]}"
 links_block = f"{MARKERS['links'][0]}\n### By Port\n{port_table_md}\n\n### By Protocol\n{proto_table_md}\n\n### By Protocol & Port (Common Ports)\n{pp_table_html}\n{MARKERS['links'][1]}"
