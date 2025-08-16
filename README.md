@@ -19,6 +19,8 @@
 
 This repository contains a collection of V2Ray configurations, aggregated from various public sources. The configs are automatically categorized by protocol and port using a Python script.
 
+> [!NOTE]
+> If you find this repository helpful, please consider giving it a star ⭐. Your support is greatly appreciated!
 ---
 
 ## 📊 Config Stats
