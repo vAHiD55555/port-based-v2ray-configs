@@ -77,6 +77,9 @@ _Last update: 2025-08-15 08:14:12 UTC_
 
 <!-- END-LINKS -->
 
+> [!NOTE]
+> For a complete list of all protocols and ports, browse the [`sub`](https://github.com/hamedcode/port-based-v2ray-configs/tree/main/sub) and [`detailed`](https://github.com/hamedcode/port-based-v2ray-configs/tree/main/detailed) directories.
+
 ---
 
 ## 📚 Sources & Summary
