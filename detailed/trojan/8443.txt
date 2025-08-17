@@ -1,3 +1,5 @@
+trojan://slch2024@104.18.3.108:8443?allowInsecure=1&sni=ocost-dy.wmlefl.cc&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+trojan://Aimer@104.129.166.131:8443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Vegasnap%E5%85%AC%E5%8F%B8
 trojan://Aimer@188.164.159.45:8443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A53
 trojan://Aimer@92.243.74.3:8443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A58
 trojan://Aimer@135.84.74.27:8443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US6
@@ -23,14 +25,16 @@ trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.148.22:8443?security=tls&ty
 trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@WwW.SpEEdTesT.NeT:8443?security=tls&type=grpc&sni=13l1.diginoshops10.ir#@Hope_Net-join-us-on-Telegram
 trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@WwW.SpEEdTesT.NeT:8443?security=tls&type=grpc&sni=13l1.diginoshops10.ir#t.me/entryNET/config=1840576157067015
 trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls&type=ws&sni=pardazeshvpn-tg48.pages.dev&host=pardazeshvpn-tg48.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://Aimer@160.79.105.160:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @@proxy_kafee 🇺🇸
 trojan://Aimer@160.79.105.160:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @@singbox1 🇺🇸
 trojan://Aimer@160.79.105.160:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇺🇸
+trojan://Aimer@199.34.228.178:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @@proxy_kafee 🇺🇸
 trojan://Aimer@199.34.228.178:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @@singbox1 🇺🇸
 trojan://Aimer@199.34.228.178:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇺🇸
-trojan://Aimer@27.50.49.166:8443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://auto@162.159.128.233:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM/?ed=2048&host=e9464f45.trauma-2r4.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@162.159.128.233:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM/?ed=2048&host=e9464f45.trauma-2r4.pages.dev#t.me/entryNET/config=1840635930688449
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#@V2rayNG3
+trojan://slch2024@104.18.2.108:8443?path=/&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @@proxy_kafee 🇨🇦
 trojan://slch2024@104.18.2.108:8443?path=/&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @@singbox1 🇨🇦
 trojan://slch2024@104.18.2.108:8443?path=/&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇨🇦
 trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#💯T.me/Asak_Vpn💯

@@ -1,3 +1,5 @@
+trojan://Aimer@92.243.74.23:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20V2CROSS.COM
+trojan://Aimer@66.81.247.230:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6
 trojan://Aimer@188.164.159.241:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A5
 trojan://ttfang@5.10.245.216:2096?type=ws&sni=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A57
 trojan://Aimer@108.165.152.40:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US9
@@ -16,8 +18,10 @@ trojan://Aimer@108.165.152.14:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&ty
 trojan://Aimer@108.165.152.55:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0348
 trojan://Aimer@108.165.152.40:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0350
 trojan://Aimer@66.81.247.230:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0361
+trojan://Aimer@172.64.34.52:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @@proxy_kafee 🇨🇦
 trojan://Aimer@172.64.34.52:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @@singbox1 🇨🇦
 trojan://Aimer@172.64.34.52:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇨🇦
+trojan://Aimer@188.164.159.22:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @@proxy_kafee 🇦🇲
 trojan://Aimer@188.164.159.22:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @@singbox1 🇦🇲
 trojan://Aimer@188.164.159.22:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇦🇲
 trojan://Telegram-DailyConfigs@104.18.3.11:2096?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&host=kanale-daily-configs.blackoutconnection.ir#@Hope_Net-join-us-on-Telegram
