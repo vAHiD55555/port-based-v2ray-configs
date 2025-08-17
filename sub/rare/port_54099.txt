@@ -1,2 +1,2 @@
 vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@Daily_Configs
-vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?encryption=none&security=none&type=tcp&headerType=http&host=tgju.org#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayprotocol%20%5B9%5D
+vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?encryption=none&security=none&type=tcp&headerType=http&host=tgju.org#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayprotocol%20%5B8%5D

@@ -1,5 +1,5 @@
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@52.194.230.74:6668?allowInsecure=1&sni=baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@52.194.230.74:6668?allowInsecure=0&sni=baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40stairnode
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@52.194.230.74:6668?sni=baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@52.194.230.74:6668?sni=baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@52.194.230.74:6668?allowInsecure=1&sni=baidu.com#%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@52.194.230.74:6668?security=tls&sni=baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.230.74-2081

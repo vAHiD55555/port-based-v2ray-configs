@@ -1,14 +1,8 @@
 trojan://Aimer@66.81.247.230:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6
 trojan://Aimer@5.182.85.255:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%A6%20%E4%B9%8C%E5%85%8B%E5%85%B0%20V2CROSS.COM
-trojan://ttfang@5.10.245.216:2096?type=ws&sni=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3&host=ttfang.fange.me#%E6%9C%AA%E7%9F%A5
-trojan://Aimer@5.182.85.255:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@108.165.152.14:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US4
-trojan://Aimer@108.165.152.40:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US7
-trojan://Aimer@154.211.8.220:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#HK
-trojan://Aimer@108.165.152.55:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US9
-trojan://Aimer@188.164.159.241:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A518
-trojan://Aimer@92.243.74.23:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A522
-trojan://Aimer@66.81.247.230:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US25
+trojan://Aimer@5.182.85.255:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@92.243.74.23:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A56
+trojan://Aimer@66.81.247.230:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US12
 trojan://Aimer@5.182.85.255:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0183
 trojan://Aimer@92.243.74.23:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#SG_speednode_0195
 trojan://Aimer@66.81.247.230:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0314

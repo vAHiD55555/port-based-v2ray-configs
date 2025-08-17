@@ -1,8 +1,5 @@
-trojan://Aimer@77.232.140.114:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A511
-trojan://Aimer@167.68.4.199:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US13
-trojan://Aimer@154.219.5.242:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US14
-trojan://Aimer@154.197.64.155:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A525
-trojan://Aimer@154.197.64.166:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A535
+trojan://Aimer@167.68.4.199:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US5
+trojan://Aimer@77.232.140.114:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A513
 trojan://Aimer@77.232.140.114:2053?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0181
 trojan://Aimer@167.68.4.199:2053?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0298
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053/?type=ws&host=t.hongkong6.qzz.io&path=/?ed=2560&security=tls&sni=t.hongkong6.qzz.io&fp=chrome#Trojan
@@ -12,7 +9,6 @@ trojan://Aimer@167.68.4.7:2053?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&hos
 trojan://Aimer@167.68.4.7:2053?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @@singbox1 🇺🇸
 trojan://Aimer@167.68.4.7:2053?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇺🇸
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
-trojan://bpb-trojan@172.66.44.53:2053?security=tls&type=ws&sni=gozaRGAh-eIM.PaGES.dEV&path=/trRW3Efcru8BBnpZ5J?ed=2560&host=gozargah-eim.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://❤️RK_VPS❤️@79.137.195.203:2053?path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#All🇩🇪@Rk_VPS
 trojan://Aimer@77.232.140.114:2053?security=tls&sni=epgc.aimercc.dpdns.org&type=ws&path=/?ed=2560&Host=epgc.aimercc.dpdns.org#%F0%9F%8F%81RELAY-77.232.140.114-0650
 trojan://Aimer@167.68.4.199:2053?security=tls&sni=epgc.aimercc.dpdns.org&type=ws&path=/?ed=2560&Host=epgc.aimercc.dpdns.org#%F0%9F%8F%81RELAY-167.68.4.199-0664
