@@ -1,5 +1,4 @@
-trojan://slch2024@104.18.3.108:8443?allowInsecure=1&sni=ocost-dy.wmlefl.cc&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
-trojan://Aimer@104.129.166.131:8443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Vegasnap%E5%85%AC%E5%8F%B8
+trojan://Aimer@104.129.167.255:8443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Vegasnap%E5%85%AC%E5%8F%B8
 trojan://Aimer@154.211.8.209:8443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#HK
 trojan://Aimer@104.129.167.255:8443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#US2
 trojan://Aimer@92.243.74.3:8443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#%E6%9C%AA%E7%9F%A510
@@ -21,7 +20,6 @@ trojan://Aimer@104.129.166.131:8443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&t
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@G0Dv2ray
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@Tunder_vpn
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#Bya To @IRAN_V2RAY1
-trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.148.22:8443?security=tls&type=grpc&sni=13l1.diginoshops10.ir#@Hope_Net-join-us-on-Telegram
 trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@WwW.SpEEdTesT.NeT:8443?security=tls&type=grpc&sni=13l1.diginoshops10.ir#@Hope_Net-join-us-on-Telegram
 trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@WwW.SpEEdTesT.NeT:8443?security=tls&type=grpc&sni=13l1.diginoshops10.ir#t.me/entryNET/config=1840576157067015
 trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls&type=ws&sni=pardazeshvpn-tg48.pages.dev&host=pardazeshvpn-tg48.pages.dev#@Hope_Net-join-us-on-Telegram
