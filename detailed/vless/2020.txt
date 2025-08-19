@@ -9,6 +9,7 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=&encryp
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون ♥️
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🦠
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=&encryption=none&headerType=none&type=tcp#Telegram:@zede_filteri
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 👿
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
@@ -29,6 +30,7 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.12.97.174:2020?security=none&enc
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:2020?security=&encryption=none&headerType=none&type=tcp#VayNora
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.68.90:2020?security=none&encryption=none&headerType=none&type=tcp#All@configfu-33
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:2020?encryption=none&security=none&type=tcp&headerType=none#VayNora
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=&encryption=none&headerType=&type=tcp#Telegram:@zede_filteri
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=&encryption=none&headerType=none&type=tcp#VayNora
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
@@ -75,3 +77,4 @@ vless://e310b2f0-c3e3-4588-b0f1-1f61eca7183f@165.227.167.107:2020?mode=gun&secur
 vless://e9cae639-8a68-4038-9145-458df42ba577@vipvpn2022.esnpenel.com:2020?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vip_vpn_2022%20%5B6%5D
 vless://TELEGRAM-CONFiGLiNE@91.99.231.221:2020?mode=gun&security=reality&encryption=none&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE&sni=tgju.org&sid=809cb172dbede776#%3E%3E%40FreakConfig%3A%3ADE
 vless://%54ELEGR%41M-CONF%69GL%69NE@91.99.231.221:2020?mode=gun&security=reality&encryption=none&authority=&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&fp=chrome&spx=%2F&type=grpc&serviceName=t%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE&sni=tgju.org&sid=809cb172dbede776#%3E%3E%40mehrosaboran%3A%3ADE
+vless://TELEGRAM-CONFiGLiNE@91.99.231.221:2020?mode=gun&security=reality&encryption=none&authority=&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&fp=chrome&spx=/&type=grpc&serviceName=telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=tgju.org&sid=809cb172dbede776#🇩🇪[@rat_leak]
