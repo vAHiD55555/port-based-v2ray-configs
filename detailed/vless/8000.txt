@@ -1,1 +1,3 @@
-vless://da179b2e-7699-424b-a5f5-5e6bdf0ed8ac@185.220.227.1:8000?security=reality&encryption=none&pbk=lPLY0SEqCdqEbbe8JWS3nkg_9kN08B-T-lL9u1PvIkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=dd#@AblNet7 🇮🇷 نت ملی
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#NL_speednode_0042
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#NL_speednode_0043
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#%3E%3E%40configV2rayNG%3A%3ANL

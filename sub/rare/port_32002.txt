@@ -1,1 +1,2 @@
-trojan://cfbabf31-2cf6-40ca-9688-abbb682370aa@cn.speedabc.xyz:32002?security=tls&sni=jp-bgp.speedaccelerate.com#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-1962
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IiwiYWRkIjoiNTM4MTEwLnN1cHBsYW50ZXIueHl6IiwicG9ydCI6IjMyMDAyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjM4OEJCNTM2LUM5N0ItQ0MzRi1EMTA0LTQ5MjQ3QjlCMUI2NSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiI1MzgxMTAuc3VwcGxhbnRlci54eXoiLCJ0bHMiOiIifQ==
+trojan://cfbabf31-2cf6-40ca-9688-abbb682370aa@cn.speedabc.xyz:32002?security=tls&sni=jp-bgp.speedaccelerate.com#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-2239
