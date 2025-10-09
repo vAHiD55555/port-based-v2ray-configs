@@ -1,2 +1,2 @@
-vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@147.79.100.54:37096/?type=tcp&encryption=none&flow=&security=tls&sni=vpn-srv-2.circlevpn.net#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:39.54ms
+vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&encryption=none&headerType=none&type=tcp&sni=vpn-srv-2.circlevpn.net#%3E%3E%40configV2rayNG%3A%3AFR
 vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?encryption=none&security=tls&sni=vpn-srv-2.circlevpn.net&fp=chrome&type=tcp&headerType=none#da_035
