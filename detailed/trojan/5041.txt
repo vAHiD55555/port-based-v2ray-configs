@@ -1,6 +1,6 @@
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:5041?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:5041?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
-trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:5041?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A55
+trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:5041?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A54
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:5041?allowInsecure=1&sni=www.nintendogames.net#JP_speednode_0052
-trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:5041?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.29-0598
-trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.70.134-0588
+trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.70.134-0666
+trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:5041?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.29-0251
