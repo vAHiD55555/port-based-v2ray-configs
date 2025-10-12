@@ -1,1 +1,2 @@
 vless://dcf1630c-f0bd-4d81-a128-4865df35e757@217.60.241.139:1080?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
+vless://baaacbc-abca-acba-badc-ccbabcabacab@127.0.0.1:1080?security=tls&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40hope_net%20%5B19%5D
