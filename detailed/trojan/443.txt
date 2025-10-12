@@ -1,8 +1,8 @@
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
 trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?allowInsecure=1&sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40stairnode
-trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A52
+trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF4
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A54
 trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?allowInsecure=1&sni=fe2.update.microsoft.com#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
 trojan://02XtoczO7V@104.17.247.140:443?path=/hishhhh123#TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1)&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🇺🇲𝗧𝗩𝗖™ᵍʳᵒᵘᵖ (@AZARBAYJAB1) (Trojan)
 trojan://02XtoczO7V@104.19.111.152:443?path=/hishhhh123#TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1)&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🇺🇲𝗧𝗩𝗖™ᵍʳᵒᵘᵖ (@AZARBAYJAB1) (Trojan)
@@ -14,7 +14,6 @@ trojan://19ZDV7mNAW@91.107.177.122:443?type=tcp&path=/@ISVvpn&host=fonts.gstatic
 trojan://19ZDV7mNAW@91.107.177.122:443?type=tcp&path=/@ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://253bc477d4e43c209f2d427272968280@23.227.194.234:443/?type=tcp&security=tls&sni=www.nintendogames.net#t.me/entryNET/config=1845698034751998
-trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&allowInsecure=1&sni=www.nintendogames.net#🇸🇬[Telegram:NetifyVpn]
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&host=aio.proxybox.dpdns.org&type=ws&sni=aio.proxybox.dpdns.org#@IRAN_V2RAY1
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&host=aio.proxybox.dpdns.org&type=ws&sni=aio.proxybox.dpdns.org#All-@IRAN_V2RAY1
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&type=ws&sni=aio.proxybox.dpdns.org#All-@IRAN_V2RAY1
@@ -37,7 +36,6 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-Wo
 trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=de.v2bazzar.ir#@IRAN_V2RAY1
 trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=www.twitch.tv#@IRAN_V2RAY1
 trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
-trojan://sAz5t8SBul@91.108.249.171:443?security=reality&sni=google.com&fp=chrome&pbk=YAdvt-gLAjJf-a36b9XwQyd9bGxH4xIlyyeNiY7sPik&sid=b235e63f3b4bf29c&spx=/&type=tcp&headerType=http&host=www.namasha.com,s45.namasha.com#t.me/entryNET/config=1845663424620675
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#@IRAN_V2RAY1
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=/tv&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
