@@ -1,1 +1,2 @@
 vless://c5374593-04b2-c71b-536d-1402e60d4207@38.180.27.182:5901?security=none&encryption=none&headerType=none&type=tcp#rt
+vless://d71560c1-e82b-a2bf-8040-04e3c73dcffb@38.180.27.182:5901?security=none&encryption=none&headerType=none&type=tcp#@V2rayBaaz
