@@ -1,3 +1,4 @@
 vless://39d82d4b-8c32-471a-9f70-4cfe054fdd04@de.l00l.vip:23?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.deepl.com#🇩🇪
 vless://39d82d4b-8c32-471a-9f70-4cfe054fdd04@fr.l00l.vip:23?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.deepl.com#🇫🇷
 vless://39d82d4b-8c32-471a-9f70-4cfe054fdd04@ru.l00l.vip:23?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.deepl.com#🇷🇺
+vless://39d82d4b-8c32-471a-9f70-4cfe054fdd04@fr.l00l.vip:23?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.deepl.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B54%5D
