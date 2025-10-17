@@ -15,6 +15,7 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@203.198.123.249:443?sni=www.baidu.com#
 trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.87:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5%201.0MB%2Fs
 trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.87:443?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://c53647f3153f784b3c695ffbe5fb43c0@203.198.123.249:443?allowInsecure=1&sni=www.baidu.com#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
+trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?allowInsecure=0&sni=joss.krikkrik.xyz&type=ws&host=joss.krikkrik.xyz&path=/Free-VPN-CF-Geo-Project/AE5#US_speednode_0054
 trojan://02XtoczO7V@104.17.247.140:443?path=/hishhhh123#TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1)&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🇺🇲𝗧𝗩𝗖™ᵍʳᵒᵘᵖ (@AZARBAYJAB1) (Trojan)
 trojan://02XtoczO7V@104.19.111.152:443?path=/hishhhh123#TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1)&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🇺🇲𝗧𝗩𝗖™ᵍʳᵒᵘᵖ (@AZARBAYJAB1) (Trojan)
 trojan://02XtoczO7V@104.25.149.137:443?path=/hishhhh123#TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1),TM (@AZARBAYJAB1)&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🇺🇲𝗧𝗩𝗖™ᵍʳᵒᵘᵖ (@AZARBAYJAB1) (Trojan)
@@ -50,6 +51,7 @@ trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#@IRAN_V2RAY1
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=/tv&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
+trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&type=ws&sni=iSaA1.paGes.DEv&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=IsaA1.pAGEs.DEV#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
 trojan://maradona_vpn@maradona_vpn14.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B7%5D
 trojan://maradona_vpn@maradona_vpn10.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B8%5D
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B9%5D
@@ -57,7 +59,6 @@ trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443?sni=chatbuzzteam
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayngconfig%20%5B46%5D
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=%2F6vuNVgOFnqUEvj0sNkGkxxW7&security=tls&alpn=h2&host=amin.karkas1.ir&fp=safari&type=ws&sni=amin.karkas1.ir#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40xrayzxn%20%5B5%5D
 trojan://ZU%290ryc%24VSrG@104.17.148.22:443?path=%2Ftrg2dhGAnG15ULOP7i%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=randomized&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.87:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.30.87-0581
 trojan://e1191c4d-5a2c-406e-977f-63cb7e0aba2c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%A9%F0%9F%87%AA%20WS%20TLS
 trojan://82f7b4b4-575c-414d-b6ac-0e2eac25e2fe@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%A9%F0%9F%87%AA%20WS%20TLS
 trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FAE5&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%A6%F0%9F%87%AA%20WS%20TLS
@@ -68,6 +69,7 @@ trojan://c45ba3c9-fa4a-4301-ab1d-4469c24f9320@104.21.33.216:443?path=%2FFree-VPN
 trojan://8d6d33b5-8d0d-41c3-9f3d-9b5aac43d4c9@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%AA%F0%9F%87%B8%20WS%20TLS
 trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.53.214:443?security=tls&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.53.214-0573
 trojan://c53647f3153f784b3c695ffbe5fb43c0@203.198.123.249:443?security=tls&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK-203.198.123.249-0574
+trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.87:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.30.87-0581
 trojan://c53647f3153f784b3c695ffbe5fb43c0@60.82.70.104:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-60.82.70.104-0588
 trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.53.162:443?security=tls&sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.53.162-0589
 trojan://253bc477d4e43c209f2d427272968280@126.47.92.160:443?security=tls&sni=fe2.update.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5JP-126.47.92.160-0606
@@ -133,7 +135,6 @@ trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-3.mielink-dns2.co
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-us-6.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8US-172.237.146.38-2043
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-4.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8US-172.233.219.49-2061
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-2.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8US-172.237.146.38-2062
-trojan://1518f7ec-f606-4a0f-8a62-2455e0a2b62e@ua-full.privateip.net:443?security=tls#%F0%9F%87%BA%F0%9F%87%A6UA-45.87.155.14-5450
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-159.65.147.91-2082
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-45.80.190.66-2106
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-11.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8US-172.237.146.25-2120
@@ -246,6 +247,7 @@ trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security
 trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#%F0%9F%87%A9%F0%9F%87%AADE-139.162.158.172-5383
 trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@198.244.190.189:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-198.244.190.189-5389
 trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@de-full.privateip.net:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-51.195.101.222-5390
+trojan://1518f7ec-f606-4a0f-8a62-2455e0a2b62e@ua-full.privateip.net:443?security=tls#%F0%9F%87%BA%F0%9F%87%A6UA-45.87.155.14-5450
 trojan://e299faed-cb72-4c62-bb2e-f0a218aed72a@hk-full.privateip.net:443?security=tls#%F0%9F%87%B2%F0%9F%87%A9MD-74.119.193.40-5467
 trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-5.253.43.181-5475
 trojan://92435aa8-f3b6-466a-ad58-c55cbb6d2acf@hinet.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-45.149.92.71-5507
