@@ -10,3 +10,5 @@ vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&e
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#🇮🇷@FreakConfig
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp#@Daily_Configs
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
+vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3AXX
+vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AXX
