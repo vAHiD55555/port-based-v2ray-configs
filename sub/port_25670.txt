@@ -42,11 +42,3 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.178.9.121:25670?security=none&en
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.178.9.121:25670?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.178.9.121:25670?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.76.7.202:25670?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free1_vpn%20%5B8%5D
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@63.178.9.121:25670?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40DailyV2RY%3A%3ADE
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.76.7.202:25670?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40DailyV2RY%3A%3ADE
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.193.86.253:25670?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40DailyV2RY%3A%3ADE
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.199.224.216:25670?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40DailyV2RY%3A%3ADE
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.75.85.54:25670?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40DailyV2RY%3A%3ADE
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.67.225.188:25670?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40DailyV2RY%3A%3ADE
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.76.7.202:25670?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3ADE
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.76.7.202:25670?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs
