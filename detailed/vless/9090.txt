@@ -2,4 +2,5 @@ vless://00a61d7c-d806-4ee5-83ea-72ef8531482c@webi.goodplaynew.ir:9090/?type=tcp&
 vless://00a61d7c-d806-4ee5-83ea-72ef8531482c@webi.goodplaynew.ir:9090/?type=tcp&security=none&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://00a61d7c-d806-4ee5-83ea-72ef8531482c@webi.goodplaynew.ir:9090?security=&encryption=none&headerType=&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://00a61d7c-d806-4ee5-83ea-72ef8531482c@webi.goodplaynew.ir:9090?security=&encryption=none&headerType=&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
+vless://54c06c38-a570-4ba0-9ae2-405eb24e8627@193.233.19.241:9090?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.smnsoft.com#%40Daily_Configs`
 vless://54c06c38-a570-4ba0-9ae2-405eb24e8627@193.233.19.241:9090?encryption=none&security=tls&sni=shop.smnsoft.com&fp=chrome&type=tcp&headerType=none#q_098
