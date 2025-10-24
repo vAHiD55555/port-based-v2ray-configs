@@ -1,4 +1,3 @@
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3%20165.4KB%2Fs
@@ -74,9 +73,10 @@ trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sn
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=%2F6vuNVgOFnqUEvj0sNkGkxxW7&security=tls&alpn=h2&host=amin.karkas1.ir&fp=safari&type=ws&sni=amin.karkas1.ir#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40xrayzxn%20%5B5%5D
 trojan://ZU%290ryc%24VSrG@104.17.148.22:443?path=%2Ftrg2dhGAnG15ULOP7i%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=randomized&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?sni=www.nintendogames.net#%3E%3E%40v2nodes%3A%3AHK
-trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.144:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-203.198.122.144-1139
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.30.133-2297
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.55:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-203.198.122.55-0224
+trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.110.40-0223
 trojan://c53647f3153f784b3c695ffbe5fb43c0@203.198.122.28:443?security=tls&sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0HK-203.198.122.28-0545
 trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.30.92-0553
 trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.87:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.30.87-0560
@@ -126,8 +126,7 @@ trojan://vip@japan.com:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed
 trojan://vip@www.visa.com.tw:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%F0%9F%8F%81RELAY-104.18.5.250-0794
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443?security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&type=ws&path=/tr4BCdusB84159lWnu&Host=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV#%F0%9F%8F%81RELAY-104.21.18.192-0798
 trojan://vip@edtunnel-dgp.pages.dev:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%F0%9F%8F%81RELAY-172.66.45.27-0799
-trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.55:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-203.198.122.55-0224
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.110.40-0223
+trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.144:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-203.198.122.144-1139
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.44.176-1166
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.113.248-1167
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@45.64.22.55:443?security=tls&sni=stutter.freetrade.link#%F0%9F%87%B2%F0%9F%87%B4MO-45.64.22.55-1168
