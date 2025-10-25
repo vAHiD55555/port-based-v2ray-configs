@@ -1,1 +1,3 @@
+vless://8835f8fc-cbda-4abe-8f09-060d4997ee2d@dns25.golden-ping.ir:59290?flow=&type=tcp&headerType=http&host=&path=&security=none#@meli_proxyy
+vless://8835f8fc-cbda-4abe-8f09-060d4997ee2d@dns25.golden-ping.ir:59290?security=none&encryption=none&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://8835f8fc-cbda-4abe-8f09-060d4997ee2d@dns25.golden-ping.ir:59290?security=none&encryption=none&headerType=http&type=tcp#t.me/entryNET/config=1846882079797809
