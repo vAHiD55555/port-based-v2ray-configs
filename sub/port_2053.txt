@@ -8,6 +8,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4Mkh
 trojan://1e84f32e-0dcb-4859-8e08-319c1ddbc748@109.120.179.49:2053?path=/Free-VPN-CF-Geo-Project/FR2&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://3beeaf86-5522-4278-a1e9-b24a776552cd@190.93.246.255:2053?path=/TM (@AZARBAYJAB1)/TM (@AZARBAYJAB1)/TM (@AZARBAYJAB1)&security=tls&host=gamang.gpj1.dpdns.org&type=ws&sni=gamang.gpj1.dpdns.org#🇹🇭TM (@AZARBAYJAB1)
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@meli_proxyy
+trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#r♡ya
 trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?path=/trGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#@V2rayNGVPN <= کانفیگ رایگان
 trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?path=/trGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#@meli_proxyy
 trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?path=/trGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#🇩🇪@FreakConfig
@@ -60,12 +61,10 @@ vless://1e84f32e-0dcb-4859-8e08-319c1ddbc748@109.120.179.49:2053?path=/Free-VPN-
 vless://1e84f32e-0dcb-4859-8e08-319c1ddbc748@109.120.179.49:2053?path=/Free-VPN-CF-Geo-Project/FR2&security=tls&encryption=none&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 vless://1lpxy6haqm@npmjs.com:2053?path=/download/cdn&security=tls&alpn=h2,http/1.1&encryption=none&host=1lpxy6haqm-451516713.zamam.co&fp=chrome&type=httpupgrade&sni=1lpxy6haqm-451516713.zamam.co#🇱🇮⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
 vless://20d98fd8-b472-4574-eeae-b1ecc9082eb9@www.speedtest.net:2053?type=ws&encryption=none&path=/&host=2020.dnss-mobile.ir&security=tls&fp=chrome&alpn=http/1.1&sni=2020.dnss-mobile.ir#@Alfred_Config
-vless://254e7ab8-fea1-461d-84fa-f7c5947df19d@axe.soyet2j.ir:2053?encryption=none&security=tls&sni=mojito.soyet2j.ir&type=ws&host=mojito.soyet2j.ir&path=/homepage?ed=2560#@v2ray_configs_pool
 vless://25d5ece5-8952-4529-98fa-30b09bacd307@ems.irimcs.org:2053?type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns&security=tls&fp=&alpn=&sni=Ter.Iranasanejesh.org#@Catvpns-🇹🇷--Channel
 vless://293aacb7-ecfb-4e3b-9c43-0c78591a97e5@axe.soyet2j.ir:2053?encryption=none&security=tls&sni=mojito.soyet2j.ir&type=ws&host=mojito.soyet2j.ir&path=/homepage?ed=2560#@v2ray_configs_pool
 vless://2a5b16fc-692f-4713-a5cf-23d6d3cd1199@net2026.sassanidempire.com:2053?mode=gun&security=reality&encryption=none&pbk=_olFWXwk3Lft68dQ6LzsYDVU7Jzwx36rs6FKDemkGgc&fp=chrome&type=grpc&sni=net2026.sassanidempire.com&sid=7ad9c661aa47#All-@V2rayAlpha--12
 vless://2a5b16fc-692f-4713-a5cf-23d6d3cd1199@net2026.sassanidempire.com:2053?mode=gun&security=reality&encryption=none&pbk=_olFWXwk3Lft68dQ6LzsYDVU7Jzwx36rs6FKDemkGgc&fp=chrome&type=grpc&sni=net2026.sassanidempire.com&sid=7ad9c661aa47#All-@V2rayAlpha--37
-vless://3aff05b2-3c37-4ad5-83eb-bbe6ab757a70@axe.soyet2j.ir:2053?encryption=none&security=tls&sni=mojito.soyet2j.ir&type=ws&host=mojito.soyet2j.ir&path=/homepage?ed=2560#@v2ray_configs_pool
 vless://3d4f244d-4860-4603-9546-184ee632083f@104.21.48.1:2053?path=/XJlWBmgB2NGaiV68?ed=2560fp=chrome&security=tls&alpn=http/1.1&encryption=none&host=c6jh01dp783knpd1ygxxwr4d0doe89o1.pages.dev&type=ws&sni=c6jH01dP783kNPD1yGxXwr4d0doe89O1.pAGEs.dEv#@Selinc
 vless://3d4f244d-4860-4603-9546-184ee632083f@104.21.48.1:2053?path=/XJlWBmgB2NGaiV68?ed=2560fp=chrome&security=tls&alpn=http/1.1&encryption=none&host=c6jh01dp783knpd1ygxxwr4d0doe89o1.pages.dev&type=ws&sni=c6jH01dP783kNPD1yGxXwr4d0doe89O1.pAGEs.dEv#@i10VPN 🚀| با ما متصل بمون⚡
 vless://3d4f244d-4860-4603-9546-184ee632083f@104.21.48.1:2053?path=/XJlWBmgB2NGaiV68?ed=2560fp=chrome&security=tls&alpn=http/1.1&encryption=none&host=c6jh01dp783knpd1ygxxwr4d0doe89o1.pages.dev&type=ws&sni=c6jH01dP783kNPD1yGxXwr4d0doe89O1.pAGEs.dEv#WiFi-@V2rayAlpha--10
