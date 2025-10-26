@@ -4,8 +4,8 @@ trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.53.136:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
 trojan://BxceQaOe@58.152.46.98:443?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.53.136:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3%20173.8KB%2Fs
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.83:443?sni=www.nintendogames.net#HK%202.1MB%2Fs
+trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.83:443?sni=www.nintendogames.net#HK%201.4MB%2Fs
+trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.53.136:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5%20204.7KB%2Fs
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.53.136:443?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.83:443?allowInsecure=0&sni=www.nintendogames.net#HK_speednode_0012
@@ -36,12 +36,12 @@ trojan://V2qblnpdB6@91.108.249.171:443?security=reality&pbk=YAdvt-gLAjJf-a36b9Xw
 trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
 trojan://b63e5189-88c4-4eb5-9c8b-8dd997cc9b38@104.248.46.225:443?path=/Free-VPN-CF-Geo-Project/DE2&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://b63e5189-88c4-4eb5-9c8b-8dd997cc9b38@104.248.46.225:443?path=/Free-VPN-CF-Geo-Project/DE2&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#🏴‍☠️@FreakConfig
+trojan://blue2024@172.64.35.173:443?sni=ta.promote.icu#t.me/entryNET/config=1847047548876658
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
 trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=/xhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?path=/?ed=2560&security=tls&host=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@V2RAYROZ
-trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?path=/?ed=2560&security=tls&host=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@V2rayNGVPN <= کانفیگ رایگان
 trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?path=/?ed=2560&security=tls&host=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@meli_proxyy
 trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@whatismyipaddress.com:443?path=/?ed=2560&security=tls&host=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@meli_proxyy
 trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@www.speedtest.net:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&host=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@meli_proxyy
@@ -68,7 +68,7 @@ trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&headerType=none&
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=/tv&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
 trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#MCI--@V2rayAlpha--9
-trojan://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?security=tls&type=ws&sni=79193c43.aryoovpn-5fr.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2048&host=79193c43.aryoovpn-5fr.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrZkJgi4MLAtl7SrU9%3Fed&fp=randomized&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
 trojan://maradona_vpn@maradona_vpn14.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B7%5D
 trojan://maradona_vpn@maradona_vpn10.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B8%5D
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B9%5D
