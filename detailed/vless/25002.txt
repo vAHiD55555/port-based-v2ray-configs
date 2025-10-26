@@ -1,0 +1,2 @@
+vless://302b7370-f6c0-408a-a59c-b56f6cb4a5a0@[2603:c024:10:200::6]:25002/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.mcdaniel.edu&fp=chrome&security=reality&pbk=N0Yifj5ls5IKiyW5aCbQ9wNAlIiMWqqUdDMNWf77aVQ&sid=3ab3a7fb# @networld_vpn
+vless://302b7370-f6c0-408a-a59c-b56f6cb4a5a0@[2603:c02b:304:5200::6]:25002/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.mcdaniel.edu&fp=chrome&security=reality&pbk=07Z1Yid72dHTfz9HYkijyx5XPNJ2uzZ2VR58lAlytWA&sid=65b71872# @networld_vpn
