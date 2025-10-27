@@ -2,7 +2,6 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.131.95.183:59483?encryption=non
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.9.208:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#@meli_proxyy
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.120.133:59483?encryption=none&type=grpc#@meli_proxyy
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.3.144:59483?encryption=none&type=grpc#@meli_proxyy
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.3.144:59483?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?flow=&type=grpc&mode=gun&serviceName=&security=none#@meli_proxyy
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=&encryption=none&type=grpc#🇺🇸@FreakConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNGVPN+<=+کانفیگ+رایگان
