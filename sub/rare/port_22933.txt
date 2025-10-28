@@ -1,4 +1,0 @@
-vless://3c1a04bb-165a-476d-af02-3dc5590f8742@91.98.22.20:22933?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇩🇪 | @External_Net
-vless://3c1a04bb-165a-476d-af02-3dc5590f8742@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔐 @AblNet7 🇩🇪
-vless://3c5927ad-7d3c-474d-acd0-1b6d67e47f43@91.99.233.186:22933?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#@Daily_Configs
-vless://6e305621-9c57-417a-aed1-95024bc5f6b2@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#All-@V2ray_Alpha--7
