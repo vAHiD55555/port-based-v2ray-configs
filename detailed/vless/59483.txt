@@ -4,7 +4,6 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.120.133:59483?encryption=no
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.3.144:59483?encryption=none&type=grpc#@meli_proxyy
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?flow=&type=grpc&mode=gun&serviceName=&security=none#@meli_proxyy
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=&encryption=none&type=grpc#🇺🇸@FreakConfig
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:NetifyVPN]
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.93.149:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🍊 v2ray_configs_pools
