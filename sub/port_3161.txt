@@ -3,4 +3,4 @@ trojan://bca467b8c15211d189008a93c7519d3b@160.16.144.208:3161?allowInsecure=1&sn
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.144.208:3161?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.144.208:3161?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.240.91:3161?security=tls&headerType=none&type=tcp&sni=www.baidu.com#t.me/entryNET/config=1847262716581923
-trojan://bca467b8c15211d189008a93c7519d3b@160.16.240.91:3161?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.240.91-1222
+trojan://bca467b8c15211d189008a93c7519d3b@160.16.240.91:3161?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.240.91-1241
