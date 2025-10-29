@@ -11,5 +11,4 @@ vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&al
 vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#%3E%3E%40configV2rayNG%3A%3AXX
 vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060/?type=tcp&encryption=none&flow=&security=tls&sni=book.smnsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%2045
-vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?encryption=none&security=tls&sni=book.smnsoft.com&fp=chrome&type=tcp&headerType=none#q_218
-vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#@meli_proxyy
+vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?encryption=none&security=tls&sni=book.smnsoft.com&fp=chrome&type=tcp&headerType=none#a_0883
