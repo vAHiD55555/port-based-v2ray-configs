@@ -4,4 +4,5 @@ vless://4a47d690-390f-4314-8088-f8ac9a744930@91.99.179.41:42671?encryption=none&
 vless://55fcbc64-7e4e-49fa-95f1-bb44a1efcbbf@88.198.160.200:42671?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://55fcbc64-7e4e-49fa-95f1-bb44a1efcbbf@88.198.160.200:42671?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
+vless://cf4b927c-25f6-4915-89e1-99d6866ff768@88.198.160.200:42671?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://cf4b927c-25f6-4915-89e1-99d6866ff768@88.198.160.200:42671?security=none&encryption=none&host=JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
