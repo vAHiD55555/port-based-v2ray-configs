@@ -1,3 +1,4 @@
 vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692/?type=tcp&encryption=none#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
+vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2014
 vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=&fp=chrome&type=tcp&encryption=none#%40Rayan_Config%2014
