@@ -1,5 +1,6 @@
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=none&type=tcp#WiFi-@V2rayAlpha--12
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#@Selinc
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr
