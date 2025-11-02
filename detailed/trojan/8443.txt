@@ -1,9 +1,9 @@
 trojan://trojan@www.visa.com.sg:8443?allowInsecure=0&sni=pangpi.pages.dev&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://trojan@ip.sb:8443?allowInsecure=0&sni=fofang.pages.dev&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://trojan@104.26.12.31:8443?allowInsecure=0&sni=fofang.pages.dev&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
-trojan://trojan@ip.sb:8443?sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://trojan@104.26.12.31:8443?sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-trojan://trojan@www.visa.com.sg:8443?sni=pangpi.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
+trojan://trojan@ip.sb:8443?sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://trojan@www.visa.com.sg:8443?sni=pangpi.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
+trojan://trojan@104.26.12.31:8443?sni=fofang.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp#@V2rayAlpha--All-40
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@ru2.asc-sam.ir:8443?type=tcp&path=/&host=ru2.asc-sam.ir&headerType=http&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=ru2.asc-sam.ir#@NoForcedHeaven
@@ -12,6 +12,7 @@ trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecur
 trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&type=tcp#telegram:@awlix_ir
 trojan://trojan@ip.sb:8443?path=/?ed=2560&security=tls&host=qianlang.pages.dev&fp=chrome&type=ws&sni=qianlang.pages.dev#@meli_proxyy
 trojan://trojan@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-f03.pages.dev&fp=chrome&type=ws&host=azadnet-f03.pages.dev&path=/?ed#t.me/entryNET/config=1847615672739900
+trojan://trojan@www.visa.com.sg:8443?encryption=none&security=tls&sni=sunnyfish.pages.dev&fp=chrome&type=ws&host=sunnyfish.pages.dev&path=/#t.me/entryNET/config=1847694307555641
 trojan://trojan@www.visa.com.sg:8443?security=tls&sni=pangpi.pages.dev&type=ws&path=/?ed=2560&Host=pangpi.pages.dev#%F0%9F%8F%81RELAY-104.18.13.229-0819
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%81RELAY-172.66.44.230-0822
 trojan://vip@www.visa.com.hk:8443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%F0%9F%8F%81RELAY-104.18.21.69-0825
