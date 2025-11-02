@@ -1,3 +1,4 @@
+vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?allowInsecure=0#DE_speednode_0011
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?encryption=none&security=none&type=tcp&headerType=none&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN

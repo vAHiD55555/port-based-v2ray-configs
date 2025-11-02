@@ -106,5 +106,3 @@ vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@m37a.vip784.com:33801?flow=&type=tc
 vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#telegram::CA
 vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2RAY_VMESS_free::FR
 vless://d36f457f-17a9-4891-a113-322ec6792917@m15a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2RAY_VMESS_free::CA
-vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&headerType=http&type=tcp#[
-vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B5%F0%9F%87%B1
