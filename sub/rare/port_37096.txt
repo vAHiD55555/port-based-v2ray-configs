@@ -1,2 +1,4 @@
+vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
+vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#@meli_proxyy
 vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://97bd2fd8-7c89-4350-93d6-a7556d00e8ad@vpn-srv-2.circlevpn.net:37096?encryption=none&security=tls&sni=vpn-srv-2.circlevpn.net&fp=chrome&type=tcp&headerType=none#a_0856
