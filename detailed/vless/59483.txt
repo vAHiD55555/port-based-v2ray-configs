@@ -1,8 +1,3 @@
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.3.144:59483?encryption=none&type=grpc#telegram
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.189.73:59483?encryption=none&type=grpc#telegram
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.34.136:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#telegram
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.59.24:59483?encryption=none&type=grpc#telegram
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.243.201:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#telegram
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.131.95.183:59483?encryption=none&security=none&type=grpc#telegram 🍊 v2ray_configs_pools
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.93.149:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🍊 v2ray_configs_pools
