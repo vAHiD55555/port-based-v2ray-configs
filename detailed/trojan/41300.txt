@@ -1,2 +1,2 @@
 trojan://5a27a43b-c50f-4374-85b0-300c4e0a77f2@n001.xunxunmimisbs.sbs:41300?sni=jp01.xxxxyyyysbs.sbs#%E6%9C%AA%E7%9F%A520
-trojan://5a27a43b-c50f-4374-85b0-300c4e0a77f2@n001.xunxunmimisbs.sbs:41300?allowInsecure=1&sni=jp01.xxxxyyyysbs.sbs#CN_speednode_0002
+trojan://5a27a43b-c50f-4374-85b0-300c4e0a77f2@n001.xunxunmimisbs.sbs:41300?security=tls&sni=jp01.xxxxyyyysbs.sbs#%F0%9F%87%A8%F0%9F%87%B3CN-117.135.31.15-1238
