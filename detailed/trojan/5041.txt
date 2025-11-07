@@ -1,6 +1,6 @@
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.240.91:5041?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.240.91-0637
-trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:5041?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.41.97-0644
-trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5041?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.56.122-0652
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-0662
-trojan://253bc477d4e43c209f2d427272968280@160.16.116.227:5041?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.116.227-0690
-trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.70.134-0760
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.240.91:5041?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.240.91-0576
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:5041?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.41.97-0583
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5041?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.56.122-0591
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-0601
+trojan://253bc477d4e43c209f2d427272968280@160.16.116.227:5041?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.116.227-0629
+trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.70.134-0699
