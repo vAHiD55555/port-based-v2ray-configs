@@ -1,3 +1,2 @@
-trojan://1b57001bd214304027025a740b6cf1ac@117.172.176.22:373?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20%E5%9B%9B%E5%B7%9D%E7%9C%81%20%E7%A7%BB%E5%8A%A8%E6%95%B0%E6%8D%AE%E4%B8%8A%E7%BD%91%E5%85%AC%E5%85%B1%E5%87%BA%E5%8F%A3
 trojan://1b57001bd214304027025a740b6cf1ac@117.172.176.22:373?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%E5%9B%9B%E5%B7%9D
-trojan://1b57001bd214304027025a740b6cf1ac@117.172.176.22:373?security=tls&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN-117.172.176.22-1250
+trojan://1b57001bd214304027025a740b6cf1ac@117.172.176.22:373?security=tls&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN-117.172.176.22-1188
