@@ -1,4 +1,3 @@
 vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://9ebd1ced-0644-43ab-86be-1f130f32f5ef@vpn-srv-2.circlevpn.net:37096?type=tcp&security=tls&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome#%253E%253E%2540DailyV2RY%3A%3AFR
 vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%253E%253E%2540flyv2ray%3A%3AFR
-vless://97bd2fd8-7c89-4350-93d6-a7556d00e8ad@vpn-srv-2.circlevpn.net:37096?encryption=none&security=tls&sni=vpn-srv-2.circlevpn.net&fp=chrome&type=tcp&headerType=none#a_0856
