@@ -81,7 +81,6 @@ vless://b27e35a7-51f4-468e-8921-56a4901dd923@199.34.230.114:2053?encryption=none
 vless://b27e35a7-51f4-468e-8921-56a4901dd923@199.34.230.114:2053?path=/containers/de&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=om1.omidsuccess.uk#Channel : @Mrsoulb 🏴🏳
 vless://b27e35a7-51f4-468e-8921-56a4901dd923@199.34.230.114:2053?path=/containers/de&security=tls&encryption=none&host=om1.omidsuccess.uk&fp=chrome&type=ws&sni=om1.omidsuccess.uk#All-@V2rayAlpha--20
 vless://b52df04c-493a-4faa-9a2c-db46860ee2df@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven&sni=us1.projecthope.ir#@NoForcedHeaven🇺🇸
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?security=tls&encryption=none&type=ws&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws/?ed&sni=vip1-romax-tiktok.hsjsak.ir&fp=chrome#Awlix_ir
 vless://cf5a73e1-e1ba-4a21-aadd-2ed60eae1b52@axe.djjw8292n.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.djjw8292n.ir&type=ws&sni=mojito.djjw8292n.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://d3f96144-d4cf-449c-be74-3436b6b5a72d@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@EXPRESSVPN_420
 vless://dae7f64a-c559-4fde-fb83-f03aa3e34b20@binex.tc.azinpsn.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=miro.com&security=none#BinexTiFy🪸-7cgdwktm
@@ -98,7 +97,6 @@ vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/d
 vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de&security=tls&encryption=none&fp=chrome&type=ws&sni=om4.omidsuccess.uk#Channel : @Mrsoulb 🏴🏳
 vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de&security=tls&encryption=none&fp=chrome&type=ws&sni=om4.omidsuccess.uk#🇩🇪@FreakConfig
 vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de&security=tls&encryption=none&host=om4.omidsuccess.uk&fp=chrome&type=ws&sni=om4.omidsuccess.uk#00
-vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de&security=tls&encryption=none&host=om4.omidsuccess.uk&fp=chrome&type=ws&sni=om4.omidsuccess.uk#@V2RAYROZ
 vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de&security=tls&encryption=none&host=om4.omidsuccess.uk&fp=chrome&type=ws&sni=om4.omidsuccess.uk#@meli_proxyy
 vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de&security=tls&encryption=none&host=om4.omidsuccess.uk&fp=chrome&type=ws&sni=om4.omidsuccess.uk#limo
 vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de&security=tls&encryption=none&host=om4.omidsuccess.uk&fp=chrome&type=ws&sni=om4.omidsuccess.uk#🇩🇪 telegram@ISVvpn

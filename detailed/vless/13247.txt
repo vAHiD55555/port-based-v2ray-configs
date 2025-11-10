@@ -1,1 +1,2 @@
+vless://RK_VPS--RK_VPS@147.45.69.67:13247?security=none&encryption=none&host=TELEGRAM--@RK_VPS--@RK_VPS&headerType=none&type=tcp#TEST
 vless://TELEGRAM--JKVPN--JKVPN@147.45.69.67:13247?security=none&encryption=none&host=TELEGRAM--@JKVPN--@JKVPN&headerType=none&type=tcp#TEST
