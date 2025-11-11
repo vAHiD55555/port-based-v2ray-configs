@@ -1,2 +1,1 @@
 vless://7453db5a-ca2c-4d60-a106-1a6618fd856d@193.24.209.127:36898?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
-vless://7453db5a-ca2c-4d60-a106-1a6618fd856d@193.24.209.127:36898?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs

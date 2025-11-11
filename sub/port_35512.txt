@@ -4,5 +4,3 @@ vless://7df5e8d1-5c3f-44d7-b62d-0f8b40d875ea@vpn-srv-3.circlevpn.net:35512?type=
 vless://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%3E%3E%40DailyV2RY%3A%3AXX
 vless://f3db918d-4ced-4468-a716-a66c7d47e334@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%3E%3E%40DailyV2RY%3A%3AXX
 vless://f3db918d-4ced-4468-a716-a66c7d47e334@vpn-srv-3.circlevpn.net:35512?encryption=none&security=tls&sni=vpn-srv-3.circlevpn.net&fp=chrome&type=tcp&headerType=none#qmt_201
-vless://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%3E%3E%40DailyV2RY%3A%3AMY
-vless://f3db918d-4ced-4468-a716-a66c7d47e334@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#%3E%3E%40DailyV2RY%3A%3AMY
