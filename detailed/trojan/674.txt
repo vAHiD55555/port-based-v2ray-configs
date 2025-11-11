@@ -5,3 +5,4 @@ trojan://e4e262d453466988575c397a30562337@160.16.138.24:674?allowInsecure=0&sni=
 trojan://1b57001bd214304027025a740b6cf1ac@160.16.138.24:674?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 trojan://1b57001bd214304027025a740b6cf1ac@160.16.138.24:674?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://e4e262d453466988575c397a30562337@160.16.138.24:674?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://1b57001bd214304027025a740b6cf1ac@160.16.138.24:674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-2391
