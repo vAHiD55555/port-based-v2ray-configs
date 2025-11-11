@@ -6,4 +6,4 @@ vless://cac59dc2-e5a9-44f0-88da-e56ba06eac15@butcher.fonixapp.org:20220?security
 vless://cac59dc2-e5a9-44f0-88da-e56ba06eac15@butcher.fonixapp.org:20220?security=reality&encryption=none&pbk=KSW4e1R98qljwxyP6YaRrwGF4Rp_8hfXQaaShYUXwSc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cloudtalk.io&sid=d91671#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vmesc%20%5B17%5D
 vless://cac59dc2-e5a9-44f0-88da-e56ba06eac15@152.53.186.174:20220?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudtalk.io&fp=chrome&pbk=KSW4e1R98qljwxyP6YaRrwGF4Rp_8hfXQaaShYUXwSc&sid=d91671&type=tcp&headerType=none#qwf_157
 vless://cac59dc2-e5a9-44f0-88da-e56ba06eac15@butcher.fonixapp.org:20220?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudtalk.io&fp=chrome&pbk=KSW4e1R98qljwxyP6YaRrwGF4Rp_8hfXQaaShYUXwSc&sid=d91671&type=tcp&headerType=none#qwf_167
-trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-157.254.193.251-2371
+trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-157.254.193.251-2418

@@ -3,5 +3,4 @@ vless://54c06c38-a570-4ba0-9ae2-405eb24e8627@193.233.19.241:9090?security=tls&en
 vless://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.frnsoft.com#@meli_proxyy
 vless://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.frnsoft.com#تلگرام mtmvpn
 vless://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.frnsoft.com#🇹🇷@FreakConfig
-vless://65953938-b0a9-414a-964e-0d07b541465c@45.136.5.18:9090?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=support.frnsoft.com#%253E%253E%2540DailyV2RY%3A%3AXX
 vless://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090?encryption=none&security=tls&sni=book.frnsoft.com&fp=chrome&type=tcp&headerType=none#qwf_055
