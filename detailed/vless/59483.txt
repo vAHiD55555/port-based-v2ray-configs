@@ -1,15 +1,3 @@
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.38.102:59483?encryption=none&type=grpc#United%20States%2041%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.33.37:59483?encryption=none&type=grpc#United%20States%2015%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.250.99:59483?encryption=none&type=grpc#United%20States%2074%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.226.100:59483?encryption=none&type=grpc#United%20States%2080%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.177.251:59483?encryption=none&type=grpc#United%20States%2071%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.3.144:59483?encryption=none&type=grpc#telegram%20%F0%9F%8C%9F%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.251.158:59483?encryption=none&type=grpc#United%20States%2092%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.78.129:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#United%20States%2085%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.53.207:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#United%20States%2030%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.108.11:59483?encryption=none&type=grpc#United%20States%2015%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.9.208:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#telegram%20%F0%9F%8C%BA%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.4.30:59483?encryption=none&type=grpc#United%20States%2049%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.131.95.183:59483?encryption=none&security=none&type=grpc#telegram 🍊 v2ray_configs_pools
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@16.184.30.39:59483?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=grpc&encryption=none&serviceName=&authority=&security=none#🇰🇷[Telegram:NetifyVpn]
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.93.149:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🍊 v2ray_configs_pools
