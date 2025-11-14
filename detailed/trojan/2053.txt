@@ -4,22 +4,22 @@ trojan://2b1487cd-e56b-4c62-b1e9-8beb686e002c@45.95.232.18:2053?path=%2FFree-VPN
 trojan://55d19115-ec40-407b-a674-74e6a948347a@45.144.48.55:2053?path=%2FFree-VPN-CF-Geo-Project%2F45.144.48.55%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B1`
 trojan://7bdd8f2d-f3ed-4ca6-a33b-522594586791@51.178.82.149:2053?path=%2FFree-VPN-CF-Geo-Project%2F51.178.82.149%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://de763850-1022-4a03-a1ac-84422cfcd4fb@77.91.69.238:2053?path=%2FFree-VPN-CF-Geo-Project%2F77.91.69.238%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%AE%F0%9F%87%B1
+trojan://535b9dbb-33f9-46af-a4a9-35228f9ae124@5.188.78.218:2053?path=%2FFree-VPN-CF-Geo-Project%2F5.188.78.218%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B7%F0%9F%87%BA
 trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?allowInsecure=0&sni=joss.dus.biz.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F65.109.227.138%3D2053#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://55d19115-ec40-407b-a674-74e6a948347a@45.144.48.55:2053?allowInsecure=0&sni=joss.dus.biz.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F45.144.48.55%3D2053#%F0%9F%87%B3%F0%9F%87%B1%20_NL_%E8%8D%B7%E5%85%B0
-trojan://de763850-1022-4a03-a1ac-84422cfcd4fb@77.91.69.238:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/77.91.69.238=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A511
-trojan://2b1487cd-e56b-4c62-b1e9-8beb686e002c@45.95.232.18:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.95.232.18=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A514
-trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/65.109.227.138=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A515
-trojan://7bdd8f2d-f3ed-4ca6-a33b-522594586791@51.178.82.149:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.178.82.149=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A522
-trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.38.226.4=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A526
-trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A527
-trojan://55d19115-ec40-407b-a674-74e6a948347a@45.144.48.55:2053?type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.55=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A529
+trojan://2b1487cd-e56b-4c62-b1e9-8beb686e002c@45.95.232.18:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.95.232.18=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A5
+trojan://7bdd8f2d-f3ed-4ca6-a33b-522594586791@51.178.82.149:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.178.82.149=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A57
+trojan://de763850-1022-4a03-a1ac-84422cfcd4fb@77.91.69.238:2053?type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/77.91.69.238=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A510
+trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/65.109.227.138=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A513
+trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A517
+trojan://55d19115-ec40-407b-a674-74e6a948347a@45.144.48.55:2053?type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.55=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A520
+trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.38.226.4=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A521
 trojan://de763850-1022-4a03-a1ac-84422cfcd4fb@77.91.69.238:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/77.91.69.238=2053#IL_speednode_0021
 trojan://55d19115-ec40-407b-a674-74e6a948347a@45.144.48.55:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.55=2053#PL_speednode_0038
 trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053#RU_speednode_0044
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Hddify
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1 VIP
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Selinc
-trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@V2RAYROZ
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#All-@IRAN_V2RAY1
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#All-@V2rayAlpha--9
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Channel : @vpnserverrr
