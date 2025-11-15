@@ -1,2 +1,1 @@
 vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?encryption=none&security=tls&sni=34.254.224.37&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=www.bing.com&mode=gun#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?encryption=none&security=tls&sni=34.254.224.37&alpn=h2,http/1.1&fp=chrome&type=grpc&authority=&serviceName=www.bing.com&mode=gun#🔷🆔@v2ray_configs_pool🔷

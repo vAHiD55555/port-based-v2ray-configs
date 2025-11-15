@@ -1,2 +1,0 @@
-trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.165.233:3443?sni=origin-a.akamaihd.net#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
-trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?security=tls&sni=steampipe.akamaized.net&allowInsecure=1&type=tcp&headerType=none#🆔@v2ray_configs_pool
