@@ -1,1 +1,4 @@
 vless://8cfd1eb5-81ab-41d7-9b63-191af959344e@ir11.drinfoo.com:890?path=/&security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws&sni=speedtest.net#@meli_proxyy
+vless://8cfd1eb5-81ab-41d7-9b63-191af959344e@ir11.drinfoo.com:890?encryption=none&security=tls&sni=ir11.drinfoo.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=ir11.drinfoo.com&path=%2F#q_291
+vless://8cfd1eb5-81ab-41d7-9b63-191af959344e@ir11.drinfoo.com:890?encryption=none&security=tls&sni=speedtest.net&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=speedtest.net&path=%2F#q_294
+vless://8cfd1eb5-81ab-41d7-9b63-191af959344e@94.183.151.163:890?encryption=none&security=tls&sni=speedtest.net&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=speedtest.net&path=%2F#q_859
