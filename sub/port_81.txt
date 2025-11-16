@@ -1,7 +1,7 @@
 trojan://cc09e855-dfad-4587-9775-369a2df36a1f@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B9
 trojan://620f1a94-60a5-4a10-b1ec-56e1f0ef55fa@94.131.114.50:81?path=%2FFree-VPN-CF-Geo-Project%2F94.131.114.50%3D81&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%40v2FreeHub%20%F0%9F%87%AE%F0%9F%87%B1
-trojan://8221436f-1b7e-4517-9698-0da2a53443e3@45.159.251.8:81?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A519
-trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/94.131.114.50=81&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A524
+trojan://620f1a94-60a5-4a10-b1ec-56e1f0ef55fa@94.131.114.50:81?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/94.131.114.50=81&host=joss.gpj.web.id#%E6%9C%AA%E7%9F%A56
+trojan://cc09e855-dfad-4587-9775-369a2df36a1f@45.159.251.8:81?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&host=joss.gpj.web.id#%E6%9C%AA%E7%9F%A517
 trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#@meli_proxyy
 trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-18
 trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?security=tls&sni=joss.dus.biz.id&fp=chrome&allowInsecure=1&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81#t.me/v2Line | Free | 2933 | Portugal
@@ -9,3 +9,4 @@ trojan://8221436f-1b7e-4517-9698-0da2a53443e3@45.159.251.8:81?path=/Free-VPN-CF-
 trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=/94.131.114.50=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#@meli_proxyy
 trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=/94.131.114.50=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-19
 trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?security=tls&sni=joss.dus.biz.id&fp=chrome&allowInsecure=1&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/94.131.114.50=81#t.me/v2Line | Free | 2957 | Israel
+trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?security=tls&sni=joss.dus.biz.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&Host=joss.dus.biz.id#%F0%9F%87%B7%F0%9F%87%BARU-45.159.251.8-1597
