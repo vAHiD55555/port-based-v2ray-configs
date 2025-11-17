@@ -1,5 +1,6 @@
 trojan://17178783-0dd7-4544-bf6b-e0694a1e3da7@141.94.222.214:2053?path=%2FFree-VPN-CF-Geo-Project%2F141.94.222.214%3D2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://fa115af5-0647-4549-acd9-5166695ea2de@185.114.72.31:2053?path=%2FFree-VPN-CF-Geo-Project%2F185.114.72.31%3D2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%40v2FreeHub%20%F0%9F%87%AA%F0%9F%87%B8
+vless://79a01b8d-48a7-424a-97d6-d4fa0f1bb2f2@104.17.148.22:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&host=port.api-music-fa.com&type=ws&sni=port.api-music-fa.com#I%201197%20%28%40Outline_Vpn%29%20free
 vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&type=ws&sni=om3.omidsuccess.uk#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%F0%9F%92%B2
 vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&host=om3.omidsuccess.uk&type=ws&sni=om3.omidsuccess.uk#BESTIIVPNBOT
 trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?allowInsecure=0&sni=joss.dus.biz.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F65.109.227.138%3D2053#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
