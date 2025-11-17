@@ -1,2 +1,1 @@
-trojan://f311aff6-6cd2-4d62-8765-25d879b2516a@83.217.9.110:24443?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/83.217.9.110=24443&host=joss.gpj.web.id#%E6%9C%AA%E7%9F%A511
 vless://aa7f42cc-616f-4550-9a87-4b85bb409121@178.239.123.216:24443?encryption=none&security=tls&sni=vless3.datatestvless.click&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=vless3.datatestvless.click&path=%2F%3Fed%3D2560#q_351
