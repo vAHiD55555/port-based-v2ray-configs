@@ -4,10 +4,11 @@ trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?path=%2FFree-VP
 trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?path=%2FFree-VPN-CF-Geo-Project%2F57.129.16.72%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.130.66:2053?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.130.66:2053?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
-trojan://eb7339c5-70e4-4c7b-b5ef-4128adc8136a@38.180.72.162:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/38.180.72.162=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A52
-trojan://6c1babeb-4b4e-4173-81d4-753b3a4dc202@185.229.66.213:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/185.229.66.213=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A57
-trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/57.129.16.72=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A59
-trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.199.32.191=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A526
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.130.66:2053?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.199.32.191=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A5
+trojan://eb7339c5-70e4-4c7b-b5ef-4128adc8136a@38.180.72.162:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/38.180.72.162=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A58
+trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/57.129.16.72=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A514
+trojan://6c1babeb-4b4e-4173-81d4-753b3a4dc202@185.229.66.213:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/185.229.66.213=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A517
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.130.66:2053?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Hddify
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1 VIP
