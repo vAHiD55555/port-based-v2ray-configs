@@ -1,2 +1,1 @@
-trojan://f311aff6-6cd2-4d62-8765-25d879b2516a@83.217.9.110:24443?sni=joss.gpj.web.id#%F0%9F%87%B9%F0%9F%87%B7TR%E5%9C%9F%E8%80%B3%E5%85%B6
 trojan://f311aff6-6cd2-4d62-8765-25d879b2516a@83.217.9.110:24443?security=tls&sni=joss.gpj.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F83.217.9.110%3D24443&Host=joss.gpj.web.id#%F0%9F%87%B9%F0%9F%87%B7TR-83.217.9.110-1451

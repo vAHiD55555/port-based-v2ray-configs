@@ -2,9 +2,10 @@ trojan://eb7339c5-70e4-4c7b-b5ef-4128adc8136a@38.180.72.162:2053?path=%2FFree-VP
 trojan://6c1babeb-4b4e-4173-81d4-753b3a4dc202@185.229.66.213:2053?path=%2FFree-VPN-CF-Geo-Project%2F185.229.66.213%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B7%F0%9F%87%BA
 trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?path=%2FFree-VPN-CF-Geo-Project%2F91.199.32.191%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
 trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?path=%2FFree-VPN-CF-Geo-Project%2F57.129.16.72%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%AA
-trojan://fa115af5-0647-4549-acd9-5166695ea2de@185.114.72.31:2053?sni=joss.gpj.web.id#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
-trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?sni=joss.gpj.web.id#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
-trojan://17178783-0dd7-4544-bf6b-e0694a1e3da7@141.94.222.214:2053?sni=joss.gpj.web.id#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF7
+trojan://eb7339c5-70e4-4c7b-b5ef-4128adc8136a@38.180.72.162:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/38.180.72.162=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A52
+trojan://6c1babeb-4b4e-4173-81d4-753b3a4dc202@185.229.66.213:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/185.229.66.213=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A57
+trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/57.129.16.72=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A59
+trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.199.32.191=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A526
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Hddify
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1 VIP
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Selinc
