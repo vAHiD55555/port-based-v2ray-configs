@@ -1,7 +1,6 @@
 trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?path=%2FFree-VPN-CF-Geo-Project%2F217.30.10.31%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B1
 trojan://2302eb2b-9401-4176-a4da-b41d4cd55756@185.247.184.186:8443?path=%2FFree-VPN-CF-Geo-Project%2F185.247.184.186%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AE%F0%9F%87%B9
 trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443?path=%2FFree-VPN-CF-Geo-Project%2F158.178.206.197%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
-vless://2a66ff80-ad6a-4559-9797-936b6824d295@new-sv-gr.shoponetop.com:8443?security=none&encryption=none&host=cdn.jsdelivr.net&headerType=http&type=tcp#%40meli_proxyy`
 vless://0db05419-5dab-4c66-85f6-12be9de74f70@103.253.43.210:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=5hKDqL2dBu7jbCfC_xW5omNEGUzPme8qF4mJOrXuHGY&sni=google.com#VPNKEY-Hong
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
