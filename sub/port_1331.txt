@@ -61,7 +61,6 @@ vless://ff14e39f-46f2-49d2-b74a-f22bc830ae2c@95.134.130.146:1331?encryption=none
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.204.136:1331/?type=tcp&security=tls&sni=www.nintendogames.net#%253E%253E%2540oneclickvpnkeys%3A%3AJP
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.136.130:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.136.130-1495
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.204.136:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.204.136-0263
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.81.84:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-1191
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.240.91:1331?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.240.91-0594
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:1331?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.131.243-0601
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:1331?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.144-0610
@@ -71,3 +70,4 @@ trojan://253bc477d4e43c209f2d427272968280@160.16.124.55:1331?security=tls&sni=ww
 trojan://253bc477d4e43c209f2d427272968280@160.16.138.24:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-0778
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.29-0780
 trojan://253bc477d4e43c209f2d427272968280@160.16.231.103:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.231.103-0794
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.81.84:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-1191
