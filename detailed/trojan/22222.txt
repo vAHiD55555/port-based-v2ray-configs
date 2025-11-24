@@ -1,15 +1,10 @@
 trojan://telegram-id-privatevpns@3.127.91.148:22222?allowInsecure=1&sni=3.127.91.148#%F0%9F%87%A9%F0%9F%87%AA%20_DE_%E5%BE%B7%E5%9B%BD
-trojan://telegram-id-privatevpns@3.127.91.148:22222?sni=3.127.91.148#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-trojan://telegram-id-privatevpns@52.57.38.0:22222?sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A538
+trojan://telegram-id-privatevpns@52.57.38.0:22222?sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A53
+trojan://telegram-id-privatevpns@3.127.91.148:22222?sni=3.127.91.148#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD5
 trojan://telegram-id-privatevpns@52.57.38.0:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#DE_speednode_0005
-trojan://telegram-id-privatevpns@13.38.207.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:13ms
-trojan://telegram-id-privatevpns@15.188.156.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
-trojan://telegram-id-privatevpns@35.157.161.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:143ms
-trojan://telegram-id-privatevpns@51.44.94.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
-trojan://telegram-id-privatevpns@63.178.126.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
-trojan://telegram-id-privatevpns@3.66.82.171:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B16%5D
-trojan://telegram-id-privatevpns@51.45.12.251:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B17%5D
-trojan://telegram-id-privatevpns@13.39.249.245:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B18%5D
+trojan://telegram-id-privatevpns@63.181.59.118:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B11%5D
+trojan://telegram-id-privatevpns@63.180.109.192:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B12%5D
+trojan://telegram-id-privatevpns@35.181.120.20:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B13%5D
 trojan://telegram-id-directvpn@44.193.210.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ho3ino00+%D8%A2%D8%AE%D9%88%D9%86%D8%AF%DA%AF%D9%86%DA%AF+%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1
 trojan://telegram-id-privatevpns@52.19.49.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#VPNAzadiOfficiali[🔰ایرلند]
 trojan://telegram-id-directvpn@18.118.16.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔰

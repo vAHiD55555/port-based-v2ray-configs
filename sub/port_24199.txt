@@ -2,6 +2,8 @@ vless://17088e1c-2ec5-41e9-e948-f711d0a2bbee@91.99.179.41:24199?security=none&en
 vless://17a571a8-59a8-477c-be18-98fcd910ead5@91.99.179.41:24199?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato🌻
 vless://1e49e16b-cd75-4abd-94e5-eff0af68d9fd@159.69.220.135:24199?encryption=none&type=tcp&security=none#DONALD-24
 vless://30b69e63-4207-44fd-a42b-cdf8a92bc4d5@37.27.40.194:24199?encryption=none&type=tcp&security=none#Donald-28
+vless://320c06e7-7197-495a-9e66-4dbed644ff23@157.180.29.25:24199?encryption=none&type=ws&security=none#Donald_vpn-35
+vless://320c06e7-7197-495a-9e66-4dbed644ff23@157.180.29.25:24199?security=none&encryption=none&host=/?TELEGRAM@JKVPN@JKVPN@JKVPNed=2048&type=ws#@meli_proxyy
 vless://5d99fbfb-1039-4c74-8fff-57864279c0a7@159.69.220.135:24199?encryption=none&type=tcp&security=none#Donald_vpn-27
 vless://61d840fc-8695-4870-ba81-47fc82f7787b@157.180.29.25:24199?encryption=none&type=ws&security=none#Donald-34
 vless://785ab786-f32c-4000-9054-6709ad5b5faa@37.27.40.194:24199?encryption=none&type=tcp&security=none#Donald_vpn-29
