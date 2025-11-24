@@ -5,18 +5,23 @@ trojan://0e0c9c2a-6166-4337-bdfc-675602365807@141.94.204.212:2053?path=%2FFree-V
 trojan://a69221dc-069f-4526-b137-de487c746ec9@65.109.211.85:2053?path=%2FFree-VPN-CF-Geo-Project%2F65.109.211.85%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?path=%2FFree-VPN-CF-Geo-Project%2F188.132.129.199%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%B9%F0%9F%87%B7
 trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053#%F0%9F%87%AB%F0%9F%87%B7%20_FR_%E6%B3%95%E5%9B%BD
-trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?sni=joss.gpj1.web.id#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD3
-trojan://eb7339c5-70e4-4c7b-b5ef-4128adc8136a@38.180.72.162:2053?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
+trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/57.129.16.72=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A514
+trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/188.132.129.199=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A528
+trojan://0e0c9c2a-6166-4337-bdfc-675602365807@141.94.204.212:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/141.94.204.212=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A529
+trojan://83794b09-d50a-4e6e-9559-1372b6299e89@162.19.246.187:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/162.19.246.187=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A536
+trojan://a69221dc-069f-4526-b137-de487c746ec9@65.109.211.85:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/65.109.211.85=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A555
+trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/178.33.161.196=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A557
+trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/188.132.129.199=2053&host=joss.gpj1.web.id#🇷🇸[openproxylist.com] trojan-RS
+trojan://313aa28a-c3b3-43a6-9fd0-44bb0e6a0950@77.91.69.141:2053?path=/Free-VPN-CF-Geo-Project/77.91.69.141=2053&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#@V2rayNGVPN <= کانفیگ رایگان
+trojan://313aa28a-c3b3-43a6-9fd0-44bb0e6a0950@77.91.69.141:2053?path=/Free-VPN-CF-Geo-Project/77.91.69.141=2053&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام 🇮🇱
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Hddify
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1 VIP
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Selinc
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#All-@IRAN_V2RAY1
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#All-@V2rayAlpha--9
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Channel : @vpnserverrr
-trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧@FreakConfig
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🔥Join Telegram:@azarbayjab1🟣
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
-trojan://bpb-trojan@104.18.34.21:2053?security=tls&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&fp=chrome&alpn=http/1.1#t.me/entryNET/config=1849569790386047
 trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN[همراه اول]
 trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN⚙ ایرانسل
 trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053/?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F57.129.16.72%3D2053&security=tls&sni=joss.gpj1.web.id#%253E%253E%2540oneclickvpnkeys%3A%3ADE
@@ -43,3 +48,9 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-3452
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-3503
 trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#%F0%9F%8F%81RELAY-104.21.44.185-5438
+trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/188.132.129.199=2053&host=joss.gpj1.web.id#рҹҮ·рҹҮё[openproxylist.com] trojan-RS
+trojan://313aa28a-c3b3-43a6-9fd0-44bb0e6a0950@77.91.69.141:2053?path=/Free-VPN-CF-Geo-Project/77.91.69.141=2053&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#@V2rayNGVPN <= Ъ©Ш§ЩҶЩҒЫҢЪҜ ШұШ§ЫҢЪҜШ§ЩҶ
+trojan://313aa28a-c3b3-43a6-9fd0-44bb0e6a0950@77.91.69.141:2053?path=/Free-VPN-CF-Geo-Project/77.91.69.141=2053&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#вҡңпёҸрқ—қрқ—јрқ—¶рқ—» вһ  @tik7net_vpn Ъ©Ш§ЩҶШ§Щ„ ШӘЩ„ЪҜШұШ§Щ… рҹҮ®рҹҮұ
+trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#рҹ”ҘJoin Telegram:@azarbayjab1рҹҹЈ
+trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN[ЩҮЩ…ШұШ§ЩҮ Ш§ЩҲЩ„]
+trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNNвҡҷ Ш§ЫҢШұШ§ЩҶШіЩ„
