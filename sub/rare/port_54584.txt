@@ -1,1 +1,2 @@
 trojan://93db5318-9c09-45fd-9adf-4c0e005cbe06@168.138.192.16:54584?path=%2FFree-VPN-CF-Geo-Project%2F168.138.192.16%3D54584&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#%40v2FreeHub%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://93db5318-9c09-45fd-9adf-4c0e005cbe06@168.138.192.16:54584?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/168.138.192.16=54584&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A59
