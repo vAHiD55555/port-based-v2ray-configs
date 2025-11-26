@@ -1,12 +1,10 @@
 trojan://telegram-id-directvpn@3.76.168.69:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-directvpn@3.127.91.148:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20_DE_%E5%BE%B7%E5%9B%BD
-trojan://telegram-id-directvpn@3.76.168.69:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://telegram-id-directvpn@51.45.12.251:22223?sni=trojan.burgerip.co.uk#US
+trojan://telegram-id-directvpn@3.76.168.69:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
+trojan://telegram-id-directvpn@51.45.12.251:22223?sni=trojan.burgerip.co.uk#US2
 trojan://telegram-id-directvpn@3.127.91.148:22223?sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD6
 trojan://telegram-id-directvpn@51.45.12.251:22223?allowInsecure=1&sni=trojan.burgerip.co.uk#US_speednode_0044
-trojan://telegram-id-directvpn@13.39.66.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1849792508266938
 trojan://telegram-id-directvpn@18.184.205.81:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3025 | Germany
-trojan://telegram-id-directvpn@63.180.86.134:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1849744063529140
 trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.45.12.251-1177
 trojan://telegram-id-directvpn@3.76.168.69:22223?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.76.168.69-1413
 trojan://telegram-id-directvpn@3.127.91.148:22223?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.127.91.148-1416
