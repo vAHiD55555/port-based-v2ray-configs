@@ -2,7 +2,6 @@ vless://329e44bd-fc86-4c49-93fc-6e32a3e5a5af@49.13.62.117:30052?type=tcp&securit
 vless://438ef8ae-78b3-4354-b1ea-07df6217bb11@91.98.175.72:30052?type=tcp&security=none#Donald3
 vless://4e46d557-88c0-45b6-ab9b-788c7eb21559@91.98.175.72:30052?type=tcp&security=none#Donald2
 vless://59b3abd5-64b1-4e55-9b3d-0b11af126141@91.99.179.41:30052?type=tcp&security=none#Donald5
-vless://952ed71d-c003-4ce0-8698-8bb06b308e2b@157.90.247.32:30052?type=tcp&security=none#DONALD
 vless://9fe81ea8-3475-4727-b744-6aa36611bdff@91.99.179.41:30052?type=tcp&security=none#Donald6
 vless://b298aa50-90fc-4fe0-83d4-8bfa24fb064b@91.98.175.72:30052?type=tcp&security=none#DoNald4
 vless://bccc3c73-e31b-49de-aa24-ac22251f4ca1@157.90.247.32:30052?type=tcp&security=none#Donald_vpn
