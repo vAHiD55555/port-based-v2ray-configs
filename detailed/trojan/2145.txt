@@ -1,8 +1,8 @@
 trojan://BxceQaOe@160.16.242.183:2145?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@160.16.242.183:2145?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
-trojan://BxceQaOe@160.16.242.183:2145?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
+trojan://BxceQaOe@160.16.242.183:2145?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://BxceQaOe@160.16.242.183:2145?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://BxceQaOe@160.16.212.152:2145?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.212.152-1159
-trojan://BxceQaOe@153.121.67.215:2145?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.67.215-5537
-trojan://BxceQaOe@153.121.53.187:2145?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.53.187-5610
-trojan://BxceQaOe@160.16.82.24:2145?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.82.24-5611
+trojan://BxceQaOe@160.16.242.183:2145?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.242.183-1140
+trojan://BxceQaOe@160.16.212.152:2145?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.212.152-5535
+trojan://BxceQaOe@153.121.67.215:2145?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.67.215-5545
+trojan://BxceQaOe@160.16.82.24:2145?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.82.24-5645
