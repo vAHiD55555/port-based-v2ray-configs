@@ -1,1 +1,2 @@
 vless://35a0361a-c0d4-42e0-9022-b3c9f647837d@167.235.67.79:11260/?encryption=none&host=fast.com&type=tcp&headerType=http#@Geek_Spot
+vless://35a0361a-c0d4-42e0-9022-b3c9f647837d@167.235.67.79:11260?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@vpn_meliii
