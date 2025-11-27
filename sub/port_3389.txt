@@ -1,3 +1,17 @@
+trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-156%40free-nodes
+trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&sni=sbank.ir#%E6%9C%AA%E7%9F%A5%20TROJAN-168%40free-nodes
+trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-184%40free-nodes
+trojan://b09d2aaa443af97a@211.72.35.152:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-249%40free-nodes
+trojan://182228812d1e0f23@60.249.3.229:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-259%40free-nodes
+trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-349%40free-nodes
+trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-380%40free-nodes
+trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#%E6%9C%AA%E7%9F%A5%20TROJAN-435%40free-nodes
+trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-482%40free-nodes
+trojan://182228812d1e0f23@60.249.3.230:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-557%40free-nodes
+trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-577%40free-nodes
+trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-604%40free-nodes
+trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-626%40free-nodes
+trojan://7b06d22a8a7c764f@211.72.35.153:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-633%40free-nodes
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.166.88.5:3389#@V2rayNG3
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.236.197.205-1514
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.188.99:3389#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.99-2155
