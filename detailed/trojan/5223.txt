@@ -1,4 +1,3 @@
-trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@hk3.t.sgateway.link:5223?sni=pod-hk-z1.psusercontent.com#%E6%9C%AA%E7%9F%A526
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@hk3.t.sgateway.link:5223?allowInsecure=0&sni=pod-hk-z1.psusercontent.com#%E6%9C%AA%E7%9F%A5%20TROJAN-160%40free-nodes
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@psg2-ag.t.sgateway.link:5223?sni=pod-kr-g1.psusercontent.com#%E6%9C%AA%E7%9F%A5%20TROJAN-253%40free-nodes
 trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@hk3.t.sgateway.link:5223?allowInsecure=0&sni=pod-hk-z1.psusercontent.com#%E6%9C%AA%E7%9F%A5%20TROJAN-436%40free-nodes
@@ -13,7 +12,7 @@ trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@kr2.t.sgateway.link:5223?security=tls&
 trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@kr1.t.sgateway.link:5223?security=tls&sni=pod-kr-2020712915.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.179.165-0089
 trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@us3.t.sgateway.link:5223?security=tls&sni=pod-us-z1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.179.140-0082
 trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@us2.t.sgateway.link:5223?security=tls&sni=pod-us-z1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.179.144-0081
-trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@us1.t.sgateway.link:5223?security=tls&sni=pod-us-z1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.180.41-0080
+trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@us1.t.sgateway.link:5223?security=tls&sni=pod-us-z1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.179.144-0080
 trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@pus3-ag.t.sgateway.link:5223?security=tls&sni=pod-us-g1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.179.140-0078
 trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@pus2-ag.t.sgateway.link:5223?security=tls&sni=pod-us-g1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.180.41-0077
 trojan://TC64iX8lkokJaa3226ejFj3fgrNhMe5Q@pus1-ag.t.sgateway.link:5223?security=tls&sni=pod-us-g1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.179.140-0076
