@@ -1,5 +1,4 @@
-trojan://vpn@109.120.132.80:2025?security=tls&type=ws&sni=vkvd127.mycdn.me&path=/#%E6%9C%AA%E7%9F%A550
-trojan://vpn@45.82.14.144:2025?security=tls&type=ws&sni=dns.google.com&path=/#%E6%9C%AA%E7%9F%A5156
+trojan://vpn@45.82.14.144:2025?security=tls&type=ws&sni=dns.google.com&path=/#%E6%9C%AA%E7%9F%A519
 trojan://vpn@45.82.14.144:2025?security=tls&sni=dns.google.com&type=ws&path=/&Host=dns.google.com#%E6%9C%AA%E7%9F%A5%20TROJAN-251%40free-nodes
 trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me&type=ws&path=/&Host=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A5%20TROJAN-630%40free-nodes
 trojan://vpn@45.82.14.144:2025?security=tls&sni=dns.google.com&type=ws&path=/&Host=dns.google.com#%F0%9F%87%B7%F0%9F%87%BARU-45.82.14.144-0815
