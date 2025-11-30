@@ -1,5 +1,3 @@
-trojan://f7021513-aeed-4092-a084-52e4be1d8a1e@103.45.245.208:2053?path=%2FFree-VPN-CF-Geo-Project%2F103.45.245.208%3D2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%40v2FreeHub%20%F0%9F%87%AA%F0%9F%87%B8
-trojan://585c210b-a566-4a60-9acc-c3999effc431@80.211.205.173:2053?path=%2FFree-VPN-CF-Geo-Project%2F80.211.205.173%3D2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#%40v2FreeHub%20%F0%9F%87%A8%F0%9F%87%BF
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%E6%9C%AA%E7%9F%A518
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%E6%9C%AA%E7%9F%A525
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%E6%9C%AA%E7%9F%A5101
@@ -32,24 +30,21 @@ trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?path=/Free-VPN
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN[همراه اول]
 trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN⚙ ایرانسل
-trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws&path=/yamtekodasayahhh&Host=kotlet.arshiacomplus.dpdns.org#%F0%9F%8F%81RELAY-104.20.5.134-0708
-trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?security=tls&sni=NOp-55q.pAgEs.dEv&type=ws&path=/trGPZDfetEwuO25SAs?ed=2560&Host=NOp-55q.pAgEs.dEv#%F0%9F%8F%81RELAY-172.66.44.214-0737
-trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?security=tls&sni=joss.gpj1.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&Host=joss.gpj1.web.id#%F0%9F%87%AA%F0%9F%87%B8ES-178.33.161.196-1200
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-1235
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.209-1288
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-1364
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-1453
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-1463
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-1465
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-1492
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.145.107-1587
-trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?security=tls&sni=joss.gpj.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F95.182.120.208%3D2053&Host=joss.gpj.web.id#%F0%9F%87%B7%F0%9F%87%BARU-95.182.120.208-1970
-trojan://fa115af5-0647-4549-acd9-5166695ea2de@185.114.72.31:2053?security=tls&sni=joss.gpj.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F185.114.72.31%3D2053&Host=joss.gpj.web.id#%F0%9F%87%AA%F0%9F%87%B8ES-185.114.72.31-1974
-trojan://17178783-0dd7-4544-bf6b-e0694a1e3da7@141.94.222.214:2053?security=tls&sni=joss.gpj.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F141.94.222.214%3D2053&Host=joss.gpj.web.id#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.222.214-1981
+trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws&path=/yamtekodasayahhh&Host=kotlet.arshiacomplus.dpdns.org#%F0%9F%8F%81RELAY-104.20.6.134-0719
+trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?security=tls&sni=NOp-55q.pAgEs.dEv&type=ws&path=/trGPZDfetEwuO25SAs?ed=2560&Host=NOp-55q.pAgEs.dEv#%F0%9F%8F%81RELAY-172.66.44.214-0748
+trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?security=tls&sni=joss.gpj1.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&Host=joss.gpj1.web.id#%F0%9F%87%AA%F0%9F%87%B8ES-178.33.161.196-1211
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-1246
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.209-1299
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-1375
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-1464
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-1474
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-1476
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-1503
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.145.107-1598
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-3432
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-49.212.221.47-3445
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.167.100.203-3571
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-3687
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-3823
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-3852
-trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#%F0%9F%8F%81RELAY-104.21.44.185-5852
+trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#%F0%9F%8F%81RELAY-104.21.44.185-5851
