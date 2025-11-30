@@ -1,8 +1,9 @@
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.204.136:2890?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.89.176:2890?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.89.176:2890?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD%203.1MB%2Fs
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.81.84:2890/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🔒19@oneclickvpnkeys
-trojan://2cf6d686799e6fa95316394064f26c0a@153.121.76.9:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.76.9-1961
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.204.136:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.204.136-2816
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.89.176:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-2817
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.63.16:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.63.16-6079
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.117.182:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-6074
+trojan://2cf6d686799e6fa95316394064f26c0a@153.121.76.9:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.76.9-0293
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.204.136:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.204.136-1961
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.89.176:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-1962
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.63.16:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.63.16-6080
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.117.182:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-6075
