@@ -1,4 +1,4 @@
-trojan://vip@time.is:2087?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A544
+trojan://vip@time.is:2087?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A564
 trojan://vip@time.is:2087?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-222%40free-nodes
 trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-407%40free-nodes
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#@meli_proxyy
@@ -20,7 +20,6 @@ vless://3bdf1812-863a-4056-a548-952a384b88df@ziro1.zarashop0.ir:2087?mode=gun&se
 vless://3bdf1812-863a-4056-a548-952a384b88df@ziro1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=ziro1.zarashop0.ir#telegram @mtmvpn 🌈
 vless://48d34244-8fac-4fa4-b4fe-0931474f183d@104.21.69.44:2087?path=/#Telegram@V2ray_Alpha&security=tls&encryption=none&host=hq1.NEWrEtR432as.inFo&type=ws&sni=hq1.NEWrEtR432as.inFo#@V2rayNG3
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&type=ws&sni=CFN06.ALaNHiaHo.COm#@vmesskhodam
-vless://58ceae57-1ea5-4056-869d-cc10255a5e90@vvv.floorshoping22.com:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=vvv.floorshoping22.com#Channel : @Mrsoulb 🏴🏳
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://63720775-3e50-4e69-87b4-eb0b7aa7d9ad@65.109.220.140:2087?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
