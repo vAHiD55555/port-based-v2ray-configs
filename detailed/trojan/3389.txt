@@ -1,8 +1,7 @@
-trojan://182228812d1e0f23@60.249.3.229:3389?security=tls#%E6%9C%AA%E7%9F%A518
-trojan://b09d2aaa443af97a@211.72.35.152:3389?security=tls#%E6%9C%AA%E7%9F%A545
-trojan://7b06d22a8a7c764f@211.72.35.153:3389?security=tls#%E6%9C%AA%E7%9F%A546
-trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#%E6%9C%AA%E7%9F%A564
-trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#%E6%9C%AA%E7%9F%A576
+trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#%E6%9C%AA%E7%9F%A519
+trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#%E6%9C%AA%E7%9F%A5102
+trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%E6%9C%AA%E7%9F%A5109
+trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%E6%9C%AA%E7%9F%A5178
 trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-156%40free-nodes
 trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&sni=sbank.ir#%E6%9C%AA%E7%9F%A5%20TROJAN-168%40free-nodes
 trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-184%40free-nodes
