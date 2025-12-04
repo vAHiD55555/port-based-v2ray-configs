@@ -20,9 +20,8 @@ vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvle
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%D9%87%D9%84%D9%86%D8%AF
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%202
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%203
-vless://77fb812d-2eb5-430e-afea-ccacc9795a86@speedtest.net:80?path=%2FJoin----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&security=none&encryption=none&host=downloadha.global.ssl.fastly.net&type=ws#DE%20VLESS-73%20%7C%20free-nodes
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#DE%20VLESS-114%20%7C%20free-nodes
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news&security=none&encryption=none&host=cdn.ir&type=ws#DE%20VLESS-121%20%7C%20free-nodes
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#DE%20VLESS-105%20%7C%20free-nodes
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news&security=none&encryption=none&host=cdn.ir&type=ws#DE%20VLESS-112%20%7C%20free-nodes
 vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
 vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@start.adsplustnet.com:80?path=%2Ftest%3Dtrue&security=none&alpn=http%2F1.1&encryption=none&host=d1.hetzner.com&type=ws&sni=epgs9l0n.salamtrip.ir#
