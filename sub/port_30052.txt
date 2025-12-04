@@ -1,4 +1,3 @@
-vless://329e44bd-fc86-4c49-93fc-6e32a3e5a5af@49.13.62.117:30052?type=tcp&security=none#Donald-free
 vless://438ef8ae-78b3-4354-b1ea-07df6217bb11@91.98.175.72:30052?type=tcp&security=none#Donald3
 vless://4e46d557-88c0-45b6-ab9b-788c7eb21559@91.98.175.72:30052?type=tcp&security=none#Donald2
 vless://59b3abd5-64b1-4e55-9b3d-0b11af126141@91.99.179.41:30052?type=tcp&security=none#Donald5
