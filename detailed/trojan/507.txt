@@ -3,7 +3,11 @@ trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?allowInsecure=0&sni=
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.44.99:507?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5179%205.2MB%2Fs
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?allowInsecure=0&sni=www.nintendogames.net#SG%20TROJAN-08%20%7C%20free-nodes
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?allowInsecure=0&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-888%20%7C%20free-nodes
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?allowInsecure=0&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-929%20%7C%20free-nodes
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?allowInsecure=0&sni=www.nintendogames.net#SG%20TROJAN-10%20%7C%20free-nodes
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?allowInsecure=0&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-169%20%7C%20free-nodes
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?allowInsecure=0&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-997%20%7C%20free-nodes
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?allowInsecure=0&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1384%20%7C%20free-nodes
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1896%20%7C%20free-nodes
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.44.99:507?allowInsecure=0&sni=www.nintendogames.net#🇸🇬[openproxylist.com] trojan-SG
+trojan://79314e99f0a473fe86efc7827942ad00@153.121.44.99:507?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.44.99-4150
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.107.37:507?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.107.37-4151
