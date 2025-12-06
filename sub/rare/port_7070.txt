@@ -1,2 +1,3 @@
-vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#CA%20VLESS-131%20%7C%20free-nodes
+vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#CA%20VLESS-136%20%7C%20free-nodes
 vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070/?type=tcp&encryption=none&flow=&security=tls&sni=src.smnsoft.com&alpn=h2,http/1.1&allowInsecure=1#🪝31@oneclickvpnkeys
+vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#CA%20VLESS-131%20%7C%20free-nodes
