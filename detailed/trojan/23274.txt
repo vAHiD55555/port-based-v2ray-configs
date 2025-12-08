@@ -1,5 +1,5 @@
-trojan://FodSUXysuS@180.131.145.161:23274?security=reality&sni=cloudflare.com&fp=chrome&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&sid=14&spx=/&allowInsecure=1&type=grpc#US%20TROJAN-138%20%7C%20free-nodes
-trojan://FodSUXysuS@180.131.145.161:23274?security=tls&sni=cloudflare.com#%E6%9C%AA%E7%9F%A5%20TROJAN-449%20%7C%20free-nodes
-trojan://FodSUXysuS@180.131.145.161:23274?security=tls&sni=cloudflare.com#%E6%9C%AA%E7%9F%A5%20TROJAN-682%20%7C%20free-nodes
-trojan://FodSUXysuS@180.131.145.161:23274?security=tls&sni=cloudflare.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1630%20%7C%20free-nodes
-trojan://FodSUXysuS@180.131.145.161:23274/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&sid=14#🟢66@oneclickvpnkeys
+trojan://FodSUXysuS@180.131.145.161:23274?#US3
+trojan://FodSUXysuS@180.131.145.161:23274?mode=gun&amp;security=reality&amp;pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&amp;fp=chrome&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=14#US%20TROJAN-132%20%7C%20free-nodes
+trojan://FodSUXysuS@180.131.145.161:23274?security=tls&sni=cloudflare.com#%E6%9C%AA%E7%9F%A5%20TROJAN-687%20%7C%20free-nodes
+trojan://FodSUXysuS@180.131.145.161:23274?security=tls&sni=cloudflare.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1358%20%7C%20free-nodes
+trojan://FodSUXysuS@180.131.145.161:23274?security=tls&sni=cloudflare.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1710%20%7C%20free-nodes

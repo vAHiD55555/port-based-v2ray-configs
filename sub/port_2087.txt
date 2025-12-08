@@ -1,13 +1,12 @@
-trojan://wb6368@92.243.75.49:2087?security=tls&type=ws&sni=hsdgbuys.pages.dev&path=/#%E6%9C%AA%E7%9F%A575
-trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-296%20%7C%20free-nodes
-trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net#%E6%9C%AA%E7%9F%A5%20TROJAN-344%20%7C%20free-nodes
-trojan://vip@time.is:2087?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-470%20%7C%20free-nodes
-trojan://vip@time.is:2087?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1155%20%7C%20free-nodes
-trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1211%20%7C%20free-nodes
-trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1229%20%7C%20free-nodes
-trojan://vip@time.is:2087?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1560%20%7C%20free-nodes
-trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1662%20%7C%20free-nodes
-trojan://vip@time.is:2087?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1863%20%7C%20free-nodes
+trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net#%E6%9C%AA%E7%9F%A559
+trojan://vip@time.is:2087?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A5104
+trojan://vip@time.is:2087?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-380%20%7C%20free-nodes
+trojan://vip@time.is:2087?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-493%20%7C%20free-nodes
+trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1381%20%7C%20free-nodes
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1478%20%7C%20free-nodes
+trojan://vip@time.is:2087?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1574%20%7C%20free-nodes
+trojan://wb6368@92.243.75.49:2087?security=tls&type=ws&sni=hsdgbuys.pages.dev&path=/#%E6%9C%AA%E7%9F%A5%20TROJAN-1757%20%7C%20free-nodes
+trojan://vip@time.is:2087?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1930%20%7C%20free-nodes
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozY29vZDVOWE1CMDY4N2pnZndud1Y4aW5nRXl2RHF4cC95YXkvaE1ZNXlVPQ==@18.193.122.106:2087#@daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMEpqUWJCby85N1ZzYnNBZEllT29NKzRydWNjUGpQSnh1eXZIQkNCak9jPQ==@3.73.78.182:2087#@daredevill_404
@@ -70,7 +69,6 @@ vless://d052fe01-dafb-444d-b0fd-1d42211a5534@Net.1lagvpn13.cfd:2087?mode=gun&sec
 vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6
 vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@www.speedtest.net:2087?type=httpupgrade&path=/@saeedtelcom?ed=2048&host=unitedkingdom.iranfastspeed.net&security=tls&fp=chrome&alpn=h2,http/1.1&sni=unitedkingdom.iranfastspeed.net#@CaV2ray ⚡️
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.46.158:2087?path=/?ed=2560&security=tls&encryption=none&host=www.x-aniu-j-p.netlib.re&type=ws&sni=www.x-aniu-j-p.netlib.re#@V2rayNGVPN <= کانفیگ رایگان
 vless://e258977b-e413-4718-a3af-02d75492c349@download.yunzhongzhuan.com:2087?path=/proxyip=proxyip.fxxk.dedyn.io:443&security=tls&encryption=none&host=3344.xmma.xyz&type=ws&sni=3344.xmma.xyz#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://e258977b-e413-4718-a3af-02d75492c349@hj.xmm1993.top:2087?path=/?ed=2560&security=tls&encryption=none&host=www.x-aniu---sg.netlib.re&fp=chrome&type=ws&sni=www.x-aniu---sg.netlib.re#🏴‍☠️@FreakConfig
 vless://fbb4ea34-67db-4eed-a833-96eaf21d2875@104.24.176.7:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#sww1azet
