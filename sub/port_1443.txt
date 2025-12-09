@@ -1,14 +1,12 @@
-trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-349%20%7C%20free-nodes
-trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-720%20%7C%20free-nodes
-trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1605%20%7C%20free-nodes
+trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%E6%9C%AA%E7%9F%A544
+trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1103%20%7C%20free-nodes
+trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1494%20%7C%20free-nodes
+trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1873%20%7C%20free-nodes
 vless://2a2a6062-003c-4f44-b293-ee0d0416afee@144.124.254.31:1443/?type=grpc&encryption=none&flow=&serviceName=admin&sni=ozon.ru&fp=chrome&security=reality&pbk=JuDrUZsgHt0i_hz3kOhQbiX708vbjR9uHHFwi3fWqSc&sid=47e92a4b0513b27f#♾️47@oneclickvpnkeys
 vless://2a2a6062-003c-4f44-b293-ee0d0416afee@91.84.118.130:1443/?type=grpc&encryption=none&flow=&serviceName=admin&sni=ozon.ru&fp=chrome&security=reality&pbk=JuDrUZsgHt0i_hz3kOhQbiX708vbjR9uHHFwi3fWqSc&sid=47e92a4b0513b27f#♾️35@oneclickvpnkeys
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:1443?security=reality&encryption=none&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:1443?security=reality&encryption=none&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://3fb9fd6f-00c8-408c-b62b-fa87a4c6abec@deu.hackkcah.xyz:1443?mode=stream-one&path=/vless-xhttp/&security=none&encryption=none&host=deu.hackkcah.xyz&type=xhttp#azadiiivpn 🎀
 vless://e21a049b-3c52-445c-8463-bda32e6c2a93@ind.hackkcah.xyz:1443?mode=stream-one&path=/vless-xhttp/&security=none&encryption=none&extra={'headers': {}, 'noGRPCHeader': True, 'xmux': {'maxConnections': '6'}}&host=ind.hackkcah.xyz&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
-vless://e21a049b-3c52-445c-8463-bda32e6c2a93@ind.hackkcah.xyz:1443?mode=stream-one&path=/vless-xhttp/&security=none&encryption=none&extra={'headers': {}, 'noGRPCHeader': True, 'xmux': {'maxConnections': '6'}}&host=ind.hackkcah.xyz&type=xhttp#t.me/entryNET/config=1850947619138008
-vless://ee662031-f0e9-47ec-aecf-f649e1a1c3ea@aus.hackkcah.xyz:1443?mode=stream-one&path=/vless-xhttp/&security=none&encryption=none&host=ausa.hackkcah.xyz&type=xhttp#azadiiivpn 🎀
 vless://e21a049b-3c52-445c-8463-bda32e6c2a93@ind.hackkcah.xyz:1443?mode=stream-one&path=%2Fvless-xhttp%2F&security=none&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&host=ind.hackkcah.xyz&type=xhttp#%3E%3E%40v2rayngvpn%3A%3AIN
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t23.qifei.app:1443?security=reality&sni=www.amazon.com&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&type=tcp&flow=xtls-rprx-vision&encryption=none#qoli_1741
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-106.180.225.69-2332

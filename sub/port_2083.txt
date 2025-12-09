@@ -1,6 +1,6 @@
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVk1FU1Mt5pyq55+lPue+juWbvS1ORuino+mUgeiHquWItuWJpy1DaGF0R1BULVRpa1Rvay1Zb3VUdWJlLWhndHJvamFuLnphYmMubmV0OjIwODMiLCJhZGQiOiJoZ3Ryb2phbi56YWJjLm5ldCIsInBvcnQiOiIyMDgzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImU2Mzk1YzIwLTQ1NzEtNGIzNC1kNmIxLTU1YTVkMzZlNDllYSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZTYzOTVjMjAiLCJob3N0IjoiaGd0cm9qYW4uemFiYy5uZXQiLCJ0bHMiOiJ0bHMifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJoZ3Ryb2phbi56YWJjLm5ldCIsInBvcnQiOiIyMDgzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImU2Mzk1YzIwLTQ1NzEtNGIzNC1kNmIxLTU1YTVkMzZlNDllYSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZTYzOTVjMjAiLCJob3N0IjoiaGd0cm9qYW4uemFiYy5uZXQiLCJ0bHMiOiJ0bHMifQ==
-trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1727%20%7C%20free-nodes
+trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com#%E6%9C%AA%E7%9F%A5%20TROJAN-444%20%7C%20free-nodes
 trojan://Aimer@188.164.159.43:2083?path=/?ed?ed=2048@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#telegram 🍊 v2ray_configs_pools
 vless://127afb57-1197-4e9f-995e-ea78deddc226@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفی
 vless://127afb57-1197-4e9f-995e-ea78deddc226@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
@@ -17,8 +17,6 @@ vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?encryption=non
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?encryption=none&security=tls&sni=RR-FF.pages.DEV&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assets?ed=2560#@Daily_Configs
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?encryption=none&security=tls&sni=RR-FF.pages.DEV&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assets?ed=2560#⚡ @Fast78_Channel | Best Free Configs
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=/assets?ed=2560&security=tls&encryption=none&fp=chrome&type=ws&sni=RR-FF.pages.DEV#@V2rayNGVPN <= کانفیگ رایگان
-vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=/assets?ed=2560&security=tls&encryption=none&fp=chrome&type=ws&sni=RR-FF.pages.DEV#t.me/entryNET/config=1850942586423699
-vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=/assets?ed=2560&security=tls&encryption=none&host=RR-FF.pages.DEV&fp=chrome&type=ws&sni=RR-FF.pages.DEV#@V2RAYROZ
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=/assets?ed=2560&security=tls&encryption=none&host=RR-FF.pages.DEV&fp=chrome&type=ws&sni=RR-FF.pages.DEV#🏴‍☠️@FreakConfig
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=/assets?ed=2560&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=RR-FF.pages.DEV#Channel : @Mrsoulb 🏴🏳
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=RR-FF.pages.DEV#Channel : @Mrsoulb 🏴🏳
