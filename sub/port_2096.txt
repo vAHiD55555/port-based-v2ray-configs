@@ -1,5 +1,5 @@
 vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?path=%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=fast01.0860852.xyz#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40HajmVPN_Config`
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?path=/&security=tls&encryption=none&insecure=0&host=smart.zarnovia.info&type=ws&allowInsecure=0&sni=smart.zarnovia.info#%E6%9C%AA%E7%9F%A5%20VLESS-02%20%7C%20free-nodes
+vless://38021ff2-6778-4363-92b1-d70ac11acf51@25.25.25.253:2096?&security=tls&fp=chrome&sni=spplesh.hatlikarious.org&type=ws&headerType=none&host=spplesh.hatlikarious.org&path=%2F#%E6%9C%AA%E7%9F%A5%20VLESS-105%20%7C%20free-nodes
 vless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&security=tls&encryption=none&host=638874929583359846.zagreb-prx-dnraaad.info&type=ws&sni=638874929583359846.zagreb-prx-dnraaad.info#@meli_proxyy
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security=tls&encryption=none&host=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&sni=JuOf8QfKy3.VpBeThOrVp002.InFo#@meli_proxyy
 vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#%40Daily_Configs
