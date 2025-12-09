@@ -1,12 +1,6 @@
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-489%20%7C%20free-nodes
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1025%20%7C%20free-nodes
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1413%20%7C%20free-nodes
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1594%20%7C%20free-nodes
+trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-176%20%7C%20free-nodes
+trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-826%20%7C%20free-nodes
+trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1074%20%7C%20free-nodes
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray ⚡️
 trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-1573
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5144
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-174%20%7C%20free-nodes
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-235%20%7C%20free-nodes
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1505%20%7C%20free-nodes
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1603%20%7C%20free-nodes
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
