@@ -1,9 +1,11 @@
-trojan://wb6368@92.243.75.49:2087?security=tls&type=ws&sni=hsdgbuys.pages.dev&path=/#%E6%9C%AA%E7%9F%A55
-trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net#%E6%9C%AA%E7%9F%A5%20TROJAN-518%20%7C%20free-nodes
-trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-613%20%7C%20free-nodes
-trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1024%20%7C%20free-nodes
-trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1402%20%7C%20free-nodes
-trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1409%20%7C%20free-nodes
+trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net#%E6%9C%AA%E7%9F%A5%20TROJAN-444%20%7C%20free-nodes
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-551%20%7C%20free-nodes
+trojan://wb6368@92.243.75.49:2087?security=tls&type=ws&sni=hsdgbuys.pages.dev&path=/#%E6%9C%AA%E7%9F%A5%20TROJAN-589%20%7C%20free-nodes
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-792%20%7C%20free-nodes
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-942%20%7C%20free-nodes
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1223%20%7C%20free-nodes
+trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1602%20%7C%20free-nodes
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=ws&path=/&Host=hsdgbuys.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1749%20%7C%20free-nodes
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozY29vZDVOWE1CMDY4N2pnZndud1Y4aW5nRXl2RHF4cC95YXkvaE1ZNXlVPQ==@18.193.122.106:2087#@daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMEpqUWJCby85N1ZzYnNBZEllT29NKzRydWNjUGpQSnh1eXZIQkNCak9jPQ==@3.73.78.182:2087#@daredevill_404
@@ -47,6 +49,8 @@ vless://9a75dcc5-c651-4e60-9b5e-f16ff412004f@Net.1lagvpn13.cfd:2087?mode=gun&sec
 vless://a2a73002-f706-4506-816d-3fc813b7b616@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#h1dsymia
 vless://a2a73002-f706-4506-816d-3fc813b7b616@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#h1dsymia  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 vless://a7f014f3-8308-4b69-f6e5-fe9584570338@def.irimcs.org:2087?type=grpc&serviceName=@CatVpns&security=reality&pbk=nw5p42lKknkOxt2REHCHPwThSaNIqbwGrz5WNCfh9U4&fp=chrome&sni=greenpepper.ir&sid=df91&spx=/#@Catvpns-🇩🇪--Channel
+vless://a7f014f3-8308-4b69-f6e5-fe9584570338@def.irimcs.org:2087?type=grpc&serviceName=@CatVpns&security=reality&pbk=nw5p42lKknkOxt2REHCHPwThSaNIqbwGrz5WNCfh9U4&fp=chrome&sni=greenpepper.ir&sid=df91&spx=/#telegram 🚀 v2ray_configs_pools
+vless://a7f573cf-f042-4133-8fa5-b24088621d83@Mashhad-Website.thorav.ir:2087?mode=gun&security=reality&encryption=none&pbk=yXSBn5-hiNy4K9Lg_w2E0cGXSkcwXtwGn6r46UJ96HU&fp=chrome&spx=/&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=55#telegram 🌈 v2ray_configs_pools
 vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:2087?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH【🇦🇪】
 vless://b24185c0-f815-48c8-b93c-ae82f7c8e493@5.75.204.151:2087?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH【🇩🇪】
 vless://b3c8ec95-d6ca-4eee-b6bd-11aa0ee87153@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13
