@@ -1,6 +1,11 @@
 trojan://BxceQaOe@43.206.220.221:3579?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@43.206.220.221:3579?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
-trojan://BxceQaOe@43.199.190.102:3579?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1800%20%7C%20free-nodes
+trojan://BxceQaOe@43.206.220.221:3579?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5192
+trojan://BxceQaOe@43.206.220.221:3579?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-298%20%7C%20free-nodes
+trojan://BxceQaOe@43.199.190.102:3579?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-865%20%7C%20free-nodes
+trojan://BxceQaOe@54.199.213.179:3579?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1250%20%7C%20free-nodes
+trojan://BxceQaOe@43.206.220.221:3579?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1598%20%7C%20free-nodes
+trojan://BxceQaOe@43.206.220.221:3579?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1826%20%7C%20free-nodes
 trojan://BxceQaOe@54.199.213.179:3579?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.213.179-1520
 trojan://BxceQaOe@43.199.190.102:3579?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-43.199.190.102-1712
 trojan://BxceQaOe@43.206.220.221:3579?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.220.221-4192
