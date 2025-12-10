@@ -1,10 +1,9 @@
 trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5183
-trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-209%20%7C%20free-nodes
-trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-347%20%7C%20free-nodes
-trojan://telegram-id-directvpn@13.39.61.165:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-930%20%7C%20free-nodes
-trojan://telegram-id-directvpn@13.39.61.165:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-999%20%7C%20free-nodes
-trojan://telegram-id-directvpn@13.39.61.165:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1795%20%7C%20free-nodes
-trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1937%20%7C%20free-nodes
+trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-346%20%7C%20free-nodes
+trojan://telegram-id-directvpn@13.39.61.165:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1219%20%7C%20free-nodes
+trojan://telegram-id-directvpn@13.39.61.165:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1411%20%7C%20free-nodes
+trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1457%20%7C%20free-nodes
+trojan://telegram-id-directvpn@13.39.61.165:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1550%20%7C%20free-nodes
 trojan://telegram-id-directvpn@18.184.185.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1851047035802001
 trojan://telegram-id-directvpn@35.156.173.150:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1851015567129630
 trojan://telegram-id-directvpn@35.157.53.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1851011792261987
