@@ -1,5 +1,7 @@
 trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%E6%9C%AA%E7%9F%A512
-trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1719%20%7C%20free-nodes
+trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-860%20%7C%20free-nodes
+trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1329%20%7C%20free-nodes
+trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1745%20%7C%20free-nodes
 vless://b4e82e10-b8bb-447b-82d2-3a70eb41f8da@91.98.158.243:4603?security=&encryption=none&headerType=none&type=tcp#همراه اول-Mcl (🚀) VLESS 🔗
 vless://b4e82e10-b8bb-447b-82d2-3a70eb41f8da@[2a01:4f8:c014:276c::1]:4603?security=&encryption=none&headerType=none&type=tcp#Irancell-ایرانسل (🚀) VLESS 🔗
-trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.195.48-1305
+trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.195.48-2250
