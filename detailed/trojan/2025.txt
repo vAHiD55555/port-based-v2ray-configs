@@ -1,5 +1,6 @@
-trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A5%20TROJAN-223%20%7C%20free-nodes
-trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me&type=ws&path=/&Host=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A5%20TROJAN-1344%20%7C%20free-nodes
-trojan://vpn@109.120.132.80:2025?security=tls&type=ws&sni=vkvd127.mycdn.me&path=/#%E6%9C%AA%E7%9F%A5%20TROJAN-1712%20%7C%20free-nodes
+trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A5%20TROJAN-434%20%7C%20free-nodes
+trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A5%20TROJAN-1110%20%7C%20free-nodes
+trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me&type=ws&path=/&Host=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A5%20TROJAN-1593%20%7C%20free-nodes
+trojan://vpn@109.120.132.80:2025?security=tls&type=ws&sni=vkvd127.mycdn.me&path=/#%E6%9C%AA%E7%9F%A5%20TROJAN-1753%20%7C%20free-nodes
 trojan://vpn@109.120.132.80:2025?security=tls&sni=vkvd127.mycdn.me#%F0%9F%87%B8%F0%9F%87%AASE-109.120.132.80-0752
 trojan://vpn@45.82.14.144:2025?security=tls&sni=dns.google.com#%F0%9F%87%B7%F0%9F%87%BARU-45.82.14.144-1174
