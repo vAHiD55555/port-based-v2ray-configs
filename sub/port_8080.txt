@@ -2,8 +2,6 @@ vless://%50a%72sa%73%68%6fna%6d-Bot-37@104.17.147.22:8080?type=grpc&serviceName=
 vless://098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germany1.fiogoir-germany1.site:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogVk1FU1Mt5pyq55+lPuW+t+WbvS1ORuino+mUgeWNsOW6puWcsOWMuumdnuiHquWItuWJpy1DaGF0R1BULVRpa1Rvay1Zb3VUdWJlLTU0Ny5ydHhjb25maWd6LnNob3A6ODA4MCIsImFkZCI6IjU0Ny5ydHhjb25maWd6LnNob3AiLCJwb3J0IjoiODA4MCIsInR5cGUiOiJub25lIiwiaWQiOiI0NGU1NzQ4NS1lY2NjLTQ2ZWYtODA4Zi1jZDE3YWM4MTAwMTgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0BNYWxpbmRhNjEwNCIsImhvc3QiOiI1NDcucnR4Y29uZmlnei5zaG9wIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVk1FU1Mt576O5Zu9PuW+t+WbvS1ORuino+mUgeWNsOW6puWcsOWMuumdnuiHquWItuWJpy1DaGF0R1BULVRpa1Rvay1Zb3VUdWJlLXN1cHBvcnQuem9vbS51czo4MDgwIiwiYWRkIjoic3VwcG9ydC56b29tLnVzIiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDRlNTc0ODUtZWNjYy00NmVmLTgwOGYtY2QxN2FjODEwMDE4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ATWFsaW5kYTYxMDQiLCJob3N0Ijoic3VwcG9ydC56b29tLnVzIiwidGxzIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.190:8080#%E6%9C%AA%E7%9F%A594%20102.4KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#%E6%9C%AA%E7%9F%A5161%20212.5KB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#%E6%9C%AA%E7%9F%A5%20SS-45%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%E6%9C%AA%E7%9F%A5%20SS-46%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.190:8080#%E6%9C%AA%E7%9F%A5%20SS-59%20%7C%20free-nodes
@@ -30,13 +28,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.192:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#@daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQW5rWUVQNFlBQi9vcnVnQW5pQ1dScWRkMElaUEVIRVVxRzAvalZwbkRvPQ==@3.72.247.237:8080#@daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#SS-@V2rayAlpha--43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#👉🆔 @v2ray_configs_pool 📡 🇳🇱NL 🧭 2.1MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#SS-@V2rayAlpha--50
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#SS-@V2rayAlpha--51
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080#SS-@V2rayAlpha--52
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#WiFi-@V2rayAlpha--3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#✅
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080?note=--Telegram--@NetifyVPN--#telegram ⚡️ v2ray_configs_pools
@@ -68,13 +64,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080?note=--Telegram--@NetifyVPN--#🇳🇱[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#@MARAMBASHI 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#@V2rayNGVPN <= کانفیگ رایگان
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#[🇳🇱]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#https://t.me/v2raynplus |🇳🇱🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#SS-@V2rayAlpha--74
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#@ShikaVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#@V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#@V2rayNGVPN <= کانفیگ رایگان
@@ -101,7 +95,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#SS-@V2rayAlpha--71
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#⚙️13@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#👉🆔 @v2ray_configs_pool 📡 🇳🇱NL 🧭 2.5MB/s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#👉🆔 @v2ray_configs_pool 📡 🇳🇱NL 🧭 3.3MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#SS-@V2rayAlpha--65
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#@HiByeVPNN❤️‍🔥⚡☘️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#@V2rayNGVPN <= کانفیگ رایگان
@@ -111,7 +105,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#https://t.me/v2raynplus |🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆²
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#✅
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#💠11@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
@@ -123,6 +116,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#SS-@V2rayAlpha--95
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#https://t.me/v2raynplus |🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#https://t.me/v2raynplus |🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#t.me/entryNET/config=1851302457510606
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#@MARAMBASHI 🩵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#@V2ray1_Ng
@@ -161,7 +155,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl16.saint.y
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.103:8080#@daredevill_404
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.105:8080#@daredevill_404
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.218:8080#@daredevill_404
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080#👉🆔 @v2ray_configs_pool 📡 🇸🇬SG 🧭 2.5MB/s
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080#👉🆔 @v2ray_configs_pool 📡 🇸🇬SG 🧭 2.2MB/s
 trojan://FR8IHksUYg@170.64.132.131:8080?security=none&headerType=http&type=tcp#All-@V2rayAlpha--42
 vless://021bb229-6306-40aa-e5f5-f752b73ed148@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@FarazV2ray
 vless://021bb229-6306-40aa-e5f5-f752b73ed148@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@V2RAYROZ
@@ -170,7 +164,6 @@ vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@104.21.112.1:8080?path=/olem/ws?ed=
 vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://0566baab-9d3d-4da7-cd81-af7eed13dc74@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
-vless://0566baab-9d3d-4da7-cd81-af7eed13dc74@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#✅
 vless://0566baab-9d3d-4da7-cd81-af7eed13dc74@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://06323b30-d2ec-42ba-8748-a8da00eebdf5@104.19.54.50:8080?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH&path=Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=chrome&type=ws#All🇩🇪 | @FILTERK0SH
 vless://0abae059-b759-4040-a928-f84a57b8fbd4@51.68.198.51:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/YUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#🇫🇷[Telegram:NetifyVPN]
@@ -198,7 +191,6 @@ vless://2d13884e-5731-47f7-bb32-0c2ba0656d84@172.66.40.99:8080?type=ws&path=/@Ma
 vless://2d2587d8-5090-4587-9ac0-d6e4c243e397@157.180.81.19:8080?encryption=none&type=grpc&mode=gun&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#1🇫🇮 | @Evay_vpn
 vless://2dee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=/&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#🇬🇧@azadiiivpn 🎀
 vless://31c9edf3-b4ee-434d-987c-81058273e887@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46174-1
-vless://3d42bd31-5640-4e5e-a7e5-59e59a040341@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#Germany
 vless://3d42bd31-5640-4e5e-a7e5-59e59a040341@deadseectelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://41684565-d5c0-587f-8b23-1c649997a5c9@www.speedtest.net:8080?path=/conf0088?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&host=TELEGRAM-ID-COnF0088.TeLeCoNoMIsEr.SBS.&type=ws#@HiByeVPNN❤️‍🔥🏆💫
 vless://4182c59d-3b09-4bc9-ef7a-71e5628749e8@cafearz.com:8080?type=ws&encryption=none&path=/olem/ws?ed=1024&host=shad.ir.de.test.digicyber.click.&security=none#@melov2ray🇩🇪
@@ -214,9 +206,7 @@ vless://4ca08fdf-c993-4f90-b258-f0efb4a53351@104.16.1.106:8080?mode=auto&path=/&
 vless://4ca08fdf-c993-4f90-b258-f0efb4a53351@104.16.1.106:8080?mode=auto&path=/&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#id@vmesskhodam
 vless://4ca08fdf-c993-4f90-b258-f0efb4a53351@104.16.1.106:8080?mode=auto&path=/&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://4f97c392-f6d2-47bc-b58c-1a8bd271b591@172.66.40.99:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://5057639a-b876-400e-bc0e-bf5ed00a2413@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@V2ray1_Ng
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5.10.214.123:8080?mode=auto&path=/dashboard?ed=#TELEGRAM-v2ray_configs_pools?ed=512&security=none&encryption=none&host=goat.postpapet.ir&type=xhttp#@HiByeVPNN❤️‍🔥⚡
-vless://51e7067c-f032-45e2-b76e-ef39f0a51744@193.233.19.240:8080?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.smnsoft.com#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://5218f249-128d-40bf-d9b9-64004622b502@cafearz.com:8080?type=ws&encryption=none&path=/olem/ws?ed=1024&host=shad.ir.de.test.digicyber.click.&security=none#@melov2ray🇩🇪
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@94.131.111.175:8080?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5b48c89b-c27f-4429-953e-7ec0a8902603@91.98.168.4:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#🇩🇪
@@ -282,13 +272,13 @@ vless://Parsashonam-Bot-37@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Pars
 vless://Parsashonam-Bot-37@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#MCI--@IRAN_V2RAY1
 vless://Parsashonam-Bot-39@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#@HiByeVPNN❤️‍🔥⚡☘️
 vless://Parsashonam-Bot-40@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#All-@V2rayAlpha--10
+vless://a0a57495-0836-4b85-afbf-ba1ef3f86c27@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#1
 vless://a976e0dd-6d59-467d-ba67-fb66596ce010@63.141.128.14:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@Daily_Configs
 vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@MARAMBASHI 🇧🇷
 vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#🇩🇪@FreakConfig
 vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=shop.slimshopboyss.ir&type=xhttp#@TEHRANARGO 🎖️🚀 عضو شو
-vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@ShikaVPN
 vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@V2RAYROZ
 vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@V2ray1_Ng
 vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@deadseectelegram.slimshopboyss.ir:8080?encryption=none&security=none&type=xhttp&host=shop.slimshopboyss.ir&path=/?ed=2048&mode=auto#@Daily_Configs
@@ -301,6 +291,8 @@ vless://bc5ce0b3-87d2-4879-a3c9-e4c06bde72c9@157.180.81.19:8080?encryption=none&
 vless://c54ba325-c1be-4845-a2e7-922b5cd211c3@104.16.157.108:8080?path=/@v2ray_configs_pools-@-v2ray_configs_pools@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools?ed=2048&security=&encryption=none&host=ma.nanvrfood.ir.&type=httpupgrade#telegram 🍊 v2ray_configs_pools
 vless://c8b7f8ad-4895-4aaa-9327-3b3076f169c5@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=none&encryption=none&host=az221.mashkestan.com&type=ws#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
 vless://cb7e4a6b-b510-4c6c-b5db-005a4b5d0e87@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46178-1
+vless://cd9d2923-5ab2-4e30-e000-90b64b48d80e@norman.ns.cloudflare.com:8080?path=/TELEGRAM--BYA--CHANEL----@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN?ed=2048&security=none&encryption=none&host=joKer.mEmBerGolaBi.IR&type=ws#🇩🇪All² | @JKVPN
+vless://cd9d2923-5ab2-4e30-e000-90b64b48d80e@norman.ns.cloudflare.com:8080?security=none&type=ws&path=/TELEGRAM--BYA--CHANEL----@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN?ed=2048&host=joKer.mEmBerGolaBi.IR&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE 🧭 4.3MB/s
 vless://ce0e69bb-ad5a-45b5-892d-976ba5ce547c@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://ce0e69bb-ad5a-45b5-892d-976ba5ce547c@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://ce3e5a3c-1001-4b3c-9008-a55644f9c5a7@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46185-1
@@ -323,7 +315,6 @@ vless://e46eaad2-7b77-415f-8e5f-6e69d671e614@157.180.81.19:8080?encryption=none&
 vless://e5a6e242-6434-4d9b-fed1-03da3ffcf134@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@V2ray1_Ng
 vless://e5a6e242-6434-4d9b-fed1-03da3ffcf134@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@MARAMBASHI 🇮🇹
 vless://e5a6e242-6434-4d9b-fed1-03da3ffcf134@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#t.me/entryNET/config=1851246463620249
-vless://e5a6e242-6434-4d9b-fed1-03da3ffcf134@am8.amin-1.ir:8080?mode=auto&path=/?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#t.me/entryNET/config=1851215012159608
 vless://e5a6e242-6434-4d9b-fed1-03da3ffcf134@am8.amin-1.ir:8080?mode=auto&path=/?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
 vless://e5a6e242-6434-4d9b-fed1-03da3ffcf134@clyde.ns.cloudflare.com:8080?mode=auto&path=/?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
 vless://e60ac179-ff5e-4c01-88be-1d221cb8e61a@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46177-1
@@ -440,22 +431,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.155:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.202-0362
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.58-0364
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.199-0355
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%E2%99%A8%EF%B8%8F%20%40PlanB_net%20%D9%85%D9%86%D8%A8%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%E2%9A%A1%E2%80%A2%7C%E2%80%A2%40confegraiagn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%E2%9A%A1%E2%80%A2%7C%E2%80%A2%40confegraiagn`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.192:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.192:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.210-0236
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0240

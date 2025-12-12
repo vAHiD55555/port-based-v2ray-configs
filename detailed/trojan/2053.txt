@@ -1,8 +1,8 @@
-trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?security=tls&sni=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A5119
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%E6%9C%AA%E7%9F%A5129
-trojan://iwangjie@141.94.68.216:2053?type=ws&sni=nodes.830901.xyz&path=/?ed=2560#%E6%9C%AA%E7%9F%A5141
-trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn1.868863.xyz:2053?sni=17654164551316.796812.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%E6%9C%AA%E7%9F%A5179
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%E6%9C%AA%E7%9F%A533
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%E6%9C%AA%E7%9F%A586
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#%E6%9C%AA%E7%9F%A588
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%E6%9C%AA%E7%9F%A5124
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#%E6%9C%AA%E7%9F%A5157
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-153%20%7C%20free-nodes
 trojan://iwangjie@135.125.232.253:2053?security=tls&sni=nodes.830901.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-215%20%7C%20free-nodes
 trojan://iwangjie@135.125.232.253:2053?security=tls&sni=nodes.830901.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-217%20%7C%20free-nodes
@@ -63,10 +63,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@Hddify
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1 VIP
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#All-@IRAN_V2RAY1
-trojan://iwangjie@135.125.232.253:2053?sni=nodes.830901.xyz&type=ws&path=/?ed=2560&fp=chrome#[🇩🇪]t.me/ConfigsHub
-trojan://iwangjie@135.125.232.253:2053?sni=nodes.830901.xyz&type=ws&path=/?ed=2560&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE 🧭 3.2MB/s
-trojan://iwangjie@141.94.68.216:2053?sni=nodes.830901.xyz&type=ws&path=/?ed=2560&fp=chrome#[🇫🇷]t.me/ConfigsHub
-trojan://iwangjie@141.94.68.216:2053?sni=nodes.830901.xyz&type=ws&path=/?ed=2560&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇫🇷FR 🧭 2.5MB/s
 trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN[همراه اول]
 trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN⚙ ایرانسل
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-58.254.187.207-0652
