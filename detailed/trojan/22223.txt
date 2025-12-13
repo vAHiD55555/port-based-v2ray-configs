@@ -1,4 +1,4 @@
 trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1049%20%7C%20free-nodes
-trojan://telegram-id-directvpn@3.126.180.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.180.72.13:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#⭕23@oneclickvpnkeys
+trojan://telegram-id-directvpn@52.28.28.48:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3175 | Germany
 trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.45.12.251-1548
