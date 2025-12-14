@@ -1,6 +1,6 @@
-trojan://trojan@ip.sb:8443?path=%2F&security=tls&insecure=1&host=fofang.pages.dev&type=ws&allowInsecure=1&sni=fofang.pages.dev#%40Filter_breaker
 trojan://trojan@45.192.222.112:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#_CN_%E4%B8%AD%E5%9B%BD
-trojan://trojan@ip.sb:8443?security=tls&type=ws&sni=fofang.pages.dev&path=/&host=fofang.pages.dev#%E6%9C%AA%E7%9F%A59
+trojan://trojan@45.192.222.112:8443?sni=store.timimi.dpdns.org#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
+trojan://trojan@ip.sb:8443?security=tls&type=ws&sni=fofang.pages.dev&path=/&host=fofang.pages.dev#%E6%9C%AA%E7%9F%A511
 trojan://8kQaUakMBb@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-rpm37orb
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://OsIAlYkky0@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-h65ly4g0
@@ -26,6 +26,7 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cher
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-2767
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.83.12-2813
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8572
+trojan://trojan@ip.sb:8443?path=%2F&security=tls&insecure=1&host=fofang.pages.dev&type=ws&allowInsecure=1&sni=fofang.pages.dev#%40Filter_breaker
 trojan://trojan@www.visa.com.sg:8443?security=tls&sni=pangpi.pages.dev#%E6%9C%AA%E7%9F%A521
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%E6%9C%AA%E7%9F%A534
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%E6%9C%AA%E7%9F%A535
