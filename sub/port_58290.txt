@@ -6,4 +6,4 @@ trojan://90y2l3mu48d10uy3ibad@195.154.202.112:58290/?type=tcp&security=tls&sni=a
 trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨64@oneclickvpnkeys
 trojan://90y2l3mu48d10uy3ibad@51.159.103.137:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨75@oneclickvpnkeys
 trojan://90y2l3mu48d10uy3ibad@51.159.103.137:58290?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_14--@V2rayAlpha
-trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?security=tls&sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.202.25-0925
+trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?security=tls&sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.202.25-0896
