@@ -1,1 +1,2 @@
 vless://46620819-3467-4757-adfa-9c7f141f007f@45.77.15.170:52516?security=tls&type=none&sni=john996.win&fp=chrome#t.me/entryNET/config=1851678687432485
+vless://46620819-3467-4757-adfa-9c7f141f007f@45.77.15.170:52516?encryption=none&security=tls&sni=john996.win&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#qol_100

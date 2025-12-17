@@ -1,1 +1,2 @@
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@202.85.53.160:7000?path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&encryption=none&host=ak.suoni.nyc.mn&fp=random&type=ws&sni=ak.suoni.nyc.mn#%F0%9F%8D%89%E2%9D%87%EF%B8%8F7
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@202.85.53.160:7000?encryption=none&security=tls&sni=ak.suoni.nyc.mn&fp=random&insecure=0&allowInsecure=0&type=ws&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#qol_085
