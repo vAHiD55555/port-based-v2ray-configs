@@ -3,4 +3,4 @@ vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&enc
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&encryption=none&headerType=none&type=tcp#r♡ya
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&type=tcp&encryption=none&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
-vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AGB
+vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AGB
