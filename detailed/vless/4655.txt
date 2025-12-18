@@ -6,3 +6,6 @@ vless://82f9beee-a609-47f2-9142-14c25258dc0b@194.113.73.136:4655?security=none&e
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3APL
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ANL
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_3%20%F0%9F%A7%AD%205.0MB%2Fs#کانفیگ_پرسرعت
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@85.9.216.145:4655?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_4%20%F0%9F%A7%AD%207.7MB%2Fs#کانفیگ_پرسرعت
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%B7FR_3%20%F0%9F%A7%AD%205.1MB%2Fs#کانفیگ_پرسرعت
