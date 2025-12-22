@@ -1,3 +1,3 @@
-vless://bf2778fe-c7b3-4b01-a771-16c65cf1b265@vpn-srv-10.circlevpn.net:50858?security=tls&encryption=none&headerType=none&type=tcp#%3E%3E%40outline_vpn%3A%3AXX
 vless://bf2778fe-c7b3-4b01-a771-16c65cf1b265@vpn-srv-10.circlevpn.net:50858?encryption=none&security=tls&sni=vpn-srv-10.circlevpn.net&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#qol_357
 vless://bf2778fe-c7b3-4b01-a771-16c65cf1b265@45.61.150.49:50858?encryption=none&security=tls&sni=vpn-srv-10.circlevpn.net&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#qol_367
+vless://bf2778fe-c7b3-4b01-a771-16c65cf1b265@vpn-srv-10.circlevpn.net:50858?security=tls&encryption=none&headerType=none&type=tcp#%3E%3E%40outline_vpn%3A%3AXX

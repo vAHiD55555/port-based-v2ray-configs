@@ -1,8 +1,8 @@
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@13.114.27.223:3169?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@13.114.27.223:3169?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@13.114.27.223:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://e2722c0fb503f8a592436c12bce0509a@153.121.38.213:3169?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.38.213-1817
-trojan://e2722c0fb503f8a592436c12bce0509a@153.121.73.102:3169?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.73.102-2403
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@13.114.27.223:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@13.114.27.223:3169?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.27.223-0912
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@3.112.16.3:3169?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.16.3-1824
 trojan://e2722c0fb503f8a592436c12bce0509a@43.206.213.82:3169?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://e2722c0fb503f8a592436c12bce0509a@153.121.38.213:3169?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://e2722c0fb503f8a592436c12bce0509a@43.206.213.82:3169?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
