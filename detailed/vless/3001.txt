@@ -1,5 +1,6 @@
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#⛄26@oneclickvpnkeys
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#[⚡] ➠ @V2ray_official
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#⛄26@ConfigV2RayNG
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#🇳🇱@FreakConfig
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
