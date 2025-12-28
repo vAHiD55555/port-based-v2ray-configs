@@ -1,7 +1,7 @@
 vless://24a9d8bc-7499-4a65-805b-7728476a0d18@84.234.28.119:51912?security=none&encryption=none&headerType=none&type=tcp#@Broz_time > کانفیگ رایگان
-vless://24a9d8bc-7499-4a65-805b-7728476a0d18@84.234.28.119:51912?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://357fc392-6854-4bce-b678-7a5e61aa87be@84.234.28.119:51912?security=none&encryption=none&headerType=none&type=tcp#@Broz_time > کانفیگ رایگان
-vless://c202e449-04bc-44be-ac4c-dd61d2455c7e@84.234.28.119:51912?security=reality&type=tcp&sni=cdn.getambassador.com&fp=chrome&sid=3c&pbk=0hesu0nLOGTP71vrC7DqVX4L0ZQ1hqeQw0AtEG_23jE&encryption=none#t.me/entryNET/config=1852735899684729
+vless://dafab832-1a0f-4dce-8f0e-176282d2bf1d@84.234.28.119:51912?security=reality&encryption=none&pbk=0hesu0nLOGTP71vrC7DqVX4L0ZQ1hqeQw0AtEG_23jE&headerType=none&fp=chrome&spx=/&type=tcp&sni=cdn.getambassador.com&sid=3c#@Broz_time > کانفیگ رایگان
+vless://dafab832-1a0f-4dce-8f0e-176282d2bf1d@84.234.28.119:51912?security=reality&encryption=none&pbk=0hesu0nLOGTP71vrC7DqVX4L0ZQ1hqeQw0AtEG_23jE&headerType=none&fp=chrome&spx=/&type=tcp&sni=cdn.getambassador.com&sid=3c#@V2rayNGVPN <= کانفیگ رایگان
 vless://394e4c71-fb6a-4e3e-8843-efe4c98ae67e@84.234.28.119:51912?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://ab929dc5-7825-4d46-b69c-67b1d820b92a@84.234.28.119:51912?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://ccf34364-583c-4994-8344-41e4a7bed12c@84.234.28.119:51912?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان

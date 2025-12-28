@@ -93,7 +93,6 @@ vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=8j3f7HD37h.PaGES.dEV#Channel : @Mrsoulb 🏴🏳
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=8j3f7HD37h.PaGES.dEV#[⚡] ➠ @V2ray_official
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#Channel : @Mrsoulb 🏴🏳
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#[🇨🇦]t.me/ConfigsHub
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#rt
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#🏴🏳
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?type=ws&host=8j3f7hd37h.pages.dev&path=/PVlCNDt9CiMEktH3?ed=2560&security=tls&sni=8j3f7HD37h.PaGES.dEV&alpn=http/1.1&fp=chrome&allowInsecure=0#@SiNAVM-vless-53
