@@ -1,0 +1,5 @@
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@141.11.164.240:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@188.132.183.15:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@192.142.18.40:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@45.154.96.35:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@84.200.205.232:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti
