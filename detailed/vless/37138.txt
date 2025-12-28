@@ -1,1 +1,1 @@
-vless://41d65966-c801-4525-8599-5514bab0582b@83.243.86.100:37138?security=reality&type=tcp&sni=refersion.com&fp=chrome&sid=b1f476ba65&pbk=mHLoTJhnz4WMxnjb5JwvOQCnYu0We8dzF7lhyn0PdDU&encryption=none#t.me/entryNET/config=1852669650655125
+vless://41d65966-c801-4525-8599-5514bab0582b@83.243.86.100:37138?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=mHLoTJhnz4WMxnjb5JwvOQCnYu0We8dzF7lhyn0PdDU&sid=b1f476ba65&type=tcp&headerType=none#qo_618
