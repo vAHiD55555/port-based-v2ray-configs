@@ -1,5 +1,5 @@
 trojan://12345678-1234-1234-1234-123456789123@45.8.113.22:50383?allowInsecure=0&sni=support.zoom.us.joss.gvpn2.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2FJP#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 trojan://12345678-1234-1234-1234-123456789123@45.8.113.22:50383?allowInsecure=0&sni=support.zoom.us.joss.gvpn2.web.id#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40stairnode
-trojan://12345678-1234-1234-1234-123456789123@45.8.113.22:50383?sni=support.zoom.us.joss.gvpn2.web.id#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://12345678-1234-1234-1234-123456789123@45.8.113.22:50383?security=tls&sni=support.zoom.us.joss.gvpn2.web.id#%F0%9F%87%AF%F0%9F%87%B5JP-45.8.113.22-1759
+trojan://12345678-1234-1234-1234-123456789123@45.8.113.22:50383?sni=support.zoom.us.joss.gvpn2.web.id#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
+trojan://12345678-1234-1234-1234-123456789123@45.8.113.22:50383?security=tls&sni=support.zoom.us.joss.gvpn2.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2FJP&Host=support.zoom.us.joss.gvpn2.web.id#%F0%9F%87%AF%F0%9F%87%B5JP-45.8.113.22-0918
 trojan://12345678-1234-1234-1234-123456789123@45.8.113.22:50383?sni=support.zoom.us.joss.gvpn2.web.id#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
