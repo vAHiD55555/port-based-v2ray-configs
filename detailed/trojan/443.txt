@@ -1,8 +1,8 @@
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🏁+Uvpn_org
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#%F0%9F%8C%BF%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A56
-trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=%2F66.135.4.222%3A8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#%F0%9F%A6%85%F0%9F%A6%9C2
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?security=tls&sni=bisque.qzz.io&type=ws&path=%2F66.135.4.222%3A8443&Host=bisque.qzz.io#%5BOpenRay%5D%20Dynamic-8625
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=%2F66.135.4.222%3A8443&security=tls&insecure=0&host=bisque.qzz.io&type=ws&allowInsecure=0&sni=bisque.qzz.io#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%F0%9F%AB%86
+trojan://yUHNMwWvenoHBaN5CtqKPwt1CTzXgW@ru2.nnvpn.io:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=ru2.nnvpn.io#%F0%9F%87%B7%F0%9F%87%BA%7C%E2%80%A2%40confegraian`
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.226:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#free%20vpn%20%F0%9F%86%93%20%7C%7C%20%40Kourosh_grn
 trojan://BxceQaOe@219.79.214.159:443?allowInsecure=1&sni=t.me%252Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD
-trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.226:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@203.198.84.221:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
@@ -110,16 +110,13 @@ trojan://sMed9E7gA1@verahk1.uspn.io:443/?type=ws&host=verahk1.uspn.io&path=%2Ftr
 trojan://zWFjJENcljZm@usa.visa.com:443/?type=ws&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@38.180.137.196:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US-38.180.137.196-0921
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.226:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.18.226-1753
+trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443/?type=ws&host=seashell.qzz.io&path=%2F156.254.114.120%3A30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#%F0%9F%8E%A723%40oneclickvpnkeys
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io&allowInsecure=1#%F0%9F%8E%A720%40oneclickvpnkeys
 trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443/?type=ws&host=ivory.qzz.io&path=%2F46.232.122.240%3A8000&security=tls&sni=ivory.qzz.io&allowInsecure=1#%F0%9F%8E%A725%40oneclickvpnkeys
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443/?type=ws&host=tronblue.qzz.io&path=%2F152.32.255.24%3A587&security=tls&sni=tronblue.qzz.io&allowInsecure=1#%F0%9F%8E%A724%40oneclickvpnkeys
-trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443/?type=ws&host=seashell.qzz.io&path=%2F156.254.114.120%3A30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#%F0%9F%8E%A723%40oneclickvpnkeys
-trojan://5a2c16f9@104.19.220.22:443?security=tls&sni=snippets.kkii.eu.org&type=ws&path=%2F%2F&Host=snippets.kkii.eu.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-8628
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443/?type=ws&host=bisque.qzz.io&path=/66.135.4.222:8443&security=tls&sni=bisque.qzz.io&allowInsecure=1#%5BOpenRay%5D%20Dynamic-8495
-trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?security=tls&sni=bisque.qzz.io&type=ws&path=%2F66.135.4.222%3A8443&Host=bisque.qzz.io#%5BOpenRay%5D%20Dynamic-8625
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443/?type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org#%F0%9F%9F%A954%40oneclickvpnkeys
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443/?type=ws&host=bisque.qzz.io&path=%2F66.135.4.222%3A8443&security=tls&sni=bisque.qzz.io#%F0%9F%9F%A942%40oneclickvpnkeys
-trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=%2F66.135.4.222%3A8443&security=tls&insecure=0&host=bisque.qzz.io&type=ws&allowInsecure=0&sni=bisque.qzz.io#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%F0%9F%AB%86
 trojan://5a2c16f9@104.19.55.205:443?security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-104.19.55.205-0271
 trojan://5a2c16f9@104.19.220.22:443?security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-104.19.220.22-0272
 trojan://5a2c16f9@172.64.229.33:443?security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-172.64.229.33-0273
@@ -297,6 +294,10 @@ trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.x
 trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#%F0%9F%8F%81RELAY-104.21.79.246-9135
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-9156
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-9197
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🏁+Uvpn_org
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#%F0%9F%8C%BF%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A56
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=%2F66.135.4.222%3A8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#%F0%9F%A6%85%F0%9F%A6%9C2
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://POORIARED@172.67.134.185:443?security=tls&type=ws&sni=reDfRee8.REDFree8.ir&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#%E6%9C%AA%E7%9F%A53
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.226:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2%20178.5KB%2Fs
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?security=tls&type=ws&sni=bisque.qzz.io&path=/66.135.4.222:8443&host=bisque.qzz.io#%E6%9C%AA%E7%9F%A55
@@ -305,3 +306,4 @@ trojan://3ef03de40a234d209bb2d3807ca0d643@46.29.161.237:443/?type=tcp&security=t
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🇨🇦@FreakConfig
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🇩🇪@FreakConfig
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🇳🇱@FreakConfig
+trojan://5a2c16f9@104.19.220.22:443?security=tls&sni=snippets.kkii.eu.org&type=ws&path=%2F%2F&Host=snippets.kkii.eu.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-8628
