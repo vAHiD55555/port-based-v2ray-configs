@@ -1,8 +1,5 @@
 trojan://telegram-id-privatevpns@13.37.158.14:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#⛄️29@oneclickvpnkeys
 trojan://telegram-id-privatevpns@35.180.171.33:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#⛄️30@oneclickvpnkeys
-trojan://telegram-id-privatevpns@52.29.221.21:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#🎁22@oneclickvpnkeys
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.72.120:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#t.me/entryNET/config=1852876200686873
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.136.51:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#t.me/entryNET/config=1852880288545860
 trojan://telegram-id-directvpn@44.193.210.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ho3ino00+%D8%A2%D8%AE%D9%88%D9%86%D8%AF%DA%AF%D9%86%DA%AF+%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1
 trojan://telegram-id-privatevpns@52.19.49.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#VPNAzadiOfficiali[🔰ایرلند]
 trojan://telegram-id-directvpn@18.118.16.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔰
@@ -83,4 +80,5 @@ trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext
 trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.3.71-9023
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-9025
 trojan://telegram-id-privatevpns@3.68.162.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1852828888136160
+trojan://telegram-id-privatevpns@52.29.221.21:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#🎁22@oneclickvpnkeys
 trojan://telegram-id-privatevpns@54.247.81.31:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#t.me/entryNET/config=1852827127370093
