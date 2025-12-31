@@ -1,3 +1,1 @@
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.147.174:55778?security=reality&encryption=none&headerType=&type=tcp#telegram 🌈 v2ray_configs_pools
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@5.75.201.11:55778?encryption=none&security=reality&sni=&type=tcp&alpn=&host=&path=#telegram 🚀 v2ray_configs_pools
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.99.177.121:55778?encryption=none&security=reality&sni=&type=tcp&alpn=&host=&path=#telegram 🌺 v2ray_configs_pools

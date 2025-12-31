@@ -41,12 +41,3 @@ vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&en
 vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AAZ
 vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ADE
 vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇦🇿AZ_1 🧭 5.0MB/s
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_15 🧭 5.0MB/s
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.102.67:4655?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---security=none&encryption=none&headerType=none&type=tcp#🇵🇱[Telegram:NetifyVPN]
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=&encryption=none&headerType=none&type=tcp#🇷🇺@FreakConfig
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#@Broz_time+>+کانفیگ+رایگان
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#@Broz_time+>+کانفیگ+رایگان
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 🩵
-vless://125ea501-6bbe-453a-ab42-352789be8154@85.9.205.54:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
