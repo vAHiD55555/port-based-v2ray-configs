@@ -1,2 +1,2 @@
-trojan://tg-dns68@47.56.196.176:9443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#t.me/entryNET/config=1853282125067757
 vless://e5017995-2093-491b-a0fa-d4890782d42a@89.208.229.39:9443?security=reality&encryption=none&pbk=quKh5fWN1szzqwVcWJg7SIXfFFFQf3M1K0YiE_bjVDQ&host=v2rayNplus.io&headerType=none&fp=chrome&spx=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=258d1a24fe8f0593#https://t.me/v2rayNplus |🇵🇱
+trojan://tg-dns68@47.56.196.176:9443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#t.me/entryNET/config=1853282125067757
