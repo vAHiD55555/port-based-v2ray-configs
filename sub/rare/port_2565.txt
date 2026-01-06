@@ -1,4 +1,1 @@
 vless://24285832-c456-47f8-9e2f-520e84e33612@82.153.217.154:2565?security=none&type=tcp&headerType=http&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=#🇫🇷 | @External_Net
-vless://3601ddaf-6623-4d16-88c9-fbf8ad4f8a86@116.203.152.240:2565?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti
-vless://3601ddaf-6623-4d16-88c9-fbf8ad4f8a86@31.57.225.23:2565?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti
-vless://3601ddaf-6623-4d16-88c9-fbf8ad4f8a86@45.154.96.185:2565?security=none&encryption=none&host=avidmehregan.com&headerType=http&type=tcp#@NETMelliAnti

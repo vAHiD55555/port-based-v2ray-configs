@@ -25,4 +25,3 @@ vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&en
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2nodes%3A%3AUS
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AXX
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AAZ
-vless://1602a406-a38e-4211-bbdc-3f75c890303d@178.128.245.151:4655?security=none&encryption=none&headerType=none&type=tcp#Channel : @vpnserverrr
