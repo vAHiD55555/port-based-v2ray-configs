@@ -1,7 +1,5 @@
 trojan://5a2c16f9@172.208.36.45:80?path=Telegram@V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-@V2rayAlpha--1
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
-trojan://f8a37993-ea4c-4ab6-bddb-5dfebb8e26d8@sg.multiport1.artunnel57.host:80?security=none&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%2Ftrojan-ntls&amp%3Bhost=sg.multiport1.artunnel57.host#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40armodchannel
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayngconfig
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3639
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8220
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8222
@@ -14,3 +12,5 @@ trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-8885
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-8887
 trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-8891
+trojan://f8a37993-ea4c-4ab6-bddb-5dfebb8e26d8@sg.multiport1.artunnel57.host:80?security=none&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=/trojan-ntls&amp%3Bhost=sg.multiport1.artunnel57.host#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40armodchannel
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayngconfig

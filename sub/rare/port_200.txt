@@ -1,2 +1,1 @@
-vless://46c398b9-b1f5-4998-a968-ad723a475c95@46.62.196.119:200?security=reality&encryption=none&pbk=87Vv-_qJyn9OupUeEZoisP5hLxohLNo0yNiK4rCH4QM&fp=chrome&spx=/&type=grpc&serviceName=/Adamak_vpn&sni=google.com&sid=b53eb572#@Adamak_vpn
-vless://a15ecaa3-1f71-491a-83db-faa289d50486@free2.lithub.ir:200?path=%2F&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40mpproxy
+vless://a15ecaa3-1f71-491a-83db-faa289d50486@free2.lithub.ir:200?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40mpproxy
