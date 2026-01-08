@@ -1,12 +1,14 @@
-trojan://5a2c16f9@51.79.158.58:8443?sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD7
-trojan://5a2c16f9@152.32.215.105:8443?sni=snippets.kkii.eu.org#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
-trojan://5a2c16f9@192.142.4.33:8443?sni=snippets.kkii.eu.org#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
-trojan://5a2c16f9@104.234.151.10:8443?sni=snippets.kkii.eu.org#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
+trojan://3437698@8.35.211.15:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B908
+trojan://3437698@162.159.45.104:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B905
+trojan://3437698@173.245.58.230:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B907
 trojan://123456@bpbg.anguswen.top:8443?path=/eyJqdW5rIjoiNDhOYUJ4WFhzc0EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19&security=tls&alpn=http/1.1&type=ws&sni=BPbG.AnguSWEN.Top#⚡ @Fast78_Channel | Best Free Configs
 trojan://123456@bpbg.anguswen.top:8443?path=/eyJqdW5rIjoiTUp4VFNoMTRLbSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0=?ed=2560&security=tls&alpn=http/1.1&type=ws&sni=BpBg.ANGusWeN.top#⚡ @Fast78_Channel | Best Free Configs
 trojan://123456@bpbg.anguswen.top:8443?path=/eyJqdW5rIjoiU3hiSEZzcm93Z2VaMSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0=?ed=2560&security=tls&alpn=http/1.1&type=ws&sni=bpbg.ANgusWeN.toP#⚡ @Fast78_Channel | Best Free Configs
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://Go5e2nKO8U@45.85.119.179:8443?path=JoinUs@v2rayNG_VPNN&security=tls&host=cc.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2ray_arوصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
+trojan://3437698@162.159.45.104:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#%3E%3E%40V2raNG_DA%3A%3ACA
+trojan://3437698@8.35.211.15:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#%3E%3E%40V2raNG_DA%3A%3AUS
+trojan://3437698@173.245.58.230:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#%3E%3E%40V2raNG_DA%3A%3AUS
 trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#%3E%3E%40vmessiran%3A%3AUS
 trojan://5a2c16f9@104.234.151.10:8443?security=tls&sni=snippets.kkii.eu.org&type=ws&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3WangCai2&Host=snippets.kkii.eu.org#%F0%9F%87%B8%F0%9F%87%ACSG-104.234.151.10-0905
 trojan://5a2c16f9@51.79.158.58:8443?security=tls&sni=snippets.kkii.eu.org&type=ws&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3WangCai2&Host=snippets.kkii.eu.org#%F0%9F%87%B8%F0%9F%87%ACSG-51.79.158.58-0919
