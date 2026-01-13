@@ -1,4 +1,5 @@
 trojan://d30c2d87-9541-4681-a912-e51e190bad2a@220.130.58.136:31101?allowInsecure=1&sni=220.130.58.136#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://d30c2d87-9541-4681-a912-e51e190bad2a@220.130.58.136:31101?sni=220.130.58.136#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港
 trojan://f7bac556-837a-4301-a50f-ae649bf06023@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1943
 trojan://d30c2d87-9541-4681-a912-e51e190bad2a@220.130.58.136:31101?security=tls&sni=220.130.58.136#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1944
