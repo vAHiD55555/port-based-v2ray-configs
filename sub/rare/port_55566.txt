@@ -1,4 +1,3 @@
 vless://1f15e342-9be9-47b1-9666-3d169da1bd27@ip6-free.shakhle.ir:55566?security=none&encryption=none&host=w3.com&headerType=http&type=tcp#All--@V2rayAlpha-16
 vless://1f15e342-9be9-47b1-9666-3d169da1bd27@ip6-free.shakhle.ir:55566?security=none&encryption=none&host=w3.com&headerType=http&type=tcp#All-@V2rayAlpha--8
-vless://1f15e342-9be9-47b1-9666-3d169da1bd27@ip6-free.shakhle.ir:55566?type=tcp&headerType=http&host=w3.com&path=/&security=none#IPv6-Irancell🇩🇪
 vless://f21e9332-f17e-4941-bf3a-1a5c867facf1@ip6-free.shakhle.ir:55566?type=tcp&headerType=http&host=w3.com&path=/&security=none#IPv6-Irancell🇩🇪
