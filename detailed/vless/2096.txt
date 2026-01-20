@@ -114,6 +114,7 @@ vless://12345678-1234-1234-1234-123456789123@185.148.106.61:2096?encryption=none
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#qw_473
 vless://12345678-1234-1234-1234-123456789123@94.247.142.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vless.hubp.de&path=%2Fsnippets#qw_616
 vless://e258977b-e413-4718-a3af-02d75492c349@x.cf.090227.xyz:2096?encryption=none&security=tls&sni=jp.xaniusg2.qzz.io&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jp.xaniusg2.qzz.io&path=%2F%3Fed%3D2560#qw_774
+vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?allowInsecure=0&alpn=http%2F1.1&flow=&fp=chrome&host=&path=%2F&security=tls&sni=8j3f7HD37h.PaGES.dEV&type=ws#%40V2raysCollector%20%F0%9F%8F%B5%EF%B8%8F
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@meli_proxyy
 vless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&security=tls&encryption=none&host=638874929583359846.zagreb-prx-dnraaad.info&type=ws&sni=638874929583359846.zagreb-prx-dnraaad.info#@meli_proxyy
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security=tls&encryption=none&host=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&sni=JuOf8QfKy3.VpBeThOrVp002.InFo#@meli_proxyy
