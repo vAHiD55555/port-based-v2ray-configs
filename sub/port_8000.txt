@@ -1,4 +1,3 @@
-vless://83ce55b6-c041-4687-916f-b1433456e7bb@de-2.starpingshop.org:8000?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=de-2.starpingshop.org#@Spotify_Porteghali 6070
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8000#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1826
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.91.102.30:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.91.102.30-1906
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@85.208.108.60:8000#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.60-2244

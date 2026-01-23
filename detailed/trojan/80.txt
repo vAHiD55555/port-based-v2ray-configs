@@ -1,6 +1,9 @@
-trojan://TurbooServer@cdn.turbooserver.com:80?path=/ed%3D25&amp%3Bsecurity=none&amp%3Bhost=jone-turboo-server.com&amp%3Btype=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40turboo_server
-trojan://TurbooServer@cdn1.turbooserver.com:80?path=/ed&amp%3Bsecurity=none&amp%3Bhost=turboo-server.online&amp%3Btype=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40turboo_server
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayngconfig
+trojan://TurbooServer@cdn.turbooserver.com:80?path=/ed&security=none&host=turboo-server.online&type=ws#⚡Telegram = @SOSkeyNET
+trojan://TurbooServer@cdn.turbooserver.com:80?type=ws&host=jone-turboo-server.com&path=/ed=25&security=none#⚡Telegram = @SOSkeyNET
+trojan://TurbooServer@cdn1.turbooserver.com:80?path=/ed&security=none&host=turboo-server.online&type=ws#⚡Telegram = @SOSkeyNET
+trojan://TurbooServer@cdn.turbooserver.com:80?path=/ed%3D25&amp%3Bsecurity=none&amp%3Bhost=jone-turboo-server.com&amp%3Btype=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40turboo_server%20%231
+trojan://TurbooServer@cdn1.turbooserver.com:80?path=/ed&amp%3Bsecurity=none&amp%3Bhost=turboo-server.online&amp%3Btype=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40turboo_server%20%232
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayngconfig%20%231
 trojan://2959e4f7-7589-4a40-9b96-1be750ac7845@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-0262
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8202
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8204
