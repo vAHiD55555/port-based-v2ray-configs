@@ -1,8 +1,5 @@
 vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?security=&encryption=none&host=snapp.ir&headerType=http&type=tcp#ConfigV2RayNG9
 vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#@V2rayAlpha--8
 vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#VPNBaz
-vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#✅سرورها بیشتردرکانال:prrofile_purple@✅
-vless://9e3d1839-9d6f-45ac-971a-d0f8365a75eb@tr.speeditest.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#✅سرورها بیشتردرکانال:prrofile_purple@✅
 vless://dd4400d2-d3f4-499b-b46a-1b2172a2d5a8@iran.dibadns.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#VPNBaz
-vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?security=&encryption=none&host=snapp.ir&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AIN
-vless://ab3b841d-cb52-4475-8e44-80b08c19f879@tr.speeditest.ir:81?security=none&type=tcp&headerType=http&path=%2F&host=excoino.com#%3E%3E%40v2nodes%3A%3AXX
+vless://dd4400d2-d3f4-499b-b46a-1b2172a2d5a8@iran.dibadns.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
