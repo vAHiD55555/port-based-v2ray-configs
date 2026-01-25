@@ -1,2 +1,1 @@
-vless://a37f349e-04b0-4967-a9e5-fb35083fa353@45.154.96.51:2222?security=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3BheaderType=none&amp%3Bfp=firefox&amp%3Btype=tcp&amp%3Bsni=tcp1.speedx3net.ir#%F0%9F%87%A7%F0%9F%87%AA%20BE%20%7C%20VLESS%20%7C%20%40mtproxy22_v2ray%20%231
 vless://a37f349e-04b0-4967-a9e5-fb35083fa353@45.154.96.51:2222/?type=tcp&encryption=none&flow=&security=tls&sni=tcp1.speedx3net.ir&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=firefox#%3E%3E%40oneclickvpnkeys%3A%3AXX
