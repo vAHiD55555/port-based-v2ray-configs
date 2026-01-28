@@ -1,0 +1,3 @@
+vless://37a7e850-96ae-4343-ad09-9dc4242c623c@panel-germany-20.subcenter.net:1120?encryption=none&security=none&type=ws&path=/wp-admin#Config 5 - @lebertad
+vless://37a7e850-96ae-4343-ad09-9dc4242c623c@panel-germany-20.subcenter.net:1120?path=/wp-admin&security=&encryption=none&type=ws#Config 4 - @lebertad
+vless://37a7e850-96ae-4343-ad09-9dc4242c623c@panel-germany-20.subcenter.net:1120?path=/wp-admin&security=none&encryption=none&type=ws#Config 3 - @lebertad
