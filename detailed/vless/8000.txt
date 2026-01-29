@@ -1,0 +1,4 @@
+vless://475b9fe4-e31a-40e8-9bc9-47313b39e071@se-1-direct.healingfluence.com:8000?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se-1.claudify.org#@YamYamProxy
+vless://475b9fe4-e31a-40e8-9bc9-47313b39e071@se-1-direct.healingfluence.com:8000?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=se-1.claudify.org#Config 5 - @lebertad
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawanarubika.panbehpanel.ir:8000?security=none&encryption=none&headerType=none&type=tcp#Config 5 - @lebertad
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawanarubika.panbehpanel.ir:8000?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET

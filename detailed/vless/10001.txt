@@ -1,1 +1,3 @@
+vless://103b5cd8-2dba-4452-8367-63aa2dd09c20@sv1n.tsteamzd.top:10001?security=none&allowInsecure=0&encryption=none&type=tcp&host=cafeariel.ir&path=/&headerType=http#Config 5 - @lebertad
+vless://24aef4e4-439b-4eae-a461-bac54ca10078@sv1n.tsteamzd.top:10001?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#Config 1 - @lebertad
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.229.161.107:10001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4&sid=fb2c6678&type=tcp&headerType=none#qoli_029
