@@ -192,3 +192,4 @@ vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.254.236:80/?type=ws&encrypti
 vless://vpn_connects@vpconnect1.pishipishi.pro:80/?type=ws&encryption=none&flow=&host=vpconnect.pishipishi1.pro&path=%2Fvpn_connects#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&type=ws#%E2%9C%93%3D%40fnetpro+%E2%84%A2%7E7
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#%E2%9C%93%3D%40fnetpro+%E2%84%A2%7E9`
+vless://4d63dcc0-d836-4101-9618-a15306d5d8ba@python.org:80?mode=auto&path=%2Fdatax_proxy&security=none&encryption=none&host=dataxlondon.global.ssl.fastly.net&type=xhttp#@V2rayng_Fast

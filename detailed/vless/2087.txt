@@ -28,4 +28,5 @@ vless://1d14ea39-4f80-49bd-abee-a8a9bc9515b9@104.19.222.79:2087/?type=httpupgrad
 vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087?path=%2Frahh&security=tls&encryption=none&host=vds.rahedarro.com&type=ws&sni=vds.rahedarro.com#%3E%3E%40outline_vpn%3A%3AFR
 vless://c8e81aea-2c89-45f8-9a34-ecb2637e2eed@ip.ali.lat:2087?&security=tls&fp=chrome&sni=temp4.ali.lat&type=ws&headerType=none&host=temp4.ali.lat&path=%2F#%3E%3E%40v2nodes%3A%3ADE
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://59c2ceb7-8261-4744-baa1-1852d041574b@panelsaf.netvip1.ru:2087?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&sid=36&type=tcp&headerType=none#a_335
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#@meli_proxyy
