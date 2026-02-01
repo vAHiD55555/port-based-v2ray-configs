@@ -38,5 +38,7 @@ trojan://df3eab1d-664b-4109-a056-e00affac6b80@xiaozhu1.kkieo555.cn:41275?allowIn
 trojan://3749d848-3263-432d-a2fb-4b4c5a82c4b4@xiaozhu1.kkieo555.cn:41275?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6_38
 trojan://995cbdf3-efe4-4fae-a19f-4af83d325327@xiaozhu1.kkieo555.cn:41275?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6_39
 trojan://355bb83d-ccc1-41c7-a23f-226c3eaceae9@xiaozhu1.kkieo555.cn:41275?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6_40
-trojan://378b3db2-4eb2-4f66-b567-e87769c0d334@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@icv2ray
+trojan://ad8c3eed-70b9-4a22-94ca-b16e888290da@xiaozhu1.kkieo555.cn:41275?sni=xiaozhu1.kkieo555.cn#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
 trojan://378b3db2-4eb2-4f66-b567-e87769c0d334@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#⚡Telegram = @prrofile_purple
+trojan://c22516d4-a4a2-4c62-917f-b73437d5827c@xiaozhu1.kkieo555.cn:41275?security=tls&sni=xiaozhu1.kkieo555.cn#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.105-1706
+trojan://41a4f30b-10d2-43e1-8e7f-0605eb63b064@xiaozhu1.kkieo555.cn:41275?security=tls&sni=xiaozhu1.kkieo555.cn#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.105-1709
