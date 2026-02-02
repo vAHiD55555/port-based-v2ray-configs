@@ -38,12 +38,6 @@ trojan://df3eab1d-664b-4109-a056-e00affac6b80@xiaozhu1.kkieo555.cn:41275?allowIn
 trojan://3749d848-3263-432d-a2fb-4b4c5a82c4b4@xiaozhu1.kkieo555.cn:41275?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6_38
 trojan://995cbdf3-efe4-4fae-a19f-4af83d325327@xiaozhu1.kkieo555.cn:41275?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6_39
 trojan://355bb83d-ccc1-41c7-a23f-226c3eaceae9@xiaozhu1.kkieo555.cn:41275?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6_40
-trojan://a086cd3c-b1cb-400d-aa91-692e16a97ace@xiaozhu1.kkieo555.cn:41275?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
-trojan://378b3db2-4eb2-4f66-b567-e87769c0d334@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#@v2rays_ha 5938
-trojan://378b3db2-4eb2-4f66-b567-e87769c0d334@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#Telegram:@config_proxy 💦
-trojan://378b3db2-4eb2-4f66-b567-e87769c0d334@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#⚡Telegram = @prrofile_purple
-trojan://ad8c3eed-70b9-4a22-94ca-b16e888290da@xiaozhu1.kkieo555.cn:41275?security=tls&sni=xiaozhu1.kkieo555.cn#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.44.54-0624
-trojan://fcbb4089-0c3c-4233-81fd-098e24da661c@xiaozhu1.kkieo555.cn:41275?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.44.54-1085
-trojan://a6028e06-0823-4101-b5dc-f77c92343221@xiaozhu1.kkieo555.cn:41275?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.44.54-1089
-trojan://c283ba27-e30c-4346-b149-356d22109d1e@xiaozhu1.kkieo555.cn:41275?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.44.54-1108
-trojan://3749d848-3263-432d-a2fb-4b4c5a82c4b4@xiaozhu1.kkieo555.cn:41275?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.44.54-1124
+trojan://a086cd3c-b1cb-400d-aa91-692e16a97ace@xiaozhu1.kkieo555.cn:41275?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
+trojan://c22516d4-a4a2-4c62-917f-b73437d5827c@xiaozhu1.kkieo555.cn:41275?security=tls&sni=xiaozhu1.kkieo555.cn#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.67-1711
+trojan://ad8c3eed-70b9-4a22-94ca-b16e888290da@xiaozhu1.kkieo555.cn:41275?security=tls&sni=xiaozhu1.kkieo555.cn#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.67-1715

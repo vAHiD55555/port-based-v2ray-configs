@@ -1,13 +1,6 @@
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.169.127.53:27775?security=&encryption=none&headerType=&type=tcp#@V2ray_confing33
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.169.127.53:27775?security=&encryption=none&headerType=&type=tcp#@meliproxyy
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.169.127.53:27775?security=&encryption=none&headerType=&type=tcp#@shankamil
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.169.127.53:27775?security=&encryption=none&headerType=&type=tcp#Config 5 - @lebertad
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.169.127.53:27775?security=none&encryption=none&headerType=none&type=tcp#@PRS_MLBB
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.169.127.53:27775?security=none&encryption=none&headerType=none&type=tcp#@V2ray_confing33
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.169.127.53:27775?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.170.50.192:27775?security=&encryption=none&headerType=&type=tcp#@meliproxyy
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.170.50.192:27775?security=&encryption=none&headerType=&type=tcp#@shankamil
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.170.50.192:27775?security=&encryption=none&headerType=&type=tcp#Config 2 - @lebertad
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.170.50.192:27775?security=none&encryption=none&headerType=none&type=tcp#@PRS_MLBB
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.170.50.192:27775?security=none&encryption=none&headerType=none&type=tcp#@V2ray_confing33
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.170.50.192:27775?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
