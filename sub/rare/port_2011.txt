@@ -1,0 +1,3 @@
+vless://0d9e572e-ad55-4fb8-adcf-858cbafb9c40@37.152.175.93:2011?security=none&type=tcp&headerType=http&path=/api/register/new/name/dav/response/cmV0aXJlZCBoZWxsbyBob3cgYXJlIHlvdSB0aGlzIGlzIG15IG5ldyBoZWFkZXIgd&host=parsabr.com#VayNora
+vless://0d9e572e-ad55-4fb8-adcf-858cbafb9c40@89.44.242.255:2011?security=none&allowInsecure=0&encryption=none&type=tcp&host=parsabr.com&path=/api/register/new/name/dav/response/cmV0aXJlZCBoZWxsbyBob3cgYXJlIHlvdSB0aGlzIGlzIG15IG5ldyBoZWFkZXIgd&headerType=http#VayNora
+vless://0d9e572e-ad55-4fb8-adcf-858cbafb9c40@89.44.242.255:2011?security=none&type=tcp&headerType=http&path=/api/register/new/name/dav/response/cmV0aXJlZCBoZWxsbyBob3cgYXJlIHlvdSB0aGlzIGlzIG15IG5ldyBoZWFkZXIgd&host=parsabr.com#VayNora
