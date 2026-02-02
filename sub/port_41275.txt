@@ -10,5 +10,8 @@ trojan://c69f4623-b482-47b6-85e5-d366a0d3ec47@xiaozhu1.kkieo555.cn:41275?allowIn
 trojan://f7ddfe35-4b15-49cb-8a05-45cbe87d7913@xiaozhu1.kkieo555.cn:41275?allowInsecure=1#%E8%8B%B1%E5%9C%8B
 trojan://03e8e998-903d-4833-ac15-17778e830635@xiaozhu1.kkieo555.cn:41275?allowInsecure=1#%E8%8B%B1%E5%9C%8B
 trojan://c22516d4-a4a2-4c62-917f-b73437d5827c@xiaozhu1.kkieo555.cn:41275?#%E6%9C%AA%E7%9F%A57
-trojan://c22516d4-a4a2-4c62-917f-b73437d5827c@xiaozhu1.kkieo555.cn:41275?security=tls&sni=xiaozhu1.kkieo555.cn#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.67-1711
-trojan://ad8c3eed-70b9-4a22-94ca-b16e888290da@xiaozhu1.kkieo555.cn:41275?security=tls&sni=xiaozhu1.kkieo555.cn#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.67-1715
+trojan://a086cd3c-b1cb-400d-aa91-692e16a97ace@xiaozhu1.kkieo555.cn:41275?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.67-1072
+trojan://8df4e607-d589-4187-8214-4de25c59c7d0@xiaozhu1.kkieo555.cn:41275?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.67-1074
+trojan://f08daea6-3307-49c5-9b66-3f3d8ea7e482@xiaozhu1.kkieo555.cn:41275?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.67-1078
+trojan://1face1ff-4075-4e3c-823d-dafd3430140b@xiaozhu1.kkieo555.cn:41275?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.67-1095
+trojan://df3eab1d-664b-4109-a056-e00affac6b80@xiaozhu1.kkieo555.cn:41275?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.192.67-1111
