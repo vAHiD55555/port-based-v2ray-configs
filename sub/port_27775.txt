@@ -1,7 +1,5 @@
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.169.127.53:27775?security=&encryption=none&headerType=&type=tcp#@meliproxyy
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.169.127.53:27775?security=none&encryption=none&headerType=none&type=tcp#@PRS_MLBB
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.169.127.53:27775?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.170.50.192:27775?security=&encryption=none&headerType=&type=tcp#@meliproxyy
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.170.50.192:27775?security=&encryption=none&headerType=&type=tcp#VayNora
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.170.50.192:27775?security=none&encryption=none&headerType=none&type=tcp#@PRS_MLBB
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.170.50.192:27775?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.99.228.254:27775?security=none&encryption=none&headerType=none&type=tcp#@V2rayBaaz
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.99.228.254:27775?security=none&encryption=none&headerType=none&type=tcp#Config 5 - @lebertad
