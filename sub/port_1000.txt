@@ -3,5 +3,5 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
-vless://5e62f072-30bb-4f52-8c59-883af315a407@fast.rizping.ir:1000?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @ConfigV2RayNG
+vless://5e62f072-30bb-4f52-8c59-883af315a407@fast.rizping.ir:1000?security=&encryption=none&headerType=none&type=tcp#⚡Telegram = @ConfigV2RayNG
 vless://5e62f072-30bb-4f52-8c59-883af315a407@fast.rizping.ir:1000?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
