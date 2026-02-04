@@ -1,0 +1,1 @@
+vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@application-ads-gateway.gocdn.ir:85?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=application-ads-gateway.gocdn.ir&type=xhttp#@filembad

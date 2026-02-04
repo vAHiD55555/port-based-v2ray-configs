@@ -1,4 +1,2 @@
 vless://030fa0bd-c76d-4b2e-9c49-fe4355bf1c04@api-r1.wiki-mobile-two.com:5443?security=reality&encryption=none&pbk=RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=5cae63084b3281f3#@PRS_MLBB
-vless://030fa0bd-c76d-4b2e-9c49-fe4355bf1c04@api-r1.wiki-mobile-two.com:5443?security=reality&encryption=none&pbk=RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=5cae63084b3281f3#@meliproxyy
-vless://44c22ca9-c0c7-4075-a121-f75c319a52bf@ihave.vipvirtualnet.eu:5443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=ihave.vipvirtualnet.eu#Config 2 - @lebertad
-vless://ca2d103b-9e91-4d58-8e0b-39aead66a0d6@ihave.vipvirtualnet.eu:5443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=ihave.vipvirtualnet.eu#Config 3 - @lebertad
+vless://beacb5ad-ed76-436f-9ceb-62a080cca6ec@ihave.vipvirtualnet.eu:5443?type=grpc&encryption=none&serviceName=&authority=&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=ihave.vipvirtualnet.eu#Config 3 - @lebertad
