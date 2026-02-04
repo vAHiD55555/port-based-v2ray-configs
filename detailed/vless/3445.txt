@@ -5,4 +5,3 @@ vless://79b03434-d2c6-4ab5-9474-acf450eb7ab9@185.126.6.131:3445?security=none&en
 vless://79b03434-d2c6-4ab5-9474-acf450eb7ab9@185.126.6.131:3445?security=none&encryption=none&headerType=http&type=tcp#IR-@YamYamProxy-13
 vless://79b03434-d2c6-4ab5-9474-acf450eb7ab9@185.126.6.131:3445?security=none&encryption=none&headerType=http&type=tcp#shankamil
 vless://c08734a9-5652-4b12-897a-25245b9c538e@lp2.hmvpa.ir:3445?security=none&encryption=none&headerType=none&type=tcp#@OnNetX جوین شو
-vless://f637ead2-facb-4f49-befb-c50f5750f66c@185.126.6.131:3445?security=none&type=tcp&headerType=http&path=%2F&host=#[🏁]t.me/ConfigsHub`
