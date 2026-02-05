@@ -1,3 +1,2 @@
-trojan://BxceQaOe@18.182.62.89:3579?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
 trojan://BxceQaOe@18.182.62.89:3579?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#@v2rays_ha 6854
 trojan://BxceQaOe@18.182.62.89:3579?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.182.62.89-0834
