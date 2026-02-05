@@ -4,4 +4,3 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://a6dcd9d4-80ce-45ae-a21d-d2ef6c5136ba@fast.rizping.ir:1000?security=none&encryption=none&host=rizping.ir&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQyNSBUZWxlZ3JhbTogQHdpa2lfdGFqcm9iZSIsDQogICJhZGQiOiAiODEuMTIuMzMuMTY2IiwNCiAgInBvcnQiOiAiMTAwMCIsDQogICJpZCI6ICI1YjIwZDVlOC0zYWRmLTRhMmQtODM4NC04NTYyOTYzZTgwNjYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICJteWtldC5pciIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==
