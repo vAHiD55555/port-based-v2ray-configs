@@ -1,1 +1,2 @@
-vless://109c384d-6544-412a-b08d-aaa0bf5f77cd@relay-ir.deltatms.site:8082?security=none&encryption=none&host=dorna-music.ir&headerType=http&type=tcp#Config 4 - @lebertad
+vless://109c384d-6544-412a-b08d-aaa0bf5f77cd@relay-ir.deltatms.site:8082?security=&encryption=none&host=dorna-music.ir&headerType=http&type=tcp#@vmesskhodam
+vless://109c384d-6544-412a-b08d-aaa0bf5f77cd@relay-ir.deltatms.site:8082?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=dorna-music.ir&headerType=http&type=tcp#@icv2ray
