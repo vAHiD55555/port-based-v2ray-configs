@@ -7,4 +7,3 @@ vless://e1827088-9a84-4c56-b971-de87e377698b@178.215.238.193:2056?security=none&
 vless://e1827088-9a84-4c56-b971-de87e377698b@83.228.230.48:2056/?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#@v2rays_ha 7327
 vless://e1827088-9a84-4c56-b971-de87e377698b@83.228.230.48:2056?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#@@V2rayng_Fast 8560
 vless://e1827088-9a84-4c56-b971-de87e377698b@83.228.230.48:2056?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#@Spotify_Porteghali 8560
-vless://b1d420ee-1046-4f8e-a012-6e592b9379c4@dl.de.saas-clouding.ir:2056?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#%40V2_TEAM%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%B2

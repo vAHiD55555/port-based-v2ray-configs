@@ -3,3 +3,4 @@ vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encry
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?path=/&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#Config 3 - @lebertad
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?path=/&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#⚡Telegram = @SOSkeyNET
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#%E2%9E%A4%20%40netshekan99
