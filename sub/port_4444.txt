@@ -1,4 +1,5 @@
 vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+vless://93af2a5c-5b7c-4ddd-b2ec-f631c2e257e7@172.232.45.57:4444?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#config_v2rayy
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.60:4444#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.60-1627
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.188.99:4444#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.99-1662
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.107.37:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.37-1766

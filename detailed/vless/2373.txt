@@ -1,2 +1,1 @@
-vless://7f3544ee-6825-4545-88da-a5ea03a535ed@curt232.bestvxau.ir:2373?mode=gun&security=tls&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=varzesh3.com#Config 1 - @lebertad
-vless://96fea4b7-3c48-4ecc-a1e0-e1674f1ade99@curt232.bestvxau.ir:2373?mode=gun&security=tls&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=varzesh3.com#Config 2 - @lebertad
+vless://96fea4b7-3c48-4ecc-a1e0-e1674f1ade99@curt232.bestvxau.ir:2373/?mode=gun&security=tls&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=varzesh3.com#@v2rays_ha 7361
