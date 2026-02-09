@@ -1,1 +1,1 @@
-vless://87f6b346-af39-487e-bf4b-5ed9fe3fc75e@5.202.5.140:51444?type=tcp&encryption=none&security=none#Config 5 - @lebertad
+vless://87f6b346-af39-487e-bf4b-5ed9fe3fc75e@5.202.5.140:51444/?type=tcp&encryption=none&security=none#@v2rays_ha 7575
