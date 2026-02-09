@@ -1,2 +1,3 @@
 ss://6ef1b079-e936-4c37-b4b4-8e59baf31eb8@104.26.13.253:2053/?&security=tls&fp=chrome&encryption=none&sni=yxk.longlivecpc.dpdns.org&type=ws&headerType=none&host=yxk.longlivecpc.dpdns.org&path=/proxyip=ProxyIP.Oracle.cmliussss.net#@v2rays_ha 7680
 ss://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@www.aapanel.com:2053/?encryption=none&security=tls&sni=snippet.danfeng21.ndjp.net&type=ws&host=snippet.danfeng21.ndjp.net&path=/danfeng#@v2rays_ha 7675
+ss://ef26fe1e-abb0-4b37-b45b-d999a91ebc46@m3.fastspeeds.ir:2053/?encryption=none&security=tls&sni=aslan-nl.ip-venzo.com&insecure=0&allowInsecure=0&type=ws&path=/ws#@v2rays_ha 7749

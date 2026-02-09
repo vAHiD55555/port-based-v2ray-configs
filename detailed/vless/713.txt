@@ -1,4 +1,2 @@
-vless://009dad76-aa01-4405-a673-591c0ae772bf@81.12.33.0:713?encryption=none&type=tcp&headerType=http&path=/&host=igap.net#Config 5 - @lebertad
 vless://6e71e113-9cab-4604-81ac-330967a214ba@5.78.146.131:713?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#🇺🇸 یام‌یام پروکسی
 vless://6e71e113-9cab-4604-81ac-330967a214ba@81.12.33.0:713?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#@YamYamProxy اگه میخوای قطع نشی بیا
-vless://bb39d509-8769-45c4-b244-20e9023a4544@81.12.33.5:713?security=none&allowInsecure=0&encryption=none&type=tcp&host=gharar.ir&path=/&headerType=http#@vpn_openet🚀

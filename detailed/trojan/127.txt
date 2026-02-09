@@ -4,3 +4,4 @@ trojan://5fb072e0ddd631cf66cf752b09210480@54.250.24.198:127?allowInsecure=0&sni=
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.85.33:127?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
 trojan://5fb072e0ddd631cf66cf752b09210480@54.250.24.198:127?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%20310.7KB%2Fs
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.85.33:127?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13%20115.9KB%2Fs
+trojan://5fb072e0ddd631cf66cf752b09210480@54.250.24.198:127?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#[98236] - Telegram : @V2All

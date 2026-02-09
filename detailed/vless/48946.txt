@@ -1,0 +1,2 @@
+vless://f99f60c7-6742-4420-9c07-6c8b4b12181a@94.184.25.81:48946?security=&alpn=http/1.1&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@ConfigV2RayNG
+vless://f99f60c7-6742-4420-9c07-6c8b4b12181a@94.184.25.81:48946?security=none&alpn=http/1.1&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@ConfigV2RayNG
