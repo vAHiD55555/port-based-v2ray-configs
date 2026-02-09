@@ -34,4 +34,3 @@ vless://e9fd407a-a1e1-4a37-e840-01bffa1d0edd@cf.mahdi383ir.website:2087?encrypti
 vless://4f63546d-2caa-4d2e-9b45-1f65cfed6d90@f1sup.marfanet.com:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tagesschau.de&fp=firefox&pbk=F1v3AIUGrEMJrwY20K_iYJqAZEMzmjEs_84rzqDonhQ&sid=abf8bb6e6ccb007e&type=tcp&headerType=none#q_636
 vless://3dcd6767-ec3e-4eeb-9fa6-c70b8661072f@panelsaf.netvip1.ru:2087?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&sid=e004&type=tcp&headerType=none#q_647
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#@meli_proxyy
-vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?encryption=none&headerType=http&host=iranserver.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACH
