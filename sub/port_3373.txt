@@ -8,5 +8,6 @@ trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&insecur
 trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#@icv2ray
 trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=www.nintendogames.net&insecure=1&allowInsecure=1&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=ð [By EbraSha] &insecure=1&allowInsecure=1&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
-trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.8.127-0879
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-54.95.118.21-4902
+trojan://5fb072e0ddd631cf66cf752b09210480@43.207.166.42:3373?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.166.42-0849
+trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.8.127-4789
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-54.95.118.21-4790
