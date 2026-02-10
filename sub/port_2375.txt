@@ -1,6 +1,5 @@
 ss://75ab2209-d6fe-4fb0-abf1-2c344829bb80@curt234.curtvpy.ir:2375/?mode=gun&security=tls&encryption=none&type=grpc&sni=varzesh3.com#@v2rays_ha 7844
 vless://75ab2209-d6fe-4fb0-abf1-2c344829bb80@curt234.curtvpy.ir:2375?mode=gun&security=tls&encryption=none&type=grpc&sni=varzesh3.com#lyriffy
-vless://ec91df96-fd4c-4a8f-912a-38fe495724a5@curt234.curtvpy.ir:2375?type=grpc&mode=gun&security=tls&encryption=none&sni=varzesh3.com&allowInsecure=1#Config 5 - @lebertad
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@85.208.108.90:2375#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.90-1242
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1940
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.102.30:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.91.102.30-2039

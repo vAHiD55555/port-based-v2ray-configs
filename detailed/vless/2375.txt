@@ -1,2 +1,1 @@
 vless://75ab2209-d6fe-4fb0-abf1-2c344829bb80@curt234.curtvpy.ir:2375?mode=gun&security=tls&encryption=none&type=grpc&sni=varzesh3.com#lyriffy
-vless://ec91df96-fd4c-4a8f-912a-38fe495724a5@curt234.curtvpy.ir:2375?type=grpc&mode=gun&security=tls&encryption=none&sni=varzesh3.com&allowInsecure=1#Config 5 - @lebertad
