@@ -1,2 +1,4 @@
 vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.125.3.128:29044?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
+vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.125.6.39:29044?security=&encryption=none&headerType=&type=tcp#@v2ray_configs_pools>15<
+vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.125.6.39:29044?security=&encryption=none&headerType=&type=tcp#v2ray_configs_pools
 vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.126.251.178:29044?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz🌱

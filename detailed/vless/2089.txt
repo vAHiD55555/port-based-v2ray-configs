@@ -1,3 +1,4 @@
 vless://aae3b395-8269-4143-9737-0da506477aa4@5.75.205.170:2089?security=none&encryption=none&headerType=none&type=tcp#@OnNetX جوین شو
-vless://aae3b395-8269-4143-9737-0da506477aa4@5.75.205.170:2089?security=none&encryption=none&headerType=none&type=tcp#جوین بده ● @ConfigV2RayNG 》
+vless://d2248d81-2dc1-400b-ad79-59c05a5ed0ae@s1.sohrab172.ir:2089?security=none&encryption=none&headerType=http&type=tcp#IR+@V2rayAlpha-14
 vless://d2248d81-2dc1-400b-ad79-59c05a5ed0ae@s1.sohrab172.ir:2089?type=tcp&encryption=none&path=/&headerType=http&security=none#@meliproxyy
+vless://d2248d81-2dc1-400b-ad79-59c05a5ed0ae@s1.sohrab172.ir:2089?type=tcp&encryption=none&path=/&headerType=http&security=none#shankamil

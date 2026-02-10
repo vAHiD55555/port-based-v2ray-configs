@@ -1,1 +1,3 @@
 vless://00000000-0000-4000-8000-000000000000@13.250.135.82:48223?allowInsecure=1&encryption=none&host=miku.zrf.xx.kg&path=/@Marisa_kristi&security=tls&sni=miku.zrf.xx.kg&type=ws#⚜️52@oneclickvpnkeys
+vless://00000000-0000-4000-8000-000000000000@13.250.135.82:48223?allowInsecure=1&encryption=none&host=miku.zrf.xx.kg&path=/@Marisa_kristi&security=tls&sni=miku.zrf.xx.kg&type=ws#⚜️52@proxy_kafee
+vless://00000000-0000-4000-8000-000000000000@13.250.135.82:48223?path=/@Marisa_kristi&security=tls&encryption=none&insecure=1&host=miku.zrf.xx.kg&type=ws&allowInsecure=1&sni=miku.zrf.xx.kg#⚜️52@ConfigV2RayNG
