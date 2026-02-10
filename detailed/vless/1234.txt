@@ -1,2 +1,1 @@
-vless://61a4de06-1123-4aae-8885-1dd89c0797ae@188.121.102.46:1234?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Config 1 - @lebertad
 vless://61a4de06-1123-4aae-8885-1dd89c0797ae@188.121.102.46:1234?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#IR-@V2rayAlpha--9
