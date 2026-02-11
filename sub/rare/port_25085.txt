@@ -1,2 +1,4 @@
-vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws&path=/#@filembad
+vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085/?encryption=none&security=none&type=ws&path=/#@v2rays_ha 8196
+vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085/?type=ws&path=/#@v2rays_ha 8154
 vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws&path=/#hope of freedom - @anotherme_night
+vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?path=/&security=&encryption=none&type=ws#ConfigV2RayNG

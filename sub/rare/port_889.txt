@@ -1,2 +1,4 @@
+vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@45.132.185.227:889/?type=tcp&path=/#@v2rays_ha 8152
+vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@45.132.185.227:889?security=&encryption=none&headerType=none&type=tcp#ConfigV2RayNG
 trojan://JeSDlzqBCKqUCmDskZDSIvgscdvOYWbd@gkifo-8-tr-0.tw-tpe-hinet-0-0.o-two.xyz:889?security=tls&sni=o-two.bond#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-1486
 trojan://giosZwLNqAUWxczWJDYqXQDgNLMYwbKI@ahgjs-4-tr-0.hkg-01.o-two.xyz:889?security=tls&sni=o-two.bond#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-1609

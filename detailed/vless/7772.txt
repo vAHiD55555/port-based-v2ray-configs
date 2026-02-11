@@ -1,0 +1,4 @@
+vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@94.183.150.62:7772?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#Config 1 - @lebertad
+vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@94.183.150.62:7772?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#@config_v2rayy
+vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@94.183.150.62:7772?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
+vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@94.183.150.62:7772?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
