@@ -1,1 +1,4 @@
-ss://9a717e62-bb4e-59c6-a458-95b18873a6c0@pristytools.com.pristytools.com:2087/?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&type=ws&allowInsecure=1#@v2rays_ha 8276
+ss://59c2ceb7-8261-4744-baa1-1852d041574b@212.192.246.57:2087/?security=reality&encryption=none&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=36#@v2rays_ha 8387
+ss://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F1.FASTSPEEDS.IR:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns8.mehrsazi.ir#https://t.me/allproconf
+ss://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F3.FASTSPEEDS.IR:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns5.mehrsazi.ir#https://t.me/allproconf
+ss://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F6.FASTSPEEDS.IR:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ns7.mehrsazi.ir#https://t.me/allproconf
