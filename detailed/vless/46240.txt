@@ -1,2 +1,3 @@
 vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240/?encryption=none&flow=&host=divar.ir&type=tcp&headerType=http#🦚10@oneclickvpnkeys
+vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240?encryption=none&security=none&type=tcp&headerType=http&host=divar.ir#@en_vpn
 vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#horn_proxy 10
