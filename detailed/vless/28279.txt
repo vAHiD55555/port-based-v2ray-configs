@@ -1,3 +1,2 @@
 vless://620e45f4-92f1-4be6-e118-3bc515509320@3.121.214.190:28279?security=none&encryption=none&headerType=none&type=tcp#@AccoTUN
-vless://620e45f4-92f1-4be6-e118-3bc515509320@3.121.71.21:28279?security=&encryption=none&headerType=&type=tcp#@v2ray_configs_pools>7<
 vless://620e45f4-92f1-4be6-e118-3bc515509320@3.121.71.21:28279?security=&encryption=none&headerType=&type=tcp#v2ray_configs_pools
