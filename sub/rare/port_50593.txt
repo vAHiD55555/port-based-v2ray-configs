@@ -1,1 +1,1 @@
-vless://a34aed76-3008-47a0-80ab-e813f940ad74@roham3.hamoon.sbs:50593?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#VPNSOL
+vless://a34aed76-3008-47a0-80ab-e813f940ad74@roham3.hamoon.sbs:50593/?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#@v2rays_ha 8628
