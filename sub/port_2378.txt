@@ -1,0 +1,5 @@
+ss://20dd1462-4d1e-4112-bb8a-198b2c1ce511@curt237.cvcurt.ir:2378?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#https://t.me/allproconf
+ss://20dd1462-4d1e-4112-bb8a-198b2c1ce511@curt237.cvcurt.ir:2378?type=grpc&mode=gun&security=tls&encryption=none&sni=filimo.com&allowInsecure=1#https://t.me/allproconf
+vless://20dd1462-4d1e-4112-bb8a-198b2c1ce511@curt237.cvcurt.ir:2378?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#@filembad
+vless://20dd1462-4d1e-4112-bb8a-198b2c1ce511@curt237.cvcurt.ir:2378?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#https://t.me/allproconf
+vless://20dd1462-4d1e-4112-bb8a-198b2c1ce511@curt237.cvcurt.ir:2378?type=grpc&mode=gun&security=tls&encryption=none&sni=filimo.com&allowInsecure=1#https://t.me/allproconf
