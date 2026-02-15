@@ -1,4 +1,2 @@
-ss://1e7215d7-3d4c-471b-8034-7fd953db251c@103.160.204.191:2083?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=cdnuser.wrongguy.ir#https://t.me/allproconf
-ss://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=/&security=tls&encryption=none&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&type=ws&sni=cdnuser.wrongguy.ir#https://t.me/allproconf
-ss://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=cdnuser.wrongguy.ir#https://t.me/allproconf
-ss://YzQ2YTU0YmYtYjIyMC00YzIyLWNkNmUtZmIxZmNhYmRhMGFmOg==@speed.cloudflare.com:2083#@Hope_Net
+ss://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=ServerDL-ParsM2.NetSnap.ir#https://t.me/allproconf
+ss://fb23ff67-9fc0-4724-8d28-7fd2c0e8a5df@moniya.gholam69.ir:2083?encryption=none&security=tls&sni=sls.gholam69.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=sls.gholam69.ir&path=/hsjdnsnd#https://t.me/allproconf
