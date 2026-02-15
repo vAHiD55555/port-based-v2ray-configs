@@ -5,5 +5,3 @@ vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?security=&encryp
 vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?security=&encryption=none&headerType=none&type=tcp#@vpnbaz ⚜️
 vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?security=&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?security=none&encryption=none&headerType=none&type=tcp#@ConfigV2RayNG
-vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL_2%7C860KB%2Fs#کانفیگ_تست_شده
-vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?security=none&type=tcp%20&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL_4%7C4.3MB%2Fs#کانفیگ_تست_شده
