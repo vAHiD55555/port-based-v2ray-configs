@@ -22,4 +22,3 @@ vless://f14c0e56-d3e8-4eaf-96b6-123a1fd07571@135.125.139.219:2055?encryption=non
 vless://f14c0e56-d3e8-4eaf-96b6-123a1fd07571@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#@proxy_kafee
 vless://f14c0e56-d3e8-4eaf-96b6-123a1fd07571@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#https://t.me/ConfigX2ray
 vless://f14c0e56-d3e8-4eaf-96b6-123a1fd07571@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#https://t.me/allproconf
-vless://6500156c-21ed-4a13-8b4a-f7b10c132c80@135.125.139.219:2055?type=tcp&amp%3Bencryption=none&amp%3Bsecurity=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%231
