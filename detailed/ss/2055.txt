@@ -1,1 +1,3 @@
-ss://6500156c-21ed-4a13-8b4a-f7b10c132c80@135.125.139.219:2055?encryption=none&security=none&type=tcp&headerType=none#https://t.me/allproconf
+ss://6500156c-21ed-4a13-8b4a-f7b10c132c80@135.125.139.219:2055/?security=none&encryption=none&headerType=none&type=tcp#@v2rays_ha 9052
+ss://6500156c-21ed-4a13-8b4a-f7b10c132c80@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#https://t.me/allproconf
+ss://f14c0e56-d3e8-4eaf-96b6-123a1fd07571@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#https://t.me/allproconf
