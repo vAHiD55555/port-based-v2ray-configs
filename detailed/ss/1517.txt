@@ -1,1 +1,4 @@
-ss://43e9cd8c-d77f-4a81-9fee-e3ce588507e7@mail.j-sub.cfd:1517/?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@v2rays_ha 9017
+ss://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#https://t.me/allproconf
+ss://084dac85-a82a-4462-9c43-13f0dcf7467c@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#https://t.me/allproconf
+ss://084dac85-a82a-4462-9c43-13f0dcf7467c@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#https://t.me/allproconf
+ss://084dac85-a82a-4462-9c43-13f0dcf7467c@mail.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#https://t.me/allproconf
