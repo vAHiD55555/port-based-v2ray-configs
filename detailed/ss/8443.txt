@@ -1,16 +1,12 @@
-ss://0535c331-b038-4cf1-b8e4-d4c41c8ad06b@178.250.243.78:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I&sid=#https://t.me/allproconf
-ss://0535c331-b038-4cf1-b8e4-d4c41c8ad06b@51.250.38.70:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I&sid=#https://t.me/allproconf
-ss://0535c331-b038-4cf1-b8e4-d4c41c8ad06b@51.250.75.236:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I&sid=#https://t.me/allproconf
-ss://0535c331-b038-4cf1-b8e4-d4c41c8ad06b@lte-4.gorhub.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I&sid=#https://t.me/allproconf
-ss://4742b1aa-d4e1-4994-a344-fa9267e6b9ab@51.250.64.128:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#https://t.me/allproconf
-ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&insecure=1&allowInsecure=1&type=ws&host=ovhwuxian.pai50288.uk&path=/57ba2ab1#https://t.me/allproconf
+ss://3c606f1a-9d0b-4de0-a930-dbead82e92f9@private1001.shafawiki.ir:8443?security=tls&type=ws&path=/ashna/film/korei/FILE12/1234&host=denmark.shafawiki.ir&alpn=h2,http/1.1&sni=denmark.shafawiki.ir&fp=chrome&encryption=none#https://t.me/allproconf
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@192.124.178.227:8443?security=tls&type=ws&path=/?ed=2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#https://t.me/allproconf
-ss://8c6302ee-8eb9-488c-9888-b7a5eb48fccd@51.250.54.70:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nyc.cdn.stun.su&fp=chrome&security=reality&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9#https://t.me/allproconf
-ss://9bc247bd-6fef-468b-91e7-2400e8c0903f@89.208.228.250:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=mpQAexKq3O655X6ORkad_CeBsPAutdghPp3CY_jtJSc&sid=d93e8ffc0f41ffc1#https://t.me/allproconf
-ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443#@V2RAYNG_FARS*3
+ss://8a35152a-b65c-4f6b-aec4-7844d5f9e6d8@us-cherry-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b&sni=tradingview.com#https://t.me/allproconf
+ss://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?encryption=none&security=tls&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&insecure=0&allowInsecure=0&type=ws&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&path=/#https://t.me/allproconf
+ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443#@bad_ss_proxy 229
 ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443#🇮🇹16@shadowsockskeys
 ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443#👉🏻@ghand_sheken👈🏻کانفیگ جدید داخل چنل
 ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443#💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🇮🇹
+ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443#💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🌍
 ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443?#telegram ☂️ dailyv2ry
 ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443?#telegram 🌈 dailyv2ry
 ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443?#telegram 🌟 dailyv2ry
@@ -20,8 +16,4 @@ ss://YWVzLTI1Ni1nY206NDZkNTEvOFFNeTQ4azU3Q0lmUzFDNXl4MklIc2pvRW5QSlliN3pYRGZBYz0
 ss://YWVzLTI1Ni1nY206NDZkNTEvOFFNeTQ4azU3Q0lmUzFDNXl4MklIc2pvRW5QSlliN3pYRGZBYz0@57.129.121.229:8443#EmKavpn
 ss://YWVzLTI1Ni1nY206NDZkNTEvOFFNeTQ4azU3Q0lmUzFDNXl4MklIc2pvRW5QSlliN3pYRGZBYz0@57.129.121.229:8443#IR+@V2rayAlpha-3
 ss://YWVzLTI1Ni1nY206NDZkNTEvOFFNeTQ4azU3Q0lmUzFDNXl4MklIc2pvRW5QSlliN3pYRGZBYz0@57.129.121.229:8443#🧿 Tel : @ProxyVPN11 ⟵
-ss://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?security=reality&encryption=none&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=42d7234d875308a2#https://t.me/allproconf
-ss://ef69fec4-568a-428b-b0bf-5b3f9e9faa23@144.31.237.22:8443?encryption=none&security=reality&sni=pingless.com&fp=chrome&pbk=sLp0-BtGhqDhYoUS87gqkcAmX87AAAiCSKJLgb33CAk&sid=7a1c2e6b540f9b3d&type=xhttp&path=/&mode=auto#https://t.me/allproconf
-ss://fa-397456379-1771019066252887@67.159.24.166:8443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d1d42381ba35#https://t.me/allproconf
-ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&host=/Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#https://t.me/allproconf
-ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0@57.131.38.151:8443?#%3E%3E%40DailyV2RY%3A%3AIT
+ss://b1f45225-4f7c-4b13-a7ee-1a9afa48216e@91.84.103.69:8443?type=tcp&security=reality&pbk=UmU6PJtGCvWWIgkKpr6P1Idm2ve4nsPhN7Gh3OPDYAE&fp=chrome&sni=yahoo.com&sid=fecda331e7cb5731&spx=/&flow=xtls-rprx-vision#https://t.me/allproconf
