@@ -1,1 +1,3 @@
-ss://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=gamepc.sorza.ir&path=/?ed&sni=digikala.sorza.ir&fp=chrome#https://t.me/allproconf
+ss://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?security=tls&type=ws&path=/?ed=512&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#https://t.me/allproconf
+ss://41c55d8d-44dd-4437-90ff-4c1eb869a67c@Rocket.silenceux.ir:2087?security=tls&type=ws&path=/?ed&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#https://t.me/allproconf
+ss://e4677c63-8bd8-4ac5-91fe-af6ed7876728@5.10.214.154:2087?path=/path&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=youloveme.primenet4.shop&fp=chrome&type=ws&allowInsecure=0&sni=youloveme.primenet4.shop#https://t.me/allproconf

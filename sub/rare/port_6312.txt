@@ -1,1 +1,2 @@
-vless://9a316687-bffe-4aeb-98aa-6a3c7cf9d39a@193.151.152.235:6312?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz 🫧
+vless://30daf8cd-1b3a-455c-af2b-14ec6b21dcb3@193.151.152.235:6312/?encryption=none&security=none&type=tcp&headerType=none#@v2rays_ha 9495
+vless://30daf8cd-1b3a-455c-af2b-14ec6b21dcb3@193.151.152.235:6312?security=none&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
