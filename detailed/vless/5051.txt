@@ -1,1 +1,3 @@
 vless://0b307dac-43a0-4a8f-acba-50a8ebe8b76f@mtu.silentbreath.world:5051?security=none&type=tcp&headerType=http&path=/&host=#@meliproxyy
+vless://1ebb8cb2-b474-426b-ad6d-c2b50dfcf7f6@45.84.157.54:5051/?security=none&encryption=none&headerType=http&type=tcp#@v2rays_ha 9351
+vless://1ebb8cb2-b474-426b-ad6d-c2b50dfcf7f6@45.84.157.54:5051/?security=none&encryption=none&headerType=http&type=tcp#@v2rays_ha 9379
