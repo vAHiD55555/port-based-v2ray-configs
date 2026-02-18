@@ -1,4 +1,7 @@
+vless://24390f0c-41ca-2277-a9ab-379d4c0ec9fa@srv-p0.netmaster.cam:8080?security=none&type=ws&path=%2F&host=srv-p0.netmaster.cam&sni=1&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_4%7C789KB%2Fs#کانفیگ_تست_شده
 vless://715b700e-fb16-444a-b560-966efa95f6b7@tun1.fastlink.cfd:8080?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#%40V2_TEAM
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?security=none&type=ws&path=%2FIVApi%2FDE%2F3&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_5%7C1.1MB%2Fs`
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?security=none&type=ws&path=%2FIVApi%2FUS%2F3&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A6%F0%9F%87%AAAE_1%7C1.2MB%2Fs`
 vless://%50a%72sa%73%68%6fna%6d-Bot-37@104.17.147.22:8080?type=grpc&serviceName=
 vless://098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germany1.fiogoir-germany1.site:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
 vless://035fc20e-04ce-43df-ac4d-65f9f6b2834d@armen.izumii.ir:8080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#کانفیگ رایگان = t.me/arisping

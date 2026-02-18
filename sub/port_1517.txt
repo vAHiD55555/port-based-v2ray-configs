@@ -1,3 +1,4 @@
+vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@cloud.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪[openproxylist.com]
 ss://72de4eb9-74f6-4eac-9590-4d38a311fd9a@cloud.mizban-r.site:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#https://t.me/allproconf
 ss://cdaaa26c-0bce-40c1-9f8e-a5e8aeec046a@directadmin.mizban-r.site:1517/?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#https://t.me/allproconf
 vless://027c2c56-1fab-490a-b833-50451ba0cc57@cpanel.whaletm2.site:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@canfingV2rayNG
