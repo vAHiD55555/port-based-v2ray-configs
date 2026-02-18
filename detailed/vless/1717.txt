@@ -1,8 +1,13 @@
-vless://37865e11-1a27-4283-8ceb-9e35f843cff5@my-o12.rexine.ir:1717?security=none&type=tcp&headerType=http&path=/&host=mir-data-63.myket.ir#🇺🇸 آمریکا ⨳ ویژه (2x)
-vless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@my-o12.rexine.ir:1717?security=none&encryption=none&host=mir-data-63.myket.ir&headerType=http&type=tcp#@config_v2rayy
-vless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@my-o4.rexine.ir:1717?security=none&encryption=none&host=mir-data-57.myket.ir&headerType=http&type=tcp#@config_v2rayy
-vless://99df0442-95dc-4417-a73b-fc3b3c868999@my-o12.rexine.ir:1717?security=none&encryption=none&host=mir-data-63.myket.ir&headerType=http&type=tcp#🇺🇸 @ConfigV2RayNG 👑
 vless://99df0442-95dc-4417-a73b-fc3b3c868999@my-o12.rexine.ir:1717?security=none&type=tcp&headerType=http&path=/&host=mir-data-63.myket.ir#🇺🇸 آمریکا ⨳ ویژه (2x)
-vless://d8da04bf-c680-4493-92ca-ce95883ac1c1@my-o12.rexine.ir:1717?security=none&encryption=none&host=mir-data-63.myket.ir&headerType=http&type=tcp#Config 5 - @lebertad
 vless://d8da04bf-c680-4493-92ca-ce95883ac1c1@my-o12.rexine.ir:1717?security=none&type=tcp&headerType=http&path=/&host=mir-data-63.myket.ir#🇺🇸 آمریکا ⨳ ویژه (2x)
-vless://d8da04bf-c680-4493-92ca-ce95883ac1c1@my-o6.rexine.ir:1717?encryption=none&security=none&type=tcp&headerType=http&host=mir-data-62.myket.ir#Config 2 - @lebertad
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o12.rexine.ir:1717?security=none&type=tcp&headerType=http&path=/&host=mir-data-63.myket.ir#🇺🇸 آمریکا ⨳ ویژه (2x)
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o2.rexine.ir:1717?security=none&encryption=none&host=mir-data-55.myket.ir&headerType=http&type=tcp#🇩🇪 @ConfigV2RayNG
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o2.rexine.ir:1717?security=none&type=tcp&headerType=http&path=/&host=mir-data-55.myket.ir#🇩🇪 آلمان ⨳ ویژه (2x)
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o3.rexine.ir:1717?security=none&encryption=none&host=mir-data-56.myket.ir&headerType=http&type=tcp#🇳🇱 @ConfigV2RayNG
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o3.rexine.ir:1717?security=none&type=tcp&headerType=http&path=/&host=mir-data-56.myket.ir#🇳🇱 هلند ⨳ ویژه (2x)
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o4.rexine.ir:1717?security=none&encryption=none&host=mir-data-57.myket.ir&headerType=http&type=tcp#🇩🇪 ConfigV2RayNG
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o4.rexine.ir:1717?security=none&type=tcp&headerType=http&path=/&host=mir-data-57.myket.ir#🇩🇪 آلمان ⨳ ویژه (2x)
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o5.rexine.ir:1717?security=none&encryption=none&host=mir-data-58.myket.ir&headerType=http&type=tcp#🇩🇪 ConfigV2RayNG
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o5.rexine.ir:1717?security=none&type=tcp&headerType=http&path=/&host=mir-data-58.myket.ir#🇩🇪 آلمان ⨳ ویژه (2x)
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o6.rexine.ir:1717?security=none&encryption=none&host=mir-data-62.myket.ir&headerType=http&type=tcp#🇮🇹 ConfigV2RayNG
+vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o6.rexine.ir:1717?security=none&type=tcp&headerType=http&path=/&host=mir-data-62.myket.ir#🇮🇹 ایتالیا ⨳ ویژه (2x)

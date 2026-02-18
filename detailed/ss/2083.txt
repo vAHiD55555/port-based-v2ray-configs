@@ -1,2 +1,1 @@
-ss://522a7761-8dd6-47de-b008-41adcfcfe826@Vip1.netfa360.info:2083?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#https://t.me/allproconf
-ss://85b31034-3862-4496-b108-ebb05985ac05@fox20.wizard2shop.com:2083?security=tls&type=ws&path=/?ed=2560&host=wiz10.wizard2shop.org&sni=wiz10.wizard2shop.org&fp=chrome&encryption=none#https://t.me/allproconf
+ss://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083/?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=ipv4.yasharteam.com#@v2rays_ha 9597
