@@ -1,1 +1,1 @@
-ss://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083/?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=ipv4.yasharteam.com#@v2rays_ha 9597
+ss://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@45.130.125.160:2083/?type=ws&encryption=none&flow=&host=ipv4.yasharteam.com&path=/&security=tls&sni=ipv4.yasharteam.com&fp=chrome#https://t.me/allproconf

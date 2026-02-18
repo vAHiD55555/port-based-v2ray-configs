@@ -1,9 +1,6 @@
 vless://5cd8287f-426c-4145-d258-0a8e5a2aaed5@185.58.241.189:6556/?security=none&encryption=none&headerType=http&type=tcp#@v2rays_ha 9665
-vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556/?security=none&encryption=none&headerType=none&type=tcp#@v2rays_ha 9565
 vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none&encryption=none#🇫🇷[Telegram:NetifyVPN]
 vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?security=none&encryption=none&headerType=none&type=tcp#@Black_Star_Vpn
 vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?security=none&encryption=none&headerType=none&type=tcp#@HajmVPN_Config | 🇨🇵
 vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?security=none&encryption=none&headerType=none&type=tcp#@Hddify
-vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?security=none&encryption=none&headerType=none&type=tcp#@YamYamProxy
-vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?security=none&encryption=none&headerType=none&type=tcp#🇫🇷[KIA_NET]
 vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?security=none&encryption=none&headerType=none&type=tcp#🧢-@turbov2box
