@@ -1,3 +1,1 @@
-vless://14ca7158-f6b0-46d3-bf0e-847ce1b5a6e6@194.36.174.242:3220?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@NETMelliAnti
-vless://14ca7158-f6b0-46d3-bf0e-847ce1b5a6e6@92.242.196.167:3220?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@NETMelliAnti
 vless://14ca7158-f6b0-46d3-bf0e-847ce1b5a6e6@ir.beta4.lowfamila.site:3220?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#@meliproxyy

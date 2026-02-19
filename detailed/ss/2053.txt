@@ -1,3 +1,1 @@
-ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.10:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=xgzoK-82199.phoenixappdataj.uk&fp=chrome&type=ws&sni=xgzoK-82199.phoenixappdataj.uk#https://t.me/allproconf
-ss://63af6fe2-0329-4070-bf92-8712b95933dd@arv.au24.top:2053/?security=none&allowInsecure=0&encryption=none&type=tcp&host=ir1.node.check-host.net&path=/&headerType=http#@v2rays_ha 9837
-ss://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip1.kaixincloud.top:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#https://t.me/allproconf
+ss://acf57acf-9d57-4f57-a939-e4492b1e00fa@rivon.aiteamplus.ir:2053/?path=/api/ssl/config/v1/history&security=tls&encryption=none&host=rivon.aiteamplus.ir&type=ws&sni=rivon.aiteamplus.ir#@v2rays_ha 10040

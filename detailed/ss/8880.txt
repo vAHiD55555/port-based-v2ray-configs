@@ -1,3 +1,5 @@
+ss://7d1f7859-724c-4c04-b9d7-c9a5f8585f66@fonken.izumii.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#https://t.me/allproconf
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/allproconf
+ss://ci49kfwjrc@104.21.17.104:8880/?mode=auto&path=/compass/cdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#@v2rays_ha 10042
 ss://ci49kfwjrc@104.21.17.104:8880/?mode=auto&path=/compass/cdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#https://t.me/allproconf
-ss://ci49kfwjrc@172.67.175.118:8880/?mode=auto&path=/compass/cdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#@v2rays_ha 9824
-ss://ed8b04ef-3938-4db2-9998-f491bf820a2b@62.60.251.11:8880/?type=tcp&encryption=none&security=none#@v2rays_ha 9830
+ss://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=/compass/cdn/?&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#https://t.me/allproconf

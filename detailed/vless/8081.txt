@@ -1,1 +1,2 @@
+vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@user.netfinix.ir:8081?security=none&encryption=none&headerType=none&type=tcp#@V2rayBaaz
 vless://c963ea66-7107-4351-8ded-f54a2658bb84@185.232.152.150:8081?security=none&encryption=none&headerType=http&type=tcp#E0012
