@@ -1,5 +1,7 @@
 vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@fr3.netfinix.ir:85?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@V2rayBaaz
+vless://65bf333a-f416-a1de-f886-98291e6a561a@fr3.netfinix.ir:85?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇩‌‌🇦‌‌🇷‌‌🇨‌‌🇵‌‌🇷‌‌🇴‌‌🇽‌‌🇾‌
+vless://762b8e7d-c3b4-4525-a516-389cf782ac09@fr3.netfinix.ir:85?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇫🇷+@DarcProxy
+vless://76c24df7-68c5-21c5-1dc1-7cf56dc7c39b@fr3.netfinix.ir:85?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇫🇷+فرانسه+@DarcProxy
 vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@fr3.netfinix.ir:85?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
 vless://800daec4-22fc-cf40-a3a0-2ad87e7cf446@fr3.netfinix.ir:85?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇫🇷+فرانسه+@DarcProxy
-vless://c490d6f4-0ed3-52e0-f24b-3ba51a209fa3@fr3.netfinix.ir:85?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Config 2 - @lebertad
-vless://c490d6f4-0ed3-52e0-f24b-3ba51a209fa3@fr3.netfinix.ir:85?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇫🇷+فرانسه
+vless://9c90d5bf-f232-4590-88c3-d4e24b7d5981@application-de-gateway.gocdn.ir:85?encryption=none&security=none&type=xhttp&host=application-de-gateway.gocdn.ir&path=/&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#ConfigPositive VLESS XHTTP 7

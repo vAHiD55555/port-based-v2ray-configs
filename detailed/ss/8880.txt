@@ -1,4 +1,3 @@
 ss://800daec4-22fc-cf40-a3a0-2ad87e7cf446@nl3.netfinix.ir:8880/?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@v2rays_ha 10204
 ss://ci49kfwjrc@104.21.17.104:8880/?mode=auto&path=/compass/cdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#@v2rays_ha 10042
 ss://ci49kfwjrc@104.21.17.104:8880/?mode=auto&path=/compass/cdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#@v2rays_ha 10205
-ss://ci49kfwjrc@104.21.17.104:8880/?mode=auto&path=/compass/cdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#https://t.me/allproconf

@@ -1,4 +1,3 @@
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599/?type=tcp&encryption=none&flow=#@chillguy_vpn
 vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD
 vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 13
 vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=&encryption=none&headerType=&type=tcp#@VpnMaan 13
@@ -14,6 +13,3 @@ vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&enc
 vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#Channel : @Daily_Configs
 vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#🧢-@turbov2box
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=&encryption=none&headerType=none&type=tcp#@ConfigV2RayNG
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#@nekopingbot_190
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#@proxy_kafee

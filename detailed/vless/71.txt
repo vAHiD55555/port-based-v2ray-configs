@@ -2,5 +2,4 @@ vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=&encrypti
 vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71/?security=&encryption=none&headerType=none&type=tcp#@v2rays_ha 10160
 vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=&encryption=none&headerType=none&type=tcp#@FarazV2ray
 vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#@ConfigV2RayNG
-vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#@chillguy_vpn
 vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#Channel : @Daily_Configs
