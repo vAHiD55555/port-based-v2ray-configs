@@ -1,4 +1,4 @@
 ss://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@45.130.125.160:2083/?path=/&security=tls&encryption=none&host=ipv4.yasharteam.com&type=ws&sni=ipv4.yasharteam.com#@v2rays_ha 10036
-ss://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#https://t.me/allproconf
+ss://40841529-3512-da44-4626-9be4a28a26a6@188.114.97.3:2083/?security=tls&type=grpc&headerType=&encryption=none&serviceName=sadxx&authority=&mode=multi&sni=d4e8a1b7c9f362ad.lenalizmy0ve.ir&fp=chrome#@v2rays_ha 10049
 ss://40841529-3512-da44-4626-9be4a28a26a6@188.114.97.3:2083?security=tls&type=grpc&headerType=&encryption=none&serviceName=sadxx&authority=&mode=multi&sni=d4e8a1b7c9f362ad.lenalizmy0ve.ir&fp=chrome#https://t.me/allproconf
-ss://8185018f-a587-1d9e-108d-85290a852b48@dl4.irannetfinix.shop:2083/?path=/&security=tls&encryption=none&insecure=0&host=germany1.irannetfinix.shop&type=ws&allowInsecure=0&sni=germany1.irannetfinix.shop#@v2rays_ha 9971
+ss://e348b823-7c0c-437c-abf1-91aee7de880a@CP15.PRODNSSPEED10.IR:2083?note=---Telegram---@V2rayBaaz---&type=grpc&security=tls&sni=Touch.followerarzon1.com&allowInsecure=1&serviceName=Love&mode=multi&encryption=none#https://t.me/allproconf
