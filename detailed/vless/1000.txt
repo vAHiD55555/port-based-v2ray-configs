@@ -3,3 +3,6 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
+vless://8a2505e4-6abc-4fd6-86eb-f34b3a85c5dc@193.151.135.188:1000?encryption=none&security=none&type=tcp&headerType=http#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+vless://8a2505e4-6abc-4fd6-86eb-f34b3a85c5dc@193.151.146.227:1000?encryption=none&security=none&type=tcp&headerType=http#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+vless://8a2505e4-6abc-4fd6-86eb-f34b3a85c5dc@37.152.188.146:1000?encryption=none&security=none&type=tcp&headerType=http#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
