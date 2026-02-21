@@ -1,4 +1,4 @@
-vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?security=none&type=ws&path=%2Fv1%2Fstream%2Ftrk&host=anten.ir&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_1%7C3.4MB%2Fs`
+vless://545800e4-f929-4d25-99ec-0852c863e510@91.107.147.31:8080?security=none&type=ws&path=%2Fcdn&host=cyrusthegreat.blubplan.top&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_3%7C5.2MB%2Fs`
 vless://%50a%72sa%73%68%6fna%6d-Bot-37@104.17.147.22:8080?type=grpc&serviceName=
 vless://098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germany1.fiogoir-germany1.site:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
 vless://--VPNCUSTOMIZE--@www.parsvds.ir:8080?path=VPNCUSTOMIZE?ed=8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#@torang_vpn+ALL+NET
