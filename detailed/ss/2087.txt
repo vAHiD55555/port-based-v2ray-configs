@@ -1,3 +1,6 @@
-ss://0c84ff26-2fc1-4db5-9e90-9eedd87903c5@patch.shirvani24.org:2087?encryption=none&security=tls&sni=srda.poxhub.org&alpn=h2&fp=chrome&type=ws&host=srda.poxhub.org&path=/#https://t.me/allproconf
 ss://9528078a-6ff0-403e-bc87-eb898c774a87@94.140.0.74:2087/?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@v2rays_ha 10439
+ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@hd.pelatiposi.info:2087?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=splash.VaRtAlReX.iNfO#https://t.me/allproconf
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@hd.pelatiposi.info:2087?security=tls&allowInsecure=0&encryption=none&type=grpc&sni=splash.VaRtAlReX.iNfO&fp=chrome#https://t.me/allproconf
+ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@hd.pelatiposi.info:2087?security=tls&encryption=none&type=grpc&sni=splash.VaRtAlReX.iNfO#https://t.me/allproconf
+ss://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Telegram:@config_proxy 💦
+ss://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#https://t.me/allproconf

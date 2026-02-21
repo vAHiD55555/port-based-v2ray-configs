@@ -1,2 +1,1 @@
-vless://65bf333a-f416-a1de-f886-98291e6a561a@fr3.netfinix.ir:85?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@v2ray_proxy_npv+❄️+@ClouddVPN
 vless://9c90d5bf-f232-4590-88c3-d4e24b7d5981@application-de-gateway.gocdn.ir:85?encryption=none&security=none&type=xhttp&host=application-de-gateway.gocdn.ir&path=/&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#ConfigPositive VLESS XHTTP 7

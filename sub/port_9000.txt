@@ -1,8 +1,5 @@
 vless://5abf49f0-878a-4272-88f3-7f7810ce9dd1@85.133.254.19:9000?security=none&encryption=none&headerType=http&type=tcp#Channel : @Daily_Configs
-vless://5abf49f0-878a-4272-88f3-7f7810ce9dd1@85.133.254.19:9000?security=none&encryption=none&headerType=http&type=tcp#🐦‍🔥-@SPEEDS_VPN
-vless://5abf49f0-878a-4272-88f3-7f7810ce9dd1@85.198.13.44:9000?security=none&encryption=none&headerType=http&type=tcp#🐦‍🔥-@SPEEDS_VPN
-vless://5abf49f0-878a-4272-88f3-7f7810ce9dd1@85.198.21.253:9000?security=none&encryption=none&headerType=http&type=tcp#🐦‍🔥-@SPEEDS_VPN
-vmess://eyJhZGQiOiJpZDIud3BhaXJwbGFuZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzdhYWQ3M2QtMDNlNy00NDFiLTliYzUtOThkMTM1MzViYTNlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI5MDAwIiwicHMiOiJAVjJyYXluZ1NldmVuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiAiMzYuMjU1LjE5Ny41NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNzdhYWQ3M2QtMDNlNy00NDFiLTliYzUtOThkMTM1MzViYTNlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDkwMDAsICJwcyI6ICJAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiJpZDIud3BhaXJwbGFuZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzdhYWQ3M2QtMDNlNy00NDFiLTliYzUtOThkMTM1MzViYTNlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI5MDAwIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OklOOjpJTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@213.183.63.218:9000#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.218-4120
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.68:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8416
