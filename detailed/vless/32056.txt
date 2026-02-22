@@ -1,0 +1,2 @@
+vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@46.245.67.45:32056?security=tls&allowInsecure=0&encryption=none&type=ws&host=Dawshmiti.global.ssl.fastly.net&path=/de&sni=speedtest.net&fp=chrome&alpn=http/1.1#@config_v2rayy
+vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@46.245.67.45:32056?security=tls&allowInsecure=0&encryption=none&type=ws&host=mitimf.global.ssl.fastly.net&path=/sw&sni=speedtest.net&fp=chrome&alpn=http/1.1#@config_v2rayy
