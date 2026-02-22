@@ -1,10 +1,11 @@
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?mode=auto&path=/pabloping/&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#https://t.me/allproconf
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052/?mode=auto&path=/pabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#@v2rays_ha 10477
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#https://t.me/allproconf
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#https://t.me/allproconf
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052/?mode=auto&path=/pabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#@v2rays_ha 10479
+ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
+ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
+ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping/&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#https://t.me/allproconf
+ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?security=none&allowInsecure=0&encryption=none&type=xhttp&path=pabloping&mode=auto#https://t.me/allproconf
+ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052/?mode=auto&path=/pabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#@v2rays_ha 10641
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052/?mode=auto&path=/pabloping&security=none&encryption=none&host=upnl.pabloping.pro&type=xhttp#@v2rays_ha 10626
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=upnl.pabloping.pro&type=xhttp#https://t.me/allproconf
+ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
 ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052/?mode=auto&path=/pabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp#@v2rays_ha 10611
-ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052/?mode=auto&path=/pabloping&security=none&encryption=none&host=upnl.pabloping.pro&type=xhttp#@v2rays_ha 10476
-ss://f2eeaf91-6ac0-47f3-9673-39476e75c02d@188.114.98.0:2052/?security=none&type=ws&path=/t.me.V2RayyNGvpn?ed=1024&host=metaplayer.gameredzone.top&encryption=none#@v2rays_ha 10478
+ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052/?mode=auto&path=/pabloping&security=none&encryption=none&host=vusp.pabloping.pro&type=xhttp#@v2rays_ha 10640
+ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&path=/#https://t.me/allproconf
+ss://a594c2de-ff92-4210-aecb-78e4682b2a31@104.16.60.8:2052?encryption=none&security=none&type=ws&host=p10.virankade.site&path=/#https://t.me/allproconf

@@ -1,2 +1,0 @@
-vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@185.128.137.211:39125?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/de&sni=de.mitivpn-best.workers.dev&fp=chrome&mode=packet-up&alpn=h2#@config_v2rayy
-vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@185.128.137.211:39125?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/fl&sni=fl.mitivpn-best.workers.dev&fp=chrome&mode=packet-up&alpn=h2#@config_v2rayy
