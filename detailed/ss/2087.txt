@@ -1,4 +1,1 @@
-ss://8443822d-6b68-4af2-d096-c03207ed880d@chatgpt.com:2087?type=ws&security=tls&host=vds.rahedarro.com&path=/rahh&sni=vds.rahedarro.com&fp=chrome#https://t.me/allproconf
-ss://9528078a-6ff0-403e-bc87-eb898c774a87@94.140.0.74:2087/?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@v2rays_ha 10439
-ss://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?security=tls&type=ws&headerType=&path=/&host=all-fm2.netsnap.ir.&sni=all-fm2.netsnap.ir.&fp=chrome&alpn=h2,http/1.1#https://t.me/allproconf
-ss://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?security=tls&type=ws&headerType=&path=/&host=all-um2.netsnap.ir.&sni=all-um2.netsnap.ir.&fp=chrome&alpn=h2,http/1.1#https://t.me/allproconf
+ss://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&sni=all-fm2.netsnap.ir.#https://t.me/allproconf
