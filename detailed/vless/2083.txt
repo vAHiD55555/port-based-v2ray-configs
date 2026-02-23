@@ -143,3 +143,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.202.218.198:2083?encryption=non
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@chatgpt.com:2083?encryption=none&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ds1-mx-fn154-protection.iranlease.com&path=%2F#qq_1238
 vless://85b31034-3862-4496-b108-ebb05985ac05@fox20.wizard2shop.com:2083?encryption=none&security=tls&sni=wiz10.wizard2shop.org&fp=360&insecure=1&allowInsecure=1&type=ws&host=wiz10.wizard2shop.org&path=%2F%3Fed%3D2560#teleg_1139
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?encryption=none&security=tls&sni=ipv4.yasharteam.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=ipv4.yasharteam.com&path=%2F#fg_1523
+vless://9748d6dc-d7a8-45cd-b4df-00476cac75f8@91.99.8.3:2083?security=reality&encryption=none&pbk=kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=d1#جاوید
