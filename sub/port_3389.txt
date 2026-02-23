@@ -1,7 +1,4 @@
-ss://53651614-49ef-0c6c-e3bb-cbda09f88488@172.65.152.165:3389/?security=none&encryption=none&headerType=none&type=tcp#@v2rays_ha 10658
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#@torang_vpn
-vless://53651614-49ef-0c6c-e3bb-cbda09f88488@172.65.152.165:3389/?security=none&encryption=none&headerType=none&type=tcp#@v2rays_ha 10647
-vless://53651614-49ef-0c6c-e3bb-cbda09f88488@172.65.152.165:3389?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none&encryption=none#🇫🇮[Telegram:NetifyVPN]
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.188:3389#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.188-0042
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.236.197.205-0933
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.188.99:3389#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.99-1570
