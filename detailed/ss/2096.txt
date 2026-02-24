@@ -1,22 +1,9 @@
-ss://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http/1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#https://t.me/allproconf
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#https://t.me/allproconf
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.192.75:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#https://t.me/allproconf
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.217:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#https://t.me/allproconf
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.99:2096?encryption=none&security=tls&sni=hetz.x-smm.com&allowInsecure=1&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#https://t.me/allproconf
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#https://t.me/allproconf
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#جاویدنام بهمن فتاحی 🌹📡🇺🇸®️United States©️Los Angeles🅿️ping:164.35ms
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?type=ws&security=tls&sni=hetz.x-smm.com&host=hetz.x-smm.com&path=/45.76.183.217=49292&fp=chrome#https://t.me/allproconf
+ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.192.75:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#@v2rays_ha 11017
+ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#@v2rays_ha 11020
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096/?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#@v2rays_ha 10900
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#⚡Telegram = @SOSkeyNET
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#✅@AR14N24b
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&path=/?ed#https://t.me/allproconf
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?path=/?ed=2560&telegram🇨🇳#https://t.me/allproconf
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.238:2096?path=/?ed=2560&telegram🇨🇳#https://t.me/allproconf
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.238:2096?type=ws&security=tls&sni=sni.jpmj.dev&host=sni.jpmj.dev&path=/#https://t.me/allproconf
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.238:2096?type=ws&security=tls&sni=sni.jpmj.dev&host=sni.jpmj.dev&path=/#https://t.me/allproconf
-ss://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?type=ws&security=tls&sni=ca.adobe-connect.top&host=ca.adobe-connect.top&path=/&fp=chrome#https://t.me/allproconf
-ss://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?type=ws&security=tls&sni=ca.adobe-connect.top&host=ca.adobe-connect.top&path=?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#https://t.me/allproconf
-ss://686c62d9-17a7-43c9-a40a-f6747df60a9f@vip2.kaixincloud.top:2096?type=ws&security=tls&sni=ca.adobe-connect.top&host=ca.adobe-connect.top&path=/&fp=chrome#https://t.me/allproconf
-ss://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.10.182:2096?security=tls&sni=kkt.ylks.link&type=ws&path=/blue#https://t.me/allproconf
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#[🇩🇪]t.me/ConfigsHub
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.155.209:2096/?path=/?ed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@v2rays_ha 11035
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.238:2096?security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#https://t.me/allproconf
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#https://t.me/allproconf
 ss://d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549@vb27.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#Telegram:@config_proxy 💦
 ss://d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549@vb27.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#https://t.me/allproconf

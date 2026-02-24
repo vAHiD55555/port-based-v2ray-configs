@@ -1,1 +1,2 @@
-ss://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?encryption=none&type=tcp&headerType=http&host=bmw.com&security=none#https://t.me/allproconf
+ss://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&allowInsecure=0&encryption=none&type=tcp&host=/---&path=/&headerType=http#https://t.me/allproconf
+ss://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&allowInsecure=0&encryption=none&type=tcp&host=/---V2RRVIP&path=/&headerType=http#https://t.me/allproconf
