@@ -1,4 +1,3 @@
-vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@94.182.103.8:8070?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@94.182.103.8:8070?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Telegram : @Daily_Configs
 vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@94.182.103.8:8070?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@canfingV2rayNG
 vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@94.182.103.8:8070?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
