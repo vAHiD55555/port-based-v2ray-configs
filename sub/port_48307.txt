@@ -4,4 +4,3 @@ vless://42436f1d-5bdd-4b3a-8649-a17ef75e9672@18.197.254.88:48307?security=none&e
 vless://42436f1d-5bdd-4b3a-8649-a17ef75e9672@18.197.254.88:48307?security=none&encryption=none&headerType=none&type=tcp#Channel : @Daily_Configs
 vless://42436f1d-5bdd-4b3a-8649-a17ef75e9672@18.199.220.61:48307?security=&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://42436f1d-5bdd-4b3a-8649-a17ef75e9672@18.199.220.61:48307?security=&encryption=none&headerType=none&type=tcp#@mehrosaboran
-vless://42436f1d-5bdd-4b3a-8649-a17ef75e9672@3.77.202.229:48307?type=tcp&encryption=none&security=none#@meliproxyy
