@@ -1,5 +1,5 @@
+vless://620e45f4-92f1-4be6-e118-3bc515509320@18.159.51.49:28279?encryption=none&security=none&type=tcp&headerType=none#بیا تا قطع نشی @proxy_v2ray_meli
 vless://620e45f4-92f1-4be6-e118-3bc515509320@18.159.51.49:28279?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 15
-vless://620e45f4-92f1-4be6-e118-3bc515509320@18.159.51.49:28279?security=none&encryption=none&headerType=none&type=tcp#@V2rayBaaz
 vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=&encryption=none&headerType=none&type=tcp#@mehrosaboran
 vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=&encryption=none&headerType=none&type=tcp#@vmess_iran

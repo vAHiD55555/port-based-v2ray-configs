@@ -1,0 +1,2 @@
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10006/?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=XUVBEFyxevBwoGwVlo31vXMR_wQ0h0UnhzC4jCeakkc&sid=590bdc3b6dad&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=/&fp=chrome#@v2rays_ha 11276
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10006?security=reality&encryption=none&pbk=XUVBEFyxevBwoGwVlo31vXMR_wQ0h0UnhzC4jCeakkc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=590bdc3b6dad#@V2rayBaaz⛄️
