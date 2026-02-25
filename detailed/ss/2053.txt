@@ -1,7 +1,4 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.11:2053?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#https://t.me/allproconf
-ss://6475e370-b6fb-45de-b377-5796ba96e645@172.67.73.213:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#https://t.me/allproconf
-ss://a2427549-315d-42d6-b10d-376b23ddae3d@cd3.reata.ir:2053?path=?ed=2096&security=tls&alpn=h2&encryption=none&insecure=0&host=api3.diiginet.ir&fp=chrome&type=ws&allowInsecure=0&sni=api3.diiginet.ir#https://t.me/allproconf
-ss://de541d61-6b3f-437f-8429-bbf3f672f885@cd.reata.ir:2053?security=tls&alpn=h2&encryption=none&host=de2.diiginet.ir&fp=chrome&type=ws&sni=de2.diiginet.ir#https://t.me/allproconf
+ss://17565eb3-3535-4fc1-bbaa-e9fbd94b2f0c@14.102.228.66:2053?security=tls&sni=fi1.v2vless.xyz&type=ws&host=fi1.v2vless.xyz&fp=chrome&alpn=h3,h2,http/1.1#https://t.me/allproconf
 ss://e52d56bb-8376-408e-92d7-cdd896efd3c4@45.130.125.160:2053/?encryption=none&security=tls&sni=jafarservices.jafarghasemiturk.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jafarservices.jafarghasemiturk.ir&path=/ws#@v2rays_ha 11036
-ss://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#https://t.me/allproconf
-ss://f81fac6d-88e7-45e3-b19e-084527859fba@104.18.32.47:2053?security=tls&type=ws&headerType=&path=/api/v1/events&host=apex.marfanet.com&sni=apex.marfanet.com&fp=chrome&alpn=h3,h2,http/1.1#https://t.me/allproconf
+ss://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#https://t.me/allproconf
+ss://f81fac6d-88e7-45e3-b19e-084527859fba@159.195.60.150:2053?path=/api/v1/events&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=info.marfanet.com&fp=chrome&type=ws&allowInsecure=0&sni=info.marfanet.com#https://t.me/allproconf
