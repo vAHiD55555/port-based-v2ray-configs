@@ -1,3 +1,2 @@
-ss://699fca60-533f-4436-38db-7881c2150fe2@27.50.48.69:2083?encryption=none&security=tls&sni=53e5ab44.lfree.cn.mt&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=53e5ab44.lfree.cn.mt&path=/socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719#https://t.me/allproconf
 ss://9748d6dc-d7a8-45cd-b4df-00476cac75f8@91.99.8.3:2083?security=reality&encryption=none&pbk=kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=d1#https://t.me/allproconf
-ss://c501c66b-c6c2-456b-b604-80393b83d67f@144.31.18.73:2083?type=grpc&security=reality&sni=apple.com&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#https://t.me/allproconf
+ss://ae052ac1-ceea-476a-8846-24a70fb69c8b@172.67.129.111:2083?security=tls&sni=marketepicnode6.nabarbest.ir&type=ws&fp=chrome&alpn=h2,http/1.1#https://t.me/allproconf
