@@ -64,5 +64,4 @@ vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=none&e
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@217.114.40.151:9000?encryption=none&security=none&type=tcp&headerType=http#@proxy_v2ray_meliحمایت کن
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@217.114.40.151:9000?security=none&encryption=none&headerType=http&type=tcp#⚡ @HajmVPN_Config
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@62.60.192.11:9000?encryption=none&security=none&type=tcp&headerType=http#@proxy_v2ray_meliحمایت کن
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=none&amp%3Bencryption=none&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2raych%20%231
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AES
