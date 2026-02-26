@@ -1,0 +1,2 @@
+vless://968484b0-8cb2-4464-93f3-70b6aa70620a@curt242.blazevx.ir:2383?mode=gun&security=tls&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=speedtest.net#Config 4 - @lebertad
+vless://968484b0-8cb2-4464-93f3-70b6aa70620a@curt242.blazevx.ir:2383?type=grpc&mode=gun&security=tls&encryption=none&sni=speedtest.net&allowInsecure=1#@Proxyiranip

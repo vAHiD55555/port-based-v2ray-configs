@@ -1,3 +1,1 @@
 vless://231cd1b7-d0b0-49a7-ab7a-19aab29d036f@85.192.34.4:3443?security=reality&encryption=none&pbk=ZXOWG_vt-nC0CYeQxvhrTu3evw0AJqTjkcUI5JvvNis&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=73c18c092cf76666#[@ConfigPositive]+#6
-vless://5a5ca651-b3e4-425a-96f2-794547041670@178.250.243.188:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&security=reality&sid=da5f84e85736f625&sni=yandex.ru&type=tcp#@chillguy_vpn
-vless://5a5ca651-b3e4-425a-96f2-794547041670@178.250.243.23:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&security=reality&sid=da5f84e85736f625&sni=yandex.ru&type=tcp#@chillguy_vpn
