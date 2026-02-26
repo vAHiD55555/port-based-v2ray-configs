@@ -1,1 +1,2 @@
 vless://231cd1b7-d0b0-49a7-ab7a-19aab29d036f@85.192.34.4:3443?security=reality&encryption=none&pbk=ZXOWG_vt-nC0CYeQxvhrTu3evw0AJqTjkcUI5JvvNis&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=73c18c092cf76666#[@ConfigPositive]+#6
+vless://2dfa740c-8069-4993-8b96-c3e5dc540593@ru-cdn.ultima.foundation:3443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.ru&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&headerType=none#Config 5 - @lebertad
