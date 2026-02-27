@@ -1,4 +1,0 @@
-vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?encryption=none&security=none&type=tcp&headerType=none#@filembad
-vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?security=&encryption=none&headerType=none&type=tcp#@canfingV2rayNG
-vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?security=none&encryption=none&headerType=none&type=tcp#@ConfigV2RayNG 🍪
-vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools 🍪

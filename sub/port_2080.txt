@@ -12,7 +12,7 @@ vless://f86c1a1f-c000-44c0-b094-82db02736e57@94.183.159.132:2080?encryption=none
 vless://f86c1a1f-c000-44c0-b094-82db02736e57@94.183.159.132:2080?path=/&security=&encryption=none&type=ws#ConfigV2RayNG
 trojan://0f1boefr-bg7h-i691-elt8-nsdipjykylfj@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 trojan://741h2rcz-b4yt-vvnv-qmuw-wum5ntpn2h58@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://bza2510z-ea9q-4p1f-w5gs-p11brjoxzsfz@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 trojan://efqpfozg-o6fa-0p6n-i880-0b86eisz2t0w@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 trojan://galhopp2-ed4a-1v37-l5xs-bq4yx29vsgj0@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://gw89q0wf-vnmx-ejez-gf8e-scfu3vyj8pem@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
+trojan://mx0askv1-wznb-l3di-8ka3-sabwiwjl8fcb@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
+trojan://xe7ne2sw-qgod-5cjc-s20p-mutbawrm82mr@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
