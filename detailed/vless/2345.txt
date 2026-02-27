@@ -53,3 +53,7 @@ vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=none&pat
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?type=tcp&path=/#@chillguy_vpn
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345/?type=tcp&encryption=none&flow=#@chillguy_vpn
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?type=tcp&encryption=none#@chillguy_vpn
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?encryption=none&security=none&type=tcp&headerType=none#@chillguy_vpn
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=none&encryption=none&headerType=none&type=tcp#@chillguy_vpn
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?encryption=none&security=none&type=tcp&headerType=none#@chillguy_vpn
+vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#Config 5 - @lebertad
