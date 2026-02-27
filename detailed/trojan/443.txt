@@ -543,5 +543,4 @@ trojan://humanity@www.creationlong.org:443?type=ws&security=tls&sni=www.creation
 trojan://humanity@www.host-tracker.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@v2box
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&type=ws#vpnsal
 trojan://join-masterserver1@join-masterserver1-join-masterserver1-join-masterserver1.galajih191.workers.dev:443?path=/?ed=2560&security=tls&host=join-masterserver1-join-masterserver1-join-masterserver1.galajih191.workers.dev&fp=chrome&type=ws&sni=join-masterserver1-join-masterserver1-join-masterserver1.galajih191.workers.dev#https://t.me/allproconf
-trojan://humanity@172.64.152.23:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.gossipglove.com&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=www.gossipglove.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40red2ray%20%231
-trojan://humanity@104.21.40.34:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.gossipglove.com&amp%3Btype=ws&amp%3Bsni=www.gossipglove.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40red2ray%20%232
+trojan://humanity@104.21.40.34:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.gossipglove.com&amp%3Btype=ws&amp%3Bsni=www.gossipglove.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40red2ray%20%231
