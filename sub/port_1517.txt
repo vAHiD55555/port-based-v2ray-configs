@@ -54,43 +54,34 @@ vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-77.f-sub.cfd:1517?security=none
 vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-78.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@v2ray_configs_pools : چنل کانفیگ
 vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-78.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel : @Daily_Configs
 vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-79.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel : @Daily_Configs
+vless://3b90aa0e-81cc-4359-95ec-72766f3d6cb6@vip-79.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#Config 2 - @lebertad
+vless://3b90aa0e-81cc-4359-95ec-72766f3d6cb6@vip-79.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#telegram | @Free_World2
+vless://43b93e3b-8857-476e-9b5a-803953158647@vip-78.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+vless://43b93e3b-8857-476e-9b5a-803953158647@vip-82.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+vless://47c6b2b7-a8bd-4abf-910f-270008fcdbb3@vip-76.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+vless://47c6b2b7-a8bd-4abf-910f-270008fcdbb3@vip-79.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517/?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@v2rays_ha 11691
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp# telegram @mtmvpn
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@filtershekanfilm
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Telegram: @proxyiranip آلمان 🇩🇪 349
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel : @Daily_Configs
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[14421]+-+Telegram+:+@configraygan
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#⚡ @HajmVPN_Config
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@meliproxyy
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-76.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#Config 4 - @lebertad
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-77.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[14409]+-+Telegram+:+@configraygan
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-77.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@meliproxyy
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-78.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[14407]+-+Telegram+:+@configraygan
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-78.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#⚡ @HajmVPN_Config
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-78.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@meliproxyy
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-79.f-sub.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp # @filtershekanfilm
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-79.f-sub.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp# telegram @mtmvpn
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-79.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[14408]+-+Telegram+:+@configraygan
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-79.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#⚡ @HajmVPN_Config
+vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-79.f-sub.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-79.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@meliproxyy
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@erfanandroid
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel : @Daily_Configs
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[14420]+-+Telegram+:+@configraygan
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-81.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@meliproxyy
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-82.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-82.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@erfanandroid
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-82.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@irmeliy
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-82.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel : @Daily_Configs
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-82.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[14419]+-+Telegram+:+@configraygan
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-82.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#⚡ @HajmVPN_Config
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-82.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@meliproxyy
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-83.f-sub.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp# telegram @mtmvpn
+vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-83.f-sub.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-83.f-sub.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@filtershekanfilm
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-83.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel : @Daily_Configs
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-83.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[14418]+-+Telegram+:+@configraygan
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-83.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#⚡ @HajmVPN_Config
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-83.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@meliproxyy
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-84.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[14410]+-+Telegram+:+@configraygan
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-84.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#⚡ @HajmVPN_Config
 vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-84.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@meliproxyy
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-84.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#⚡Telegram = @SOSkeyNET
-vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-84.f-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#✅@AR14N24b

@@ -1,1 +1,1 @@
-vless://7fe3d19c-957a-4d61-81a9-404c185eb1dd@193.151.153.107:203?security=none&encryption=none&headerType=none&type=tcp#@filembad
+vless://7fe3d19c-957a-4d61-81a9-404c185eb1dd@193.151.153.107:203/?security=&encryption=none&headerType=none&type=tcp#@v2rays_ha 11693
