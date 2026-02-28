@@ -4,3 +4,4 @@ vless://deb06db2-5dda-4ce7-9a75-a5ab0acbf6b2@37.32.26.173:11328?security=none&en
 vless://deb06db2-5dda-4ce7-9a75-a5ab0acbf6b2@37.32.26.173:11328?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @config_v2rayy
 vless://deb06db2-5dda-4ce7-9a75-a5ab0acbf6b2@37.32.26.173:11328?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
 vless://deb06db2-5dda-4ce7-9a75-a5ab0acbf6b2@37.32.26.173:11328?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&headerType=none&type=tcp#@icv2ray
+vless://deb06db2-5dda-4ce7-9a75-a5ab0acbf6b2@37.32.26.173:11328?security=none&encryption=none&headerType=none&type=tcp#[15561] - Telegram : @V2All

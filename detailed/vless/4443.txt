@@ -19,3 +19,4 @@ vless://c3d8bdd0-777e-47b0-b7d4-28cc1b160ad8@91.242.229.129:4443?security=tls&al
 vless://c3d8bdd0-777e-47b0-b7d4-28cc1b160ad8@91.242.229.129:4443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl18.fastlanehosting.ru#Channel : @Daily_Configs
 vless://c3d8bdd0-777e-47b0-b7d4-28cc1b160ad8@91.242.229.129:4443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=nl18.fastlanehosting.ru#🦉@FreeConfigForYou
 vless://c3d8bdd0-777e-47b0-b7d4-28cc1b160ad8@91.242.229.129:4443?type=tcp&headerType=none&security=tls&sni=nl18.fastlanehosting.ru&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@Free_World2
+vless://7a31d541-e885-43d4-81f2-62ac29ecd387@51.250.28.252:4443?security=reality&encryption=none&pbk=xl3D_xayL74d7uzlV_1EpEWw0BJ52kzEMF8tUGd7vBM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1f6dffff8a#⚡Telegram = @SOSkeyNET
