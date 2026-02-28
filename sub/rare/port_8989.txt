@@ -1,2 +1,1 @@
 vless://21cd3b2b-002c-4bfe-b4b5-caaff9e3bb51@37.152.191.195:8989?encryption=none&security=none&type=tcp&headerType=http&host=google.com#[@ConfigPositive]+#1
-vless://21cd3b2b-002c-4bfe-b4b5-caaff9e3bb51@37.152.191.195:8989/?security=none&type=tcp&host=google.com&headerType=http#@v2rays_ha 11821

@@ -201,17 +201,5 @@ vless://213426db-afb7-48d1-ae51-5093317212df@94.140.0.74:2087?path=/&security=tl
 vless://213426db-afb7-48d1-ae51-5093317212df@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=iopl90nn.bingnet.online&type=ws&allowInsecure=1&sni=iopl90nn.bingnet.online#🚨v2ray_configs_pools 🚨
 vless://34911a7b-a3d9-47fe-ac0d-e07eeeea4864@162.159.194.86:2087?path=/&security=tls&encryption=none&host=amorix.abresani.com&type=ws&sni=amorix.abresani.com#@v2rayland02🌐
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-tm1.netsnap.ir.&fp=chrome&type=ws&sni=all-tm1.netsnap.ir.&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
-vless://3e6c6178-8b45-4d8b-a1e3-9f88ec945fa7@estonia2.serverac.ir:2087?security=none&encryption=none&host=iran.ir&headerType=http&type=tcp#Config 5 - @lebertad
-vless://3e6c6178-8b45-4d8b-a1e3-9f88ec945fa7@poland2.serverac.ir:2087?security=none&encryption=none&host=iran.ir&headerType=http&type=tcp#Config 1 - @lebertad
-vless://3e6c6178-8b45-4d8b-a1e3-9f88ec945fa7@sweden2.serverac.ir:2087?security=none&encryption=none&host=iran.ir&headerType=http&type=tcp#Config 2 - @lebertad
-vless://59b19fb8-aba7-44e5-ba9c-5c63e07af6df@b2w.esportplusnews.top:2087?security=none&seed=V2RayyNGvpn&encryption=none&headerType=wechat-video&type=kcp#Channel : @Daily_Configs
 vless://59b19fb8-aba7-44e5-ba9c-5c63e07af6df@b2w.esportplusnews.top:2087?security=none&seed=V2RayyNGvpn&encryption=none&headerType=wechat-video&type=kcp#کانال تلگرام : Free_VPN_CH@
-vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@77.74.228.97:2087?security=tls&sni=mositr.freenods.sbs&type=ws&path=twitterfreecodes#@Hope_Net-join-us-on-Telegram
-vless://87597af4-29d8-4bff-8440-96dc8b6c0f8c@s10au.lin2-to7.site:2087?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@FarazV2ray
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.54.157:2087?security=tls&sni=hkd.ylks.link&type=ws&host=hkd.ylks.link&path=TG@juzibaipiao-æ©å­åäº«#t.me/entryNET/config=1858338825794273
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.54.157:2087?security=tls&sni=hkd.ylks.link&type=ws&host=hkd.ylks.link&path=TG@juzibaipiao-橘子分享#@Hope_Net-join-us-on-Telegram
-vless://faa1c209-bf4e-44c4-9f9e-1f5c113e9d75@167.235.198.0:2087?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
-vless://faa1c209-bf4e-44c4-9f9e-1f5c113e9d75@167.235.198.0:2087?security=none&encryption=none&headerType=none&type=tcp#@Spartan_YT
 vless://faa1c209-bf4e-44c4-9f9e-1f5c113e9d75@167.235.198.0:2087?security=none&encryption=none&headerType=none&type=tcp#@config_v2rayy
-vless://faa1c209-bf4e-44c4-9f9e-1f5c113e9d75@167.235.198.0:2087?security=none&encryption=none&headerType=none&type=tcp#《@irmeliy》🇩🇪
-vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@77.74.228.97:2087?security=tls&amp%3Bsni=mositr.freenods.sbs&amp%3Btype=ws&amp%3Bpath=twitterfreecodes#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%7C%20VLESS%20%7C%20%40hope_net%20%231
