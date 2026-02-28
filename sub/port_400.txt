@@ -5,5 +5,5 @@ vless://ff741be3-2e01-474d-955b-0370e3f29a3e@94.184.17.223:400?security=none&enc
 vless://ff741be3-2e01-474d-955b-0370e3f29a3e@94.184.17.223:400?security=none&encryption=none&headerType=none&type=tcp#⚡️🇩🇪『@confegraigan _ نت ملی ²⁴⁵』
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.231.103:400?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.231.103-1683
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.70.134:400?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.70.134-0825
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.70.134:400?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://262f1d150049457ac1d6e66b020fa980@3.112.20.105:400?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.70.134:400?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
