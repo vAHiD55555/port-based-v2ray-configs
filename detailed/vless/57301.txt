@@ -1,0 +1,2 @@
+vless://03b8371a-826e-4831-87eb-0f22f74ee151@46.102.132.50:57301?security=&alpn=http/1.1&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@Proxyiranip
+vless://03b8371a-826e-4831-87eb-0f22f74ee151@46.102.132.50:57301?security=none&allowInsecure=0&encryption=none&type=tcp&host=skyroom.online,gharar.ir,igap.net&path=/&headerType=http#@config_v2rayy

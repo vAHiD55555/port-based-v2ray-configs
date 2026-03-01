@@ -1,0 +1,2 @@
+vless://f2910e2f-be9f-4944-844c-78551af1c2b1@irandc.stardl.ir:2099?security=&encryption=none&headerType=http&type=tcp#Config 1 - @lebertad
+vless://f2910e2f-be9f-4944-844c-78551af1c2b1@irandc.stardl.ir:2099?security=none&encryption=none&headerType=http&type=tcp#Config 2 - @lebertad
