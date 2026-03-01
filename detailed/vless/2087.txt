@@ -202,4 +202,5 @@ vless://213426db-afb7-48d1-ae51-5093317212df@94.140.0.74:2087?path=/&security=tl
 vless://34911a7b-a3d9-47fe-ac0d-e07eeeea4864@162.159.194.86:2087?path=/&security=tls&encryption=none&host=amorix.abresani.com&type=ws&sni=amorix.abresani.com#@v2rayland02🌐
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-tm1.netsnap.ir.&fp=chrome&type=ws&sni=all-tm1.netsnap.ir.&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
 vless://59b19fb8-aba7-44e5-ba9c-5c63e07af6df@b2w.esportplusnews.top:2087?security=none&seed=V2RayyNGvpn&encryption=none&headerType=wechat-video&type=kcp#کانال تلگرام : Free_VPN_CH@
-vless://faa1c209-bf4e-44c4-9f9e-1f5c113e9d75@167.235.198.0:2087?security=none&encryption=none&headerType=none&type=tcp#@config_v2rayy
+vless://8462feba-bea7-428d-84cd-2ab219be2f6f@unnnnnn.exopic.ir:2087?path=/?ed=2096&security=tls&alpn=h2&encryption=none&host=cvc.sorrybaran.ir&fp=chrome&type=ws&sni=cvc.sorrybaran.ir#@filembad
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#[16560] - Telegram : @V2All
