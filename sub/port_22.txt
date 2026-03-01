@@ -11,3 +11,4 @@ vless://monacoVPN@83.228.228.44:22?type=tcp&encryption=none&path=/@monacoVPN@mon
 trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.215.49-2273
 trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.203.108-2291
 trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-2622
+vless://8f10f456-fbb0-492a-a71b-9b88cde3e5a3@91.107.251.56:22?type=grpc&security=reality&fp=chrome&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w#@Trick_mobil
