@@ -223,3 +223,4 @@ vless://ce286bdb-1af2-583e-eb44-8d450f189b1e@81.12.46.79:2087?security=none&encr
 vless://ce286bdb-1af2-583e-eb44-8d450f189b1e@81.12.46.79:2087?security=none&encryption=none&headerType=none&type=tcp#✅@AR14N24b
 vless://ce286bdb-1af2-583e-eb44-8d450f189b1e@81.12.46.79:2087?security=none&encryption=none&headerType=none&type=tcp#💎@ConfigV2RayNG
 vless://ffecd7fe-a020-4a99-a0d2-766dd341ed42@arvancloud.ir:2087?path=/salsaserver&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=arvan.omidrahnama.ir&fp=chrome&type=ws&allowInsecure=0&sni=arvan.omidrahnama.ir#⚡Telegram = @SOSkeyNET
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@140.99.233.156:2087?path=tg%40zdyz2&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Btype=ws&amp%3Bsni=cfed.tgzdyz2.top#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40hope_net%20%231

@@ -42,9 +42,9 @@ vmess://eyJhZGQiOiJpZDIud3BhaXJwbGFuZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoi
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AES
 vmess://eyJhZGQiOiJpZDIud3BhaXJwbGFuZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzdhYWQ3M2QtMDNlNy00NDFiLTliYzUtOThkMTM1MzViYTNlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI5MDAwIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OklOOjpJTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4883
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@213.183.63.218:9000#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.218-4108
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.68:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8403
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@185.135.86.173:9000#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8547
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@213.183.63.218:9000#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.218-4055
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.68:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8350
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@185.135.86.173:9000#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-8494
 vless://01055869-26df-4f17-bb7e-cfde6dc3d785@81.12.35.242:9000?security=none&encryption=none&host=bale.ai,soroushplus.com,web.igap.net&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://01055869-26df-4f17-bb7e-cfde6dc3d785@81.12.35.242:9000?security=none&encryption=none&host=bale.ai,soroushplus.com,web.igap.net&headerType=http&type=tcp#@NetZoneNews
 vless://01055869-26df-4f17-bb7e-cfde6dc3d785@81.12.35.242:9000?security=none&encryption=none&host=bale.ai,soroushplus.com,web.igap.net&headerType=http&type=tcp#@freenettir
