@@ -53,4 +53,6 @@ vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=none&pat
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?type=tcp&path=/#@chillguy_vpn
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345/?type=tcp&encryption=none&flow=#@chillguy_vpn
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?type=tcp&encryption=none#@chillguy_vpn
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#https://t.me/V2ry_Proxy
+vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
+vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#✅@AR14N24b
+vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#[18152] - Telegram : @V2All

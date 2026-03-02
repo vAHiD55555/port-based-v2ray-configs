@@ -1,2 +1,1 @@
 vless://334ffbb2-44e5-4751-ac2e-6877d40cc307@5.10.248.188:57519?encryption=none&security=none&type=tcp&headerType=none#@VPN2FreeNET
-vless://334ffbb2-44e5-4751-ac2e-6877d40cc307@5.10.248.188:57519?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip

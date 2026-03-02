@@ -3,5 +3,3 @@ vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-r1.wiki-mobile-one.com:3443?sec
 vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-t1.wiki-mobile-one.com:3443?security=reality&encryption=none&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=250d3c02fb96d485#Config 1 - @lebertad
 vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@api-y1.wiki-mobile-one.com:3443?security=reality&encryption=none&pbk=-Hf_hXvEOtyjeSl9RehhrgCWDb60TUgoY4p5Xp0EWBo&fp=chrome&type=xhttp&sni=pimg.mycdn.me&sid=ff8510dd84b1a6cd#Config 1 - @lebertad
 vless://231cd1b7-d0b0-49a7-ab7a-19aab29d036f@85.192.34.4:3443?security=reality&encryption=none&pbk=ZXOWG_vt-nC0CYeQxvhrTu3evw0AJqTjkcUI5JvvNis&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=73c18c092cf76666#[@ConfigPositive]+#6
-ss://b05ff778-5b13-45e8-9109-564cd7b51fea@sv3.bmdata1.top:3443?security=none&type=tcp&headerType=http&path=/&host=cafeariel.ir#
-ss://b05ff778-5b13-45e8-9109-564cd7b51fea@sv3.bmdata1.top:3443?security=none&type=tcp&headerType=http&path=/&host=cafeariel.ir#Telegram:@config_proxy 💦
