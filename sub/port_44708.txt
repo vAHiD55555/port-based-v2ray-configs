@@ -20,3 +20,5 @@ vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@3.65.204.239:44708?security=&encryp
 vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@3.71.10.234:44708?security=none&encryption=none&headerType=none&type=tcp#https://t.me/V2ry_Proxy
 vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@3.72.1.0:44708?security=none&encryption=none&headerType=none&type=tcp#@Hddify
 vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@3.72.1.0:44708?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
+vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@3.71.10.234:44708/?type=tcp&encryption=none&flow=#[17499] - Telegram : @V2All
+vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@3.71.10.234:44708?security=&encryption=none&headerType=none&type=tcp#[17504] - Telegram : @V2All
