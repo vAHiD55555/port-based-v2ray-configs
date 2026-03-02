@@ -14,7 +14,6 @@ vless://94811970-4f75-4c79-b600-ba654ece6555@ve.blueberrynetwork.xyz:777?encrypt
 vless://dd29ddf2-d9f1-489e-90f7-1b2c7a1e6a41@92.114.50.187:777?encryption=none&security=none&type=ws&path=@BluebberyNetWork#@BluebberyNetWork
 vless://e1cc7b00-0878-4bf1-815a-0aaf19787130@212.80.24.111:777?encryption=none&security=none&type=ws&path=@BluebberyNetWork#@BluebberyNetWork
 vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?encryption=none&security=none&type=ws&path=@BlueberryNetWork#@BlueberryNetWork
-vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?path=@BlueberryNetWork&security=&encryption=none&type=ws#@ConfigV2RayNG
 vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?path=@BlueberryNetWork&security=&encryption=none&type=ws#@v2ray_configs_pools
 vless://fe982c2e-0be2-4f83-926-dbc42e6388@212.80.24.111:777?encryption=none&security=none&type=ws&path=@BluebberyNetWork#@BluebberyNetWork
 vless://fe982c2e-0be2-4f83-9262-dbcc742e6388@212.80.24.111:777?encryption=none&security=none&type=ws&path=@BluebberyNetWork#@BluebberyNetWork

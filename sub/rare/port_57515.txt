@@ -1,3 +1,2 @@
 vless://334ffbb2-44e5-4751-ac2e-6877d40cc307@5.10.248.188:57515?encryption=none&security=none&type=tcp&headerType=none#@VPN2FreeNET
-vless://334ffbb2-44e5-4751-ac2e-6877d40cc307@5.10.248.188:57515?security=none&encryption=none&headerType=none&type=tcp#@NetZoneNews
 vless://334ffbb2-44e5-4751-ac2e-6877d40cc307@5.10.248.188:57515?security=none&encryption=none&headerType=none&type=tcp#@VPN_PASARGAD
