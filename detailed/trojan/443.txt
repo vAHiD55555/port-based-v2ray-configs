@@ -500,16 +500,16 @@ trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.x
 trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#%F0%9F%8F%81RELAY-104.21.79.246-8904
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-8925
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-8966
-trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A53
-trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A58
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A59
+trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A54
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A55
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A516
-trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A518
-trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A519
-trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A521
-trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A522
-trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A525
+trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A514
+trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A516
+trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A518
+trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A525
+trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A527
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A529
+trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A536
 trojan://1111@108.162.198.151:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev#@AkbarConfig👈کانفیگ روزانه در
 trojan://1338f666-2fcc-4538-bc29-1ebf89624383@u8.ok8.ccwu.cc:443?path=/XCLcnSashhgSVE3HOw1VI85y&security=tls&alpn=http/1.1&host=u8.ok8.ccwu.cc&type=ws&sni=u8.ok8.ccwu.cc#⚡Telegram = @SOSkeyNET
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@ggbnhj.932.pp.ua:443?path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&alpn=http/1.1&insecure=0&host=ggbnhj.932.pp.ua&type=ws&allowInsecure=0&sni=ggbnhj.932.pp.ua#⚡Telegram = @prrofile_purple
@@ -520,8 +520,9 @@ trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@jko0.dddc.de5.net:443?path=/FYzt5j
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmkk.www890604.dpdns.org:443?path=/hV829BTVzg35A6ueyyZnWd&security=tls&alpn=http/1.1&insecure=0&host=mMKK.WwW890604.DpdNS.OrG&type=ws&allowInsecure=0&sni=mMKK.WwW890604.DpdNS.OrG#⚡Telegram = @prrofile_purple
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmkk.www890604.dpdns.org:443?path=/hV829BTVzg35A6ueyyZnWd&security=tls&alpn=http/1.1&insecure=0&host=mMKK.WwW890604.DpdNS.OrG&type=ws&allowInsecure=0&sni=mMKK.WwW890604.DpdNS.OrG#🟢Ṭelegram"@Filtering2020"
 trojan://7964@162.159.33.81:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev#6 🇩🇪 @V2ngFast
-trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443/?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:174.18ms
 trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#🇸🇬Singapore+->+🇸🇬Singapore+⚡@DeamNet_Proxy
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@AkbarConfig👈کانفیگ روزانه در
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Proxyiranip
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@WedBaZtel
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#@en_vpn/کانفیگ های بیشتر
@@ -543,11 +544,11 @@ trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path
 trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#⚡Telegram = @SOSkeyNET
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#t.me/v2Line | Free | 3452 | Cloudflare
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@WedBaZtel
-trojan://humanity@188.114.98.0:443?type=ws&security=tls&sni=www.creationlong.org&host=www.creationlong.org&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.89ms
 trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#@AkbarConfig👈کانفیگ روزانه در
 trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🐻31@oneclickvpnkeys
 trojan://humanity@www.gossipglove.com:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&path=/assignment#🇨🇦Canada+->+🇳🇱Netherlands+⚡@DeamNet_Proxy
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#@v2rayland02🌐
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#Telegram:@config_proxy 💦
 trojan://wFMHfv5TtS@ir1.iobase.ir:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#@AkbarConfig👈کانفیگ روزانه در
 trojan://wFMHfv5TtS@ir1.iobase.ir:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#hope of freedom - @anotherme_night
 trojan://842b5f9dd11e458d8613c907c4cc5723@srv1.khatibirepair.ir:443?encryption=none&amp%3Bsecurity=tls&amp%3Bsni=www.gpt123.one&amp%3Binsecure=1&amp%3Btype=raw&amp%3Bheadertype=none#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231

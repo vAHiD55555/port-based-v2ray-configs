@@ -28,7 +28,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.233.114:22224?encryption=non
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.153.245:22224?encryption=none&security=tls&sni=trojan.burgerip.co.uk&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#a_089
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.221.203:22224?encryption=none&security=tls&sni=trojan.burgerip.co.uk&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#a_145
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.53.84:22224?encryption=none&security=tls&sni=trojan.burgerip.co.uk&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#a_159
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#Telegram:@config_proxy 💦
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.99.186:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#vpnsal
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.204.35:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.236.178:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#@melli_shekan1 چنل تلگرام🛡
@@ -37,9 +36,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.236.178:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.197.56:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.66.187:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?encryption=none&type=ws&path=/telegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#⚡Telegram = @FREE_VPN02
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?path=/AKBARCONFIG&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#@AkbarConfig👈کانفیگ روزانه در
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?path=/telegram--vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#@icv2ray
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#Telegram:@config_proxy 💦
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#⚡Telegram = @
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#⚡Telegram = @prrofile_purple
@@ -47,7 +46,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?path=/telegram-ch
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?type=ws&security=tls&path=/AKBARCONFIG&sni=trojan.burgerip.co.uk#@AkbarConfig👈کانفیگ روزانه در
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.97.14:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#✅@AR14N24b
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.115.231:22224?type=ws&security=tls&path=/AKBARCONFIG&sni=trojan.burgerip.co.uk#@AkbarConfig👈کانفیگ روزانه در
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.115.231:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.70.126:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
@@ -59,11 +57,13 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.103.139:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.25.158:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.44.114:22224?path=/telegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws# vpnsal
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.44.114:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.103.93:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.35.131:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.89.183:22224?type=ws&security=tls&path=/AKBARCONFIG&sni=trojan.burgerip.co.uk#@AkbarConfig👈کانفیگ روزانه در
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.89.183:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.212.225:22224?type=ws&security=tls&path=/AKBARCONFIG&sni=trojan.burgerip.co.uk#@AkbarConfig👈کانفیگ روزانه در
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.212.225:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.212.225:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.212.225:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#✅@AR14N24b
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.77.216:22224?type=ws&security=tls&path=/AKBARCONFIG&sni=trojan.burgerip.co.uk#@AkbarConfig👈کانفیگ روزانه در
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.77.216:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.77.216:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.77.216:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#✅@AR14N24b
