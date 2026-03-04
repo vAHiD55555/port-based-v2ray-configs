@@ -197,20 +197,13 @@ vless://213426db-afb7-48d1-ae51-5093317212df@172.64.152.23:2087?security=tls&typ
 vless://213426db-afb7-48d1-ae51-5093317212df@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=iopl90nn.bingnet.online&type=ws&allowInsecure=1&sni=iopl90nn.bingnet.online#🚨v2ray_configs_pools 🚨
 vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#@ConfigV2RayNG
 vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#@ConfigV2RayNG حمایت
-vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#IP_CF
 vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#مخصوص ۳۰ گیگ پرسرعت@@NetZoneNews
 vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#مخصوص ۳۰ گیگ پرسرعت@V2rayng_Saz
 vless://34911a7b-a3d9-47fe-ac0d-e07eeeea4864@162.159.194.86:2087?path=/&security=tls&encryption=none&host=amorix.abresani.com&type=ws&sni=amorix.abresani.com#@v2rayland02🌐
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-tm1.netsnap.ir.&fp=chrome&type=ws&sni=all-tm1.netsnap.ir.&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
-vless://3dcd6767-ec3e-4eeb-9fa6-c70b8661072f@panelsaf.netvip1.ru:2087?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&sid=e004#@Trick_mobil
 vless://59b19fb8-aba7-44e5-ba9c-5c63e07af6df@b2w.esportplusnews.top:2087?security=none&seed=V2RayyNGvpn&encryption=none&headerType=wechat-video&type=kcp#کانال تلگرام : Free_VPN_CH@
-vless://80475de3-6356-4fce-99c7-ff080bbb1494@87.107.100.220:2087?type=tcp&encryption=none&security=none#@Proxyiranip
-vless://80475de3-6356-4fce-99c7-ff080bbb1494@87.107.100.220:2087?type=tcp&encryption=none&security=none#@filembad
-vless://80475de3-6356-4fce-99c7-ff080bbb1494@87.107.100.220:2087?type=tcp&encryption=none&security=none#Telegram:@config_proxy 🔥
+vless://80475de3-6356-4fce-99c7-ff080bbb1494@87.107.100.220:2087?type=tcp&encryption=none&security=none#⚡Telegram = @SOSkeyNET
 vless://80475de3-6356-4fce-99c7-ff080bbb1494@87.107.100.220:2087?type=tcp&encryption=none&security=none#✅@AR14N24b
-vless://ba099f67-fc1f-4339-b36e-bcbbcc38fe8f@162.159.194.86:2087?path=/&security=tls&encryption=none&insecure=0&host=amorix.abresani.com&type=ws&allowInsecure=0&sni=amorix.abresani.com#[18923] - Telegram : @V2All
 vless://ce286bdb-1af2-583e-eb44-8d450f189b1e@81.12.46.79:2087?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
 vless://ce286bdb-1af2-583e-eb44-8d450f189b1e@81.12.46.79:2087?security=none&encryption=none&headerType=none&type=tcp#💎@ConfigV2RayNG
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.31.19:2087?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@gyeisv.aloiacs.shop:2087?allowInsecure=1&encryption=none&security=tls&sni=Y6lGfTpXg7.TrAmVoKeLi.InFo&type=grpc#@AkbarConfig👈کانفیگ روزانه در
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@gyeisv.aloiacs.shop:2087?allowInsecure=1&encryption=none&security=tls&sni=Y6lGfTpXg7.TrAmVoKeLi.InFo&type=grpc#📀41@oneclickvpnkeys

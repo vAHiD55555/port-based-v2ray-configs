@@ -5,5 +5,4 @@ vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=&
 vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=&encryption=none&headerType=none&type=tcp#freedom_soldiers1
 vless://72bf1c86-2cfd-4c01-9ece-34fa6f7c570e@vzb.piko-network.top:3306?security=&encryption=none&headerType=&type=tcp#@VPN_PASARGAD
 vless://72bf1c86-2cfd-4c01-9ece-34fa6f7c570e@vzb.piko-network.top:3306?security=&encryption=none&headerType=&type=tcp#freedom_soldiers1
-vless://c79aa774-4731-487a-8225-36e0fb9f2a00@vzb.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#@configv2net
 vless://fe3ce5db-627f-4cb6-857d-f18eed038742@vzb.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#Am
