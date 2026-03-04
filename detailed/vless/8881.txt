@@ -9,4 +9,5 @@ vless://a51f04a4-1728-4b76-8abc-0aeee3d34cc3@85.133.228.75:8881?security=&encryp
 vless://a51f04a4-1728-4b76-8abc-0aeee3d34cc3@85.133.228.75:8881?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@NETMelliAnti
 vless://cba0f4a6-4c8b-4214-bfed-28cf59921df5@85.133.228.75:8881?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ConfigV2RayNG
 vless://cba0f4a6-4c8b-4214-bfed-28cf59921df5@85.133.228.75:8881?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#8881-Famoushaji1
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@jx1z5.de1.ion-quantum.com:8881?mode=auto&path=/&security=none&encryption=none&host=gbaz.ir&type=xhttp#@YamYamProxy
 vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@jx1z5.de1.ion-quantum.com:8881?mode=auto&path=/&security=none&encryption=none&host=gbaz.ir&type=xhttp#⚡Telegram = @prrofile_purple

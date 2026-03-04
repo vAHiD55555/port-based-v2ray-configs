@@ -56,3 +56,4 @@ vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-78.f-sub.cfd:1517?security=none
 vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-79.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Channel : @Daily_Configs
 vless://084dac85-a82a-4462-9c43-13f0dcf7467c@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@v2rayland02🌐
 vless://084dac85-a82a-4462-9c43-13f0dcf7467c@mail.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@v2rayland02🌐
+vless://c8238e1e-088f-432a-a975-d19015261eec@ip.linux-panel.com:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#Config 1 - @lebertad
