@@ -22,7 +22,5 @@ trojan://89d646c5-8e96-4702-bdd4-4ac4ca41c645@bestcdn4.868863.xyz:2083?security=
 trojan://89d646c5-8e96-4702-bdd4-4ac4ca41c645@bestcdn4.868863.xyz:2083?security=tls&sni=17725215604585.168381.xyz#%F0%9F%8F%81RELAY-104.26.4.60-1715
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws&path=/&Host=gstatic.com#%F0%9F%87%BA%F0%9F%87%B8US-66.228.55.178-7973
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8US-66.228.55.178-7975
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#%E6%9C%AA%E7%9F%A59
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#%E6%9C%AA%E7%9F%A513
 trojan://2929@8.39.125.15:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wiyol35440.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wiyol35440.workers.dev#3 🇩🇪 @V2ngFast
-trojan://nodes-d0bc3fc2@node-de-1.v2sv.top:2083?security=tls&sni=node-de-1.v2sv.top&allowInsecure=1&type=tcp&headerType=none#@Proxyiranip
-trojan://nodes-d0bc3fc2@node-de-1.v2sv.top:2083?security=tls&sni=node-de-1.v2sv.top&allowInsecure=1&type=tcp&headerType=none#@filembad

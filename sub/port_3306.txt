@@ -48,5 +48,8 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.58:3306#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-6804
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.61:3306#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-6837
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.175:3306#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.175-0003
-vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
-vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#@filembad
+vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?encryption=none&security=none&type=tcp&headerType=none#🟢-@SPEEDS_VPN1
+vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=&encryption=none&headerType=none&type=tcp#✅@ConfigV2RayNG
+vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#Config 2 - @lebertad
+vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
+vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#✅@AR14N24b

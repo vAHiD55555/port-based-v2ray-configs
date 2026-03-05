@@ -39,6 +39,8 @@ vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=none&e
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=none&encryption=none&host=TEL@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet&headerType=http&type=tcp#⚡︎ 🇩🇪 ڪـــانـال مــا ☞ 𝗩𝟮𝗿𝗮𝘆𝗡𝗚_𝗦𝗣𝗗𝗡𝗲𝘁
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@217.114.40.151:9000?security=none&encryption=none&headerType=http&type=tcp#⚡ @HajmVPN_Config
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AES
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp#@v2ray_configs_pools
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#@v2ray_configs_pools
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&allowInsecure=0&encryption=none&type=tcp&host=/?BIA_TELEGRAM@v2ray_configs_pools&path=Telegram=@N3TWRK&headerType=http#Join 🪖 @N3TWRK
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&allowInsecure=0&encryption=none&type=tcp&path=Telegram=@N3TWRK &headerType=http#Join 🚨 @N3TWRK
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#@azdeltaghalam7🦄
