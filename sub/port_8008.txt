@@ -30,11 +30,10 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.86.135.36:8008#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@172.99.190.39:8008#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-6827
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.91.107.16:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-6841
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.64.138.145:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-6845
-ss://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#Telegram:@config_proxy рҹ’Ұ
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#рҹ©ө+@Azarakhsh_Proxy+рҹ©·
-vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#@AkbarConfigрҹ‘ҲЪ©Ш§ЩҶЩҒЫҢЪҜ ШұЩҲШІШ§ЩҶЩҮ ШҜШұ
+vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?encryption=none&security=none&type=ws&path=/#⚡Telegram = @SOSkeyNET
+vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?path=/&security=none&encryption=none&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?path=/&security=none&encryption=none&type=ws#@TeleProxyTele--14
+vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?path=/&security=none&encryption=none&type=ws#@V2rayAlpha--14
+vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#@AkbarConfig👈کانفیگ روزانه در
 vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#@VPN_PASARGAD
-vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#@icv2ray
-vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#V2rayng_Fast
-vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#ШЁШұШ§ЫҢ Ш§ШӘШөШ§Щ„ ШҜШ§ШҰЩ…ЫҢ Ш¬ЩҲЫҢЩҶ ШҙЩҲрҹ—ҫ @
-vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#ШЁШұШ§ЫҢ Ш§ШӘШөШ§Щ„ ШҜШ§ШҰЩ…ЫҢ Ш¬ЩҲЫҢЩҶ ШҙЩҲрҹ—ҫ prrofile_purple@
+vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#برای اتصال دائمی جوین شو🗾 prrofile_purple@
