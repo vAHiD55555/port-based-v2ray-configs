@@ -1,7 +1,4 @@
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#@torang_vpn
-vless://73ff2883-5aa2-0896-90a1-c6efa8808c86@172.65.146.216:3389?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
-vless://998df05b-3af8-cd7a-dce0-82721b0ea97f@172.65.147.63:3389?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
-vless://998df05b-3af8-cd7a-dce0-82721b0ea97f@172.65.147.63:3389?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&headerType=none&type=tcp#@icv2ray
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@134.195.196.12:3389#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.12-0050
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.7.164:3389#%F0%9F%87%AC%F0%9F%87%A7GB-145.239.7.164-0031
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.236.197.205-0802

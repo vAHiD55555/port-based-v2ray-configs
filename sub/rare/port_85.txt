@@ -1,1 +1,0 @@
-vless://9c90d5bf-f232-4590-88c3-d4e24b7d5981@application-de-gateway.gocdn.ir:85?encryption=none&security=none&type=xhttp&host=application-de-gateway.gocdn.ir&path=/&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#ConfigPositive VLESS XHTTP 7

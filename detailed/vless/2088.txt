@@ -1,1 +1,2 @@
 vless://0d11eed5-50e3-4e35-bc98-c316982ff0f2@turkish.levron.pro:2088?security=none&encryption=none&headerType=http&type=tcp#@V2rayAlpha--12
+vless://ce44a500-4853-6391-397a-0895b3cfadbf@meli2.ertebatgoostar.ir:2088?security=none&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=54.38.242.158#@YamYamProxy
