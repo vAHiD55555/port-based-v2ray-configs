@@ -10,12 +10,7 @@ vless://b1242678-a417-4d91-8451-fdbc5af7f239@sky3.hupcloud.com:1000?security=non
 vmess://eyJhZGQiOiIyMTMuMTc2LjEuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI1MmNjNGNiMC1mOTIzLTQ5NjUtOTYxNS02MzgwYjA0YzNmNGYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDAwIiwicHMiOiJATXhWMnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://077b46ec-03fe-41fd-9710-841bd9cafac0@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://077b46ec-03fe-41fd-9710-841bd9cafac0@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--1
-vless://077b46ec-03fe-41fd-9710-841bd9cafac0@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam-@vmesskhodam
 vless://cc2c5e42-1693-4d54-8e03-afbaf88a93@94.183.241.82:1000?securit#@AkbarConfig👈کانفیگ روزانه در
-vless://cc2c5e42-1693-4d54-8e03-afbaf88a93@94.183.241.82:1000?securit#⚡Telegram = @SOSkeyNET
-vless://cc2c5e42-1693-4d54-8e03-afbaf88ca93f@94.183.241.82:1000?encryption=none&security=none&type=tcp&headerType=none#⚡Telegram = @SOSkeyNET
-vless://cc2c5e42-1693-4d54-8e03-afbaf88ca93f@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@VPN_PASARGAD
-vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?encryption=none&security=none&type=tcp&headerType=none#⚡Telegram = @SOSkeyNET
 vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@TeleProxyTele
 vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@TeleProxyTele--10
@@ -26,5 +21,3 @@ vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&en
 vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--3
 vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--6
 vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#https://
-vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
-vless://ece350a5-35d4-47fa-a5d7-9dd60409634a@94.183.241.82:1000?security=&encryption=none&headerType=none&type=tcp#✅@ConfigV2RayNG

@@ -10,6 +10,5 @@ vless://a51f04a4-1728-4b76-8abc-0aeee3d34cc3@85.133.228.75:8881?security=none&en
 vless://cba0f4a6-4c8b-4214-bfed-28cf59921df5@85.133.228.75:8881?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ConfigV2RayNG
 vless://cba0f4a6-4c8b-4214-bfed-28cf59921df5@85.133.228.75:8881?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#8881-Famoushaji1
 vless://0fac6184-396f-4dba-a8d5-69cffdc4362e@92.242.196.118:8881?security=none&encryption=none&host=shad.ir&headerType=http&type=tcp#@V2rayAlpha--3
-vless://0fac6184-396f-4dba-a8d5-69cffdc4362e@92.242.196.118:8881?security=none&encryption=none&host=shad.ir&headerType=http&type=tcp#@vmesskhodam
 vless://0fac6184-396f-4dba-a8d5-69cffdc4362e@92.242.196.118:8881?security=none&encryption=none&host=shad.ir&headerType=http&type=tcp#V2rayng_Saz
 vless://0fac6184-396f-4dba-a8d5-69cffdc4362e@92.242.196.118:8881?security=none&encryption=none&host=shad.ir&headerType=http&type=tcp#کانال+ما:+@V2rayng_Fast

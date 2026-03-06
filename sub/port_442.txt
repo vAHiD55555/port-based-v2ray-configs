@@ -4,3 +4,5 @@ vless://escovpn_69551ragul@94.177.13.135:442?security=reality&encryption=none&pb
 vless://escovpn_69551ragul@94.177.13.135:442?security=reality&encryption=none&pbk=Cu05aaBasClv0QGPrbqbMoRmGqanTvIq-oXsmUbFUEo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=60#Channel : @Daily_Configs
 ss://438aeb08-fafe-5c22-bda7-17baf4f24aaa@94.177.13.135:442?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Cu05aaBasClv0QGPrbqbMoRmGqanTvIq-oXsmUbFUEo&sid=60&spx=/&type=tcp&headerType=none#https://t.me/allproconf
 vless://438aeb08-fafe-5c22-bda7-17baf4f24aaa@94.177.13.135:442?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Cu05aaBasClv0QGPrbqbMoRmGqanTvIq-oXsmUbFUEo&sid=60&spx=/&type=tcp&headerType=none#https://t.me/allproconf
+vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@hol.emshabshabe.ir:442?security=&encryption=none&headerType=http&type=tcp#@Proxyiranip
+vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@hol.emshabshabe.ir:442?security=&encryption=none&headerType=http&type=tcp#@filembad
