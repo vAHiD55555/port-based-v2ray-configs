@@ -1,0 +1,4 @@
+vless://5a23e1b3-a8da-4282-9995-815c6e8fda52@emergency.layer-ziro.ir:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@V2rayAlpha--16
+vless://e0d1dce8-1364-449c-ac76-2a23fd40c7ae@109.122.254.219:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0260
+vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
