@@ -7,7 +7,6 @@ vless://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345/?type=tcp&encry
 vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345/?type=tcp&encryption=none#🇬🇧 TCP-None 📁 @v2nodes
 vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@57.129.133.88:2345?security=none&encryption=none&headerType=none&type=tcp#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
-vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇩🇪All² | @BigSmoke_Config
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
 vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@51.38.64.226:2345/?type=tcp&encryption=none#🇬🇧@FREE2CONFIG
