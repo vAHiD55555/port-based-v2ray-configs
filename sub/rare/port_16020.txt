@@ -1,3 +1,2 @@
-vless://419be96a-f900-4b0a-aecd-9402bddcfc4c@62.60.146.14:16020?encryption=none&type=tcp&headerType=http&path=/&host=igap.net#рҹҮірҹҮұ Netherlands ( TUN рҹҮ®рҹҮ· )
-vless://419be96a-f900-4b0a-aecd-9402bddcfc4c@62.60.146.14:16020?security=none&allowInsecure=0&encryption=none&type=tcp&host=igap.net&path=/&headerType=http#TeleProxyTele78
 vless://419be96a-f900-4b0a-aecd-9402bddcfc4c@62.60.146.14:16020?encryption=none&type=tcp&headerType=http&path=/&host=igap.net#🇳🇱 Netherlands ( TUN 🇮🇷 )
+vless://419be96a-f900-4b0a-aecd-9402bddcfc4c@62.60.146.14:16020?security=none&allowInsecure=0&encryption=none&type=tcp&host=igap.net&path=/&headerType=http#TeleProxyTele78
