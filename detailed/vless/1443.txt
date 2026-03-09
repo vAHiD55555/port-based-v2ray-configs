@@ -1,1 +1,2 @@
-vless://14bb4afc-22d6-4421-8063-4e3cee16f80c@217.13.105.1:1443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cDLK-I36SU8b7H7u-ZFyoMTjVKnbfQfKjhQvzTf13Dw&security=reality&sid=f6f561090bdf7bf4&sni=alfabank.ru&type=tcp#@AkbarConfig👈کانفیگ روزانه در
+vless://69ab6d73-6db3-1c80-4eb6-2b91420c3944@43.161.217.205:1443?encryption=none&security=tls&sni=6745d1ce.cloudorg.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=6745d1ce.cloudorg.ccwu.cc&path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#Telegram:@config_proxy 🔥
+vless://f6f3883a-c063-46e5-9e12-9b2210f89aee@45.12.151.188:1443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=/vk/api/notification/push.v2&sni=m.vk.com&pbk=iGJOealvSlprqA4M0yULGkP4cVaEx4U5QxnXoi79jHA&sid=41dbc88c#Telegram:@config_proxy 🔥
