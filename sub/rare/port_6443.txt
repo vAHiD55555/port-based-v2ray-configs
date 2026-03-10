@@ -1,2 +1,2 @@
-vless://69ab6d73-6db3-1c80-4eb6-2b91420c3944@138.2.64.175:6443?security=tls&type=ws&path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433&host=6745d1ce.cloudorg.ccwu.cc&alpn=h3&sni=6745d1ce.cloudorg.ccwu.cc&fp=chrome#Telegram:@config_proxy 🔥
 vless://b61f440d-2fdf-4232-8779-0f618b146efc@193.35.17.175:6443?security=reality&encryption=none&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#@V2rayAlpha--5
+vless://b61f440d-2fdf-4232-8779-0f618b146efc@193.35.17.175:6443?type=tcp&security=reality&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4#@Trick_mobil

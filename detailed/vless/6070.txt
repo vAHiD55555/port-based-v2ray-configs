@@ -1,0 +1,4 @@
+vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@87.107.9.101:6070?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@Proxyiranip
+vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@87.107.9.101:6070?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@filembad
+vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@87.107.9.101:6070?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Proxyiranip
+vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@87.107.9.101:6070?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@filembad
