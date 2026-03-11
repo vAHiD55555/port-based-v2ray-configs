@@ -2,6 +2,7 @@ vless://125bcb79-37c3-43c2-91f5-70fe36d75a97@ag.sanflow.ir:921?encryption=none&s
 vless://12c598af-2f44-42ab-a491-c9718de81d69@Si.sanflow.ir:921?security=none&type=tcp&headerType=http&path=/&host=pro30afzar.com#Config 4 - @lebertad
 vless://6da8b872-302f-462a-8730-568073f128f1@Si.sanflow.ir:921?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
 vless://8ab64168-be12-4620-9ed3-055ac69c2e0f@Si.sanflow.ir:921?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
+trojan://f389ed926e512e15f382dc3804029474@175.41.228.177:921?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-175.41.228.177-1690
 trojan://f389ed926e512e15f382dc3804029474@175.41.228.177:921?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://f389ed926e512e15f382dc3804029474@175.41.228.177:921?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40stairnode
 trojan://f389ed926e512e15f382dc3804029474@175.41.228.177:921?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
