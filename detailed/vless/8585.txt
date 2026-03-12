@@ -1,4 +1,2 @@
 vless://6913f9c9-3210-d0dd-75fc-2328a11c836a@toystoreworld.ir:8585?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@VPN_PASARGAD
-vless://ec0fecf4-598a-4319-9b1f-b0858a6f0fb3@185.26.32.251:8585?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
-vless://ec0fecf4-598a-4319-9b1f-b0858a6f0fb3@185.26.32.251:8585?security=none&encryption=none&headerType=none&type=tcp#VPNELF
 vless://ec0fecf4-598a-4319-9b1f-b0858a6f0fb3@185.26.32.251:8585?security=none&encryption=none&headerType=none&type=tcp#VPNELF  تست کنید متصله ✅

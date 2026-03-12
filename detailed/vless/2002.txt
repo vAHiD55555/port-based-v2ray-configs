@@ -1,4 +1,5 @@
 vless://7cebdc22-3896-c2f1-b499-126d958f1d98@185.141.37.100:2002?path=/ws1&security=&encryption=none&type=ws#Test-Server
+vless://c0316393-9355-4b8a-9400-d406ec81c9f8@emg2.saipasamandemg2.sbs:2002?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@on_proxy1 | مناسب ترکیب با سایفون
 vless://f6f63745-ec4a-4fa7-bac4-04aa571a4ae0@emergency2.layer-ziro.ir:2002?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
 vless://f6f63745-ec4a-4fa7-bac4-04aa571a4ae0@emergency2.layer-ziro.ir:2002?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#All-@V2rayAlpha--3
 vless://dac5ecb3-2ca8-4667-b630-75893cde81c0@l-i-qstream.khoone-khoobe-liqshowpars-q.ir:2002?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=OUCuy7eLQ6hjd1YCAiYE669Hxylv1lNVfKNvtCbKjWs&sid=85b6875cdc4f468c&type=tcp&headerType=none#b_158
