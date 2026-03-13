@@ -1,1 +1,4 @@
 vless://234e7684-18d1-40b8-b71b-066400c18ae6@mapi.timapsee.com:5003?security=&encryption=none&headerType=none&type=tcp#بیا اینجا ConfigV2RayNG@
+vless://234e7684-18d1-40b8-b71b-066400c18ae6@mapi.timapsee.com:5003?security=none&encryption=none&headerType=none&type=tcp#@DALTON_PING
+vless://234e7684-18d1-40b8-b71b-066400c18ae6@mapi.timapsee.com:5003?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
+vless://234e7684-18d1-40b8-b71b-066400c18ae6@mapi.timapsee.com:5003?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
