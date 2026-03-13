@@ -6,8 +6,5 @@ vless://5b2dc2a9-75d1-3e19-586c-deab08b2618d@lord.socialxxmedia.proxt:440?securi
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Black_star_vpn
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@VPN_PASARGAD
-vless://d5444762-dfd5-46f3-a2de-df271a1a16d1@master.hecad.ir:440?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
-vless://d5444762-dfd5-46f3-a2de-df271a1a16d1@master.hecad.ir:440?security=none&encryption=none&headerType=none&type=tcp#@filembad
-vless://d5444762-dfd5-46f3-a2de-df271a1a16d1@master.hecad.ir:440?type=tcp&encryption=none&security=none#@Proxyiranip
-vless://d5444762-dfd5-46f3-a2de-df271a1a16d1@master.hecad.ir:440?type=tcp&encryption=none&security=none#@filembad
+vless://d5444762-dfd5-46f3-a2de-df271a1a16d1@master.hecad.ir:440?security=none&encryption=none&headerType=none&type=tcp#Config 5 - @lebertad
 vless://ff236795-8582-1faa-9209-d9ea7e577b1e@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp&sni=lord.socialxxmedia.pro#بیا اینجا ConfigV2RayNG@
