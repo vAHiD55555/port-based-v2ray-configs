@@ -1,3 +1,2 @@
 vless://a6f38a55-5e68-4383-b00a-7f7106b1707f@94.184.24.25:11047?security=none&encryption=none&host=gharar.ir,igap.net,skyroom.online&headerType=http&type=tcp#@V2rayTun0
-vless://a6f38a55-5e68-4383-b00a-7f7106b1707f@94.184.24.25:11047?security=none&encryption=none&host=gharar.ir,igap.net,skyroom.online&headerType=http&type=tcp#@icv2ray
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11047#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.174-0083

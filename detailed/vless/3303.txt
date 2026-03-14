@@ -1,3 +1,2 @@
-vless://0ad22315-f257-4fce-9ba4-9456835c57f1@zone.node-01.ir:3303?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#Config 3 - @lebertad
 vless://0ad22315-f257-4fce-9ba4-9456835c57f1@zone.node-01.ir:3303?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
 vless://0ad22315-f257-4fce-9ba4-9456835c57f1@zone.node-01.ir:3303?security=none&encryption=none&headerType=none&type=tcp#@confignetmeliina
