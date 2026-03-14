@@ -1,1 +1,3 @@
-vless://2e0fbee8-612f-40b0-af94-1fab9004fc36@vipsad.lezzatclub.ir:4002?security=none&encryption=none&headerType=none&type=tcp#@confignetmeliina
+vless://4f2949cc-ab86-4414-a858-10e9d5709d62@vipp.ultimateman.ir:4002?type=tcp&encryption=none&security=none#@MeliVpnNet
+vless://4f2949cc-ab86-4414-a858-10e9d5709d62@vipp.ultimateman.ir:4002?type=tcp&encryption=none&security=none#@melivpnnet
+vless://4f2949cc-ab86-4414-a858-10e9d5709d62@vipp.ultimateman.ir:4002?type=tcp&encryption=none&security=none#Config 3 - @lebertad
