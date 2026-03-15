@@ -1,0 +1,1 @@
+vless://87ca670f-d2d5-4bdf-8840-80d7cbaa024b@85.133.227.254:45005?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fi.bazipardaz.com#@Proxyiranip

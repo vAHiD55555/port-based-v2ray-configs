@@ -1,1 +1,2 @@
+vless://fccd7b68-1176-4947-8d7b-7e84261a19b9@188.121.102.71:555?security=none&allowInsecure=0&encryption=none&type=tcp&host=188.121.102.71&path=/XIXVPN?ed=2560&headerType=http#@icv2ray
 vless://fccd7b68-1176-4947-8d7b-7e84261a19b9@188.121.102.71:555?security=none&encryption=none&host=188.121.102.71&headerType=http&type=tcp#@FalconPolV2rayNG
