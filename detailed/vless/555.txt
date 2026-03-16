@@ -1,3 +1,1 @@
-vless://f0b49383-0623-44e5-a75c-09974e9b7a20@94.101.180.154:555?security=none&encryption=none&headerType=none&type=tcp#@V2HUBIR
-vless://f0b49383-0623-44e5-a75c-09974e9b7a20@94.101.180.154:555?security=none&type=tcp&headerType=&path=&host=#@Hddify-T11A-100GB
 vless://fccd7b68-1176-4947-8d7b-7e84261a19b9@188.121.102.71:555?security=none&encryption=none&host=188.121.102.71&headerType=http&type=tcp#@FalconPolV2rayNG
