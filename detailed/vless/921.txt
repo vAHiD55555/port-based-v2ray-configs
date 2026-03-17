@@ -1,3 +1,4 @@
 vless://6da8b872-302f-462a-8730-568073f128f1@Si.sanflow.ir:921?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
 vless://8ab64168-be12-4620-9ed3-055ac69c2e0f@Si.sanflow.ir:921?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
+vless://b5606754-c9bb-4d17-bec5-eaceae8bc7ac@mp.sanflow.ir:921?security=none&allowInsecure=0&encryption=none&type=tcp&host=pro30afzar.com&path=/&headerType=http#VayNora
 vless://b5606754-c9bb-4d17-bec5-eaceae8bc7ac@mp.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@proxy_kafee4
