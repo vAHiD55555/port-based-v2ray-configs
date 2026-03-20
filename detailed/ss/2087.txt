@@ -1,1 +1,3 @@
-ss://3f58cc47-94f6-40d3-8797-1ce66cb0555e@172.64.154.211:2087?allowInsecure=1&encryption=none&host=a1d.maxriser.ir&path=/&security=tls&sni=a1d.maxriser.ir&type=ws#https://t.me/allproconf
+ss://1d509c22-4e43-4067-9185-873ec5bb49da@uk1.b762plus.shop:2087?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#https://t.me/allproconf
+ss://7f93cf7e-a9bb-4b7b-bf00-87cc5aba33ae@subtick.ticklitickli.ir:2087?path=/ed=2048&security=tls&alpn=h2&encryption=none&host=brand.tickyou.ir&type=ws&sni=brand.tickyou.ir#https://t.me/allproconf
+ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@178.62.38.224:2087?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.danfeng.casacam.net&type=ws&headerType=none&host=snippet.danfeng.casacam.net&path=/danfeng#https://t.me/allproconf

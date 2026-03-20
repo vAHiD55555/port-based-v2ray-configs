@@ -1,3 +1,2 @@
 vless://2254f987-055f-4f7f-b53f-fd77a9443744@195.3.222.176:8083?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA&sid=425ba80cd1a821a8&sni=www.apple.com#@v2rayconfigamir 1659
-vless://ee73ff6e-af32-43df-854e-754253bd1bd8@de-2-tun-single.starping1.fun:8083/?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%25F0%259F%2587%25AE%25F0%259F%2587%25B7%2520%25F0%259F%2587%25A9%25F0%259F%2587%25AA%2520Starping%25202@oliver_soul
 vless://ee73ff6e-af32-43df-854e-754253bd1bd8@de-2-tun-single.starping1.fun:8083/?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@FalconPolV2rayNG
