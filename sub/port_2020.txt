@@ -1,0 +1,6 @@
+vless://0e65c40a-fdf2-41d8-a51c-e043e0748fc0@185.226.116.192:2020?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
+vless://1f118396-6c69-62ba-b585-c7d48863a8c1@uktn1.techabzar.ir:2020?security=&encryption=none&host=fast.com&headerType=http&type=tcp#@ConfigV2RayNG
+vless://29ccc795-2370-486c-a17c-af4453c470cb@185.226.116.192:2020?security=&encryption=none&headerType=&type=tcp#@icv2ray
+vless://9d67ed3c-4ad0-4eee-87a0-544d13fd619e@vg.in.time.techraseir.ir:2020?security=reality&encryption=none&pbk=qRHMqqsO0qgOX40YpYAg8r3Kjf27kP8Y8mvfFjPwFhk&headerType=none&fp=chrome&type=tcp&sni=excoino.com#وصل شدی بیا کانالمون@ConfigV2RayNG
+vless://caeabde3-5966-4349-80af-de9a1b70e789@ger.harchihast.com:2020?encryption=none&type=ws&headerType=none&security=none#@chillguy_vpn
+vmess://eyJhZGQiOiJ0dW4ucDJwMS5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDk3ODY4ZTItMGIxMi00MjQ0LWEwNDQtM2FkMGE5NGNiNDZiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDIwIiwicHMiOiJDb25maWdWMlJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==

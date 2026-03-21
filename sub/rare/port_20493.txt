@@ -1,0 +1,2 @@
+vless://049f0970-4160-f0f1-9519-0e9349419709@mak1.vpsino.com:20493?security=none&type=tcp&headerType=none&path=/#https://t.me/ConfigX2ray
+vless://5f73a92d-c089-5b53-9b99-cd3b0432d207@mak1.vpsino.com:20493?security=none&encryption=none&headerType=none&type=tcp#https://t.me/ConfigX2ray
