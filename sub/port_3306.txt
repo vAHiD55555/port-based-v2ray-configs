@@ -48,3 +48,5 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.149:3306#%F0%9F%87%AC%F0%9F
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.58:3306#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-6683
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-6711
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.61:3306#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-6744
+vless://019d0802-149f-f9ec-ce6f-77eda900f377@srv-v0.netmaster.cam:3306?security=&encryption=none&type=ws&sni=1&note=@FreeOnlineVPN#рҹҮ©рҹҮӘ - DE - @FreeOnlineVPN
+vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=&encryption=none&headerType=none&type=tcp#вң…@ConfigV2RayNG

@@ -18,3 +18,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.2:802#%F0%9F%87%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.91.107.225:802#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.225-6084
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.68.134.196:802#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.196-6114
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.236:802#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.236-6310
+vless://3eb9f34d-56a9-3660-52ec-f9fcdb17a0f5@srv-s0.netmaster.cam:802?security=&encryption=none&type=ws&sni=1#вң…@ConfigV2RayNG
+vless://cbe94ed6-0628-6343-4332-a565fce5483f@srv-s0.netmaster.cam:802?security=&encryption=none&type=ws&sni=1#вң…@ConfigV2RayNG

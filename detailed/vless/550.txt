@@ -5,3 +5,5 @@ vless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=
 vless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=&encryption=none&host=fast.com&headerType=http&type=tcp&sni=turbo.unlimiteds.site#بیا اینجا ConfigV2RayNG@
 vless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#All-@V2rayAlpha--11
 vless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=turbo.unlimiteds.site#All-@V2rayAlpha--13
+vless://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=&encryption=none&host=fast.com&headerType=http&type=tcp#ШЁЫҢШ§ Ш§ЫҢЩҶШ¬Ш§ ConfigV2RayNG@
+vless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=&encryption=none&host=fast.com&headerType=http&type=tcp&sni=turbo.unlimiteds.site#ШЁЫҢШ§ Ш§ЫҢЩҶШ¬Ш§ ConfigV2RayNG@
