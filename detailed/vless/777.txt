@@ -12,7 +12,6 @@ vless://d0d42596-ff07-4f6f-9edd-7fbf3e93b8fd@78.153.139.212:777?encryption=none&
 vless://d7128c30-5acd-4c9d-d917-d1fe9c96ff6e@62.133.60.234:777?encryption=none&security=none&type=tcp&headerType=http&host=este.com#🇩🇪@BlueberryNetWork
 vless://d7c2237c-92f5-45a2-b310-cfe22736726c@116.202.28.240:777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=arzdigital.com&fp=chrome&pbk=4pxcGlqn0FB5Wx71r7OkGxiGf2XJga2ZB9awcVW6_zg&type=tcp&headerType=none#🇩🇪@BlueberryNetWork
 vless://dd29ddf2-d9f1-489e-90f7-1b2c7a1e6a41@92.114.50.187:777?encryption=none&security=none&type=ws&path=@BluebberyNetWork#@BluebberyNetWork
-vless://dd29ddf2-d9f1-489e-90f7-1b2c7a1e6a41@92.114.50.187:777?path=@BluebberyNetWork&security=none&encryption=none&type=ws#⚡Telegram = @prrofile_purple
 vless://e1cc7b00-0878-4bf1-815a-0aaf19787130@212.80.24.111:777?encryption=none&security=none&type=ws&path=@BluebberyNetWork#@BluebberyNetWork
 vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fortune.com&fp=chrome&pbk=brBI6hEf2HIzZjdTQsMtftQodJ3p3KVry5mzgVqvVkU&sid=8cd6d3c4&spx=/&type=tcp&headerType=none#🇳🇱@BlueberryNetWork
 vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?encryption=none&security=none&type=ws&path=@BlueberryNetWork#@BlueberryNetWork
