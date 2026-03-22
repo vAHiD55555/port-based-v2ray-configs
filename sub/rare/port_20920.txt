@@ -1,2 +1,3 @@
 vless://049f0970-4160-f0f1-9519-0e9349419709@mak2.vpsino.com:20920?security=none&type=tcp&headerType=none&path=/#https://
 vless://049f0970-4160-f0f1-9519-0e9349419709@mak2.vpsino.com:20920?security=none&type=tcp&headerType=none&path=/#https://t.me/ConfigX2ray
+vless://90404b8f-5259-b5a3-fef5-c22025a50de3@pro.vpsino.com:20920?security=none&encryption=none&headerType=none&type=tcp#@YamYamProxy
