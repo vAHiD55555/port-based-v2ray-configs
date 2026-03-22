@@ -1,3 +1,0 @@
-vless://37c78abe-6a19-59ec-60b5-396198d5adbc@usa.mytopmedia.sbs:850?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=usa.mytopmedia.sbs#@chillguy_vpn
-vless://4150d8fb-74ff-923c-1730-3edbd1d43aef@usa.mytopmedia.sbs:850?security=&encryption=none&host=fast.com&headerType=http&type=tcp&sni=usa.mytopmedia.sbs#@chillguy_vpn
-vless://996c5b1f-3bcd-c45c-1ec8-0d33cebbcabe@usa.mytopmedia.sbs:850?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=usa.mytopmedia.sbs#@chillguy_vpn
