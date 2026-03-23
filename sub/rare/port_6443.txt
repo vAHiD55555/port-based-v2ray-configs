@@ -1,1 +1,2 @@
 vless://b61f440d-2fdf-4232-8779-0f618b146efc@193.35.17.175:6443?security=reality&encryption=none&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#@V2rayAlpha--5
+vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@de12.frostbot.ru:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&security=reality&sid=b9605803fb4b&sni=github.com&type=tcp#⛽️31@oneclickvpnkeys
