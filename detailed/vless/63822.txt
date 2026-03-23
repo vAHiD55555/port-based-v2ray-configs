@@ -1,5 +1,3 @@
-vless://1ca6757a-01fe-5761-27af-f6b82fab3868@cloud.vpsino.com:63822?security=none&encryption=none&headerType=none&type=tcp#@filembad
-vless://1ca6757a-01fe-5761-27af-f6b82fab3868@cloud.vpsino.com:63822?security=none&type=tcp&headerType=none&path=/#@filembad
 vless://812d0507-c8bc-ffe5-ec36-0b6917d92108@cloud.vpsino.com:63822?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#https://
 vless://812d0507-c8bc-ffe5-ec36-0b6917d92108@cloud.vpsino.com:63822?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#https://t.me/ConfigX2ray
 vless://812d0507-c8bc-ffe5-ec36-0b6917d92108@cloud.vpsino.com:63822?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#https://t.me/falcunargo
