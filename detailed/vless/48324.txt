@@ -1,7 +1,6 @@
-vless://0defd4f9-3f23-24d0-1d53-e05fb52bf644@cloud.vpsino.com:48324?security=none&type=tcp&headerType=none&path=/#@icv2ray
 vless://5aae2234-d8c3-05fe-184d-48c4dacc5ba2@cloud.vpsino.com:48324?security=none&type=tcp&headerType=none&path=/#@proxy_nps
 vless://73a4d25f-f8c7-58db-bcec-304e208f394a@cloud.vpsino.com:48324?security=none&type=tcp&headerType=none&path=/#@icv2ray
-vless://73a4d25f-f8c7-58db-bcec-304e208f394a@cloud.vpsino.com:48324?security=none&type=tcp&headerType=none&path=/#🇩🇪 tunnel243151_1 🇮🇷 ¹
+vless://73a4d25f-f8c7-58db-bcec-304e208f394a@cloud.vpsino.com:48324?security=none&type=tcp&headerType=none&path=/#@v2ray_freex
 vless://750f9853-c182-37fa-82d3-9de3b7e48f89@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#
 vless://750f9853-c182-37fa-82d3-9de3b7e48f89@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#VayNora
 vless://750f9853-c182-37fa-82d3-9de3b7e48f89@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#https://

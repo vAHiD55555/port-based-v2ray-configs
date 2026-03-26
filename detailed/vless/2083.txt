@@ -19,7 +19,6 @@ vless://c0b8751d-3bcd-4f55-9cca-4a00fc955a15@ip-data.turkserver.ir:2083?path=/&s
 vless://c9cee867-a170-4af4-ac6b-da240f20b1e7@w1star.meepo1.com:2083?security=tls&encryption=none&alpn=h2,http/1.1&headerType=http&fp=chrome&type=tcp#@proxy_nps
 vless://c9cee867-a170-4af4-ac6b-da240f20b1e7@w1star.meepo1.com:2083?type=tcp&encryption=none&path=/api&headerType=http&security=tls&fp=chrome&alpn=h2,http/1.1#
 vless://c9cee867-a170-4af4-ac6b-da240f20b1e7@w1star.meepo1.com:2083?type=tcp&encryption=none&path=/api&headerType=http&security=tls&fp=chrome&alpn=h2,http/1.1#https://
-vless://c9cee867-a170-4af4-ac6b-da240f20b1e7@w1star.meepo1.com:2083?type=tcp&encryption=none&path=/api&headerType=http&security=tls&fp=chrome&alpn=h2,http/1.1#https://t.me/ConfigX2ray
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.17.148.22:2083?allowInsecure=1&encryption=none&host=yousef.varzesh.dpdns.org&path=/&security=tls&sni=yousef.varzesh.dpdns.org&type=ws#🧫27@oneclickvpnkeys
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@singapore.com:2083?encryption=none&security=tls&sni=index.0x15.workers.DEV&alpn=http/1.1&type=ws&host=index.0x15.workers.dev&path=/9quSDGMroCZkFeWzTk#کانال تلگرام : Free_VPN_CH@
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@chatgpt.com:2083?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Love&allowInsecure=0&sni=blouck-de.gozarcloud.ir#🚀 Telegram = @v2ray_configs_pools
