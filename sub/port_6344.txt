@@ -1,6 +1,5 @@
+vless://58bdc7fc-a9a1-48d0-34ff-1599f491b785@cloud3.vpsino.com:6344?security=none&type=tcp&headerType=none&path=/#@filembad
 vless://5aae2234-d8c3-05fe-184d-48c4dacc5ba2@cloud3.vpsino.com:6344?security=none&type=tcp&headerType=none&path=/#@proxy_nps
-vless://73a4d25f-f8c7-58db-bcec-304e208f394a@cloud3.vpsino.com:6344?security=none&type=tcp&headerType=none&path=/#@icv2ray
-vless://73a4d25f-f8c7-58db-bcec-304e208f394a@cloud3.vpsino.com:6344?security=none&type=tcp&headerType=none&path=/#@v2ray_freex
 vless://86a0b881-10a8-0541-151f-d161aa99380a@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#
 vless://86a0b881-10a8-0541-151f-d161aa99380a@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#https://
 vless://86a0b881-10a8-0541-151f-d161aa99380a@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
