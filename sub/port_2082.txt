@@ -1,3 +1,4 @@
+vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA3MDc4IiwiYWRkIjoiMTg1LjE3NC4xMzguMzQiLCJwb3J0IjoyMDgyLCJpZCI6IjYwNjZhYmYxLWNkYjEtNDgxOC1kMzVhLTdjOGUwZWU5MDMyMCIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJlZS52MmpleS5mdW4iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUifQ==
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082/?type=ws&encryption=none&flow=&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F%3Fed%3D2560#%3E%3E%40vmess_iran%3A%3AUS
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
