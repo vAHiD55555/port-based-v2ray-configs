@@ -2,4 +2,4 @@ vless://898f08d1-f64a-4cc1-8e70-5e9b3a2494dc@tun2.wopeq.com:921?security=none&en
 trojan://9f7d5cb76d1645101994d9b25891e3b7@52.192.141.223:921?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-52.192.141.223-0795
 trojan://9f7d5cb76d1645101994d9b25891e3b7@52.192.141.223:921?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://9f7d5cb76d1645101994d9b25891e3b7@52.192.141.223:921?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40stairnode
-trojan://9f7d5cb76d1645101994d9b25891e3b7@52.192.141.223:921?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
+trojan://9f7d5cb76d1645101994d9b25891e3b7@52.192.141.223:921?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
