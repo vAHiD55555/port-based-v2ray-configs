@@ -2,12 +2,13 @@ vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encr
 vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+HrvCfh7MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#@meli_proxyy
 trojan://b65cbe72-59e2-4011-a22b-760621b5921f@65.109.129.120:80?security=tls&headerType=none&type=tcp&sni=fl.configasli.xyz#@v2rayconfigamir 4267
+vless://0e185d94-6477-4f47-a402-acc59aa4bab1@alinka.satarv.ir:80?path=/&security=none&encryption=none&type=ws#@V2rayTun0
+vless://0e185d94-6477-4f47-a402-acc59aa4bab1@alinka.satarv.ir:80?path=/&security=none&encryption=none&type=ws#@v2raytun0
 vless://27645da0-3fa4-435a-9055-4904ca2bd5b7@im2.newdesigne.ir:80?path=/&security=none&encryption=none&type=ws#@SPARTAN_YT
-vless://27645da0-3fa4-435a-9055-4904ca2bd5b7@im2.newdesigne.ir:80?path=/&security=none&encryption=none&type=ws#Faranet~5.00GB📊~30D⏳
 vless://2ed83fb1-6873-439f-abf8-a58015358802@151.101.65.57:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#⚡Telegram = @prrofile_purple
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.66.44.211:80?encryption=none&type=ws&security=none&path=/&host=tt.andishehparenting.com#@v2rayconfigamir 2531
 vless://4c003bc1-6e72-40d4-8b9b-0e814e315336@snapp.doctor:80?path=/&security=none&encryption=none&host=shop2.plusself.ir&type=ws#⚡Telegram = @prrofile_purple
-vless://51a3cf5f-b4c2-4a24-a2d4-a39a9780715d@snapp.ir:80?path=/&security=none&encryption=none&host=bote.wpemdad.com&type=ws#@V2rayTun0
+vless://547ed413-be08-4b04-b915-ff471b3e3173@vix.idcenter.top:80?security=none&encryption=none&host=vix.idcenter.top&type=ws#⚡Telegram = @prrofile_purple
 vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=/&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#⚡Telegram = @prrofile_purple
 vless://7c2f794b-4a98-4ef3-807e-b5822be8cd9d@Cia.parsincharm.ir:80/?type=ws&encryption=none&path=/&host=be.storyhost.ir&security=none#@cllubvpn لطفا برای حمایت جوین شید
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#@TeleProxyTele
