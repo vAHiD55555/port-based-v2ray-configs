@@ -1,0 +1,1 @@
+vless://7069b4eb-7a4a-4bd5-af1b-3b1f741e269c@godbay.preghost.ir:7070?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=aparat-stream&allowInsecure=0&sni=godbay.preghost.ir#@V2rayTun0
