@@ -1,2 +1,1 @@
-vless://71398e6c-be36-4fe1-ba32-ae8cda5ad445@193.151.152.127:39892?encryption=none&type=tcp#@TeleProxyTele
 vless://71398e6c-be36-4fe1-ba32-ae8cda5ad445@193.151.152.127:39892?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
