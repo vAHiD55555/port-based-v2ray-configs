@@ -1,1 +1,1 @@
-trojan://trojan@59.20.121.139:29999?sni=jflsjlaf.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
+trojan://trojan@59.20.121.139:29999?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%2F&Host=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR-59.20.121.139-0819
