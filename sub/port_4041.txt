@@ -1,5 +1,0 @@
-vless://c537d85a-cd0c-40d7-bb39-6ef10d3f1a5a@79.175.167.196:4041?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@TeleProxyTele
-vless://c537d85a-cd0c-40d7-bb39-6ef10d3f1a5a@79.175.167.196:4041?security=none&encryption=none&headerType=none&type=tcp#@TeleProxyTele
-vless://c537d85a-cd0c-40d7-bb39-6ef10d3f1a5a@79.175.167.196:4041?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
-vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?encryption=none&type=tcp&headerType=none&security=none#@aloconfig_com
-vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?encryption=none&type=tcp&headerType=none&security=none#[🇮🇷]t.me/ConfigsHub
