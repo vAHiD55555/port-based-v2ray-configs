@@ -1,2 +1,4 @@
 vless://3ef7131a-224f-4f28-9b9b-3517b75f28b3@vip.gxnetshop.ir:6000?security=none&encryption=none&headerType=none&type=tcp #FreeConffning
 vless://3ef7131a-224f-4f28-9b9b-3517b75f28b3@vip.gxnetshop.ir:6000?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
+vless://8cc9715a-951d-463d-87f4-ad871d3d67dd@188.121.125.121:6000?encryption=none&security=none&type=tcp#wibeOfMe
+vless://8cc9715a-951d-463d-87f4-ad871d3d67dd@vip.gxnetshop.ir:6000?encryption=none&type=tcp&security=none#🇩🇪wibeofme- تلگرام
