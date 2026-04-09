@@ -1,10 +1,12 @@
+vless://32279e08-a2e5-431d-8add-924e8cdecd22@st1.uwuwiak.ir:2001?security=none&encryption=none&headerType=none&type=tcp @FreeConffning
+vless://32279e08-a2e5-431d-8add-924e8cdecd22@st1.uwuwiak.ir:2001?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
+vless://32279e08-a2e5-431d-8add-924e8cdecd22@st1.uwuwiak.ir:2001?security=none&encryption=none&headerType=none&type=tcp@TeleProxyTele
 vless://3628a7c2-cc74-4d34-b6e9-1940a063b0d2@st1.uwuwiak.ir:2001?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
 vless://49deb2fa-9d5b-4966-91c4-0ae741def57a@st1.uwuwiak.ir:2001?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
 vless://e7a8ad66-43d5-4945-bc9a-b6604ec2372d@st1.uwuwiak.ir:2001?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
-vless://e7a8ad66-43d5-4945-bc9a-b6604ec2372d@st1.uwuwiak.ir:2001?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://187dda4498be9ac4f28db939d5940185@52.192.18.255:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-52.192.18.255-0820
 trojan://187dda4498be9ac4f28db939d5940185@57.180.66.105:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.66.105-1669
 vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
 trojan://187dda4498be9ac4f28db939d5940185@57.180.66.105:2001?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://187dda4498be9ac4f28db939d5940185@57.180.66.105:2001?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
-trojan://187dda4498be9ac4f28db939d5940185@57.180.66.105:2001?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://187dda4498be9ac4f28db939d5940185@57.180.66.105:2001?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2

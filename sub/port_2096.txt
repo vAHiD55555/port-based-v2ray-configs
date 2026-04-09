@@ -11,19 +11,16 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?allowInsecure=1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱18@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱40@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🌱25@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🌱11@TeleProxyTele
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱63@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱71@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🌱11@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱12@TeleProxyTele
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱12@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱24@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🌱22@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🌱49@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#@TeleProxyTele
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌱15@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🌱41@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.147.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🌱21@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?encryption=none&type=ws&host=sni.jpmj.dev&path=/?ed=2560&security=tls&fp=chrome&sni=sni.jpmj.dev#@WibeOfMe - تلگرام
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@ZEOS_VPN | ترکیبی
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#@Moft_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🌱39@oneclickvpnkeys
@@ -182,7 +179,5 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.7
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%E2%9A%A1Telegram%20%3D%20%40KIA_NET```
 vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583412911.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638874929583412911.zagreb-prx-dnraaad.info&path=/ohfqcwws#@meli_proxyy
 vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583581773.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638874929583581773.zagreb-prx-dnraaad.info&path=/ikhocbws#@meli_proxyy
-vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@104.26.0.196:2096?allowInsecure=1&encryption=none&host=xqkxw.ccwu.cc&path=/&security=tls&sni=xqkxw.ccwu.cc&type=ws#🧬40@oneclickvpnkeys
-vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@8.35.211.172:2096?allowInsecure=1&encryption=none&host=xqkxw.ccwu.cc&path=/&security=tls&sni=xqkxw.ccwu.cc&type=ws#🧬37@oneclickvpnkeys
 vmess://eyJhZGQiOiI1MS43Ny4xNTguMTY5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJjOTJmZDkwMi1iNWQzLTQyMDgtYmI0OC02MzBiMWM3YmFiZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTYiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
 vless://1ce14778-3c70-46d2-df1b-29647fb2c0ee@VPNCUSTOMIZE.ddns.net:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=g2.iranislamic.top#--MTN+%7C+%40v2ray_ar+%7C+200GBوصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
