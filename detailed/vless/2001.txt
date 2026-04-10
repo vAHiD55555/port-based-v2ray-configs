@@ -1,2 +1,1 @@
-vless://32279e08-a2e5-431d-8add-924e8cdecd22@st1.uwuwiak.ir:2001?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
 vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
