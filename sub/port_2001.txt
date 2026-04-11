@@ -1,4 +1,4 @@
-trojan://187dda4498be9ac4f28db939d5940185@18.177.145.165:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-18.177.145.165-1686
+trojan://187dda4498be9ac4f28db939d5940185@18.177.145.165:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-18.177.145.165-0337
 vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
 trojan://187dda4498be9ac4f28db939d5940185@18.177.145.165:2001?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://187dda4498be9ac4f28db939d5940185@18.177.145.165:2001?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
