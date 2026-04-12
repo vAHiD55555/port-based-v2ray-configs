@@ -1,5 +1,9 @@
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@104.16.80.144:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-dm1.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-dm1.netsnap.ir.&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://583bfe89-2492-49dc-91f8-4b45e869a1cd@damp-sound-f99c.golamirreza19954312.workers.dev:2083?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.181:2083?allowInsecure=1&encryption=none&host=aier.eu.cc&path=/&security=tls&sni=aier.eu.cc&type=ws#🥮13@oneclickvpnkeys
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.182:2083?allowInsecure=1&encryption=none&host=aier.eu.cc&path=/&security=tls&sni=aier.eu.cc&type=ws#🥮23@oneclickvpnkeys
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.218:2083?allowInsecure=1&encryption=none&host=aier.eu.cc&security=tls&sni=aier.eu.cc&type=ws#🥮21@oneclickvpnkeys
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.252:2083?allowInsecure=1&encryption=none&host=aier.eu.cc&path=/&security=tls&sni=aier.eu.cc&type=ws#🥮11@oneclickvpnkeys
 vless://70d35773-7940-47a7-8375-177732e7c4df@stream.overdoes.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=q1.overdoes.site#OverdosVPN🇩🇪-Free ❌
 vless://715a4b57-b266-47af-a65b-cd49fa1af20b@104.21.57.220:2083?path=/eyJqdW5rIjoiUWxpWlJWblEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.liditkht.workers.dev&fp=chrome&type=ws&sni=V2nGFaSt-v2nGfAST-V2nGfAst-v2NGFAST-V2ngfASt.LIdITkHt.woRkERS.DEv#2 🔥 @V2ngFast
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2083?allowInsecure=1&encryption=none&host=cIAllO-EGB.pAGES.dev&path=/%2F&security=tls&sni=cIAllO-EGB.pAGES.dev&type=ws#🪺51@oneclickvpnkeys
