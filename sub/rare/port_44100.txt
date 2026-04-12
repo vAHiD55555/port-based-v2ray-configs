@@ -1,2 +1,3 @@
 vless://30da2c22-62d9-4288-8306-58713c0a7bf8@NullNetwork.vianabeauty.ir:44100?security=none&encryption=none&headerType=none&type=tcp#@FreeConffning
-vless://6c78955f-cbd7-40d9-94aa-38171b6caa8a.vianabeauty.ir:44100?security=none&encryption=none&headerType=none&type=tcp#@UnNurmal
+vless://73f23ffe-1c09-4abb-9295-c0d57e770c7e@packetnet.vianabeauty.ir:44100?type=tcp&security=none#@UnNurmal
+vless://c98c863f-7677-4028-b557-4b154bf71fa9@packetnet.vianabeauty.ir:44100?type=tcp&security=none#@UnNurmal
