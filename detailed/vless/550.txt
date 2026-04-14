@@ -1,3 +1,0 @@
-vless://6daf6f9c-9c1d-9e91-8f5a-cb6a7f8d60e6@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@V2rayAlpha--1
-vless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#All-@V2rayAlpha--11
-vless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=turbo.unlimiteds.site#All-@V2rayAlpha--13
