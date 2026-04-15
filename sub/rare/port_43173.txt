@@ -1,1 +1,2 @@
 vless://fb267777-47e0-440e-83d2-90eb8023d481@70.34.218.80:43173?security=none&encryption=none&headerType=http&type=tcp#telegram: @hupivpn
+vless://fb267777-47e0-440e-83d2-90eb8023d481@70.34.218.80:43173?type=tcp&encryption=none&path=/&headerType=http&security=none#filembad-365
