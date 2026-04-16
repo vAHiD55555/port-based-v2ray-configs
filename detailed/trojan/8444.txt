@@ -6,6 +6,6 @@ trojan://trojan@152.53.200.98:8444?allowInsecure=1&sni=jflsjlaf.pages.dev&ws=1&w
 trojan://trojan@152.53.200.98:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%2F#AT
 trojan://trojan@152.53.200.167:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%2F#AT
 trojan://trojan@152.53.200.167:8444?allowInsecure=1&sni=jflsjlaf.pages.dev&ws=1&wspath=%2F#AT
-trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-trojan://trojan@152.53.200.98:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD3
-trojan://trojan@152.53.200.167:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD4
+trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%E6%9C%AA%E7%9F%A59
+trojan://trojan@152.53.200.98:8444?sni=jflsjlaf.pages.dev#%E6%9C%AA%E7%9F%A520
+trojan://trojan@152.53.200.167:8444?sni=jflsjlaf.pages.dev#%E6%9C%AA%E7%9F%A541
