@@ -1,4 +1,3 @@
-vless://3b80a4b4-187a-49b0-a52c-5c455c41ba98@194.59.171.217:14774?security=none&encryption=none&type=tcp&headerType=none#filembad-144
 vless://3b80a4b4-187a-49b0-a52c-5c455c41ba98@194.59.171.217:14774?type=tcp&security=none#@icv2ray
 vless://3b80a4b4-187a-49b0-a52c-5c455c41ba98@194.59.171.217:14774?type=tcp&security=none#vaslbemonim7
 vless://3be173d0-06d0-4631-a491-4945449ed28e@194.59.171.217:14774?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
