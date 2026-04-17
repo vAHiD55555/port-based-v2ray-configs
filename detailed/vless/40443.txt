@@ -1,6 +1,6 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?ed=2560&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#@DigiHubAI
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#@DigiHubAI
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=/#@icv2ray
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=/#@saministamm
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=/#[27936] - Telegram : @V2All
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#@icv2ray
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#[27924] - Telegram : @V2All
+vless://de0f9e73-d61e-4c61-a862-b3d02a61fa17@127.0.0.1:40443?encryption=none&security=tls&sni=fac1f2b6-27a7-4cb4-abd4-6299b985baec.pursorat.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=rahgozar.pursorat.com&path=/xhttp56316&mode=auto#[27943] - Telegram : @V2All
