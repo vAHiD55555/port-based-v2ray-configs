@@ -8,11 +8,9 @@ vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.75:52006?allowInsecure=1
 vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.77:52006?allowInsecure=1&alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🕳️60@oneclickvpnkeys
 vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.78:52006?allowInsecure=1&alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🕳️89@oneclickvpnkeys
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@212.92.101.195:52006?allowInsecure=1&alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🕳️99@oneclickvpnkeys
-vless://75807638-6f19-2328-ae08-38492ee85c88@ing-13.anti-vpn.ru:52006?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🌻100@oneclickvpnkeys
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.145.56:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=germ-dop.anti-vpn.ru&type=tcp#🕳️84@oneclickvpnkeys
 vless://75807638-6f19-2710-ae08-38492ee85c88@212.92.101.190:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=germ-dop.anti-vpn.ru&type=tcp#🕳️100@oneclickvpnkeys
 vless://75807638-6f19-2710-ae08-38492ee85c88@31.131.251.133:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=germ-dop.anti-vpn.ru&type=tcp#🕳️81@oneclickvpnkeys
 vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.65.121:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=germ-dop.anti-vpn.ru&type=tcp#🕳️79@oneclickvpnkeys
 vless://75807638-6f19-2710-ae08-38492ee85c88@95.213.143.248:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=germ-dop.anti-vpn.ru&type=tcp#🕳️87@oneclickvpnkeys
 vless://75807638-6f19-2710-ae08-38492ee85c88@95.213.184.52:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=germ-dop.anti-vpn.ru&type=tcp#🕳️90@oneclickvpnkeys
-vless://75807638-6f19-2328-ae08-38492ee85c88@ing-13.anti-vpn.ru:52006?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AEE
