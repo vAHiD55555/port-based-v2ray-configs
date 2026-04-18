@@ -5,7 +5,6 @@ vless://75807638-6f19-07d0-ae08-38492ee85c88@95.143.188.155:52006?allowInsecure=
 vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.60:52006?allowInsecure=1&alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🕳️86@oneclickvpnkeys
 vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.74:52006?allowInsecure=1&alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🕳️72@oneclickvpnkeys
 vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.75:52006?allowInsecure=1&alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🕳️82@oneclickvpnkeys
-vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.77:52006?allowInsecure=1&alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🕳️60@oneclickvpnkeys
 vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.184.78:52006?allowInsecure=1&alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🕳️89@oneclickvpnkeys
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@212.92.101.195:52006?allowInsecure=1&alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🕳️99@oneclickvpnkeys
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.145.56:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=germ-dop.anti-vpn.ru&type=tcp#🕳️84@oneclickvpnkeys

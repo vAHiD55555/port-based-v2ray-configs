@@ -1,16 +1,9 @@
-vless://1027b850-de79-4a94-b337-eccdac28e141@127.0.0.1:40443?encryption=none&security=tls&sni=g.sandesh.qzz.io&type=ws&host=g.sandesh.qzz.io&path=/vless#[28122] - Telegram : @V2All
 vless://10db3f90-dbbb-4262-b4bb-a01e02e9b87e@127.0.0.1:40443?type=xhttp&encryption=none&path=/RiTaLiN&host=rubifen.ktbr.store&mode=auto&security=tls&fp=chrome&sni=rubifen.ktbr.store&insecure=0&allowInsecure=0#Rubifen @khosrow_v2ray
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?encryption=none&security=tls&sni=amphetamine.ktbr.store&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=amphetamine.ktbr.store&path=/TiMbErSaW&mode=auto#Amphetamine @khosrow_v2ray
+vless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?encryption=none&security=tls&sni=tom.dnstt.space&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tom.dnstt.space&path=/GoOgLe&mode=auto#filembad-134
 vless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?encryption=none&security=tls&sni=tom.ktbr.store&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tom.ktbr.store&path=/GoOgLe&mode=auto#Tomcat @khosrow_v2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#🇱🇻 LV
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/#filembad-181
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/#🇱🇻 LV
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#@DigiHubAI
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@127.0.0.1:40443?encryption=none&security=tls&sni=qyi.fqjd663.ggff.net&insecure=1&allowInsecure=1&type=ws&host=qyi.fqjd663.ggff.net&path=/#🇳🇱 NL
-vless://9863e1a5-f83b-4608-bed8-122d0a54b6d5@127.0.0.1:40443?mode=auto&path=/KtBrKmKh&security=tls&encryption=none&insecure=0&host=interim.ktbr.store&fp=chrome&type=xhttp&allowInsecure=0&sni=interim.ktbr.store#@oliver_soul
-vless://9863e1a5-f83b-4608-bed8-122d0a54b6d5@127.0.0.1:40443?mode=auto&path=/KtBrKmKh&security=tls&encryption=none&insecure=0&host=interim.ktbr.store&fp=chrome&type=xhttp&allowInsecure=0&sni=interim.ktbr.store#@saministamm
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@127.0.0.1:40443?encryption=none&security=tls&sni=qyi.fqjd663.ggff.net&allowInsecure=1&type=ws&host=qyi.fqjd663.ggff.net&path=/#filembad-255
 vless://9863e1a5-f83b-4608-bed8-122d0a54b6d5@127.0.0.1:40443?type=xhttp&encryption=none&path=/KtBrKmKh&host=interim.ktbr.store&mode=auto&security=tls&fp=chrome&sni=interim.ktbr.store&insecure=0&allowInsecure=0#Interim @khosrow_v2ray
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=/#🇩🇪 DE
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=/#@icv2ray
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?path=/&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#@proxymelimon
 vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?encryption=none&security=tls&sni=focalin.ktbr.store&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=focalin.ktbr.store&path=/Goorbeh&mode=auto#Focalin @khosrow_v2ray
