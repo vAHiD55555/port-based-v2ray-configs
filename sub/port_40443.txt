@@ -1,9 +1,13 @@
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#@proxymelimon
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#@mtproto_proserver
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#@mtproto_proserver
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#@mtproto_proserver
 vless://10db3f90-dbbb-4262-b4bb-a01e02e9b87e@127.0.0.1:40443?type=xhttp&encryption=none&path=/RiTaLiN&host=rubifen.ktbr.store&mode=auto&security=tls&fp=chrome&sni=rubifen.ktbr.store&insecure=0&allowInsecure=0#Rubifen @khosrow_v2ray
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?encryption=none&security=tls&sni=amphetamine.ktbr.store&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=amphetamine.ktbr.store&path=/TiMbErSaW&mode=auto#Amphetamine @khosrow_v2ray
 vless://14c44521-e28f-4561-a12c-337d8cc44d87@127.0.0.1:40443?type=xhttp&encryption=none&path=/TiMbErSaW&host=amphetamine.lmjk.shop&mode=stream-up&security=tls&fp=chrome&alpn=h3,h2&sni=amphetamine.lmjk.shop&insecure=0&allowInsecure=0#Amphetamine @khosrow_v2ray
 vless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?encryption=none&security=tls&sni=tom.ktbr.store&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tom.ktbr.store&path=/GoOgLe&mode=auto#Tomcat @khosrow_v2ray
 vless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?type=xhttp&encryption=none&path=/GoOgLe&host=tom.lmjk.shop&mode=auto&security=tls&alpn=h2&sni=tom.lmjk.shop&insecure=0&allowInsecure=0#TomtheCat @khosrow_v2ray
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@127.0.0.1:40443?encryption=none&security=none&type=ws&host=vip.yaml7.ggff.net&path=/ @irshum2#@KHATE_Sabzir | خــط ســبز
 vless://9863e1a5-f83b-4608-bed8-122d0a54b6d5@127.0.0.1:40443?type=xhttp&encryption=none&path=/KtBrKmKh&host=interim.ktbr.store&mode=auto&security=tls&fp=chrome&sni=interim.ktbr.store&insecure=0&allowInsecure=0#Interim @khosrow_v2ray
 vless://9863e1a5-f83b-4608-bed8-122d0a54b6d5@127.0.0.1:40443?type=xhttp&encryption=none&path=/KtBrKmKh&host=interim.lmjk.shop&mode=auto&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=interim.lmjk.shop&insecure=0&allowInsecure=0#Interim @khosrow_v2ray
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@127.0.0.1:40443?path=/&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#@proxymelimon

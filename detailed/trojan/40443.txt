@@ -1,1 +1,4 @@
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#@proxymelimon
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#@mtproto_proserver
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#@mtproto_proserver
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#@mtproto_proserver
