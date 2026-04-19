@@ -1,1 +1,1 @@
-vless://0cf4a308-1fe7-42e2-bc41-f1b5877f489e@93.185.166.71:1443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&sni=nl17.fastlanehosting.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://26524cce-d514-4014-a426-365fb266a14d@131.186.22.255:1443?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.rr.kg&path=/danfeng#@v2rayconfigamir 1684
