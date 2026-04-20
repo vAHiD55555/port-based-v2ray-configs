@@ -1,17 +1,13 @@
 vless://1c0aa57d-ba81-4e4f-8458-90b952010450@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
 vless://3f20075c-a1f0-4d4c-b45c-7cdc8332484d@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@UnNurmal
 vless://3f20075c-a1f0-4d4c-b45c-7cdc8332484d@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
-vless://3f20075c-a1f0-4d4c-b45c-7cdc8332484d@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@icv2ray
 vless://4c0f1ca1-381a-48ca-a805-2063a80e200f@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@UnNurmal
-vless://4c0f1ca1-381a-48ca-a805-2063a80e200f@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@icv2ray
 vless://5428750a-52b1-41b2-abf6-1eb063506d5d@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
 vless://6a2c4e4d-27d2-485b-840d-2d7ebf5bd175@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
 vless://7d953698-4765-40bf-aa13-a413f26719a4@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
 vless://825900b7-c21a-42c5-9222-ae8b072e4e51@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
 vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?encryption=none&type=tcp&security=none#@UnNurmal
-vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?encryption=none&type=tcp&security=none#@icv2ray
 vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?type=tcp&security=non#@UnNurmal
-vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?type=tcp&security=non#@icv2ray
 vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
 vless://bee083b4-74fc-42a3-ad11-f4318c78e368@NullNetwork.vianabeauty.ir:45359?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG_Cafe
 vless://d71885b9-9ce7-40bd-aff6-9c151e8d45ac@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
