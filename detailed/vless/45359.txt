@@ -13,8 +13,6 @@ vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?encr
 vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?type=tcp&security=non#@UnNurmal
 vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?type=tcp&security=non#@icv2ray
 vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
-vless://bee083b4-74fc-42a3-ad11-f4318c78e368@NullNetwork.vianabeauty.ir:45359?security=none&encryption=none&headerType=none&type=tcp#@UnNurmal
 vless://bee083b4-74fc-42a3-ad11-f4318c78e368@NullNetwork.vianabeauty.ir:45359?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG_Cafe
-vless://bee083b4-74fc-42a3-ad11-f4318c78e368@NullNetwork.vianabeauty.ir:45359?security=none&encryption=none&headerType=none&type=tcp#Telegram Channel @UnNurmal
 vless://d71885b9-9ce7-40bd-aff6-9c151e8d45ac@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
 vless://d71fc4f0-2c93-498b-8da5-bc3016b9346f@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
