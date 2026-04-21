@@ -5,20 +5,24 @@ trojan://7575@173.245.59.243:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ng
 trojan://ZJU29smXwp@172.67.191.189:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#@v2rayconfigamir 1968
 trojan://ZJU29smXwp@172.67.68.87:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#@v2rayconfigamir 9433
 trojan://ZJU29smXwp@45.85.118.0:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#@v2rayconfigamir 6267
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.230.57-2159
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-49.212.221.47-2172
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.173.235-2292
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.167.100.203-2298
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.173.235-2301
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.145.107-2338
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.230.52-2368
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.176.244-2414
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.230.52-2441
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-119.193.20.250-2488
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.230.57-2550
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.176.244-2579
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-2600
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-2651
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?sni=cm22-bgphhh.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD19
-trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN[همراه اول]
-trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN⚙ ایرانسل
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?security=tls&sni=cm22-bgphhh.pages.dev&type=ws&path=%2F&Host=cm22-bgphhh.pages.dev#%F0%9F%8F%81RELAY-104.18.42.163-0837
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.166.88-2196
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-49.212.221.47-2209
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.9.201.69-2329
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.167.100.203-2335
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.9.201.69-2338
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.145.107-2375
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.172.173-2405
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.9.203.248-2451
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.172.173-2478
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-119.193.20.250-2525
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-42.200.166.88-2587
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.9.203.248-2616
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-2637
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-2688
+trojan://1111@162.159.36.5:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev#2 ًں‡©ًں‡ھ @V2ngFast
+trojan://1111@172.64.147.96:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.patiy61959.workers.dev#8 ًں‡©ًں‡ھ @V2ngFast
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev#7 ًں‡©ًں‡ھ @V2ngFast
+trojan://7575@173.245.59.243:2053?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rosomo9596.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.rosomo9596.workers.dev#4 ًں‡©ًں‡ھ @V2ngFast
+trojan://Go5e2nKM8T@188.42.88.144:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN[ظ‡ظ…ط±ط§ظ‡ ط§ظˆظ„]
+trojan://Go5e2nKM8U-v2rayNG_VPNN@45.85.119.0:2053?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNNâڑ™ ط§غŒط±ط§ظ†ط³ظ„
