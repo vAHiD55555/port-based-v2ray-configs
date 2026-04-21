@@ -4,7 +4,6 @@ vless://5428750a-52b1-41b2-abf6-1eb063506d5d@packetnet.vianabeauty.ir:45359?type
 vless://6a2c4e4d-27d2-485b-840d-2d7ebf5bd175@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
 vless://7d953698-4765-40bf-aa13-a413f26719a4@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
 vless://825900b7-c21a-42c5-9222-ae8b072e4e51@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@YamYamProxy
-vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?encryption=none&type=tcp&security=noe#filembad-316
 vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?encryption=none&type=tcp&security=none#@AhuraNetChannel
 vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?encryption=none&type=tcp&security=none#@icv2ray
 vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?encryption=none&type=tcp&security=none#@saministamm
