@@ -1,1 +1,1 @@
-vless://2757be66-746a-4c1b-bb70-0327a19d9519@post.exitping.store:433?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=post.exitping.store&type=tcp#filembad-109
+vless://2757be66-746a-4c1b-bb70-0327a19d9519@post.exitping.store:433?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=post.exitping.store&type=tcp#@aloconfig_com
