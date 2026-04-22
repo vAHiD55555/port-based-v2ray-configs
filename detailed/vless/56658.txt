@@ -1,3 +1,2 @@
 vless://3df69e7e-2010-4b2f-aa94-ebde0366c977@94.101.179.129:56658?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha-4
-vless://3df69e7e-2010-4b2f-aa94-ebde0366c977@94.101.179.129:56658?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://3df69e7e-2010-4b2f-aa94-ebde0366c977@94.101.179.129:56658?security=none&encryption=none&headerType=none&type=tcp#Psiphon-@V2rayAlpha-5
