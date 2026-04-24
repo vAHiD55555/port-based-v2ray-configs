@@ -1,0 +1,1 @@
+vless://75ac7622-a866-4912-9cbd-61003184b7ea@joker.preghost.ir:45807?encryption=none&type=grpc&security=tls&serviceName=aparat-stream&mode=gun&sni=joker.preghost.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#@techbod
