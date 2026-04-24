@@ -1,3 +1,2 @@
 vless://5f56e66d-c9ad-485f-9e23-1a1400ca8b9f@fe.numsubaca.wfft.ir:40500/?type=tcp&encryption=none&security=none#@aloconfig_com
-vless://5f56e66d-c9ad-485f-9e23-1a1400ca8b9f@fe.numsubaca.wfft.ir:40500/?type=tcp&encryption=none&security=none#@techbod
-vless://80050904-0c61-4fef-871f-6394436ca4d4@fe.numsubaca.wfft.ir:40500/?type=tcp&encryption=none&security=none#filembad-197
+vless://5f56e66d-c9ad-485f-9e23-1a1400ca8b9f@fe.numsubaca.wfft.ir:40500?security=none&encryption=none&headerType=none&type=tcp#@filtershekan_channel
