@@ -2,6 +2,4 @@ vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?encryption=non
 vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?encryption=none&type=tcp&headerType=none#@electvpn0
 vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?mode=gun&security=none&encryption=none&type=grpc#@config4k _ کانال تلگرام
 vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?security=none&encryption=none&headerType=none&type=tcp#@i10VPN - Psiphon 25
-vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?security=none&encryption=none&headerType=none&type=tcp#ProxyMtpVPN-219
 vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?security=none&encryption=none&headerType=none&type=tcp#configraygan+-+Psiphon+25
-vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?security=none&encryption=none&headerType=none&type=tcp#telegram: @hupivpn
