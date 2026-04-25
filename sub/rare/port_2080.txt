@@ -1,4 +1,4 @@
 vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?encryption=none&type=tcp&headerType=none#1100
 vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?encryption=none&type=tcp&headerType=none#@electvpn0
-vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?encryption=none&type=tcp&headerType=none#@techbod
 vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?security=none&encryption=none&headerType=none&type=tcp#@i10VPN - Psiphon 25
+vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?security=none&encryption=none&headerType=none&type=tcp#ProxyMtpVPN-222
