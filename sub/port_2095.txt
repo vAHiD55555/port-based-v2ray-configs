@@ -1,6 +1,5 @@
 vless://217242f1-cd3d-4afd-b109-b2bf1cd5b741@orixcraft.ir:2095?path=/&security=&encryption=none&type=ws#Psiphon--@V2rayAlpha-48
 vless://217242f1-cd3d-4afd-b109-b2bf1cd5b741@orixcraft.ir:2095?path=/&security=none&encryption=none&type=ws#@electvpn0
-vless://217242f1-cd3d-4afd-b109-b2bf1cd5b741@orixcraft.ir:2095?path=/&security=none&encryption=none&type=ws#FastNetTools
 vless://217242f1-cd3d-4afd-b109-b2bf1cd5b741@orixcraft.ir:2095?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://4afe244e-5553-44c8-8216-e3ef33ac9765@abr.superip.ir:2095?path=/API/superip&security=&encryption=none&host=cd.phill-up.ir&type=ws#Psiphon--@V2rayAlpha-45
 vless://5535619d-9ba2-492d-996e-8c88a3572e28@abr.superip.ir:2095?path=/API/superip&security=&encryption=none&host=cd.phill-up.ir&type=ws#Psiphon--@V2rayAlpha-47
