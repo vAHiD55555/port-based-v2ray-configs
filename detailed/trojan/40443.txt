@@ -42,10 +42,3 @@ trojan://humanity@85.198.9.204:40443?allowInsecure=1&host=www.ignitelimit.com&pa
 trojan://humanity@95.38.163.199:40443?allowInsecure=1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🧃@8oneclickvpnkeys
 trojan://humanity@95.38.165.189:40443?allowInsecure=1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🧃@4oneclickvpnkeys
 trojan://humanity@95.38.165.189:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@V2rayNG_Cafe
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#NormanV2ray-11
-trojan://humanity@193.151.152.206:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@V2rayNG_Cafe
-trojan://humanity@2.144.22.10:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#https://t.me/Configir98
-trojan://humanity@2.144.22.10:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#https://t.me/Pirimod
-trojan://humanity@2.144.6.222:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#NormanV2ray-16
-trojan://humanity@85.198.9.204:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@V2rayNG_Cafe
-trojan://humanity@95.38.163.199:40443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@V2rayNG_Cafe
