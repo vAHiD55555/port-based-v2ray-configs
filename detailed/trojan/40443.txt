@@ -1,15 +1,6 @@
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#@GrizzlyVPN
-trojan://humanity@128.65.185.146:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mux=&path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#@GozargahAzad|🇮🇷
-trojan://humanity@128.65.185.146:40443?mux=&path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#@filembad
-trojan://humanity@128.65.185.146:40443?mux=&path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:89.16ms
-trojan://humanity@128.65.185.146:40443?mux=&path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:92.88ms
-trojan://humanity@128.65.185.146:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷32270 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@128.65.185.146:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷32271 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@188.121.125.106:40443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#@canfigiop
-trojan://humanity@188.213.197.186:40443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🦉@FreeConfigForYou
 trojan://humanity@2.144.23.72:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=@Black_Star_Vpn
 trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#@icv2ray
-trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#NormanV2ray-27
 trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#@icv2ray
-trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#NormanV2ray-28
 trojan://humanity@79.127.37.45:40443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#@icv2ray
+trojan://humanity@2.144.23.72:40443?security=tls&sni=@Black_Star_Vpn&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=0#🇮🇷33259 | ⚡️Telegram = t.me/SOSkeyNET
