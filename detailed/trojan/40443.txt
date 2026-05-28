@@ -1,12 +1,4 @@
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#@GrizzlyVPN
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#LoopLine_Ir-30
-trojan://humanity@185.231.112.217:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 France Paris | ⏱4664ms | ⚡411KB/s | @NamazVPN
-trojan://humanity@185.231.112.217:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 France Paris | ⏱5335ms | ⚡98KB/s | @NamazVPN
-trojan://humanity@185.231.112.217:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 France Paris | ⏱7154ms | ⚡127KB/s | @NamazVPN
-trojan://humanity@185.231.112.217:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
-trojan://humanity@185.231.112.217:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 t.me/Natrixo BB
-trojan://humanity@2.144.15.223:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@GozargahAzad|🇮🇷
-trojan://humanity@2.144.15.223:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 France Paris | ⏱851ms | ⚡824KB/s | @NamazVPN
 trojan://humanity@2.144.23.72:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=@Black_Star_Vpn
 trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#@icv2ray
 trojan://humanity@2.144.4.208:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#@icv2ray
