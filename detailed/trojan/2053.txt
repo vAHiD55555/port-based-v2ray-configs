@@ -9,6 +9,12 @@ trojan://Mitivpn@104.18.32.47:2053?type=ws&security=tls&path=/?ed=2048&host=dash
 trojan://Mitivpn@45.130.125.241:2053?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#@VPN_PASARGAD
 trojan://Mitivpn@45.130.125.76:2053?allowInsecure=1&alpn=http/1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=dash.hitgram.ir&path=/&sni=dash.hitgram.ir&type=ws#🌝70@oneclickvpnkeys
 trojan://Mitivpn@45.130.125.76:2053?type=ws&security=tls&path=/?ed=2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#@meliproxyy
+trojan://Mitivpn@45.130.125.76:2053?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#
+trojan://Mitivpn@104.17.121.71:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#%40hi_proxy_iran%20%3A%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+trojan://Mitivpn@104.18.32.47:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#%40hi_proxy_iran%20%3A%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+trojan://Mitivpn@45.130.125.76:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#%40hi_proxy_iran%20%3A%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+trojan://Mitivpn@104.17.121.71:2053?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#%40gahanian_net
+trojan://%4d%69%74%69%76%70%6e@45.130.125.76:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#🇸🇨SC-🚀@VPNine1
 trojan://Mitivpn@104.17.121.71:2053?security=tls&sni=dash.hitgram.ir#%F0%9F%8F%81RELAY-104.17.121.71-1509
 trojan://Mitivpn@45.130.125.76:2053?security=tls&sni=dash.hitgram.ir#%F0%9F%8F%81RELAY-45.130.125.76-1510
 trojan://8r%3C%5B9%27l6hAO%238ZQi@194.120.116.68:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-194.120.116.68-1540
