@@ -1,1 +1,2 @@
+vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?security=none&type=tcp&packetEncoding=xudp#@VPsave
 vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40V2rayNG3%3A%3AFI
