@@ -1,0 +1,2 @@
+trojan://humanity@185.231.112.217:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#@VPsave
+trojan://humanity@95.38.188.84:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#NormanV2ray-65
