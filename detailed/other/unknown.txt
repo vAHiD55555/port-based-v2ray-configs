@@ -4,18 +4,9 @@ trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?security=tls&sni=Koma-YT.PAGeS.Dev&ins
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#@EXPRESSVPN_420
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#@v2rayngzendegimamad🕊️
-trojan://8r<[9'l6hAO#8ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1?ed=2560#🚀@VPNine1
-trojan://8r<[9'l6hAO#8ZQi@77.239.98.191:8443?path=/trTelegram🇨🇳+@VPNine1&security=tls&insecure=0&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🇩🇪DE-🚀@VPNine1
-trojan://8r<[9'l6hAO#8ZQi@77.37.65.221:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/trTelegram🇨🇳+@WangCai2&security=tls&insecure=0&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#@GozargahAzad|🇩🇪
-trojan://8r<[9'l6hAO#8ZQi@77.37.65.221:8443?path=/trTelegram🇨🇳+@WangCai2&security=tls&insecure=0&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🇩🇪62130 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://8r<[9'l6hAO#8ZQi@82.115.6.129:2053?path=/trTelegram🇨🇳+@VPNine1&security=tls&insecure=0&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🇳🇱NL-🚀@VPNine1
-trojan://8r<[9'l6hAO#8ZQi@91.220.8.170:8443?path=/trTelegram🇨🇳+@VPNine1&security=tls&insecure=0&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🇩🇪DE-🚀@VPNine1
-trojan://8r<[9'l6hAO#8ZQi@91.220.8.170:8443?path=/trTelegram🇨🇳+@WangCai2&security=tls&insecure=0&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🇩🇪62014 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://8r<[9'l6hAO#8ZQi@94.183.191.228:8443?path=/trTelegram🇨🇳+@WangCai2&security=tls&insecure=0&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🇫🇮62108 | ⚡️Telegram = t.me/SOSkeyNET
-vmess://2f4234f9-8f33-4c7f-952f-565ffa5f5fb7@node-fr.connectsuite.org:2053?alpn=h2,http/1.1&encryption=auto&security=tls&type=tcp#🪭72@oneclickvpnkeys
 vmess://41a7089a-040b-4538-8b8d-010902405bde@140.238.2.250:443?encryption=auto&security=none&type=tcp#🥎41@oneclickvpnkeys
+vmess://59e28f78-c31b-4613-9d9f-1e6732a31f46@51.195.235.71:2052?encryption=auto&headerType=http&path=/&security=none&type=tcp#🥎62@oneclickvpnkeys
 vmess://6c5f550d-d515-54fc-aedb-7b8a959ecf77@43.130.42.218:2089?encryption=auto&path=/telegram+@rootface&security=none&type=ws#🥎33@oneclickvpnkeys
-vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3,h2,http/1.1&encryption=auto&security=tls&sni=uk5.taskflowhub.org&type=tcp#🪭74@oneclickvpnkeys
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.37:180?encryption=auto&security=none&type=tcp#🥎9@oneclickvpnkeys
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICJjbGllbnQuY2xvdWRhZnJhLnRvcCIsICJwb3J0IjogNDM1NiwgImlkIjogIjBjOWRjMzliLTQ3ZDktNDdkOC04ZGFiLWMzY2NlNzZlMzA5OSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSJ9
 vmess://eyJhZGQiOiJ0bHNtMS5nc212eC5jb20iLCJzY3kiOiJhdXRvIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJwb#@v2rayconfigamir 8459
