@@ -1,7 +1,6 @@
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=&encryption=none&type=ws#⚡@V2ray_official
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=none&encryption=none&type=ws#10https://t.me/ConfigX2ray
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=none&encryption=none&type=ws#کانفیگ رایگان میخای -https://t.me/fastkanfig
-vless://0c1a8692-4645-4de7-a2a3-95bbed1c9d67@gretun.roshdrrr.ir:2052?encryption=none&security=none&type=ws&headerType=none&path=/&host=gretun.roshdrrr.ir#🇮🇷IR-🚀@VPNine1
 vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&type=tcp&packetEncoding=xudp&encryption=none#
 vless://0fffe35b-d9bb-4d0f-9433-466a8a37b3e8@185.143.235.200:2052?path=/meh&security=none&encryption=none&host=meh.fasterspeed.ir&type=ws#@v2raybaaz ³
 vless://12057eb0-5b11-47ed-b34b-0c8646b99864@cf.parsdev.eu:2052?path=/?ed=2056&security=none&encryption=none&host=xc.dl5movis.ir&type=httpupgrade#چنل عضو شو @v2ra_config
@@ -31,12 +30,12 @@ vless://47225571-63c5-460d-b7f5-59e5d9d8838f@185.143.235.212:2052?path=/wskhan&s
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#🇹🇷| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#🇧🇬| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#🇱🇻| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
+vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=/vless&security=none&encryption=none&type=ws#@hex_proxy ⁵
 vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#TEL;Father_vpn
 vless://93a535b2-abdc-426b-97af-e04bd4a0be74@85.198.12.123:2052?security=none&type=tcp&host=telewebion.com&headerType=http#@v2ray_configs_pools-join-us-on-Telegram
 vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#Brayirani
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=/vless&security=none&type=ws#🐊84@oneclickvpnkeys
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=/vless&security=none&type=ws#🐊84@v2ray_configs_pools
-vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=/vless&security=none&type=ws#🔵@chillguy_vpn
 vless://b8a47567-be06-4ef5-a707-8879be68caec@www.speedtest.net:2052?encryption=none&host=dl.summercart.net&path=/&security=none&type=ws#@DALTON_PING
 vless://d80e27b6-1dee-466a-8b18-8f64bfd66a60@104.24.17.48:2052?path=/&security=none&encryption=none&host=vxpor.positivsis.website&type=ws#amirhoseinvalian
 vless://f025c66e-47f3-4e00-a681-2866f17074f1@tamin.ir:2052?type=ws&security=none&path=/&host=u9.deltamarket3.ir#u9-50608
@@ -49,8 +48,8 @@ vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?path=/%3Fed%3D204
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6MjA1MiwicHMiOiI+PkBTaGFkb3dzb2Nrc006OlhYOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?encryption=none&security=none&type=ws&path=%2Fvless#%40W570W
 vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?encryption=none&security=none&type=ws&path=%2Fvless#%40W570W
+vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws#%F0%9F%90%8A84@v2ray_configs_pools
 vless://1aff6011-e36e-499c-b977-63c3c31b1024@104.17.156.197:2052?encryption=none&security=tls&sni=104.17.156.197&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=104.17.156.197&path=%2F#qol_005
 vmess://ewogICAgImFkZCI6ICIxODUuMTc0LjEzOC4xOTkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ5ZWxsb3ctcGFwZXItMDI5Yy55dm9ubmEud29ya2Vycy5kZXYiLAogICAgImlkIjogIjNmNjM4ZjM0LThkYmEtNDE4Ni1iYzQzLTI3MTZhN2RkZDRiZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDUyLAogICAgInBzIjogIvCfh7vwn4esVkctMTg1LjE3NC4xMzguMTk5LTY4MTYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxMDQuMTYuNjAuOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIndvcmtlci1tdXRlLWJhci0xNzE5Lm5pZm90b2s5OTMud29ya2Vycy5kZXYiLAogICAgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDUyLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTYuNjAuOC02ODY5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
