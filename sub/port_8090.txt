@@ -1,5 +1,6 @@
 vless://13e8b1f7-7536-4ce8-8e8c-9e11bde7af3a@188.213.198.238:8090?security=&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
 vless://2959c801-7615-4852-9186-02f6efff7441@188.213.198.238:8090?security=&encryption=none&headerType=none&type=tcp#@vmesskhodam
+vless://ba03fb27-c7b6-4eb5-b15d-aa4cb8df92cf@sinavip1.cnavippanel.com:8090?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.91.102.30:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.91.102.30-1874
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@85.208.108.60:8090#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.60-2166
 vmess://ewogICAgImFkZCI6ICI5MS4xOTMuMTgxLjE5MiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDhiYzMwZTEtYmUzOS00ZWI0LWU4ODctZTY1NzliZTE1YTQ1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwOTAsCiAgICAicHMiOiAi8J+Ht/Cfh7pSVS05MS4xOTMuMTgxLjE5Mi0yMjY0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
