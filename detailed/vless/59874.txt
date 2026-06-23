@@ -1,4 +1,5 @@
 vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?encryption=none&type=tcp&headerType=none&security=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn
 vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?security=&encryption=none&headerType=none&type=tcp#@Soul737
 vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?security=&encryption=none&headerType=none&type=tcp#Proxy_Se7en
 vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?security=none&encryption=none&headerType=none&type=tcp#@vmess_ir
