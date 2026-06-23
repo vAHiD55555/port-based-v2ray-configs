@@ -9,5 +9,3 @@ trojan://SoftNetConnect@37.156.45.237:42549?allowInsecure=1&sni=www.speedtest.ne
 trojan://SoftNetConnect@37.156.45.237:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#@ReleaseNet
 trojan://SoftNetConnect@37.156.45.237:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#🇨🇭 @rayhub_ir 0621-13
 trojan://SoftNetConnect@83.228.224.161:42549?security=tls&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%ADCH-83.228.224.161-1708
-trojan://SoftNetConnect@37.156.45.237:42549?allowInsecure=1&sni=www.speedtest.net#[80968] - Telegram : @V2All
-trojan://SoftNetConnect@37.156.45.237:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#@vmesskhodam
