@@ -3,4 +3,3 @@ vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&enc
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=none&encryption=none&headerType=none&type=tcp#@one_shop_official
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@14.137.238.156:10000?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AJP
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayng_fast%3A%3AUS
