@@ -1,4 +1,2 @@
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#🔵@chillguy_vpn
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@configprxy
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#EPODONIOS
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
