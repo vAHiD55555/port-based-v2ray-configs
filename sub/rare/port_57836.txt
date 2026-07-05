@@ -1,4 +1,2 @@
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?encryption=none&security=none&type=tcp#🇷🇺RU-🚀@VPNine1
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?encryption=none&security=none&type=tcp#EPODONIOS
-vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:57836?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
