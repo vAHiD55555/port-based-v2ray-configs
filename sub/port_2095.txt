@@ -220,3 +220,4 @@ vmess://eyJhZGQiOiAiMTA3LjE3My43LjE4NiIsICJhaWQiOiAwLCAiaG9zdCI6ICIxMDcuMTczLjcu
 vmess://eyJhZGQiOiAiMTA3LjE3My43LjE4NiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMzgzNzM3YTItYTE5Ni00NGI2LWE5YWMtNGY4Y2MyM2M5NjM3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIwOTUsICJwcyI6ICJFUE9ET05JT1MiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiMTA3LjE3My43LjE4NiJ9
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=fr.carefreemob2.com.&type=httpupgrade#EPODONIOS
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?encryption=none&host=fr.carefreemob2.com.&path=%2F&security=none&type=httpupgrade#EPODONIOS
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?encryption=none&type=httpupgrade&path=%2F&host=fr.carefreemob2.com.#EPODONIOS

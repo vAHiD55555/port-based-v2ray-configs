@@ -92,3 +92,4 @@ vless://f2dbb505-c695-4543-9b2f-ceb426b63b48@172.67.222.117:2095?encryption=none
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&path=/fp=randomized#EPODONIOS
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=fr.carefreemob2.com.&type=httpupgrade#EPODONIOS
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?encryption=none&host=fr.carefreemob2.com.&path=%2F&security=none&type=httpupgrade#EPODONIOS
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?encryption=none&type=httpupgrade&path=%2F&host=fr.carefreemob2.com.#EPODONIOS
