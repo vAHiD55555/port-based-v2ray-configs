@@ -30,7 +30,6 @@ vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@cdn-61bd6d.fim.dnsstatic.net:40443?
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@cdn-61bd6d.fim.dnsstatic.net:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#🎡87@oneclickvpnkeys
 trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40v2rayng_fast%3A%3AFR
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@81.19.137.144:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@72.5.42.70:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARO
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@81.19.137.144:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#%F0%9F%90%9E79@v2ray_configs_pools
 trojan://humanity@127.0.0.1:40443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#EPODONIOS
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
