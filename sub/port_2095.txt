@@ -10,11 +10,9 @@ vless://823b4851-27ba-4655-badf-ee7ff0af1cad@104.18.155.229:2095?path=/?ed=2048&
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.4.189:2095?path=/fp&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&type=ws&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev#⚪t.me/iProxyChannel 16
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.2.186:2095?path=/&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#⚪t.me/iProxyChannel 4
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.2.186:2095?path=/&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#kurdconfig
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.2.186:2095?path=/&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#🇨🇦@FreakConfig
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.2.186:2095?path=/&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#🇨🇦@V2rayng_Fast
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&type=ws&path=/&host=download.pusytroller.gq#🔵@chillguy_vpn
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?host=download.pusytroller.gq&encryption=none&path=/&security=none&type=ws#🦉@FreeConfigForYou
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=/&security=none&encryption=none&host=download.pusytroller.gq&type=ws#@FarazV2ray
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=download.pusytroller.gq&type=ws#@MARAMBASHI 💎
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?path=/&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#⚪t.me/iProxyChannel 5
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?path=/&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#🇨🇦@FreakConfig
@@ -166,7 +164,6 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.2.186:2095?path=/&security=&
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.2.186:2095?path=/&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#EPODONIOS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&type=ws&path=/&host=download.pusytroller.gq#EPODONIOS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?host=download.pusytroller.gq&encryption=none&path=/&security=none&type=ws#EPODONIOS
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=/&security=none&encryption=none&host=download.pusytroller.gq&type=ws#EPODONIOS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=download.pusytroller.gq&type=ws#EPODONIOS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?path=/&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#EPODONIOS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?path=/&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#EPODONIOS
