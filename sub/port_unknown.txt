@@ -16,7 +16,7 @@ vmess://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:51459?encryption=aut
 vmess://63d54df4-02eb-413e-beba-95e27bee760f@154.64.228.51:7739?encryption=auto&path=/arki&security=none&type=ws#🐰29@oneclickvpnkeys
 vmess://eyJhZGQiOiI2OS44NC4xODIuNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsImlkIjoiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9#Proxy_Se7en
 vmess://f2c67cae-c09d-4739-947d-f5302d87a3c0@47.86.167.194:800?encryption=auto&headerType=http&host=sjskendn.dingtalk.com&path=/x&security=none&type=tcp#🐰9@oneclickvpnkeys
-trojan://8r<[9'l6hAO#8ZQi@64.176.36.61:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-64.176.36.61-6153
+trojan://8r<[9'l6hAO#8ZQi@64.176.36.61:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-64.176.36.61-6087
 ss://2022-blake3-aes-256-gcm:6ncWtmCwIfwIDIkev6+JZlnwNViNaH1gbUf1RDTSFHo=:vnzWjn2cv/M5vYKvGA/JZqRNsHf6uZHvWtB6WW3IMI8=@46.226.166.205:50067#EPODONIOS
 ss://2022-blake3-aes-256-gcm:nzRy+FIxLQFXe3w1pBWhOSMmD/iRpeHK1PwRRBMrIVM=:C0j77YONZ8Qntd6How8dvb1GEG/ocXJgtR29jX5bZHY=@46.226.166.205:39531#EPODONIOS
 ss://2022-blake3-aes-256-gcm:sNqCa2WMqZxVHiievQwCpdAKP5QlJQ9/WRQHfXrthco=:vduXGks05pF2Txqdogg2IOqAMZm+8zH3GfNTtr53cEQ=@46.226.166.205:49901#EPODONIOS
