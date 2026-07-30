@@ -45,8 +45,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.200.150:22222?type=tcp&encry
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.48.79:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.146.253:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.197.15:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.44.201:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.156.38:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22222?#%3E%3E%40v2nodes%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.94.245:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.17.132:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -79,3 +79,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.200.150:22222?type=tcp&encry
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.48.79:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.146.253:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.197.15:22222?encryption=none&security=none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22222?#EPODONIOS
