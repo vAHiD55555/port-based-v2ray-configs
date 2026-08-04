@@ -1,3 +1,2 @@
 vless://11113f77-b439-4911-a8dd-414d2ee36b59@pl.mifbot.pro:49000?encryption=none&security=reality&sni=git.sly.team&fp=firefox&pbk=s3Jvf-GOBZPGuU7E5WpKvzN70NuedRrT9714cr-jdjk&type=grpc#q_103
 vless://11113f77-b439-4911-a8dd-414d2ee36b59@defast.mifbot.pro:49000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=git.sly.team&fp=qq&pbk=lKxU4TCjenarM3nQqOVPaVhaTo5QaDHmRlS40XdwzUk&type=tcp&headerType=none#q_058
-vless://arianet-vpnkurdnet-1@144.225.65.214:49000?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=PoUfJmVVX55emqbNeJhwVu0lnljFGpZU56SqsY1PuQU&security=reality&sid=748834c8dcf42d0e&sni=stg-ru-images.shop.samsung.com&spx=/AtTDyK1MEHQUx1e&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
