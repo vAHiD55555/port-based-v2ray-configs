@@ -57,8 +57,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.159.40:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.159.40:22222?headerType=none&type=tcp&security=none&encryption=none#@Napsternetvirani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.140.10:22222?encryption=none&security=none&type=tcp#(S101)рҹҮ©рҹҮӘt.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@fr1.levikogjgfdd.ir:22222?security=&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#@icv2ray
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.157.78:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#EPODONIOS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.76.36:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#EPODONIOS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.203.175.41:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#EPODONIOS

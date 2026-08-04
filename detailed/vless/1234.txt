@@ -1,4 +1,3 @@
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
 vless://1b74b98a-619f-47ab-bbb9-a7650f6c4d4c@62.238.63.51:1234?security=&encryption=none&host=@GHOFLSHCAN.@GHOFLSHCAN.play.google.com&headerType=http&type=tcp#@icv2ray
 vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@104.167.199.245:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#вҡЎпёҺ рҹҮ©рҹҮӘ р“Ҹә @vpnserverrr
 vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#вҡЎпёҺ рҹҮ©рҹҮӘ р“Ҹә @vpnserverrr
@@ -160,22 +159,6 @@ vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&enc
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#рҹҮөрҹҮұ@FreakConfig
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#рҹҮөрҹҮұ@V2rayng_Fast
-vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40FreakConfig%3A%3AFI
-vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@159.69.192.171:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3ADE
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@128.140.114.57:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40freeland8%3A%3AXX
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.192.171:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40freeland8%3A%3ADE
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40freeland8%3A%3ADE
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@167.233.233.187:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40freeland8%3A%3AXX
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.51.180:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@168.119.156.100:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40freeland8%3A%3AXX
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40freeland8%3A%3AFI
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@91.99.119.155:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40freeland8%3A%3AXX
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@167.233.47.127:1234?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40mehrosaboran%3A%3ADE
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3AFI
-vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@46.225.220.111:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40mehrosaboran%3A%3ADE
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#EPODONIOS
 vless://1b74b98a-619f-47ab-bbb9-a7650f6c4d4c@62.238.63.51:1234?security=&encryption=none&host=@GHOFLSHCAN.@GHOFLSHCAN.play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@104.167.199.245:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://2d18c9f7-ee9b-4c82-8d8c-0454404be61b@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
@@ -270,11 +253,3 @@ vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@46.225.220.111:1234?security=none&e
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@62.238.51.180:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@62.238.53.197:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@128.140.114.57:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.192.171:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@167.233.233.187:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.51.180:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#EPODONIOS
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@168.119.156.100:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#EPODONIOS
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@91.99.119.155:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS

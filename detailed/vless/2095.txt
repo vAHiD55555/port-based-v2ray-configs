@@ -28,8 +28,8 @@ vless://ef40327b-dabb-4b1e-87f6-96c328382244@108.162.192.188:2095?security=none&
 vless://f2dbb505-c695-4543-9b2f-ceb426b63b48@172.67.222.117:2095?encryption=none&security=none&type=ws&host=blue-fog-bc9c.seyed-arash.workers.dev&path=/eyJqdW5rIjoiZVE5MVBWYlpVZ2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4OS41OC40MC4xNzciXX0=#t.me/ConfigFori  -  Config 88287
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?encryption=none&host=fuckfangbinxing.pusytroller.gq&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://03633612-cb32-46cc-8f93-7103d1511ade@www.speedtest.net:2095?path=/?ed=2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#EPODONIOS
 vless://0a268813-7200-4d23-9851-74568928fc82@xn--dash-4o53c.xn--ir-nz82a.netbazshop.ir:2095?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://1668fbe7-0779-4812-9d70-6a4fabc8490d@104.17.147.22:2095?type=ws&host=30.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&path=/?ed=2048#EPODONIOS
@@ -52,5 +52,5 @@ vless://ef40327b-dabb-4b1e-87f6-96c328382244@108.162.192.188:2095?security=none&
 vless://f2dbb505-c695-4543-9b2f-ceb426b63b48@172.67.222.117:2095?encryption=none&security=none&type=ws&host=blue-fog-bc9c.seyed-arash.workers.dev&path=/eyJqdW5rIjoiZVE5MVBWYlpVZ2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4OS41OC40MC4xNzciXX0=#EPODONIOS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#EPODONIOS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?encryption=none&host=fuckfangbinxing.pusytroller.gq&path=%2F&security=none&type=ws#EPODONIOS
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#EPODONIOS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=%2F&security=none&type=ws#EPODONIOS
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#EPODONIOS

@@ -53,9 +53,9 @@ ss://chacha20-ietf-poly1305:XF0klw7870vXn3uQIxe19Q@146.70.53.62:1080#рқҗӮр�
 vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:1080?path=/stream/PANEL_ZEUS/7f7051730076&security=&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#ZEUS | рҹҢҗ | TelegramPeekConfig
 vless://7b3e82c8-47bf-4f6f-ad7c-6d0a041edca2@turkey1.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@Vpna.Poorifast.ir:1080#%F0%9F%87%B9%F0%9F%87%B7TR-188.41.249.20-0118
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@n2.zynovax.ir:1080?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=jDj_1a2AOXOZ_bRkgqvb0tMXjTier75usgndNVdOHTU&sid=2926c493071e7380&type=tcp&headerType=none#q_082
-vmess://ewogICAgImFkZCI6ICJjbC5ub3J0aGJvb2t3YXkuc2hvcCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInN1Yi56aXJvbG9zdC5zYnMiLAogICAgImlkIjogIjVjMjFiMmNiLTlhZWUtNGQ4Mi04MGFjLWI2Nzc5ZTZiZmVjOSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcGkiLAogICAgInBvcnQiOiAxMDgwLAogICAgInBzIjogIvCfh67wn4e3SVItODcuMTA3LjUuMTMyLTA3MjYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySXZ6TkNCUF90NW9kU1c0RGlNTER3@91.107.189.98:1080#%F0%9F%87%A9%F0%9F%87%AADE-91.107.189.98-8169
+vmess://ewogICAgImFkZCI6ICJjbC5ub3J0aGJvb2t3YXkuc2hvcCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInN1Yi56aXJvbG9zdC5zYnMiLAogICAgImlkIjogIjVjMjFiMmNiLTlhZWUtNGQ4Mi04MGFjLWI2Nzc5ZTZiZmVjOSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcGkiLAogICAgInBvcnQiOiAxMDgwLAogICAgInBzIjogIvCfh67wn4e3SVItODcuMTA3LjUuMTMyLTA1NTYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@Vpna.Poorifast.ir:1080#%F0%9F%87%B9%F0%9F%87%B7TR-188.41.249.20-5925
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySXZ6TkNCUF90NW9kU1c0RGlNTER3@91.107.189.98:1080#%F0%9F%87%A9%F0%9F%87%AADE-91.107.189.98-7994
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.146.222:1080#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.156.174.106:1080#EPODONIOS
@@ -66,7 +66,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.171.152.222
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@us1.levikogjgfdd.ir:1080#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@us1.levikogjgfdd.ir:1080?type=tcp#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#@Arvand_soulвқӨпёҸрҹ§‘вҖҚрҹ’» Ъ©Ш§ЩҶЩҒЫҢЪҜ Щ…Щ„ЫҢ ШҜШұ #EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080?#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@Vpna.Poorifast.ir:1080#EPODONIOS
