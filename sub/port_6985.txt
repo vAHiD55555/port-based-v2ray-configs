@@ -1,4 +1,5 @@
 vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
+vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@VConfing
 vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@configprxy
 vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@tootffarangi🍓-2
 vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2raybaaz ⁴
