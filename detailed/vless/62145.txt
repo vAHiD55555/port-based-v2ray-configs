@@ -11,7 +11,6 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.184.51:62145?security=none&
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.166:62145?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.236.31:62145/?type=tcp&encryption=none&flow=#channel_@networld_vpn
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.222.167:62145?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.139.193:62145/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.149.115:62145/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.196.65:62145?encryption=none&security=none&type=tcp#EPODONIOS
@@ -24,4 +23,3 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.184.51:62145?security=none&
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.166:62145?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.236.31:62145/?type=tcp&encryption=none&flow=#EPODONIOS
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.222.167:62145?encryption=none&security=none&type=tcp#EPODONIOS
