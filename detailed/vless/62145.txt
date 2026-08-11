@@ -5,6 +5,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.196.65:62145?encryption=non
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.207.185:62145/?type=tcp&encryption=none&flow=#channel_@networld_vpn
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.188.151:62145?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.35.209:62145/?type=tcp&encryption=none&flow=#channel_@networld_vpn
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.116:62145?type=tcp&headerType=none&encryption=none&security=none#@Napsternetvirani
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.166.237:62145?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.184.51:62145?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz
@@ -17,6 +18,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.196.65:62145?encryption=non
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.207.185:62145/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.188.151:62145?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.35.209:62145/?type=tcp&encryption=none&flow=#EPODONIOS
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.116:62145?type=tcp&headerType=none&encryption=none&security=none#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.166.237:62145?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.184.51:62145?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.216:62145?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
