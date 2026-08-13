@@ -9,8 +9,12 @@ trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&ho
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@rush-72frf.meeopp.site:443?encryption=auto&host=rush-72frf.meeopp.site&path=/video/o2nwt7/r0r2dmbb.m3u8&security=tls&sni=rush-72frf.meeopp.site&type=ws#🔖52@oneclickvpnkeys
 vmess://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:15124?encryption=auto&security=none&type=tcp#🎗️5@oneclickvpnkeys
 vmess://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&host=deapp.jisuyun.top&path=/devm&security=tls&sni=deapp.jisuyun.top&type=ws#🎗️48@oneclickvpnkeys
+vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto&security=none&type=tcp#🎗️95@oneclickvpnkeys
+vmess://ceeaee0b-89af-40b1-aa14-577cbde03a89@132.145.200.43:2054?encryption=auto&path=/p&security=none&type=ws#🎗️91@oneclickvpnkeys
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#🔖98@oneclickvpnkeys
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#🔖97@oneclickvpnkeys
+vmess://ewogICJhZGQiIDogIjE2OC4yMjIuNDkuMTg4IiwKICAiYWlkIiA6ICIwIiwKICAiYWxwbiIgOiAiIiwKICAiZnAiIDogIiIsCiAgImlkIiA6ICIyMGU4NDBhOS1iM2Q2LTQ5NDEtYWIxZi1kMzdjZDk1OGIwYjgiLAogICJpbnNlY3VyZSIgOiAiMCIsCiA
+vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNTVkZTQwZC1jNWQwLTQwNjQtYjEyNC05NDliYTI4NGMzYjQiLCJpbnNخ+HsUB2MnJ5TkcwMSDYrNiv24zYryDZh9mF2Ycg2YbYqiDZh9inIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#🎗️82@oneclickvpnkeys
 trojan://8r<[9'l6hAO#8ZQi@64.188.89.147:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-64.188.89.147-6310
 trojan://8r<[9'l6hAO#8ZQi@64.176.36.61:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-64.176.36.61-6312
