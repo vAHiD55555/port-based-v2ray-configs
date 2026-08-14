@@ -4,7 +4,6 @@ vless://2e622f08-444a-46d0-8dac-6f9709f4d172@check-host.net:8880?path=/&security
 vless://2f33d154-1106-4944-9e59-c27ae239e30d@91.107.166.66:8880?security=reality&encryption=none&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&headerType=none&fp=chrome&spx=/aF2MtQFvuK7cY8o&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=0c82#TEL;Father_vpn
 vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@104.21.55.229:8880?path=/pyip&security=&encryption=none&host=tiny-feather-4c41.227.workers.dev&type=ws#@confiig_hub
 vless://4085e7cf-989e-4f92-a9c6-891b4b6e8daa@104.20.6.134:8880?type=httpupgrade&encryption=none&path=/join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&host=armenia.chatgpt.com.siasia.ir&security=none#@proSSH
-vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:8880?security=reality&encryption=none&pbk=nSm8X2IETT4-xYk-goRLHdQ4FlgeD-zCVrCstE2tPHQ&headerType=none&fp=chrome&spx=/eW10M94Ji1nUvQ0&type=tcp&sni=www.intel.com&sid=b8#configprxy
 vless://47ce931e-32e4-4ed8-816c-9447860c70ef@185.146.173.200:8880?path=@mehrosaboran,@mehrosaboran&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=www.speedtest.net.kkkkklllkokowkfwofkfkfekojg.ir&type=ws#@Hope_Net-join-us-on-Telegram
 vless://4b75a44d-3c91-461e-b5a0-6060ac8aff68@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#Swiss(@proSSH)
@@ -13,7 +12,6 @@ vless://5781b499-6c56-452d-9e9f-fa43383f3b08@www.speedtest.net:8880?path=/@LOCKE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.68.50:8880?path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&security=&encryption=none&host=vms.lifetime47.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.30:8880?path=/&security=&encryption=none&host=vms.lifetime35.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.40:8880?path=/?ed=2560&security=&encryption=none&host=vms.lifetime61.workers.dev&type=ws#🚀t.me/iProxyChannel
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.176.26.50:8880?path=/?ed&security=&encryption=none&host=vms.lifetime06.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.12.145.30:8880?path=/&security=&encryption=none&host=vms.lifetime61.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.30:8880?path=/&security=&encryption=none&host=vms.lifetime35.workers.dev&type=ws#🚀t.me/iProxyChannel
@@ -28,14 +26,12 @@ vless://6d4cce6a-dbc6-43af-9146-067847483fce@s2.eldoradu.ir:8880?path=/?ed=2082&
 vless://6dd948ea-2dce-4cf3-df46-0a72af7c846a@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8880?encryption=none&type=tcp#kurdconfig
 vless://73ae7d45-1046-4cc5-9741-199375b620f1@104.21.23.72:8880?path=/pyip&security=&encryption=none&host=round-resonance-a84c.13-531.workers.dev&type=ws#🚀t.me/iProxyChannel
-vless://74705348-bb9c-47c6-9e91-057c6407bb20@104.16.72.41:8880?encryption=none&type=ws&path=/pyip&host=small-glitter-aa35.76-21d.workers.dev#@meliproxyy
 vless://74705348-bb9c-47c6-9e91-057c6407bb20@104.16.72.41:8880?encryption=none&type=ws&path=/pyip&host=small-glitter-aa35.76-21d.workers.dev#vpnsal
 vless://7a2df38b-2d8b-486b-9b43-641c81e11f40@104.16.99.215:8880?path=/pyip&security=none&encryption=none&host=shiny-mud-d9fa.466.workers.dev&type=ws#@v2raybaaz³
 vless://7a2df38b-2d8b-486b-9b43-641c81e11f40@104.16.99.215:8880?type=ws&security=none&encryption=none&host=shiny-mud-d9fa.466.workers.dev#@Alpha_v2rayIP
 vless://7a507bb5-2eea-4dd0-81a7-684f53b03689@104.22.13.192:8880?security=none&type=ws&host=www.speedtest.net.zula.com.aparat.com.spikevpn.cfd.#@Hope_Net-join-us-on-Telegram
 vless://7be30ab7-2077-4115-f6cb-125226afd3c9@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://7c3e7eb3-289a-4664-b783-e459713aed4f@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&host=FFfcvFtcFar.9.postshup.ir&path=/?ed=2082#🇩🇪All² | @BigSmoke_Config
-vless://7c3e7eb3-289a-4664-b783-e459713aed4f@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&host=FFfcvFtcFar.9.postshup.ir&path=/?ed=2082#🇩🇪All¹² | @BigSmoke_Config
 vless://7c3e7eb3-289a-4664-b783-e459713aed4f@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&host=FFfcvFtcFar.9.postshup.ir&path=/?ed=2082#🇩🇪All⁷ | @BigSmoke_Config
 vless://812b1aeb-c6f7-43cb-8d8b-981711fea21a@104.17.191.15:8880?path=/pyip&security=&encryption=none&host=dark-cake-4743.198-46c.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://816e0975-e2c2-4462-8a80-49f06686e9f0@xnzn-gpa36i.paydar.site:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪@v2ryNG01  سرور1
@@ -87,8 +83,6 @@ vless://c327c13a-93c2-4be9-b420-e6837afeb4fd@dezh.dezhawo.ir:8880?mode=auto&path
 vless://c9541d44-150b-4c71-9e88-0071f6316e4d@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@cdn.devmixa.ir:8880?path=/?ed=2082&security=none&encryption=none&host=Gowspobhgln.5.postshup.ir&type=httpupgrade#🇬🇧139750 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@s2.eldoradu.ir:8880?path=/?ed=2082&security=none&encryption=none&host=oCrxx.francee1.postshup.ir&type=httpupgrade#@NETMelliAnti
-vless://ce977d82-824b-4209-87f1-0719f78d6a2e@104.18.42.163:8880?security=none&encryption=none&host=royal-mode-cf74.210-62d.workers.dev&type=ws#🇨🇦142155 | ⚡️Telegram = t.me/SOSkeyNET
-vless://ce977d82-824b-4209-87f1-0719f78d6a2e@104.18.42.163:8880?security=none&encryption=none&host=royal-mode-cf74.210-62d.workers.dev&type=ws#🚀@VPNine1
 vless://cf868aff-c26c-4a8d-be97-d69401758689@188.245.182.67:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#@V2rayi_net
 vless://d7bd8e1a-8e57-46a8-c1f9-2c6751de3afc@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://e56ab08d-4e35-448b-8825-2982a39ebe26@dfssfddsfdfdfffddfdfjdfjdjfdfd.parscon.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2rayng3
@@ -100,7 +94,9 @@ vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?security=none&en
 vless://f32b0ea8-5b9f-4ee2-b20c-0bdfd2057e1d@172.67.174.37:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=&encryption=none&host=throbbing-shape-b190.478-57a.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://f3a436a8-45c3-4c5d-bf97-b1ff6e9ced38@cf-mci.coixconqwe1.ir:8880?encryption=none&security=none&type=httpupgrade&host=gFsgfgx.1.gm.postshup.ir&path=/?ed=2082#@Capoit
 vless://f3d6c244-772a-428f-b8fe-e2d632cd76e4@104.17.121.110:8880/?type=httpupgrade&encryption=none&flow=&host=svn-panel-team.lorqino.ir&path=/mmd#德国
-vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?&type=ws&headerType=none&host=rutube.ummapeople.online&path=/rutube#🇷🇺 Join+Telegram:@Farah_VPN 🇷🇺
+vless://fb1572c8-96c2-4485-9946-4f83b82bd350@185.143.233.5:8880?encryption=none&security=none&type=ws&headerType=none&path=/&host=game.videocloudme.ir#@filembad
+vless://fb1572c8-96c2-4485-9946-4f83b82bd350@185.143.233.5:8880?encryption=none&security=none&type=ws&headerType=none&path=/&host=game.videocloudme.ir#🇮🇷142346 | ⚡️Telegram = t.me/SOSkeyNET
+vless://fb1572c8-96c2-4485-9946-4f83b82bd350@185.143.233.5:8880?encryption=none&security=none&type=ws&headerType=none&path=/&host=game.videocloudme.ir#🇮🇷IR-🚀@VPNine1
 vless://fe3b26ec-4bc0-464d-a7b9-2db72a89846e@104.17.181.19:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=orange-base-2e09.87-c52.workers.dev&type=ws#🚀t.me/iProxyChannel
 vmess://eyJhZGQiOiJpcHMuY29uZmlnZm9ydnBuLmZ1biIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoicm9vdC5jb25maWdmb3J2cG4uZnVuIiwiaWQiOiJkYTI4Yzg1ZS1lNzFiLTQ1NTQtYTlmYy0xNjJiYzk0YzdjYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://0ed342c3-eb45-4d63-83a1-697252636ca9@yellow-hall-d482.260-d22.workers.dev:8880?encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -203,7 +199,7 @@ vless://4b75a44d-3c91-461e-b5a0-6060ac8aff68@www.speedtest.net:8880?path=/@LOCKE
 vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#EPODONIOS
 vless://560c46be-d15d-4083-8fb5-c7ad5f4f24fd@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#EPODONIOS
 vless://5781b499-6c56-452d-9e9f-fa43383f3b08@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#EPODONIOS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.68.50:8880?path=/?ed=2560&https://t.me/youtube@ZYFXS№Ј№Г&security=&encryption=none&host=vms.lifetime47.workers.dev&type=ws#EPODONIOS
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.68.50:8880?path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&security=&encryption=none&host=vms.lifetime47.workers.dev&type=ws#EPODONIOS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.30:8880?path=/&security=&encryption=none&host=vms.lifetime35.workers.dev&type=ws#EPODONIOS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.40:8880?path=/?ed=2560&security=&encryption=none&host=vms.lifetime61.workers.dev&type=ws#EPODONIOS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.176.26.50:8880?path=/?ed&security=&encryption=none&host=vms.lifetime06.workers.dev&type=ws#EPODONIOS
@@ -214,14 +210,13 @@ vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@172.65.90.52:8880?path=/pyip&securi
 vless://68662961-6c5f-48c1-b807-6398f3287dbc@172.66.170.53:8880?security=&encryption=none&host=polished-meadow-2ac5.228-76d.workers.dev&type=ws#EPODONIOS
 vless://6d4cce6a-dbc6-43af-9146-067847483fce@cd3.postshup.ir:8880?path=/?ed=2082&security=none&encryption=none&host=GXfeggx.netherlands1.postshup.ir&type=httpupgrade#EPODONIOS
 vless://6d4cce6a-dbc6-43af-9146-067847483fce@cdn.devmixa.ir:8880?path=/?ed=2082&security=none&encryption=none&host=wst.1.use.postshup.ir&type=httpupgrade#EPODONIOS
-vless://6d4cce6a-dbc6-43af-9146-067847483fce@cf-mci.coixconqwe1.ir:8880?path=/?ed=2082&security=none&encryption=none&host=GgFsgfgиЇиЇx.1.gm.postshup.ir&type=httpupgrade#EPODONIOS
+vless://6d4cce6a-dbc6-43af-9146-067847483fce@cf-mci.coixconqwe1.ir:8880?path=/?ed=2082&security=none&encryption=none&host=GgFsgfgااx.1.gm.postshup.ir&type=httpupgrade#EPODONIOS
 vless://6d4cce6a-dbc6-43af-9146-067847483fce@s1.eldoradu.ir:8880?path=/?ed=2082&security=none&encryption=none&host=GCcghjjin.7.postshup.ir&type=httpupgrade#EPODONIOS
 vless://6d4cce6a-dbc6-43af-9146-067847483fce@s2.eldoradu.ir:8880?path=/?ed=2082&security=none&encryption=none&host=oHfhb.udp1.postshup.ir&type=httpupgrade#EPODONIOS
 vless://6dd948ea-2dce-4cf3-df46-0a72af7c846a@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#EPODONIOS
 vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8880?encryption=none&type=tcp#EPODONIOS
 vless://73ae7d45-1046-4cc5-9741-199375b620f1@104.21.23.72:8880?path=/pyip&security=&encryption=none&host=round-resonance-a84c.13-531.workers.dev&type=ws#EPODONIOS
 vless://74705348-bb9c-47c6-9e91-057c6407bb20@104.16.72.41:8880?encryption=none&type=ws&path=/pyip&host=small-glitter-aa35.76-21d.workers.dev#EPODONIOS
-vless://7a2df38b-2d8b-486b-9b43-641c81e11f40@104.16.99.215:8880?path=/pyip&security=none&encryption=none&host=shiny-mud-d9fa.466.workers.dev&type=ws#EPODONIOS
 vless://7a2df38b-2d8b-486b-9b43-641c81e11f40@104.16.99.215:8880?type=ws&security=none&encryption=none&host=shiny-mud-d9fa.466.workers.dev#EPODONIOS
 vless://7a507bb5-2eea-4dd0-81a7-684f53b03689@104.22.13.192:8880?security=none&type=ws&host=www.speedtest.net.zula.com.aparat.com.spikevpn.cfd.#EPODONIOS
 vless://7be30ab7-2077-4115-f6cb-125226afd3c9@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#EPODONIOS
@@ -276,11 +271,9 @@ vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@s2.eldoradu.ir:8880?path=/?ed=2082&
 vless://cf868aff-c26c-4a8d-be97-d69401758689@188.245.182.67:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#EPODONIOS
 vless://d7bd8e1a-8e57-46a8-c1f9-2c6751de3afc@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#EPODONIOS
 vless://e56ab08d-4e35-448b-8825-2982a39ebe26@dfssfddsfdfdfffddfdfjdfjdjfdfd.parscon.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://eb8c46f5-68ae-46dc-aea3-50c8cef41897@cf-mci.coixconqwe1.ir:8880?path=/?ed=2082&security=none&encryption=none&host=gFsgfgиЇиЇx.1.gm.postshup.ir&type=httpupgrade#EPODONIOS
+vless://eb8c46f5-68ae-46dc-aea3-50c8cef41897@cf-mci.coixconqwe1.ir:8880?path=/?ed=2082&security=none&encryption=none&host=gFsgfgااx.1.gm.postshup.ir&type=httpupgrade#EPODONIOS
 vless://ef770523-8eb5-403f-9e95-06b328719c87@lucky-sunset-d12e.201-98c.workers.dev:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&type=ws#EPODONIOS
-vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@104.18.34.245:8880?security=none&encryption=none&host=weathered-union-5358.101-262.workers.dev&type=ws#EPODONIOS
 vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?encryption=none&type=ws&host=weathered-union-5358.101-262.workers.dev&security=none#EPODONIOS
-vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?security=none&encryption=none&host=weathered-union-5358.101-262.workers.dev&type=ws#EPODONIOS
 vless://f32b0ea8-5b9f-4ee2-b20c-0bdfd2057e1d@172.67.174.37:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=&encryption=none&host=throbbing-shape-b190.478-57a.workers.dev&type=ws#EPODONIOS
 vless://f3a436a8-45c3-4c5d-bf97-b1ff6e9ced38@cf-mci.coixconqwe1.ir:8880?encryption=none&security=none&type=httpupgrade&host=gFsgfgx.1.gm.postshup.ir&path=/?ed=2082#EPODONIOS
 vless://f3d6c244-772a-428f-b8fe-e2d632cd76e4@104.17.121.110:8880/?type=httpupgrade&encryption=none&flow=&host=svn-panel-team.lorqino.ir&path=/mmd#EPODONIOS
