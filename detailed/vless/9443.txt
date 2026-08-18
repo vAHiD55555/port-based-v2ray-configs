@@ -4,7 +4,6 @@ vless://37a098ab-8fec-4352-8ee8-294ae5bca68f@193.233.126.82:9443?security=realit
 vless://7dfe2f33-54c5-43cf-a6584-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://b47a1c70-d033-4c31-b24f-6058d6cd04bf@2.144.26.237:9443?path=/nova-geo-psiphon-be&security=tls&encryption=none&insecure=0&host=vip.polnejat.ir&type=ws&allowInsecure=0&sni=vip.polnejat.ir#vpnsal
-vless://f60a4721-62b9-49cd-b7d8-afe0e9763453@104.253.74.148:9443?security=&encryption=none&type=xhttp#@filembad
 vless://37a098ab-8fec-4352-8ee8-294ae5bca68f@193.233.126.82:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=qq&pbk=Te5lrfzw_MytTzQJB92DhWw7fk1qTK3mhzz7Bz41gVc&sid=0240e83f65a25e&type=tcp&headerType=none#russia-today_110
 vless://37a098ab-8fec-4352-8ee8-294ae5bca68f@193.233.126.82:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=Te5lrfzw_MytTzQJB92DhWw7fk1qTK3mhzz7Bz41gVc&sid=0240e83f65a25e&type=tcp&headerType=none#russia-today_111
 vless://37a098ab-8fec-4352-8ee8-294ae5bca68f@193.233.126.82:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=Te5lrfzw_MytTzQJB92DhWw7fk1qTK3mhzz7Bz41gVc&sid=0240e83f65a25e&type=tcp&headerType=none#russia-today_112
@@ -14,4 +13,3 @@ vless://37a098ab-8fec-4352-8ee8-294ae5bca68f@193.233.126.82:9443?security=realit
 vless://7dfe2f33-54c5-43cf-a6584-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#EPODONIOS
 vless://b47a1c70-d033-4c31-b24f-6058d6cd04bf@2.144.26.237:9443?path=/nova-geo-psiphon-be&security=tls&encryption=none&insecure=0&host=vip.polnejat.ir&type=ws&allowInsecure=0&sni=vip.polnejat.ir#EPODONIOS
-vless://f60a4721-62b9-49cd-b7d8-afe0e9763453@104.253.74.148:9443?security=&encryption=none&type=xhttp#EPODONIOS
