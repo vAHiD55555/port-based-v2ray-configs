@@ -1,6 +1,9 @@
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
 vless://7dfe2f33-54c5-43cf-a6584-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://c0653e7e-445b-4be6-8a26-31dd591dc670@2.144.27.100:9443?encryption=none&type=ws&security=tls&host=vip.polnejat.ir&path=/nova-geo-psiphon-nl&sni=vip.polnejat.ir#🇮🇷149528 | ⚡️Telegram = t.me/SOSkeyNET
+vless://c0653e7e-445b-4be6-8a26-31dd591dc670@2.144.27.100:9443?encryption=none&type=ws&security=tls&host=vip.polnejat.ir&path=/nova-geo-psiphon-nl&sni=vip.polnejat.ir#🇮🇷IR-🚀@VPNine1
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#EPODONIOS
 vless://7dfe2f33-54c5-43cf-a6584-7c8919a266be@shopcar.rafeaftabsokhtegi.com:9443?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#EPODONIOS
+vless://c0653e7e-445b-4be6-8a26-31dd591dc670@2.144.27.100:9443?encryption=none&type=ws&security=tls&host=vip.polnejat.ir&path=/nova-geo-psiphon-nl&sni=vip.polnejat.ir#EPODONIOS
