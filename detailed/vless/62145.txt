@@ -20,10 +20,6 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.153.49:62145/?type=tcp&encr
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.153.49:62145?encryption=none&security=none&type=tcp#🧮95@oneclickvpnkeys
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.227.75:62145/?type=tcp&encryption=none&flow=#@networld_vpn
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.227.75:62145?encryption=none&security=none&type=tcp#🧮96@oneclickvpnkeys
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.227.75:62145?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.208.44:62145?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.153.49:62145?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.152.93:62145?#%3E%3E%40v2nodes%3A%3ANL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.136.110:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.196.65:62145?encryption=none&security=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.200:62145?&type=tcp&headerType=none&path=/#EPODONIOS
@@ -42,4 +38,3 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.153.49:62145/?type=tcp&encr
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.153.49:62145?encryption=none&security=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.227.75:62145/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.227.75:62145?encryption=none&security=none&type=tcp#EPODONIOS
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.152.93:62145?#EPODONIOS
