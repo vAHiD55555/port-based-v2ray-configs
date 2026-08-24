@@ -1,5 +1,7 @@
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389/?type=tcp&encryption=none&flow=#荷兰
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🇳🇱
+vless://fc9bf9b8-06b5-4244-aea5-75a460ec5066@94.237.102.117:3389?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#کانال ما
+vless://fc9bf9b8-06b5-4244-aea5-75a460ec5066@94.237.102.117:3389?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇩🇪151583 | ⚡️Telegram = t.me/SOSkeyNET
 vmess://ewogICAgImFkZCI6ICI3OC4xMTEuMTAyLjIzMiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwKICAgICJuZXQiOiAiaHR0cCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAzMzg5LAogICAgInBzIjogIvCfh6fwn4e3QlItNzguMTExLjEwMi4yMzItMDQ5NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxMzQuMTIyLjQxLjE2MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwKICAgICJuZXQiOiAiaHR0cCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAzMzg5LAogICAgInBzIjogIvCfh6jwn4emQ0EtMTM0LjEyMi40MS4xNjAtMDUxMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI1MS4xNTkuMTU1LjUyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLAogICAgIm5ldCI6ICJodHRwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDMzODksCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi01MS4xNTkuMTU1LjUyLTA1MTUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
@@ -74,3 +76,4 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.74:3389#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.48:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-6926
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389/?type=tcp&encryption=none&flow=#EPODONIOS
 vless://d024662a-397e-4fac-9643-8b7939e6bf33@94.237.124.107:3389?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://fc9bf9b8-06b5-4244-aea5-75a460ec5066@94.237.102.117:3389?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
