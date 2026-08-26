@@ -7,6 +7,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.154:62145?security=none
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.206.101:62145?security=&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.206.101:62145?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.144.128:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp#荷兰
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@us5.levikogjgfdd.ir:62145?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#🇺🇸 V2raySaman
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.136.110:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.196.65:62145?encryption=none&security=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.242:62145?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
@@ -16,3 +17,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.154:62145?security=none
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.206.101:62145?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.206.101:62145?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.144.128:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp#EPODONIOS
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@us5.levikogjgfdd.ir:62145?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#EPODONIOS
