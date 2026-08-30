@@ -1,2 +1,4 @@
 vless://683cc41a-2654-4fdb-b4d8-515d356defcb@95.179.219.244:39769/?type=tcp&encryption=none&flow=#法国
+vless://896caf1b-cd54-481f-8c2c-22aedc28f13b@95.179.219.244:39769?security=&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
 vless://683cc41a-2654-4fdb-b4d8-515d356defcb@95.179.219.244:39769/?type=tcp&encryption=none&flow=#EPODONIOS
+vless://896caf1b-cd54-481f-8c2c-22aedc28f13b@95.179.219.244:39769?security=&encryption=none&headerType=none&type=tcp#EPODONIOS

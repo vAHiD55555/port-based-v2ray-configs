@@ -14,8 +14,6 @@ vless://889732ce-171c-4aa6-8b17-d2646d7a8974@91.228.227.112:110?security=none&en
 vless://8e11a0cd-c78c-4c37-b622-b16ba722e6c6@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#@@FarazV2ray
 vless://8e11a0cd-c78c-4c37-b622-b16ba722e6c6@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#@Nexus_Panell چنل تلگرام
 vless://8e11a0cd-c78c-4c37-b622-b16ba722e6c6@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#@tootffarangi🍓-13
-vless://9f2e47b5-7cfd-4dbd-9fea-446840f18002@153.75.87.192:110?security=none&encryption=none&headerType=none&type=tcp#[32068] - Telegram : @V2All
-vless://9f2e47b5-7cfd-4dbd-9fea-446840f18002@153.75.87.192:110?security=none&encryption=none&headerType=none&type=tcp#filembad-304
 vless://101b5fea-8201-4ff9-84b3-12bf49ce6645@144.172.119.9:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://11992f2b-181b-403a-9521-813fcd7927a8@153.75.87.192:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://34d29622-8ea9-4464-8705-5682d5936ba8@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -29,4 +27,3 @@ vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security
 vless://87f91f87-9077-4414-99ff-26eb8309284b@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://889732ce-171c-4aa6-8b17-d2646d7a8974@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://8e11a0cd-c78c-4c37-b622-b16ba722e6c6@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://9f2e47b5-7cfd-4dbd-9fea-446840f18002@153.75.87.192:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
