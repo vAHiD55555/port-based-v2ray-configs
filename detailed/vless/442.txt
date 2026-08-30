@@ -1,7 +1,4 @@
 vless://cda4c1aa-7ca9-42c8-9b9d-4763488b9f9e@130.185.122.106:442?security=none&encryption=none&headerType=none&type=tcp#@V2raySaman
 vless://cda4c1aa-7ca9-42c8-9b9d-4763488b9f9e@130.185.122.106:442?security=none&encryption=none&headerType=none&type=tcp#@V2rayng_Fast
 vless://f232d454-b014-4e00-a7ae-430341909db4@130.185.122.177:442?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#[🏁]t.me/ConfigV2RayNG
-vless://f232d454-b014-4e00-a7ae-430341909db4@130.185.122.177:442?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%3E%3E%40configV2rayNG%3A%3AXX
 vless://cda4c1aa-7ca9-42c8-9b9d-4763488b9f9e@130.185.122.106:442?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://f232d454-b014-4e00-a7ae-430341909db4@130.185.122.177:442?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#EPODONIOS
-vless://f232d454-b014-4e00-a7ae-430341909db4@130.185.122.177:442?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#EPODONIOS
