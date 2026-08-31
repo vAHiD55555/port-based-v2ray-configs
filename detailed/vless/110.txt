@@ -30,3 +30,4 @@ vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security
 vless://87f91f87-9077-4414-99ff-26eb8309284b@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://889732ce-171c-4aa6-8b17-d2646d7a8974@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://8e11a0cd-c78c-4c37-b622-b16ba722e6c6@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://18450ff3-1ebb-4665-957b-219aef3d83c7@144.172.119.9:110?encryption=none&packetEncoding=xudp#EPODONIOS
