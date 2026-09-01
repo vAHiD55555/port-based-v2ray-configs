@@ -1,0 +1,2 @@
+vless://0ed714ea-8903-49ac-81df-7eedfe63af1c@95.38.180.91:35617?encryption=none&type=tcp&security=none#EPODONIOS
+vless://eb538934-b6d1-48cd-920b-8a1c4cfec16f@95.38.180.91:35617?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS

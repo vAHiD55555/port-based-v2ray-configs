@@ -1,11 +1,11 @@
 vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
 vless://Telegramjoin:TurboConfigs @82.22.40.195:9090?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#@Ap_Ir6
+vless://Telegramjoin:TurboConfigs @82.22.40.48:9090?security=&encryption=mlkem768x25519plus.native.0rtt.fVOhMV6aPWtR-rFIegHlELTwltS4KGaRn0_GD2Aj6Gg&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#[34226] - Telegram : @V2All
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/# @MIGAVPNPRO
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#@Capoit
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#vmessorg
 vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&security=none&type=tcp#🇮🇷139735 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://Telegramjoin:TurboConfigs @82.22.40.195:9090?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#EPODONIOS
-vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/#EPODONIOS
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#EPODONIOS
 vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&security=none&type=tcp#EPODONIOS
