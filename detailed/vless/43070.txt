@@ -1,4 +1,3 @@
 vless://b5650923-6550-41e2-b492-d57c249ec739@78.135.77.30:43070?security=none&encryption=mlkem768x25519plus.native.0rtt.24dVej4qDgH0d33zR1JYuczcMoDaTF2YWsY5lmWCOmk&headerType=none&type=tcp#🎈 ConfigV2RayNG
 vless://b5df4261-66dc-481c-864c-7671e538fd8b@94.182.134.36:43070?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@KAFING_2
-vless://b5650923-6550-41e2-b492-d57c249ec739@78.135.77.30:43070?security=none&encryption=mlkem768x25519plus.native.0rtt.24dVej4qDgH0d33zR1JYuczcMoDaTF2YWsY5lmWCOmk&headerType=none&type=tcp#EPODONIOS
 vless://b5df4261-66dc-481c-864c-7671e538fd8b@94.182.134.36:43070?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#EPODONIOS

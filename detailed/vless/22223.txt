@@ -19,8 +19,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22223?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22223?security=none&encryption=none&headerType=none&type=tcp#@V2ray_confiig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.211.42:22223?encryption=none&security=none&type=tcp#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇩🇪
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?encryption=none&security=none&type=tcp&headerType=none#✅  @vistav2ray  👈👈کانال ما ✅
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.172.239:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AXX
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22223?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.176.1:22223?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.176.1:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.176.1:22223?security=none&encryption=none&host=&headerType=none&type=tcp#EPODONIOS
@@ -31,9 +29,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.176.25:22223?security=none&en
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22223?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.61.248:22223?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.125.235:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.170.94.231:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22223?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.175.55:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.211.42:22223?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.172.239:22223?encryption=none&security=none&type=tcp#EPODONIOS
