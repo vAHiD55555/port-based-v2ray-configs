@@ -4,7 +4,6 @@ vless://8ff24c63-a8ab-443b-98c4-cf2ea1741382@38.148.253.32:9443?security=reality
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@51.250.35.229:9443?mode=gun&security=reality&encryption=none&pbk=yiAI7CwcT7kwvDnzYFIeJBrj9fs3_7_7UYtzelu8Fwo&fp=chrome&type=grpc&serviceName=grpc&sni=api-maps.yandex.ru&sid=26b5f38e#🇷🇺@FreakConfig
 vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=beast.locallynet.org&fp=chrome&allowinsecure=0&type=tcp&headerType=none#@V2ray_confiig
-vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=beast.locallynet.org&fp=chrome&allowinsecure=0&type=tcp&headerType=none#@meliproxyy
 vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=beast.locallynet.org&fp=chrome&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁶ | @BigSmoke_Config
 vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=beast.locallynet.org#@irdusti(1)🇪🇪¹
 vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@beast.locallynet.org:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=beast.locallynet.org#@irdusti(1)🇪🇪²
