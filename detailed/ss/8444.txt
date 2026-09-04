@@ -1,4 +1,0 @@
-ss://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:8444?path=/api/v1/devices/7c05e2fb91/telemetry&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nl3.meshbeat.online&type=ws&allowInsecure=0&sni=nl3.meshbeat.online#[035662] - 🇩🇪 Germany | @freenettir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fcHQ@pt-1.stunnel.cc:8444#[035687] - 🇵🇹 Portugal | @freenettir
-ss://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:8444?path=/api/v1/devices/7c05e2fb91/telemetry&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nl3.meshbeat.online&type=ws&allowInsecure=0&sni=nl3.meshbeat.online#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fcHQ@pt-1.stunnel.cc:8444#EPODONIOS
