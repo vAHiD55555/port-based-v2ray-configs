@@ -7,4 +7,3 @@ vless://33659f3a-e55c-4276-8900-f656e9c4075a@xbm016bm.selqora.ir:31663?encryptio
 vless://33659f3a-e55c-4276-8900-f656e9c4075a@xbm016bm.selqora.ir:31663?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://33659f3a-e55c-4276-8900-f656e9c4075a@xbm016bm.selqora.ir:31663?security=none&encryption=none&host=apple.com&headerType=none&type=tcp#EPODONIOS
 vless://e685dff4-9d49-407e-8930-3c22dbb60184@france5.selqora.ir:31663?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://ee07e4e3-d0a9-4de5-ab65-e026bfbdcffc@fr.selqora.ir:31663?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=HbzPMj4dHY0RX8oZCiFU60HPoc5pCc5iuORNYlTCOWY&sid=32bf1b3fe9c072a9#EPODONIOS
