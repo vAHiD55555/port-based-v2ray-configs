@@ -1,8 +1,5 @@
 vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
 vless://675ee872-adb2-4c66-8358-bd360259311f@185.173.147.141:9090?mode=packet-up&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.a-nUkey-_SyhFBJ_XhbEgSL69XWCWYqjH-nIW9Ro9zE&type=xhttp&flow=xtls-rprx-vision#@Capoit
-vless://675ee872-adb2-4c66-8358-bd360259311f@45.136.228.19:9090?encryption=mlkem768x25519plus.native.0rtt.a-nUkey-_SyhFBJ_XhbEgSL69XWCWYqjH-nIW9Ro9zE&type=xhttp&path=/&mode=packet-up&flow=xtls-rprx-vision#کانال ما
-vless://675ee872-adb2-4c66-8358-bd360259311f@45.136.228.19:9090?encryption=mlkem768x25519plus.native.0rtt.a-nUkey-_SyhFBJ_XhbEgSL69XWCWYqjH-nIW9Ro9zE&type=xhttp&path=/&mode=packet-up&flow=xtls-rprx-vision#🇫🇮161302 | ⚡️Telegram = t.me/SOSkeyNET
-vless://675ee872-adb2-4c66-8358-bd360259311f@45.136.228.19:9090?encryption=mlkem768x25519plus.native.0rtt.a-nUkey-_SyhFBJ_XhbEgSL69XWCWYqjH-nIW9Ro9zE&type=xhttp&path=/&mode=packet-up&flow=xtls-rprx-vision#🇫🇮FI-🚀@VPNine1
 vless://Telegramjoin:TurboConfigs @82.22.40.195:9090?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#@Ap_Ir6
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#@Capoit
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#vmessorg
@@ -10,7 +7,6 @@ vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#%3E%3E%40shadowproxy66%3A%3AKR
 vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://675ee872-adb2-4c66-8358-bd360259311f@185.173.147.141:9090?mode=packet-up&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.a-nUkey-_SyhFBJ_XhbEgSL69XWCWYqjH-nIW9Ro9zE&type=xhttp&flow=xtls-rprx-vision#EPODONIOS
-vless://675ee872-adb2-4c66-8358-bd360259311f@45.136.228.19:9090?encryption=mlkem768x25519plus.native.0rtt.a-nUkey-_SyhFBJ_XhbEgSL69XWCWYqjH-nIW9Ro9zE&type=xhttp&path=/&mode=packet-up&flow=xtls-rprx-vision#EPODONIOS
 vless://Telegramjoin:TurboConfigs @82.22.40.195:9090?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#EPODONIOS
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#EPODONIOS
 vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&security=none&type=tcp#EPODONIOS
