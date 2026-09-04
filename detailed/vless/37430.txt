@@ -31,4 +31,3 @@ vless://d90cd938-6d6b-4de5-9594-3456b9cf4e37@82.40.62.44:37430?security=reality&
 vless://dfe43a9d-a454-4a5c-80f8-9347e85da651@82.40.62.210:37430?type=tcp&encryption=none&security=reality&pbk=PdhwDSuR6UMy7z5PFk_vnd2kPZcbRJF0d-TN7oWPt0w&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#EPODONIOS
 vless://e41603b5-3315-4cbc-acae-dfeeaddc2a4d@217.11.164.92:37430?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&spx=/&type=tcp&headerType=none#EPODONIOS
 vless://e41603b5-3315-4cbc-acae-dfeeaddc2a4d@217.11.164.92:37430?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=amp-api-edge.apps.apple.com&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&spx=/#EPODONIOS
-vless://fa98d471-930d-4961-82ff-46dc073a7a70@82.40.62.210:37430?type=tcp&encryption=none&security=reality&pbk=PdhwDSuR6UMy7z5PFk_vnd2kPZcbRJF0d-TN7oWPt0w&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#EPODONIOS

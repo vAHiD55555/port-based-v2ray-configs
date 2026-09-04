@@ -1,1 +1,2 @@
 vless://d318cdac-0033-4b6e-98bf-35116e79c93f@54.251.224.5:26017?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=cy4ePzAdSz4pqRmAXXchMIgSoSKo8qjq2qLk5805LRA&sid=af1c2e33b0c7dad7&type=tcp&headerType=none#qoli_072
+vless://d318cdac-0033-4b6e-98bf-35116e79c93f@54.251.224.5:26017?security=reality&encryption=none&pbk=cy4ePzAdSz4pqRmAXXchMIgSoSKo8qjq2qLk5805LRA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=af1c2e33b0c7dad7#EPODONIOS
