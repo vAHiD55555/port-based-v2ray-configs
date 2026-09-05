@@ -1,6 +1,7 @@
 vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
 vless://675ee872-adb2-4c66-8358-bd360259311f@185.173.147.141:9090?mode=packet-up&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.a-nUkey-_SyhFBJ_XhbEgSL69XWCWYqjH-nIW9Ro9zE&type=xhttp&flow=xtls-rprx-vision#@Capoit
 vless://Telegramjoin:TurboConfigs @65.109.186.220:9090?security=&encryption=mlkem768x25519plus.native.0rtt.SgH076-B6JnajyeIyXEp6FAvhhWnanPdwhAwntO3IRk&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Telegram@VEGAASVPN🇫🇮
+vless://Telegramjoin:TurboConfigs @65.109.186.220:9090?security=&encryption=mlkem768x25519plus.native.0rtt.SgH076-B6JnajyeIyXEp6FAvhhWnanPdwhAwntO3IRk&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigV2RayNG
 vless://Telegramjoin:TurboConfigs @82.22.40.195:9090?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#@Ap_Ir6
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#@Capoit
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#vmessorg
