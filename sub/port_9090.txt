@@ -12,7 +12,6 @@ vless://675ee872-adb2-4c66-8358-bd360259311f@185.173.147.141:9090?mode=packet-up
 vless://Telegramjoin:TurboConfigs @82.22.40.195:9090?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#EPODONIOS
 vless://Telegramjoin:TurboConfigs @82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#EPODONIOS
 vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&security=none&type=tcp#EPODONIOS
-vless://telegramjoin:TurboConfigs @82.22.40.71:9090?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
 vless://telegramjoin:TurboConfigs @82.22.40.71:9090?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
 vless://telegramjoin:TurboConfigs@82.22.40.71:9090?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#EPODONIOS
