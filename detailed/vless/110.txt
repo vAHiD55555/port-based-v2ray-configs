@@ -3,7 +3,6 @@ vless://07b69edc-18b1-4cbf-a33a-a0fe08c3db15@5.75.196.249:110?encryption=none&pa
 vless://07b69edc-18b1-4cbf-a33a-a0fe08c3db15@5.75.196.249:110?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://07b69edc-18b1-4cbf-a33a-a0fe08c3db15@5.75.196.249:110?security=none&encryption=none&headerType=none&type=tcp#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://18450ff3-1ebb-4665-957b-219aef3d83c7@144.172.119.9:110?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 DE
-vless://18450ff3-1ebb-4665-957b-219aef3d83c7@144.172.119.9:110?encryption=none&type=tcp&headerType=none&security=none#🇩🇪 @V2RAYNG_IP 🔥
 vless://18450ff3-1ebb-4665-957b-219aef3d83c7@144.172.119.9:110?security=none&encryption=none&headerType=none&type=tcp#@Shh_Proxy-New⁶
 vless://1b0a74e1-3c69-4386-ae77-9db408d0687f@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#@V2ray_Alpha🫚 2
 vless://1dd0ed41-4555-48f8-b3ae-5a5b37b261a3@91.228.227.172:110?security=&encryption=none&headerType=none&type=tcp#Tel-@ProxyMtAlpha🫔 5
@@ -21,7 +20,6 @@ vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?security=none&en
 vless://07b69edc-18b1-4cbf-a33a-a0fe08c3db15@5.75.196.249:110?encryption=none&packetEncoding=xudp#EPODONIOS
 vless://07b69edc-18b1-4cbf-a33a-a0fe08c3db15@5.75.196.249:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://18450ff3-1ebb-4665-957b-219aef3d83c7@144.172.119.9:110?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://18450ff3-1ebb-4665-957b-219aef3d83c7@144.172.119.9:110?encryption=none&type=tcp&headerType=none&security=none#EPODONIOS
 vless://18450ff3-1ebb-4665-957b-219aef3d83c7@144.172.119.9:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://1b0a74e1-3c69-4386-ae77-9db408d0687f@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://1dd0ed41-4555-48f8-b3ae-5a5b37b261a3@91.228.227.172:110?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
