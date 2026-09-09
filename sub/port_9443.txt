@@ -6,4 +6,3 @@ vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&s
 vless://8ff24c63-a8ab-443b-98c4-cf2ea1741382@38.148.253.32:9443?security=reality&encryption=none&pbk=z5ey3dBNwJciLD1_V2P_rKYGEd2Lk_V1IOl2uRDZwhQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=blog.jetbrains.com&sid=f5b880a0529326c1#EPODONIOS
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#EPODONIOS
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hotcoals.aeternavpn.space&allowInsecure=1&fp=chrome&security=reality&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&sid=a1b2c3d4#EPODONIOS
-vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=beast.locallynet.org&fp=chrome&allowinsecure=0&type=tcp&headerType=none#EPODONIOS
