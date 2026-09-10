@@ -1,5 +1,5 @@
 trojan://blgg7uweozzsysvp@185.204.170.125:252?path=/&security=tls&alpn=h2,http/1.1&host=185.204.170.125&fp=chrome&type=ws&sni=185.204.170.125#@v2ray_phoenix
 trojan://u78pf9hiyifswgg9@185.204.170.125:252?path=/&security=tls&alpn=h2,http/1.1&insecure=0&host=185.204.170.125&fp=chrome&ech=AGL+DQBeAAAgACA47RSS1LmVkphlPWHOkD83GKKoGFbpeMDwc+SVMO/CdAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xODUuMjA0LjE3MC4xMjUAAA==&type=ws&allowInsecure=0&sni=185.204.170.125#MTMVPN 10
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM=@144.168.60.70:252#%F0%9F%87%BA%F0%9F%87%B8US-144.168.60.70-4630
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM=@144.168.60.70:252#%F0%9F%87%BA%F0%9F%87%B8US-144.168.60.70-4690
 trojan://blgg7uweozzsysvp@185.204.170.125:252?path=/&security=tls&alpn=h2,http/1.1&host=185.204.170.125&fp=chrome&type=ws&sni=185.204.170.125#EPODONIOS
 trojan://u78pf9hiyifswgg9@185.204.170.125:252?path=/&security=tls&alpn=h2,http/1.1&insecure=0&host=185.204.170.125&fp=chrome&ech=AGL+DQBeAAAgACA47RSS1LmVkphlPWHOkD83GKKoGFbpeMDwc+SVMO/CdAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xODUuMjA0LjE3MC4xMjUAAA==&type=ws&allowInsecure=0&sni=185.204.170.125#EPODONIOS
