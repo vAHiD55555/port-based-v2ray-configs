@@ -1,6 +1,6 @@
-ss://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443?flow=xtls-rprx-vision&fp=chrome&nonce=nY6_fiPp&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=6f15101ff2cc4887&sni=storage.yandex.net&type=tcp#[046743] - 🇺🇸 United States | @freenettir
-ss://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.65.60:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=chrome&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#[046776] - 🇦🇹 Austria | @freenettir
+ss://23578a2c-2493-41f0-89ef-d7d3a7b85252@95.85.226.217:8443?path=/NL3W&security=tls&encryption=none&insecure=0&host=nl3.pad-service.com&fp=chrome&type=ws&allowInsecure=0&sni=nl3.pad-service.com#[047144] - 🇳🇱 The Netherlands | @freenettir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#[047162] - 🇸🇪 Sweden | @freenettir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1h0dkNFUTFaVTFyekYzZklLMGZ3PT0@77.240.38.27:8443#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-ss://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443?flow=xtls-rprx-vision&fp=chrome&nonce=nY6_fiPp&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=6f15101ff2cc4887&sni=storage.yandex.net&type=tcp#EPODONIOS
-ss://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.65.60:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=chrome&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#EPODONIOS
+ss://23578a2c-2493-41f0-89ef-d7d3a7b85252@95.85.226.217:8443?path=/NL3W&security=tls&encryption=none&insecure=0&host=nl3.pad-service.com&fp=chrome&type=ws&allowInsecure=0&sni=nl3.pad-service.com#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1h0dkNFUTFaVTFyekYzZklLMGZ3PT0@77.240.38.27:8443#EPODONIOS
