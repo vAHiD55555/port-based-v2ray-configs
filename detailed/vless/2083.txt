@@ -4,6 +4,8 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083/?type=ws&encrypti
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cfvvv-ev1.pages.dev&path=/&security=tls&sni=cfvvv-ev1.pages.dev&type=ws#🛠️12@oneclickvpnkeys
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?encryption=none&type=ws&path=/&host=cfvvv-ev1.pages.dev&security=tls&sni=cfvvv-ev1.pages.dev&fp=chrome&allowInsecure=1#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=/&security=tls&encryption=none&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&sni=cfvvv-ev1.pages.dev#kurdconfig
+vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#کانال ما
+vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#🇨🇦169595 | ⚡️Telegram = t.me/SOSkeyNET
 vless://4b91ef3c-8bdf-4c6c-86be-8b6e92712bff@91.201.203.233:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000","xPaddingObfsMode":true}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#@vmess_ir
 vless://4b91ef3c-8bdf-4c6c-86be-8b6e92712bff@91.201.203.233:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000","xPaddingObfsMode":true}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️549🌐🆕️
 vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
@@ -21,7 +23,6 @@ vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=t
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=polobash.appleseraj.ir&sni=polobash.appleseraj.ir&fp=chrome#🇵🇱| 𝐏𝐨𝐥𝐚𝐧𝐝
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=rouwwwfrance.appleseraj.ir&sni=rouwwwfrance.appleseraj.ir&fp=chrome#🇬🇧| 𝐋𝐨𝐧𝐝𝐨𝐧
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2083?mode=auto&path=/archive/gawdfaGA2faG@$!32ga&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=salavati.shompolexy.shop&type=xhttp#@fastkanfig 1
-vless://6f812c4f-d615-4057-b262-df48a9f95030@172.67.187.56:2083?security=tls&sni=emifree2.bestgameir2.ir&type=ws&path=/JoinChanel-proxyforopeta-telegram:@proxyforopeta-telegram-proxyforopeta-joinchanel@proxyforopeta.proxyforopeta.join-@proxyforopeta.telegram:@proxyforopeta-V2rayngmmd-telegram-free-v2ray?ed&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&security=tls&sni=derman.neobo-tooth.ru&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc&mode=gun#🇩🇪 DE
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&security=tls&sni=derman.neobo-tooth.ru&fp=chrome&type=grpc&mode=gun&authority=&serviceName=grpc#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2083?encryption=none&security=tls&serviceName=grpc&sni=usejh2.neobo-tooth.ru&type=grpc#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
@@ -35,7 +36,6 @@ vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&authority=&serviceName=security.debian.org&mode=gun#🇬🇷GR_2246_@Surfboardv2ray
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&authority=/TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1&serviceName=security.debian.org&mode=gun#🇬🇷GR_2130_@Surfboardv2ray
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&serviceName=security.debian.org&mode=gun#@meliproxyy
-vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&type=grpc&serviceName=security.debian.org#@Alpha_V2rayip
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&fm=https://t.me/ShadowFlux2&type=grpc&serviceName=security.debian.org#@meliproxyy
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&fm=https://t.me/ShadowFlux2&type=grpc&serviceName=security.debian.org#@v2ray313 کانالمون 💚
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&fm=https://t.me/ShadowFlux2&type=grpc&serviceName=security.debian.org#@v2ray313 کانالمون 🫶
@@ -46,8 +46,6 @@ vless://7a4fe499-f788-47ed-916b-98b493cb73bb@filmak.dearhossein-taktaz.ir:2083?t
 vless://7ac34a93-0890-4eff-fc12-08b44d831e90@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:2083?allowInsecure=0&encryption=none&fp=chrome&security=tls&path=/&sni=italic.dearhossein-taktaz.ir&type=httpupgrade&alpn=h2,http/1.1&insecure=0&host=italic.dearhossein-taktaz.ir#none
 vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.118.35:2083?&security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip=154.3.33.43#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.210.74:2083?&security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip=154.3.33.43#کانال ما
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.210.74:2083?&security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip=154.3.33.43#🇨🇦169425 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.210.74:2083?security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip=154.3.33.43#🚀@VPNine1
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@Cnetvn?ed=2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#Telegram 🆔@cnetvpn
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@Selinc?ed=2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#@Selinc
@@ -63,6 +61,11 @@ vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&en
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?&security=tls&fp=chrome&sni=edge.yzkvm.top&type=ws&headerType=none&host=edge.yzkvm.top&path=/#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?&security=tls&fp=chrome&sni=edge.yzkvm.top&type=ws&headerType=none&host=edge.yzkvm.top&path=/#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://bbc62372-5e9e-4144-de1d-0bda3b9bd2be@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
+vless://c078b121-8bff-4ba5-82f2-9a2ac8b3aa75@104.21.28.130:2083?security=tls&sni=abcdefghijklmnopqrstuvwxyz.mobilesalarr.online&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+vless://c078b121-8bff-4ba5-82f2-9a2ac8b3aa75@104.21.28.130:2083?security=tls&sni=abcdefghijklmnopqrstuvwxyz.mobilesalarr.online&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#[049706] - 🇨🇦 Canada | ⚡️ 37.53ms | @freenettir
+vless://c078b121-8bff-4ba5-82f2-9a2ac8b3aa75@104.21.28.130:2083?security=tls&sni=abcdefghijklmnopqrstuvwxyz.mobilesalarr.online&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#کانال ما
+vless://c078b121-8bff-4ba5-82f2-9a2ac8b3aa75@104.21.28.130:2083?security=tls&sni=abcdefghijklmnopqrstuvwxyz.mobilesalarr.online&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#🇨🇦169562 | ⚡️Telegram = t.me/SOSkeyNET
+vless://c078b121-8bff-4ba5-82f2-9a2ac8b3aa75@104.21.28.130:2083?security=tls&sni=abcdefghijklmnopqrstuvwxyz.mobilesalarr.online&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#🚀@VPNine1
 vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=178.105.61.61&fp=chrome&security=reality&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&sid=af04ff8094115e93&packetEncoding=xudp#咕
 vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?encryption=none&flow=xtls-rprx-vision&fp=&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&security=reality&sid=af04ff8094115e93&sni=178.105.61.61&type=tcp#🛠️61@oneclickvpnkeys
 vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?encryption=none&flow=xtls-rprx-vision&fp=&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&security=reality&sid=af04ff8094115e93&type=tcp#🛠️45@oneclickvpnkeys
@@ -74,23 +77,21 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?encryption=none&s
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#@meliproxyy
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#🇩🇪All² | @BigSmoke_Config
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#🇩🇪All⁷ | @BigSmoke_Config
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#🔵@chillguy_vpn
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#@v2ray313 کانالمون ☹️
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@Alpha_V2rayip
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@tootffarangi🍓-9
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@vmesskhodam
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇬🇧TM (@AZARBAYJAB1)(GPRS)
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless&sni=/TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1)#@Lent_Gc
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless&sni=/TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1),TELEGRAM_TM(@AZARBAYJAB1)#🇬🇧🔥Join+Telegram:@Azarbayjab1🟣(GPRS)
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=grpc&serviceName=vless#@Alpha_V2rayip
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=grpc&serviceName=vless#🇬🇧169520 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?security=&encryption=none&type=grpc&serviceName=vless#@Alpha_V2rayip
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?encryption=none&security=none&serviceName=vless&type=grpc#🛠️36@oneclickvpnkeys
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@vmesskhodam
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=grpc&serviceName=vless#@Alpha_V2rayip
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?security=&encryption=none&type=grpc&serviceName=vless#@Alpha_V2rayip
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?security=&encryption=none&type=grpc&serviceName=vless#@HoosheMasnui کانال هوش مصنوعی
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?security=&encryption=none&type=grpc&serviceName=vless#tg:Vlessforu 🇬🇧 ⚡
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.3:2083?encryption=none&type=ws&security=tls&path=/?ed=2560&host=newwk1.f1w.de5.net&fp=chrome&sni=newwk1.f1w.de5.net#🇨🇦169367 | ⚡️Telegram = t.me/SOSkeyNET
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.3:2083?encryption=none&type=ws&security=tls&path=/?ed=2560&host=newwk1.f1w.de5.net&fp=chrome&sni=newwk1.f1w.de5.net#🚀@VPNine1
 vless://d662d09d-61e8-42ba-bc17-a40121589b26@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&insecure=0&type=grpc&serviceName=Love&allowInsecure=0&sni=austrish.digishopcenter.ir#@KAFING_2
 vless://ebe44c2c-96ed-4a36-8456-2e9ee60c859c@104.16.80.73:2083?path=/wss14139?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mnv1.gozargahping.top&fp=chrome&type=ws&allowInsecure=0&sni=mnv1.gozargahping.top#‌
@@ -115,6 +116,7 @@ vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083/?type=ws&encrypti
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cfvvv-ev1.pages.dev&path=/&security=tls&sni=cfvvv-ev1.pages.dev&type=ws#EPODONIOS
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?encryption=none&type=ws&path=/&host=cfvvv-ev1.pages.dev&security=tls&sni=cfvvv-ev1.pages.dev&fp=chrome&allowInsecure=1#EPODONIOS
 vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=/&security=tls&encryption=none&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&sni=cfvvv-ev1.pages.dev#EPODONIOS
+vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#EPODONIOS
 vless://4b91ef3c-8bdf-4c6c-86be-8b6e92712bff@91.201.203.233:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000","xPaddingObfsMode":true}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#EPODONIOS
 vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#EPODONIOS
 vless://56a210bb-8c6b-4148-80bc-2fec5099cb98@c27.prodnsspeed10.ir:2083?encryption=none&security=tls&sni=so.sodogodping.ir&fp=chrome&type=grpc&authority=&serviceName=Love&mode=multi#EPODONIOS
@@ -131,7 +133,6 @@ vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=t
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=polobash.appleseraj.ir&sni=polobash.appleseraj.ir&fp=chrome#EPODONIOS
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=rouwwwfrance.appleseraj.ir&sni=rouwwwfrance.appleseraj.ir&fp=chrome#EPODONIOS
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2083?mode=auto&path=/archive/gawdfaGA2faG@$!32ga&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=salavati.shompolexy.shop&type=xhttp#EPODONIOS
-vless://6f812c4f-d615-4057-b262-df48a9f95030@172.67.187.56:2083?security=tls&sni=emifree2.bestgameir2.ir&type=ws&path=/JoinChanel-proxyforopeta-telegram:@proxyforopeta-telegram-proxyforopeta-joinchanel@proxyforopeta.proxyforopeta.join-@proxyforopeta.telegram:@proxyforopeta-V2rayngmmd-telegram-free-v2ray?ed&fp=chrome&alpn=h2,http/1.1#EPODONIOS
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&security=tls&sni=derman.neobo-tooth.ru&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc&mode=gun#EPODONIOS
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2083?encryption=none&security=tls&sni=derman.neobo-tooth.ru&fp=chrome&type=grpc&mode=gun&authority=&serviceName=grpc#EPODONIOS
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2083?encryption=none&security=tls&serviceName=grpc&sni=usejh2.neobo-tooth.ru&type=grpc#EPODONIOS
@@ -141,7 +142,6 @@ vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&authority=&serviceName=security.debian.org&mode=gun#EPODONIOS
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&authority=/TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1&serviceName=security.debian.org&mode=gun#EPODONIOS
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&serviceName=security.debian.org&mode=gun#EPODONIOS
-vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&type=grpc&serviceName=security.debian.org#EPODONIOS
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&fm=https://t.me/ShadowFlux2&type=grpc&serviceName=security.debian.org#EPODONIOS
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&authority=/TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1&type=grpc&serviceName=security.debian.org#EPODONIOS
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.18.40.152:2083?path=/&security=tls&encryption=none&insecure=0&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#EPODONIOS
@@ -150,7 +150,6 @@ vless://7a4fe499-f788-47ed-916b-98b493cb73bb@filmak.dearhossein-taktaz.ir:2083?t
 vless://7ac34a93-0890-4eff-fc12-08b44d831e90@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#EPODONIOS
 vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:2083?allowInsecure=0&encryption=none&fp=chrome&security=tls&path=/&sni=italic.dearhossein-taktaz.ir&type=httpupgrade&alpn=h2,http/1.1&insecure=0&host=italic.dearhossein-taktaz.ir#EPODONIOS
 vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.118.35:2083?&security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip=154.3.33.43#EPODONIOS
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.210.74:2083?&security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip=154.3.33.43#EPODONIOS
 vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.210.74:2083?security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip=154.3.33.43#EPODONIOS
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@Cnetvn?ed=2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@Selinc?ed=2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
@@ -165,6 +164,7 @@ vless://a9964b0e-a18f-48c9-bcd1-8f34b5092879@webshecan.webredirect.org:2083?type
 vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#EPODONIOS
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?&security=tls&fp=chrome&sni=edge.yzkvm.top&type=ws&headerType=none&host=edge.yzkvm.top&path=/#EPODONIOS
 vless://bbc62372-5e9e-4144-de1d-0bda3b9bd2be@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#EPODONIOS
+vless://c078b121-8bff-4ba5-82f2-9a2ac8b3aa75@104.21.28.130:2083?security=tls&sni=abcdefghijklmnopqrstuvwxyz.mobilesalarr.online&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#EPODONIOS
 vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=178.105.61.61&fp=chrome&security=reality&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&sid=af04ff8094115e93&packetEncoding=xudp#EPODONIOS
 vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?encryption=none&flow=xtls-rprx-vision&fp=&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&security=reality&sid=af04ff8094115e93&sni=178.105.61.61&type=tcp#EPODONIOS
 vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?encryption=none&flow=xtls-rprx-vision&fp=&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&security=reality&sid=af04ff8094115e93&type=tcp#EPODONIOS
@@ -183,7 +183,6 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?encryption=none&
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?security=&encryption=none&type=grpc&serviceName=vless#EPODONIOS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.3:2083?encryption=none&type=ws&security=tls&path=/?ed=2560&host=newwk1.f1w.de5.net&fp=chrome&sni=newwk1.f1w.de5.net#EPODONIOS
 vless://d662d09d-61e8-42ba-bc17-a40121589b26@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#EPODONIOS
 vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&insecure=0&type=grpc&serviceName=Love&allowInsecure=0&sni=austrish.digishopcenter.ir#EPODONIOS
 vless://ebe44c2c-96ed-4a36-8456-2e9ee60c859c@104.16.80.73:2083?path=/wss14139?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mnv1.gozargahping.top&fp=chrome&type=ws&allowInsecure=0&sni=mnv1.gozargahping.top#EPODONIOS
