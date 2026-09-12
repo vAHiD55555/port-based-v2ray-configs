@@ -490,7 +490,7 @@ vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=/uploader.
 vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com&note=@FreeOnlineVPN#EPODONIOS
 vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@188.114.99.160:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#EPODONIOS
 vless://61e688aa-3e6f-4b74-bf6e-22362a2edb26@fin3.flotaw.ir:8443?path=/api&security=tls&encryption=mlkem768x25519plus.native.0rtt.TUi7u5UXHqLaEQK2w69XWLPOiKYd5Ded1AwEPgAvphg&insecure=0&host=api.flotaw.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.flotaw.ir#EPODONIOS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#EPODONIOS
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?TelegramрҹҮЁрҹҮі @WangCai2&security=tls&sni=sni.111000.dynv6.net#EPODONIOS
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?encryption=none&type=ws&path=/RoBeRt&security=tls&sni=milan.adaspoloandco.com#EPODONIOS
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#EPODONIOS
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=/RoBeRt&security=tls&encryption=none&type=ws&sni=milan.adaspoloandco.com#EPODONIOS
