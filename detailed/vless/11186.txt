@@ -6,7 +6,5 @@ vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@209.38.103.178:11186?encryption=non
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@209.38.103.178:11186?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#[45242] - Telegram : @V2All
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@68.183.66.115:11186?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#کانال ما
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@68.183.66.115:11186?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇩🇪170767 | ⚡️Telegram = t.me/SOSkeyNET
-vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@152.42.143.77:11186?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#EPODONIOS
-vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@159.223.239.74:11186?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#EPODONIOS
-vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@188.166.163.166:11186?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#EPODONIOS
-vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@209.38.97.43:11186?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#EPODONIOS
+vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@144.126.231.137:11186?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#EPODONIOS
+vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@159.65.23.246:11186?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#EPODONIOS

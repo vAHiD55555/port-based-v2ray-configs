@@ -7,6 +7,5 @@ vless://@Cooonfig@Cooonfig@@@91.107.191.29:22700?security=none&encryption=none&h
 vless://@@Cooonfig@Cooonfig@@@@91.107.179.202:22700?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
 vless://@@Cooonfig@Cooonfig@@@@91.107.191.29:22700?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
 vless://@Cooonfig@@91.107.179.202:22700?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
-vless://@Cooonfig@Cooonfig@91.107.191.29:22700?security=&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://@Cooonfig@Cooonfig@@@91.107.191.29:22700?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
 vless://@Cooonfig@Cooonfig@@@91.107.191.29:22700?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
