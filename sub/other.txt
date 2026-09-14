@@ -8,6 +8,8 @@ vless://[V2XNET]@151.101.56.11:443?encryption=none&security=tls&sni=ssl.fastly.c
 vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@B2Hub
 vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#Tel-@ProxyMtAlpha🐘 6
+vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#🏀42@oneclickvpnkeys
+vmess://5c040f1d-45db-43bd-8d46-e4950e433735@51.89.41.22:1234?allowInsecure=1&encryption=auto&security=tls&sni=51.89.41.22&type=tcp#🏀17@oneclickvpnkeys
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=aes-128-gcm&security=none&type=tcp#⛽82@oneclickvpnkeys
 vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=tcp#@V2ray_confiig
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J-HrPCfh6cgR0IiLCAiYWRkIjogImZpMS5sZXZpa29namdmZGQuaXIiLCAicG9ydCI6ICIyMjMyNCIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIn0
