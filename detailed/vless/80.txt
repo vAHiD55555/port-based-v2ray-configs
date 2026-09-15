@@ -1,3 +1,4 @@
+vless://45933928-a410-4206-bd59-01016da08817@88.99.125.243:80?path=%2F&security=&encryption=none&type=ws#Server%201
 vless://8ee5577f-9dd0-4a10-a4ec-6293a24b61df@91.98.102.240:80?path=%2F&security=&encryption=none&type=ws#Server%2051
 vless://35a6c37b-5df7-4d7f-b338-f9092d3be2e9@91.98.96.59:80?path=%2F&security=&encryption=none&type=ws#Server%2062
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
@@ -259,6 +260,7 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption
 vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%3E%3E%40outline_vpn%3A%3AXX
 vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?encryption=none&host=proud-cloud-5c50.113-8dc.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://45933928-a410-4206-bd59-01016da08817@88.99.125.243:80?path=%2F&security=&encryption=none&type=ws#EPODONIOS
 vless://8ee5577f-9dd0-4a10-a4ec-6293a24b61df@91.98.102.240:80?path=%2F&security=&encryption=none&type=ws#EPODONIOS
 vless://35a6c37b-5df7-4d7f-b338-f9092d3be2e9@91.98.96.59:80?path=%2F&security=&encryption=none&type=ws#EPODONIOS
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#EPODONIOS
