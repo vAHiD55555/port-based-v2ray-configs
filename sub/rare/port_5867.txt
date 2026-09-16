@@ -1,3 +1,2 @@
 vless://9716a2df-de61-4fc0-ae6e-76a6e3d15cc7@91.107.162.153:5867?security=tls&alpn=h2&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=smartgerman.liacloudsm.ir#Free x180 @Outline_Vpn
-ss://9716a2df-de61-4fc0-ae6e-76a6e3d15cc7@91.107.162.153:5867?security=tls&alpn=h2&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=smartgerman.liacloudsm.ir#EPODONIOS
 vless://9716a2df-de61-4fc0-ae6e-76a6e3d15cc7@91.107.162.153:5867?security=tls&alpn=h2&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=smartgerman.liacloudsm.ir#EPODONIOS
