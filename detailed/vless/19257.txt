@@ -1,0 +1,4 @@
+vless://1ca43e4d-f65a-4027-a9bf-cfb7eb091661@176.65.151.67:19257?encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&mtu=1350&security=none&tti=20&type=kcp#⚡️ KURDNET | کورد نت
+vless://8f936789-6db7-4949-81ad-da52e24b1d33@176.65.151.67:19257?security=none&encryption=none&headerType=none&type=kcp#⚡️ KURDNET | کورد نت
+vless://1ca43e4d-f65a-4027-a9bf-cfb7eb091661@176.65.151.67:19257?encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&mtu=1350&security=none&tti=20&type=kcp#EPODONIOS
+vless://8f936789-6db7-4949-81ad-da52e24b1d33@176.65.151.67:19257?security=none&encryption=none&headerType=none&type=kcp#EPODONIOS
