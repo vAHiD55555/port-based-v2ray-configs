@@ -9,6 +9,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?encryption=no
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?encryption=none&security=none&type=tcp#vless1
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?encryption=none&security=none&type=tcp#🐒2@oneclickvpnkeys
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?security=none&encryption=none&headerType=none&type=tcp#Channel : @Daily_Configs
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.231.30:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp#荷兰
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.196.65:62145?encryption=none&security=none&type=tcp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.241.198:62145?&type=tcp&headerType=none&path=/#EPODONIOS
