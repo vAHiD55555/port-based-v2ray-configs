@@ -7,10 +7,8 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?security=none
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.216.158:62145?security=none&encryption=none&headerType=none&type=tcp#Channel : @Daily_Configs
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.167.104:62145?encryption=none&security=none&type=tcp#🍅16@oneclickvpnkeys
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.215:62145?encryption=none&security=none&type=tcp#@filembad
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.215:62145?encryption=none&security=none&type=tcp#[ 🇳🇱 ] | @Cfox_SerVer
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.215:62145?encryption=none&security=none&type=tcp#🍅5@oneclickvpnkeys
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.170.215:62145?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.175.116:62145?encryption=none&security=none&type=tcp#🍅2@oneclickvpnkeys
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.231.30:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp#荷兰
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.238.234:62145?encryption=none&security=none&type=tcp#🍅3@oneclickvpnkeys
