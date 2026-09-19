@@ -8,7 +8,6 @@ vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?alpn=h2&encrypt
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?alpn=h2&encryption=none&host=hub-nl-02.hanvpn.cc&mode=auto&path=/nl02-xhttp-8e47a/&security=tls&sni=hub-nl-02.hanvpn.cc&type=xhttp#🐊82@oneclickvpnkeys
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?alpn=h2&encryption=none&security=tls&serviceName=nl02-grpc-8e47a&sni=hub-nl-02.hanvpn.cc&type=grpc#🐊78@oneclickvpnkeys
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none&host=hub-de-05.hanvpn.cc&mode=auto&path=/de05-xhttp-8e47a/&security=tls&sni=hub-de-05.hanvpn.cc&type=xhttp#🐊76@oneclickvpnkeys
-vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none&security=tls&serviceName=de05-grpc-8e47a&sni=hub-de-05.hanvpn.cc&type=grpc#🐊46@oneclickvpnkeys
 vless://d9d0f208-d582-41d5-bb7b-742671402810@77.110.117.199:9443?alpn=http/1.1&encryption=none&fp=chrome&host=hub-nl-01.hanvpn.cc&path=/nl01-ws-8e47a&security=tls&sni=hub-nl-01.hanvpn.cc&type=ws#4🐊@oneclickvpnkeys
 vless://d9d0f208-d582-41d5-bb7b-742671402810@77.110.117.199:9443?encryption=none&security=tls&serviceName=nl01-grpc-8e47a&sni=hub-nl-01.hanvpn.cc&type=grpc#🐊95@oneclickvpnkeys
 vless://d9d0f208-d582-41d5-bb7b-742671402810@77.110.117.199:9443?encryption=none&security=tls&sni=hub-nl-01.hanvpn.cc&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=hub-nl-01.hanvpn.cc&path=/nl01-ws-8e47a#🇩🇪All¹¹ | @BigSmoke_Config
@@ -21,7 +20,6 @@ vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?alpn=h2&encrypt
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?alpn=h2&encryption=none&host=hub-nl-02.hanvpn.cc&mode=auto&path=/nl02-xhttp-8e47a/&security=tls&sni=hub-nl-02.hanvpn.cc&type=xhttp#EPODONIOS
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?alpn=h2&encryption=none&security=tls&serviceName=nl02-grpc-8e47a&sni=hub-nl-02.hanvpn.cc&type=grpc#EPODONIOS
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none&host=hub-de-05.hanvpn.cc&mode=auto&path=/de05-xhttp-8e47a/&security=tls&sni=hub-de-05.hanvpn.cc&type=xhttp#EPODONIOS
-vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none&security=tls&serviceName=de05-grpc-8e47a&sni=hub-de-05.hanvpn.cc&type=grpc#EPODONIOS
 vless://d9d0f208-d582-41d5-bb7b-742671402810@77.110.117.199:9443?alpn=http/1.1&encryption=none&fp=chrome&host=hub-nl-01.hanvpn.cc&path=/nl01-ws-8e47a&security=tls&sni=hub-nl-01.hanvpn.cc&type=ws#EPODONIOS
 vless://d9d0f208-d582-41d5-bb7b-742671402810@77.110.117.199:9443?encryption=none&security=tls&serviceName=nl01-grpc-8e47a&sni=hub-nl-01.hanvpn.cc&type=grpc#EPODONIOS
 vless://d9d0f208-d582-41d5-bb7b-742671402810@77.110.117.199:9443?encryption=none&security=tls&sni=hub-nl-01.hanvpn.cc&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=hub-nl-01.hanvpn.cc&path=/nl01-ws-8e47a#EPODONIOS
