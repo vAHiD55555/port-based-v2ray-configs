@@ -3,7 +3,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=no
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#@configforVPN
 vless://018a9e2e-9bfd-4a9e-a20d-c07eb53fa439@91.234.39.183:8080?path=/&security=none&encryption=none&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://02731ff6-d5e4-4436-9fbd-26950cfb5069@yoshidoshi.shadoww345.ir:8080?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.0NEX6XUOv3PvdnT0cEd8yW7387LRimKruxjaPDqCgTE&insecure=0&host=nahazoki.shadoww345.ir&fp=chrome&type=ws&allowInsecure=0&sni=nahazoki.shadoww345.ir#@NETMelliAnti
-vless://02731ff6-d5e4-4436-9fbd-26950cfb5069@yoshidoshi.shadoww345.ir:8080?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.0NEX6XUOv3PvdnT0cEd8yW7387LRimKruxjaPDqCgTE&insecure=0&host=nahazoki.shadoww345.ir&fp=chrome&type=ws&allowInsecure=0&sni=nahazoki.shadoww345.ir#[ 🇮🇷 ] | @Cfox_SerVer
 vless://037ec3f3-d983-4f05-9ae2-03f0c1d7977c@143.246.136.234:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#چنل عضو شو @v2ra_config
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.154.19:8080?path=/&security=none&encryption=none&type=ws#کانفیگ رایگان : @fastkanfig
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.175:8080?path=/&security=none&encryption=none&host=Telegram-Leviko_v2ray&type=ws#🇩🇪 direct
@@ -19,6 +18,7 @@ vless://28cec4eb-2c82-4089-a69b-d61db4fb8006@104.21.51.132:8080?path=/play&secur
 vless://28cec4eb-2c82-4089-a69b-d61db4fb8006@104.21.51.132:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.WAc6bqm9bM6YteuKtv84PJogmTI2R5RsWLvIB_WGeXw&host=th3ee3322.th3store.ir&type=httpupgrade#Free x327 @Outline_Vpn
 vless://2b59f595-bc0e-4642-a542-e8e0fc8926b6@104.24.223.66:8080?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://3e7bb66e-d7c6-4711-aa05-e4ab0ec58c6d@188.114.97.6:8080?type=ws&host=shrill-cell-cca7.158-6fa.workers.dev#[ 🇨🇦 ] | @Cfox_SerVer
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#@configforVPN
 vless://45016458-a8c5-4e3f-814a-437145e4dd4f@nl2.maximos.ir:8080?security=reality&encryption=none&pbk=ui27BuqHFz0wW2dlBCZ7cUU-SBhnjBr8gtTbgFxnyn4&headerType=none&fp=chrome&spx=/8db2545d906ad80&type=tcp&sni=play-apps-features.googleusercontent.com&sid=e6cf65f79df2#🇳🇱175095 | ⚡️Telegram = t.me/SOSkeyNET
 vless://45016458-a8c5-4e3f-814a-437145e4dd4f@nl2.maximos.ir:8080?security=reality&encryption=none&pbk=ui27BuqHFz0wW2dlBCZ7cUU-SBhnjBr8gtTbgFxnyn4&headerType=none&fp=chrome&spx=/8db2545d906ad80&type=tcp&sni=play-apps-features.googleusercontent.com&sid=e6cf65f79df2#🇺🇸US-🚀@VPNine1
@@ -27,7 +27,6 @@ vless://466e1cca-4892-4723-be2e-98e2e1c4fbfa@104.21.51.132:8080?path=/play&secur
 vless://466e1cca-4892-4723-be2e-98e2e1c4fbfa@104.21.51.132:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.kb4hYiGUKg5WzaQoI-0tORczqrfOJRdLGdeU8JAX2U4&host=tr-ht21.th3store.ir&type=httpupgrade#@VEGAAS_VPN🇹🇷
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8080?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://4cac189c-5611-4cfa-9946-bf1b2b3d152c@185.146.173.37:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=/#@Hope_Net-join-us-on-Telegram
-vless://518de0d4-6ce8-4404-80db-23c4a8806128@104.21.70.21:8080?&sni=ez-5faafb.esmaoi.workers.dev&type=ws&headerType=none&host=ez-5faafb.esmaoi.workers.dev&path=/eyJqdW5rIjoiQkFLTnhqM2tZTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=#[ 🇨🇦 ] | @Cfox_SerVer
 vless://52b7a871-1455-4a6e-9e9c-78a0a1e43f86@meli-netbot-join.team-pluss.com:8080/?type=tcp&encryption=none&flow=&sni=the.world.of.the.champions.retrovip.net&fp=chrome&security=reality&pbk=a31ZnQOsnWUJq5bSLVWIeuGJZFPE52NidulBT5CV_z4&sid=f40ef36067&packetEncoding=xudp#荷兰
 vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?security=&encryption=mlkem768x25519plus.native.0rtt.N1oxcKhA4M6Jl_2oVZAXib6-LS2QMRutMviT6-9AKmU&host=account.xiaomi.com&headerType=http&type=tcp#@confiig_hub
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8080?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#@fastkanfig 4
@@ -50,9 +49,9 @@ vless://Source_VPNCUSTOMIZE@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.r
 vless://Source_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://Tel_VPNCUSTOMIZE@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://Telegram-vpnjey@162.159.38.119:8080?encryption=none&type=xhttp&mode=auto&host=se.jeyy.eu.cc&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&extra={"xPaddingBytes":"100-1000","mode":"auto"}&security=none#Telegram@vpnjey 🇸🇪🇸🇪
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@188.114.97.6:8080?path=/axch1mttbxz2k55y01&security=none&encryption=none&host=index.harmonica01.workers.dev&type=ws&sni=index.harmonica01.workers.dev#[ 🇨🇦 ] | @Cfox_SerVer
 vless://a2f590d6-bb73-418d-8907-9d52a44e1a5a@91.107.244.212:8080?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=/@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray&security=none&type=tcp#⚡︎🇩🇪@𝙉𝙖𝙥_𝙫2𝙧𝙖𝙮
 vless://a2f590d6-bb73-418d-8907-9d52a44e1a5a@91.107.244.212:8080?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇩🇪175000 | ⚡️Telegram = t.me/SOSkeyNET
-vless://a2f590d6-bb73-418d-8907-9d52a44e1a5a@91.107.244.212:8080?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://b1a1fb9d-a72e-4ac0-8c1e-aa05256f0855@[2a01:4f8:1c18:4078::1]:8080?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#@Alfred_Config
 vless://bacbaca-caba-aacb-adbc-cbabccabacab@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=none&encryption=none&host=net.hostingdata.ir&type=ws#Brayirani
@@ -87,13 +86,13 @@ vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encr
 vless://28cec4eb-2c82-4089-a69b-d61db4fb8006@104.21.51.132:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.WAc6bqm9bM6YteuKtv84PJogmTI2R5RsWLvIB_WGeXw&host=th3ee3322.th3store.ir&type=httpupgrade#EPODONIOS
 vless://2b59f595-bc0e-4642-a542-e8e0fc8926b6@104.24.223.66:8080?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#EPODONIOS
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=/&security=none&encryption=none&type=ws#EPODONIOS
+vless://3e7bb66e-d7c6-4711-aa05-e4ab0ec58c6d@188.114.97.6:8080?type=ws&host=shrill-cell-cca7.158-6fa.workers.dev#EPODONIOS
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#EPODONIOS
 vless://45016458-a8c5-4e3f-814a-437145e4dd4f@nl2.maximos.ir:8080?security=reality&encryption=none&pbk=ui27BuqHFz0wW2dlBCZ7cUU-SBhnjBr8gtTbgFxnyn4&headerType=none&fp=chrome&spx=/8db2545d906ad80&type=tcp&sni=play-apps-features.googleusercontent.com&sid=e6cf65f79df2#EPODONIOS
 vless://466e1cca-4892-4723-be2e-98e2e1c4fbfa@104.21.51.132:8080?path=/play&security=&encryption=mlkem768x25519plus.native.0rtt.kb4hYiGUKg5WzaQoI-0tORczqrfOJRdLGdeU8JAX2U4&host=tr-ht21.th3store.ir&type=httpupgrade#EPODONIOS
 vless://466e1cca-4892-4723-be2e-98e2e1c4fbfa@104.21.51.132:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.kb4hYiGUKg5WzaQoI-0tORczqrfOJRdLGdeU8JAX2U4&host=tr-ht21.th3store.ir&type=httpupgrade#EPODONIOS
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8080?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#EPODONIOS
 vless://4cac189c-5611-4cfa-9946-bf1b2b3d152c@185.146.173.37:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=/#EPODONIOS
-vless://518de0d4-6ce8-4404-80db-23c4a8806128@104.21.70.21:8080?&sni=ez-5faafb.esmaoi.workers.dev&type=ws&headerType=none&host=ez-5faafb.esmaoi.workers.dev&path=/eyJqdW5rIjoiQkFLTnhqM2tZTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=#EPODONIOS
 vless://52b7a871-1455-4a6e-9e9c-78a0a1e43f86@meli-netbot-join.team-pluss.com:8080/?type=tcp&encryption=none&flow=&sni=the.world.of.the.champions.retrovip.net&fp=chrome&security=reality&pbk=a31ZnQOsnWUJq5bSLVWIeuGJZFPE52NidulBT5CV_z4&sid=f40ef36067&packetEncoding=xudp#EPODONIOS
 vless://61393afa-169b-42a9-98c7-7e032183add6@tuntey.poefauscw.ir:8080?security=&encryption=mlkem768x25519plus.native.0rtt.N1oxcKhA4M6Jl_2oVZAXib6-LS2QMRutMviT6-9AKmU&host=account.xiaomi.com&headerType=http&type=tcp#EPODONIOS
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8080?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#EPODONIOS
@@ -114,6 +113,7 @@ vless://Source_VPNCUSTOMIZE@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.r
 vless://Source_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#EPODONIOS
 vless://Tel_VPNCUSTOMIZE@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#EPODONIOS
 vless://Telegram-vpnjey@162.159.38.119:8080?encryption=none&type=xhttp&mode=auto&host=se.jeyy.eu.cc&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&extra={"xPaddingBytes":"100-1000","mode":"auto"}&security=none#EPODONIOS
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@188.114.97.6:8080?path=/axch1mttbxz2k55y01&security=none&encryption=none&host=index.harmonica01.workers.dev&type=ws&sni=index.harmonica01.workers.dev#EPODONIOS
 vless://a2f590d6-bb73-418d-8907-9d52a44e1a5a@91.107.244.212:8080?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=/@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray@Nap_v2ray---@Nap_v2ray&security=none&type=tcp#EPODONIOS
 vless://a2f590d6-bb73-418d-8907-9d52a44e1a5a@91.107.244.212:8080?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
 vless://b1a1fb9d-a72e-4ac0-8c1e-aa05256f0855@[2a01:4f8:1c18:4078::1]:8080?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#EPODONIOS
