@@ -1,4 +1,2 @@
 vless://23aa3d7e-039b-4c21-a8f7-0f7d1ddbbbb6@168.110.121.199:50159/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ibm.com&fp=chrome&security=reality&pbk=k8nAYo1-IaxhdMI4CLPK0BcjD7TiFoBCwpB0CqUSHg0&sid=effd22907e2bf94f&packetEncoding=xudp#韩国
-vless://5158555b-b004-44f5-a606-34d914c185b6@176.65.151.67:50159?authority=&encryption=none&security=none&serviceName=&type=grpc#⚡️ KURDNET | کورد نت
 vless://23aa3d7e-039b-4c21-a8f7-0f7d1ddbbbb6@168.110.121.199:50159/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ibm.com&fp=chrome&security=reality&pbk=k8nAYo1-IaxhdMI4CLPK0BcjD7TiFoBCwpB0CqUSHg0&sid=effd22907e2bf94f&packetEncoding=xudp#EPODONIOS
-vless://5158555b-b004-44f5-a606-34d914c185b6@176.65.151.67:50159?authority=&encryption=none&security=none&serviceName=&type=grpc#EPODONIOS
