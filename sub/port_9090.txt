@@ -1,6 +1,5 @@
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:9090#@Hope_Net
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.53:9090#@Hope_Net
-vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#@Daily_Configs
 vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@B2Hub
 vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#@v2ray_phoenix
 vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
@@ -23,7 +22,6 @@ vless://telegramjoin:Nap_v2ray@65.109.193.102:9090?security=none&encryption=none
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#%3E%3E%40shadowproxy66%3A%3AKR
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:9090#EPODONIOS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.53:9090#EPODONIOS
-vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#EPODONIOS
 vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
 vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
 vless://5e03bdbb-cb39-4c6e-8ee5-eb549b5e7a70@65.109.193.102:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
