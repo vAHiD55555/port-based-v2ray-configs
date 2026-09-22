@@ -51,9 +51,6 @@ vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&securi
 vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#EPODONIOS
 vless://c2e317b0-0847-4579-9b78-7b678634ffc4@freesocks.work:2052?path=/@BlueKnight_net--@BlueKnight_net&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS
 vless://c2e317b0-0847-4579-9b78-7b678634ffc4@freesocks.work:2052?path=/@BlueKnight_net--@BlueKnight_net&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS
-vless://f1e5d738-2e83-4e2f-b6d6-a9013b3e7e48@104.21.25.108:2052?path=/vl/uNyziIUlXKFT0XpfK7u96FmE0?ed=2560&security=none&encryption=none&host=a6o58qfpwvgrwmz0crtha0r24uyiu2l.x7-f5jb95s0ocjt-0.workers.dev&type=ws#EPODONIOS
-vless://f1e5d738-2e83-4e2f-b6d6-a9013b3e7e48@172.67.134.7:2052?path=/vl/u3oMYZoYUAozPFEA8UhR?ed=2560&security=none&encryption=none&host=a6o58qfpwvgrwmz0crtha0r24uyiu2l.x7-f5jb95s0ocjt-0.workers.dev&type=ws#EPODONIOS
-vless://f1e5d738-2e83-4e2f-b6d6-a9013b3e7e48@a6o58qfpwvgrwmz0crtha0r24uyiu2l.x7-f5jb95s0ocjt-0.workers.dev:2052?path=/vl/aWwCWsnxngPJiKdsnqSFel3pSMtQgNOw?ed=2560&security=none&encryption=none&host=a6o58qfpwvgrwmz0crtha0r24uyiu2l.x7-f5jb95s0ocjt-0.workers.dev&type=ws#EPODONIOS
 vless://f5267873-5379-409e-b67a-145ea54deb70@undef.network:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=/@BlueKnight_net--@BlueKnight_net#EPODONIOS
 vless://f5267873-5379-409e-b67a-145ea54deb70@undef.network:2052?path=/@BlueKnight_net--@BlueKnight_net&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS
 vless://f5267873-5379-409e-b67a-145ea54deb70@undef.network:2052?path=/@BlueKnight_net--@BlueKnight_net&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#EPODONIOS

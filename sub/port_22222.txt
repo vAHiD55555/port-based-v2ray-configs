@@ -171,6 +171,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.124.215:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.105.155:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.105.155:22222?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.225.21:22222?encryption=none&security=none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.225.21:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.254.51:22222?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.254.51:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.65.33:22222?encryption=none&security=none&type=tcp#EPODONIOS
