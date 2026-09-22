@@ -1,4 +1,2 @@
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#@configprxy
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#EPODONIOS
-vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@es341.starzone.ir:38479?security=&encryption=mlkem768x25519plus.native.0rtt.Or4eEsj1FJcH48RwDRjG21ZC7mbZ6wamN6k4i7viXCw&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
-vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@gr34.starzone.ir:38479?security=&encryption=mlkem768x25519plus.native.0rtt.Or4eEsj1FJcH48RwDRjG21ZC7mbZ6wamN6k4i7viXCw&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS

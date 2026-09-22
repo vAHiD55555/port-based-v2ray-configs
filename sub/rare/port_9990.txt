@@ -1,3 +1,2 @@
 vless://61c71f2f-33dc-43aa-84af-85c8a4232278@104.194.144.237:9990?path=/&security=none&encryption=none&host=104.194.144.237&type=httpupgrade#Free x409 @Outline_Vpn
-vless://3f82db32-7e9d-4f59-8755-040b371c10b8@107.189.20.88:9990?security=none&host=azki.com&headerType=http&type=tcp&encryption=none#EPODONIOS
 vless://61c71f2f-33dc-43aa-84af-85c8a4232278@104.194.144.237:9990?path=/&security=none&encryption=none&host=104.194.144.237&type=httpupgrade#EPODONIOS
