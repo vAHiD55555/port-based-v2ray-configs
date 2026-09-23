@@ -1,7 +1,6 @@
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?security=none&encryption=none&headerType=none&type=tcp#@leviconfigs🪐-25
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000?security=none&encryption=none&type=tcp&headerType=none#@v2rayng3
 vless://446801f8-c401-4f56-8e51-7fac24bc15b2@144.31.38.106:10000?security=none&encryption=mlkem768x25519plus.native.0rtt.53icjwtJmtVs38DgwnfNjBQTIrXOMYJ00vOda-mf70A&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#77
-vless://135852be-3cfc-4551-b6bf-641911655174@144.31.166.205:10000?security=reality&encryption=none&pbk=UOa0v_JpSPRPMO6ABMM7tIir-GclotOVfnbI2WqJGVE&headerType=none&fp=chrome&type=tcp&sni=zoom.us&sid=9791feaccc1ca4d8#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000?security=none&encryption=none&type=tcp&headerType=none#EPODONIOS
 vless://446801f8-c401-4f56-8e51-7fac24bc15b2@144.31.38.106:10000?security=none&encryption=mlkem768x25519plus.native.0rtt.53icjwtJmtVs38DgwnfNjBQTIrXOMYJ00vOda-mf70A&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
