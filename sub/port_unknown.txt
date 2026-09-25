@@ -17,8 +17,8 @@ vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=aut
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?encryption=auto&security=none&type=tcp#🪐99@oneclickvpnkeys
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?encryption=auto&security=none&type=tcp#🪐97@oneclickvpnkeys
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=tcp#🪐75@oneclickvpnkeys
-trojan://8r<[9'l6hAO#8ZQi@159.223.50.79:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG-159.223.50.79-5446
-trojan://8r<[9'l6hAO#8ZQi@64.176.36.61:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-64.176.36.61-5450
+trojan://8r<[9'l6hAO#8ZQi@47.76.218.163:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-47.76.218.163-5000
+trojan://8r<[9'l6hAO#8ZQi@64.176.36.61:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-64.176.36.61-5002
 ss://2022-blake3-aes-256-gcm:KYFtNXJrl3Jei35nSh9hMDqzlRdOjd6NlrtV6wyOVsw=:YBLEjXrK2Rh6XigucXQ4aqV/m70sjyErBcbtt1SFFds=@77.90.61.217:56670?type=tcp#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSS01iSDVYZmliOXp3MUQzOXo2THNi@muha_jv#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ@muha_jv#EPODONIOS
@@ -26,4 +26,3 @@ trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.187.60:22324?encryption=auto&security=none&type=tcp#🪐16@oneclickvpnkeys
