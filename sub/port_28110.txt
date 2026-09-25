@@ -12,5 +12,4 @@ vless://17a7a914-5199-4651-98ba-6c6909030e20@178.105.218.75:28110?encryption=non
 vless://17a7a914-5199-4651-98ba-6c6909030e20@178.105.218.75:28110?security=&encryption=none&host=www.google.com&headerType=http&type=tcp#EPODONIOS
 vless://17a7a914-5199-4651-98ba-6c6909030e20@178.105.218.75:28110?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#EPODONIOS
 vless://64162f8e-32dd-4a63-9c1a-41c01b69c6d4@157.90.155.1:28110?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#EPODONIOS
-vless://e15b340b-f1c8-4974-bfca-edc788959f24@49.13.19.156:28110?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#EPODONIOS
 vless://e8c5d791-ce76-4a41-b165-ca22e930b21d@tp.paydar.site:28110?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
