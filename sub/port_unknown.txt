@@ -24,13 +24,8 @@ ss://2022-blake3-aes-256-gcm:KYFtNXJrl3Jei35nSh9hMDqzlRdOjd6NlrtV6wyOVsw=:YBLEjX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSS01iSDVYZmliOXp3MUQzOXo2THNi@muha_jv#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ@muha_jv#EPODONIOS
 ss://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAicG9ydCI6ICIxODAiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInBzIjogIkBuZWtvcGluZ2JvdF83Nzc5IFx1ZDgzY1x1ZGYwZCBcdTI2YTFcdWZlMGYifQ==#EPODONIOS
+ss://khkuOiKblotoedJg42SYKiuJGrxzdLWaP2O+P2Bl7DrZQRztdQUS4KIXAa36GNehSTxEuPb6+9fmH4Qn249lSX+gUTvZet4Sybtlhg5DisoU0X9Zo394GIt/+mwYC5wSIHT96A+7hkonR33AdFkTGUMdGk7LL2i9NsrYh0WEjwUP6jGtGCNqVlLKvjy1PEFOVJcU1FE/BUBE4Og0TTkvhFQmcwBsPW81ishr1i9JlE5AnpP23LGrHc45+m09AZyA2p0gDFX7DLYvcimiprrGX4sV5lK8uKS3cSrVMWvePjhX3sMIFq/bgi1A+Y839tWTFGw1U2Ow7A+uUHW0dYpy7A==#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vmess://018fbfb7-721a-49a9-b9f5-fb55d92592b6@5.45.97.147:10803?encryption=auto&headerType=http&path=/&security=none&type=tcp#🕊️25@oneclickvpnkeys
-vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.187.60:22324?encryption=auto&security=none&type=tcp#🪐16@oneclickvpnkeys
-vmess://04621bae-ab36-11ec-b909-0242ac120002@45.80.215.8:22324?encryption=auto&security=none&type=tcp#🕊️18@oneclickvpnkeys
-vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#🕊️21@oneclickvpnkeys
-vmess://93842911-bc7f-47e9-a036-904d205b3d11@191.96.94.50:27501?encryption=auto&headerType=http&host=play-apps-features.googleusercontent.com&path=/&security=none&type=tcp#🪐2@oneclickvpnkeys
-vmess://e8758bf0-c234-4809-89f7-25fd868316d0@31.77.8.97:110?encryption=auto&security=none&type=tcp#🪐1@oneclickvpnkeys

@@ -8,3 +8,7 @@ vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&encryption=none&headerType=none&type=tcp#@vasl_bashim
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&encryption=none&headerType=none&type=tcp#channel : @Daily_Configs
 vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?encryption=none&security=none&type=tcp#EPODONIOS
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=&encryption=none&headerType=&type=tcp#EPODONIOS
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
