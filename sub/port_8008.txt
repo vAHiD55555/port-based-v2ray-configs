@@ -4,8 +4,8 @@ vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8008?path=/&securit
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?mode=packet-up&path=/api/v1/stream&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#@confiig_hub
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?mode=packet-up&path=/api/v1/stream/?@leviconfigs_leviconfigs?ed=2048&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#@leviconfigs🪐-5
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%3E%3E%40shadowproxy66%3A%3AXX
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@85.208.108.61:8008#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.61-0381
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@134.195.196.231:8008#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.231-0014
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@85.208.108.61:8008#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.61-0381
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8008#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2441
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.91.102.30:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.91.102.30-2533
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@85.208.108.60:8008#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.60-2761
@@ -40,3 +40,4 @@ vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8008?path=/&securit
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?mode=packet-up&path=/api/v1/stream&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#EPODONIOS
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?mode=packet-up&path=/api/v1/stream/?@leviconfigs_leviconfigs?ed=2048&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#EPODONIOS
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#EPODONIOS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@134.195.196.231:8008#EPODONIOS
