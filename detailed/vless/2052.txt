@@ -9,9 +9,9 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&pa
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s4.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇨🇦 - CA - @FreeOnlineVPN
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:2052?encryption=none&security=tls&sni=www.sorfema.ir&alpn=h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#🇩🇪All¹⁰ | @BigSmoke_Config
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2052?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2052?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.154.8:2052?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2052?encryption=none&security=none&type=ws&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=/?ed=2560&fm={"tcp": [{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["1"], "delays": ["4"], "maxSplit": "355"}}]}#🇭🇰 Join+Telegram:@Farah_VPN 🇭🇰
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.18.32.35:2052?path=/ws&security=none&encryption=none&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&type=ws#@prisonvpnc
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#🇹🇷| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#🇧🇬| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
@@ -42,10 +42,9 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&pa
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s4.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#EPODONIOS
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#EPODONIOS
 vless://35144244-d73c-44c0-97ae-8b8003c2214a@www.sorfema.ir:2052?encryption=none&security=tls&sni=www.sorfema.ir&alpn=h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#EPODONIOS
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2052?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#EPODONIOS
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2052?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#EPODONIOS
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.154.8:2052?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#EPODONIOS
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2052?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=/&security=none&type=ws#EPODONIOS
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2052?encryption=none&security=none&type=ws&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=/?ed=2560&fm={"tcp": [{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["1"], "delays": ["4"], "maxSplit": "355"}}]}#EPODONIOS
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.18.32.35:2052?path=/ws&security=none&encryption=none&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&type=ws#EPODONIOS
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#EPODONIOS
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#EPODONIOS
