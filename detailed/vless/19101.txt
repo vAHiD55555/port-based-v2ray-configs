@@ -1,4 +1,2 @@
-vless://2b8527d1-b4ab-4d3b-9863-409058552fec@206.1.99.60:19101?encryption=none&security=none&type=tcp#@meliproxyy
 vless://2b8527d1-b4ab-4d3b-9863-409058552fec@206.1.99.60:19101?security=&encryption=none&headerType=&type=tcp#9610 @proxy_online_net
-vless://2b8527d1-b4ab-4d3b-9863-409058552fec@206.1.99.60:19101?encryption=none&security=none&type=tcp#EPODONIOS
 vless://2b8527d1-b4ab-4d3b-9863-409058552fec@206.1.99.60:19101?security=&encryption=none&headerType=&type=tcp#EPODONIOS
