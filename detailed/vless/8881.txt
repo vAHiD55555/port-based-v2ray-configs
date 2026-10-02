@@ -1,8 +1,6 @@
 vless://9b1062f6-3c63-4c98-917e-d228f5df9e20@178.104.219.134:8881?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#[ 🇩🇪 ] | @Cfox_SerVer
-vless://d9365fed-f9bb-4b23-ab83-5d7c48e5ddbe@91.107.174.119:8881?encryption=none&type=http&host=play.google.com&method=GET&packetEncoding=xudp#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
 vless://d9365fed-f9bb-4b23-ab83-5d7c48e5ddbe@91.107.174.119:8881?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#[ 🇩🇪 ] | @Cfox_SerVer
 vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@ldsub.dwz.ccwu.cc:8881?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&type=tcp&headerType=none#🇬🇧 @zyzzzoao
 vless://9b1062f6-3c63-4c98-917e-d228f5df9e20@178.104.219.134:8881?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://d9365fed-f9bb-4b23-ab83-5d7c48e5ddbe@91.107.174.119:8881?encryption=none&type=http&host=play.google.com&method=GET&packetEncoding=xudp#EPODONIOS
 vless://d9365fed-f9bb-4b23-ab83-5d7c48e5ddbe@91.107.174.119:8881?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@ldsub.dwz.ccwu.cc:8881?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&type=tcp&headerType=none#EPODONIOS
