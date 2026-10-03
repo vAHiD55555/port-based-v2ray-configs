@@ -1,4 +1,4 @@
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.177.96:9889?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@hex_proxy вҒҙ
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.177.96:9889?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@hex_proxy ⁴
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.107.1:9889?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#qoli_059
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.107.1:9889?encryption=none&security=reality&sni=dl.google.com&fp=firefox&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#qoli_060
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.107.1:9889?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#qoli_061
