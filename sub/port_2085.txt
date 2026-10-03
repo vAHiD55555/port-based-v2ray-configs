@@ -1,17 +1,11 @@
 vless://02c05088-fcb4-4366-b8d3-98d68c7bdb98@37.221.110.245:2085?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#@configprxy
-vless://0636f736-3364-4bc5-b6c2-1a5fc64e008c@86.62.52.2:2085?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#9704 @proxy_online_net
-vless://552d68c0-dccf-4623-9eca-f4203e2203d1@104.143.223.221:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#✅  @vistav2ray  👈👈کانال ما ✅
-vless://552d68c0-dccf-4623-9eca-f4203e2203d1@185.87.24.169:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#✅  @vistav2ray  👈👈کانال ما ✅
-vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@android.pcapps.ir:2085?security=reality&encryption=none&pbk=khVfcjtJeIhqSvWh5pXlBlZrRN2evKtlerhMozeul28&headerType=none&fp=chrome&type=tcp&sni=booking.com&sid=6ba85179e30d4fc2#[ 🇫🇮 ] | @Cfox_SerVer
-vless://9bb5dd4e-bd32-4bdb-a60d-9368433f3885@104.143.223.230:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#@Capoit
+vless://552d68c0-dccf-4623-9eca-f4203e2203d1@104.143.223.221:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#вң…  @vistav2ray  рҹ‘Ҳрҹ‘ҲЪ©Ш§ЩҶШ§Щ„ Щ…Ш§ вң…
+vless://552d68c0-dccf-4623-9eca-f4203e2203d1@185.87.24.169:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#вң…  @vistav2ray  рҹ‘Ҳрҹ‘ҲЪ©Ш§ЩҶШ§Щ„ Щ…Ш§ вң…
+vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@android.pcapps.ir:2085?security=reality&encryption=none&pbk=khVfcjtJeIhqSvWh5pXlBlZrRN2evKtlerhMozeul28&headerType=none&fp=chrome&type=tcp&sni=booking.com&sid=6ba85179e30d4fc2#[ рҹҮ«рҹҮ® ] | @Cfox_SerVer
 vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.4:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#kurdconfig
-vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.4:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#🇳🇱@FreakConfig
-vless://ecbd7b27-9a49-46df-8fe1-2ec135c29cdf@94.156.114.181:2085?path=/chat/socket/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=node.de1.uefibios.ru#@tootffarangi🍓-1MCI
+vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.4:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#рҹҮірҹҮұ@FreakConfig
 vless://02c05088-fcb4-4366-b8d3-98d68c7bdb98@37.221.110.245:2085?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#EPODONIOS
-vless://0636f736-3364-4bc5-b6c2-1a5fc64e008c@86.62.52.2:2085?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://552d68c0-dccf-4623-9eca-f4203e2203d1@104.143.223.221:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://552d68c0-dccf-4623-9eca-f4203e2203d1@185.87.24.169:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@android.pcapps.ir:2085?security=reality&encryption=none&pbk=khVfcjtJeIhqSvWh5pXlBlZrRN2evKtlerhMozeul28&headerType=none&fp=chrome&type=tcp&sni=booking.com&sid=6ba85179e30d4fc2#EPODONIOS
-vless://9bb5dd4e-bd32-4bdb-a60d-9368433f3885@104.143.223.230:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.4:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
-vless://ecbd7b27-9a49-46df-8fe1-2ec135c29cdf@94.156.114.181:2085?path=/chat/socket/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=node.de1.uefibios.ru#EPODONIOS
