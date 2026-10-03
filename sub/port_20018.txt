@@ -2,7 +2,7 @@ vless://452f869f-7720-47c3-a175-b6673e31d3e8@tr-irancell4.xelfona.ir:20018?secur
 vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=connectivitycheck.android.com#Channel : @Daily_Configs
 vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=connectivitycheck.android.com#Telegram : @Daily_Configs
 vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?security=none&encryption=none&host=connectivitycheck.android.com&headerType=http&type=tcp#برای اتصال دائمی جوین شو🥨 TelegramID ⌲Express_freevpn 🪩
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20018?security=tls&sni=$iplc.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-104.219.250.37-2066
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20018?security=tls&sni=$iplc.xiaohouzi.club#%F0%9F%87%B3%F0%9F%87%B1NL-2.59.170.20-1639
 vless://452f869f-7720-47c3-a175-b6673e31d3e8@tr-irancell4.xelfona.ir:20018?security=none&encryption=none&host=connectivitycheck.android.com&headerType=http&type=tcp#EPODONIOS
 vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=connectivitycheck.android.com#EPODONIOS
 vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?security=none&encryption=none&host=connectivitycheck.android.com&headerType=http&type=tcp#EPODONIOS
