@@ -10,6 +10,7 @@ vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encrypt
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@aidrivercat.org:443?encryption=auto&host=aidrivercat.org&path=/linkvws&security=tls&sni=aidrivercat.org&type=ws#🌟61@oneclickvpnkeys
 vmess://04621bae-ab36-11ec-b909-0242ac120002@167.17.68.89:22324?encryption=auto&security=none&type=tcp#🌟71@oneclickvpnkeys
 vmess://04621bae-ab36-11ec-b909-0242ac120002@172.111.38.100:22324?encryption=auto&security=none&type=tcp#🌟67@oneclickvpnkeys
+vmess://04621bae-ab36-11ec-b909-0242ac120002@185.177.229.129:22324?encryption=auto&security=none&type=tcp#🪙91@oneclickvpnkeys
 vmess://04621bae-ab36-11ec-b909-0242ac120002@198.57.27.190:22324?encryption=auto&security=none&type=tcp#@V2ray_confiig
 vmess://04621bae-ab36-11ec-b909-0242ac120002@38.107.226.227:22324?encryption=auto&security=none&type=tcp#@V2ray_confiig
 vmess://3dff544a-379e-41f9-95d9-4b95a8e4026e@31.76.11.83:23325?encryption=auto&security=none&type=tcp#🪙1@oneclickvpnkeys
