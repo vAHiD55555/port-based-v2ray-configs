@@ -12,4 +12,5 @@ vless://02c05088-fcb4-4366-b8d3-98d68c7bdb98@37.221.110.245:2085?encryption=none
 vless://309cb39e-0d09-4a55-ba4b-50a4dc3dda03@86.62.52.148:2085/?type=grpc&encryption=none&flow=&serviceName=vless#EPODONIOS
 vless://309cb39e-0d09-4a55-ba4b-50a4dc3dda03@86.62.52.148:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#EPODONIOS
 vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@android.pcapps.ir:2085?security=reality&encryption=none&pbk=khVfcjtJeIhqSvWh5pXlBlZrRN2evKtlerhMozeul28&headerType=none&fp=chrome&type=tcp&sni=booking.com&sid=6ba85179e30d4fc2#EPODONIOS
+vless://5ed7f88c-d73d-48ec-9355-3ccfa5dca099@104.234.138.246:2085?encryption=none&host=&path=/&security=none&type=ws#EPODONIOS
 vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.4:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS

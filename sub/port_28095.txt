@@ -5,4 +5,3 @@ vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@finl1.povrak.ir:28095?security=none
 vless://fcb9ce0f-c8e4-4b51-afeb-0135029a70e1@fin1.povrak.ir:28095?security=none&encryption=mlkem768x25519plus.native.0rtt.VuFxON-WTmoLTTMoAjvx_rTJ-R4rDaGfM0iDKn8sJTg&headerType=none&type=tcp#filembad-400
 vless://1e645c10-a7d2-4eed-908a-3427bf167964@fin1.povrak.ir:28095?encryption=mlkem768x25519plus.native.0rtt.VuFxON-WTmoLTTMoAjvx_rTJ-R4rDaGfM0iDKn8sJTg&security=none&type=tcp&headerType=none#EPODONIOS
 vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@finl1.povrak.ir:28095?security=none&encryption=mlkem768x25519plus.native.0rtt.VuFxON-WTmoLTTMoAjvx_rTJ-R4rDaGfM0iDKn8sJTg&headerType=none&type=tcp#EPODONIOS
-vless://fcb9ce0f-c8e4-4b51-afeb-0135029a70e1@fin1.povrak.ir:28095?security=none&encryption=mlkem768x25519plus.native.0rtt.VuFxON-WTmoLTTMoAjvx_rTJ-R4rDaGfM0iDKn8sJTg&headerType=none&type=tcp#EPODONIOS
