@@ -4,21 +4,24 @@ ss://2022-blake3-aes-256-gcm:ad8eqTJ4pcXibDSIE/90ObnHNABLoVO8Gzpq6DlGTGc=:rN//Wm
 ss://2022-blake3-aes-256-gcm:feMXjpw5CFoxqX7VFCJdBYYAAYW5Sim9mBIe9/4G8vI=:0ZoLngUwAUCuVkNuCJgY8xImum67ESzti6TP0fUx7/4=@31.57.185.82:58212?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:gc24/luU7zbPhMS6GH6mUzT1qZBjCXhKbAvgUjM4Yno=:NOerjaqxVAGVMkJfw/LwtWwz27auvlL0MNKBrjlTeV0=@206.1.103.221:14074?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:vS/2+E2vOG1C68QgmugNLDAxJqtGQeIJVI8lUu20n9Y=:+aFx+Fbhiw1966yMNaxGEn+FTlrtEac0R/CoKvqxyWo=@31.57.185.82:23114?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
-ss://YWVzLTI1Ni1nY20677+977+9du+/ve+/ve+/ve+/vRzvv73Hu++/ve+/ve+/vXHvv73vv73vv71+77+9@146.75.74.62:443#@v2raybaaz
+ss://2022-blake3-aes-256-gcm:ymykCy/7ioXKe7u60ZifNpAK+N4XKMYW7ljHu/e+h1Q=:tu4qvwMmFqKGRd3SAMGdHSD7G0MDWjHffAr+XSXc/Go=@206.1.103.221:53281?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@#🌍187849 | ⚡️Telegram = t.me/SOSkeyNET
+ss://eyJhZGQiOiJjZG4uc2ZhY2cudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBjcyI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiJAaG9yaXpvbnZwbm4iLCJzY3kiOiJhdXRvIiwic25pIjoib3IzLnNmYWNnLnVrIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌍187977 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn   @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#‌
 vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@𝐕𝟐𝐗𝐍𝐄𝐓
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@167.17.68.89:443?encryption=auto&host=vspeedfast.org&path=/linkvws&security=tls&sni=vspeedfast.org&type=ws#🦜98@oneclickvpnkeys
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.67:443?encryption=auto&host=pahobac.org&path=/linkvws&security=tls&sni=pahobac.org&type=ws#🦜43@oneclickvpnkeys
-vmess://04621bae-ab36-11ec-b909-0242ac120002@185.177.229.129:22324?encryption=auto&security=none&type=tcp#🪙91@oneclickvpnkeys
-vmess://04621bae-ab36-11ec-b909-0242ac120002@198.57.27.190:22324?encryption=auto&security=none&type=tcp#@V2ray_confiig
-vmess://04621bae-ab36-11ec-b909-0242ac120002@216.152.152.187:22324?encryption=auto&security=none&type=tcp#🦜63@oneclickvpnkeys
-vmess://04621bae-ab36-11ec-b909-0242ac120002@38.107.226.227:22324?encryption=auto&security=none&type=tcp#@V2ray_confiig
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=3h-kazakhstan1.09vpn.com&path=/vmess/&security=none&type=ws#🦜66@oneclickvpnkeys
-vmess://e2733dbc-1bc6-4835-b90a-447806f9efcd@158.160.211.200:11556?alpn=h2,http/1.1&encryption=auto&security=tls&type=tcp#@V2ray_confiig
-vmess://eyJhZGQiOiI5MS4yMjguMTg2LjEwOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlM2E1ODMyZS1hMTI2LTQ5NjEtYjdkMi0xY2FkNjc3M2FmMDAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjQwOTEwIiwicHMiOiLwn4e58J+Ht3NwaWRlclYycmF54pyoIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==#@v2mystery 👈 عضو شو
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@193.108.117.54:443?encryption=auto&host=aidrivercat.org&path=/linkvws&security=tls&sni=aidrivercat.org&type=ws#🛠️40@oneclickvpnkeys
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.187.60:22324?encryption=auto&security=none&type=tcp#🛠️2@oneclickvpnkeys
+vmess://04621bae-ab36-11ec-b909-0242ac120002@89.41.172.85:22324?encryption=auto&security=none&type=tcp#🛠️39@oneclickvpnkeys
+vmess://479526cd-5011-43cf-a788-504da95e07c2@145.239.55.210:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&path=/&security=none&type=ws#🛠️44@oneclickvpnkeys
+vmess://57160c16-b7db-40d8-bd06-ced30edd4df6@31.76.11.83:26662?encryption=auto&security=none&type=tcp#🛠️l@oneclickvpnkeys
+vmess://d2d8601b-c14b-42c6-b8ea-33889bce152a@31.77.8.97:110?encryption=auto&security=none&type=tcp#🛠️s@oneclickvpnkeys
+vmess://eyJhZGQiOiIyMDYuMS4xMDMuNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDBlZmFjNDEtNmVjZC00OTQxLTkwMWMtMTIzMWFjNDZiNGI0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxMDEyMCIsInBzIjoi8J+HufCfh7dTUElERVJ2MnJheS0yMEdCIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=#@v2mystery 👈 کانفیگ رایگان میخوای بیا
+vmess://eyJhZGQiOiIyMDYuMS4xMDMuNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDVmMGI0MmMtMWI4Yi00MDdkLTg0ZTctMzJjZGRmNmFkMTkyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxNzc4NCIsInBzIjoi8J+HpvCfh7JTUElERVJWMnJheS0yMEdCKDIpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=#@v2mystery 👈 جوین بده
+vmess://eyJhZGQiOiJjZG4uc2ZhY2cudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBjcyI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiJAaG9yaXpvbnZwbm4iLCJzY3kiOiJhdXRvIiwic25pIjoib3IzLnNmYWNnLnVrIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#9864 @proxy_online_net
 trojan://8r<[9'l6hAO#8ZQi@64.188.89.147:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-64.188.89.147-5477
 trojan://8r<[9'l6hAO#8ZQi@47.76.218.163:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-47.76.218.163-5480
 trojan://8r<[9'l6hAO#8ZQi@64.176.36.61:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-64.176.36.61-5487
@@ -29,16 +32,9 @@ ss://2022-blake3-aes-256-gcm:feMXjpw5CFoxqX7VFCJdBYYAAYW5Sim9mBIe9/4G8vI=:0ZoLng
 ss://2022-blake3-aes-256-gcm:gc24/luU7zbPhMS6GH6mUzT1qZBjCXhKbAvgUjM4Yno=:NOerjaqxVAGVMkJfw/LwtWwz27auvlL0MNKBrjlTeV0=@206.1.103.221:14074?type=tcp#EPODONIOS
 ss://2022-blake3-aes-256-gcm:vS/2+E2vOG1C68QgmugNLDAxJqtGQeIJVI8lUu20n9Y=:+aFx+Fbhiw1966yMNaxGEn+FTlrtEac0R/CoKvqxyWo=@31.57.185.82:23114?type=tcp#EPODONIOS
 ss://2022-blake3-aes-256-gcm:ymykCy/7ioXKe7u60ZifNpAK+N4XKMYW7ljHu/e+h1Q=:tu4qvwMmFqKGRd3SAMGdHSD7G0MDWjHffAr+XSXc/Go=@206.1.103.221:53281?type=tcp#EPODONIOS
-ss://YWVzLTI1Ni1nY20677+977+9du+/ve+/ve+/ve+/vRzvv73Hu++/ve+/ve+/vXHvv73vv73vv71+77+9@146.75.74.62:443#EPODONIOS
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@#EPODONIOS
+ss://eyJhZGQiOiJjZG4uc2ZhY2cudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBjcyI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiJAaG9yaXpvbnZwbm4iLCJzY3kiOiJhdXRvIiwic25pIjoib3IzLnNmYWNnLnVrIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
-trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?security=tls&sni=/gay-anal&type=ws&path=/node8.quaxly.com&Host=/gay-anal#EPODONIOS
 vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@167.17.68.89:443?encryption=auto&host=vspeedfast.org&path=/linkvws&security=tls&sni=vspeedfast.org&type=ws#рҹҰң98@oneclickvpnkeys
-vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.187.60:22324?encryption=auto&security=none&type=tcp#рҹӣ пёҸ2@oneclickvpnkeys
-vmess://04621bae-ab36-11ec-b909-0242ac120002@216.152.152.187:22324?encryption=auto&security=none&type=tcp#рҹҰң63@oneclickvpnkeys
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=3h-kazakhstan1.09vpn.com&path=/vmess/&security=none&type=ws#рҹҰң66@oneclickvpnkeys
-vmess://57160c16-b7db-40d8-bd06-ced30edd4df6@31.76.11.83:26662?encryption=auto&security=none&type=tcp#рҹӣ пёҸl@oneclickvpnkeys
-vmess://d2d8601b-c14b-42c6-b8ea-33889bce152a@31.77.8.97:110?encryption=auto&security=none&type=tcp#рҹӣ пёҸs@oneclickvpnkeys
-vmess://eyJhZGQiOiI5MS4yMjguMTg2LjEwOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlM2E1ODMyZS1hMTI2LTQ5NjEtYjdkMi0xY2FkNjc3M2FmMDAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjQwOTEwIiwicHMiOiLwn4e58J+Ht3NwaWRlclYycmF54pyoIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==#@v2mystery рҹ‘Ҳ Ш№Ш¶ЩҲ ШҙЩҲ

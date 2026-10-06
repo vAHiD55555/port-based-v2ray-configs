@@ -4,7 +4,6 @@ vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.25.223:1085?security=none&e
 vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.25.223:1085?security=none&encryption=none&headerType=none&type=tcp#@vmesc
 vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.25.223:1085?security=none&encryption=none&headerType=none&type=tcp#@vmess_ir
 vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.25.223:1085?security=none&encryption=none&headerType=none&type=tcp#Free x610 @Outline_Vpn
-vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@204.168.147.195:1085?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz
 vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@204.168.147.195:1085?security=none&encryption=none&headerType=none&type=tcp#Free x615 @Outline_Vpn
 vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@77.42.20.51:1085?security=&encryption=none&headerType=&type=tcp#@V2ray_confiig
 vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.25.223:1085?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
