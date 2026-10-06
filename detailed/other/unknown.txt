@@ -1,11 +1,7 @@
-ss://2022-blake3-aes-256-gcm:4zo9pQzwxsh1bMeReRoD/Ma2N3ZKvTJ6gZRhRcOGtzU=:5bsD1WmoheBbkMn4uYAa3A3ERVpjp3CRyYylrTg4sg8=@206.1.103.221:17390?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2akGo5hcrswbMkD2+BM52si+D7lzyccZFTd4xaU=@206.1.100.83:25178?type=tcp#tunelm2mvpn-49
-ss://2022-blake3-aes-256-gcm:BDH0a76jO489xbGTE5eOVNfvh4IPa9rMnxOmiiTbL+8=:QmF1G4wR57gW/6Bskw4H8mPJ94GfZB6api4+zkP7NJU=@206.1.103.221:46968?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:Rzv4KXTXvFEqeALuBgzETlujcXrzIAsrSMAevky5x8c=:hdA4n/xn83dcbzxCAxapim47QxGlbAUPQ8I1rbC2RN8=@206.1.103.221:42264?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:XNWvNbl1I5SxIHjWAeXXqqY9Q+/WiMWcADpQsBvES/M=:dGrGoAnnNADlAXihqvdLzMiLSihBXI0FMv6UCNp9k4Q=@206.1.103.221:48817?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
-ss://2022-blake3-aes-256-gcm:XNWvNbl1I5SxIHjWAeXXqqY9Q+/WiMWcADpQsBvES/M=:dGrGoAnnNADlAXihqvdLzMiLSihBXI0FMv6UCNp9k4Q=@206.1.103.221:48817?type=tcp#🇹🇷188327 | ⚡️Telegram = t.me/SOSkeyNET
-ss://2022-blake3-aes-256-gcm:XNWvNbl1I5SxIHjWAeXXqqY9Q+/WiMWcADpQsBvES/M=:dGrGoAnnNADlAXihqvdLzMiLSihBXI0FMv6UCNp9k4Q=@206.1.103.221:48817?type=tcp#🇹🇷TR-🚀@VPNine1
-ss://2022-blake3-aes-256-gcm:jxAvGHIr8KWYws7L/I2toSX6RRRLGxhNsUYyguP+oJA=:03TmVCdG/L83zCB1oGCvLJ3HoU6edQf7aYkHagfDTqc=@206.1.103.221:29233?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
+ss://2022-blake3-aes-256-gcm:jv+NDOR4GJOGMwHH3/nofCfI8pV/OdTuqy4mtXcGcww=:2oaKUwM4NGtRKZVyxXao5yvJi7hfxtzdB8S9ugdEQDI=@31.57.185.180:36370?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn   @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
@@ -17,15 +13,12 @@ vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.187.60:22324?encryption=aut
 vmess://43fc0a68-f682-468b-baed-979026ad6199@fisgww.povrak.ir:58179?packetEncoding=xudp#• 🇫🇮 | Finland - @HesarWeb
 vmess://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#🐞3@oneclickvpnkeys
 vmess://b3a11068-1a7e-4643-85de-7c82cce46943@151.243.173.119:33736?encryption=auto&path=/vmess-ws&security=none&type=ws#🐞5@oneclickvpnkeys
-vmess://eyJhZGQiOiIyMDYuMS4xMDMuNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDVmMGI0MmMtMWI4Yi00MDdkLTg0ZTctMzJjZGRmNmFkMTkyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxNzc4NCIsInBzIjoi8J+HpvCfh7JTUElERVJWMnJheS0yMEdCKDIpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=#@v2mystery 👈 جوین بده
-vmess://eyJhZGQiOiJjZG4uc2ZhY2cudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBjcyI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiJAaG9yaXpvbnZwbm4iLCJzY3kiOiJhdXRvIiwic25pIjoib3IzLnNmYWNnLnVrIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#9864 @proxy_online_net
 vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imd1YW53YW5nLmF3c25vLmNvbSIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiNTUg8J+HqPCfh6YiL
-ss://2022-blake3-aes-256-gcm:4zo9pQzwxsh1bMeReRoD/Ma2N3ZKvTJ6gZRhRcOGtzU=:5bsD1WmoheBbkMn4uYAa3A3ERVpjp3CRyYylrTg4sg8=@206.1.103.221:17390?type=tcp#EPODONIOS
 ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2akGo5hcrswbMkD2+BM52si+D7lzyccZFTd4xaU=@206.1.100.83:25178?type=tcp#EPODONIOS
-ss://2022-blake3-aes-256-gcm:BDH0a76jO489xbGTE5eOVNfvh4IPa9rMnxOmiiTbL+8=:QmF1G4wR57gW/6Bskw4H8mPJ94GfZB6api4+zkP7NJU=@206.1.103.221:46968?type=tcp#EPODONIOS
-ss://2022-blake3-aes-256-gcm:Rzv4KXTXvFEqeALuBgzETlujcXrzIAsrSMAevky5x8c=:hdA4n/xn83dcbzxCAxapim47QxGlbAUPQ8I1rbC2RN8=@206.1.103.221:42264?type=tcp#EPODONIOS
+ss://2022-blake3-aes-256-gcm:Pil67PqflZg0TtPVO/PoFLTMrJDyC5p27jc0S7fuFCQ=:SXou9caBcLaritdsJnL/7rwkcSbAoMnjszimt/5vmEg=@31.57.185.180:30966?type=tcp#EPODONIOS
 ss://2022-blake3-aes-256-gcm:XNWvNbl1I5SxIHjWAeXXqqY9Q+/WiMWcADpQsBvES/M=:dGrGoAnnNADlAXihqvdLzMiLSihBXI0FMv6UCNp9k4Q=@206.1.103.221:48817?type=tcp#EPODONIOS
-ss://2022-blake3-aes-256-gcm:jxAvGHIr8KWYws7L/I2toSX6RRRLGxhNsUYyguP+oJA=:03TmVCdG/L83zCB1oGCvLJ3HoU6edQf7aYkHagfDTqc=@206.1.103.221:29233?type=tcp#EPODONIOS
+ss://2022-blake3-aes-256-gcm:jv+NDOR4GJOGMwHH3/nofCfI8pV/OdTuqy4mtXcGcww=:2oaKUwM4NGtRKZVyxXao5yvJi7hfxtzdB8S9ugdEQDI=@31.57.185.180:36370?type=tcp#EPODONIOS
+ss://2022-blake3-aes-256-gcm:uWLyO+Ei/W17qCiFBES9LAAYxeCNwkjROZi/biAnfOw=:UAY9PzHMMXUn1te9/mwY0E8lD0JDFTf8ENpSXDevx5E=@31.57.185.180:29328?type=tcp#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS

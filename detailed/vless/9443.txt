@@ -1,5 +1,4 @@
 vless://0493aa7f-1bdc-4cda-93cc-6997d5cb0d8d@5.129.206.207:9443?security=reality&encryption=none&pbk=7pwlq64tGd-ym95q83NY7mAxg02hefK5z0hKcIHmtVw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#@meliproxyy
-vless://0493aa7f-1bdc-4cda-93cc-6997d5cb0d8d@5.129.206.207:9443?security=reality&encryption=none&pbk=7pwlq64tGd-ym95q83NY7mAxg02hefK5z0hKcIHmtVw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🔵@chillguy_vpn
 vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
 vless://6b1c48bc-55d3-43ee-90d4-7b8404e05e52@178.104.219.134:9443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@B2Hub
 vless://6b1c48bc-55d3-43ee-90d4-7b8404e05e52@178.104.219.134:9443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2ray_confiig
