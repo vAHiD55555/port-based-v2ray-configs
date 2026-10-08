@@ -13,7 +13,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.8.213:22224?security=none&enc
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.119.66:22224?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22224?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.141.142:22224?security=&encryption=none&headerType=&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.209.172:22224?encryption=none&security=none&type=tcp#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22224?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.136.35:22224?security=&encryption=none&headerType=&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22224?security=none&headerType=none&type=tcp&encryption=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.102.151:22224?encryption=none&security=none&type=tcp#EPODONIOS
