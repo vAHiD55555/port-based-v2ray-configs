@@ -6,3 +6,4 @@ vmess://ewogICAgImFkZCI6ICIxNDAuODMuODQuMjA5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vless://0fe5364c-b21e-4338-a51c-1eb179999c4f@store2.vevluma.ir:1234?security=reality&encryption=none&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&sid=4844fb0c077b20b7#EPODONIOS
 vless://cf546c96-ed5e-46cc-b080-1cacf1770a5c@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vmess://eyJhZGQiOiAiMTU5LjIyMy4xMy4xMDkiLCAiYWlkIjogIjAiLCAiaWQiOiAiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6ICIxMjM0IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYWVzLTEyOC1nY20iLCAic25pIjogImVrYi5lZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
