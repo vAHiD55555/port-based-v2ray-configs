@@ -2,10 +2,10 @@ ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2a
 ss://2022-blake3-aes-256-gcm:Pil67PqflZg0TtPVO/PoFLTMrJDyC5p27jc0S7fuFCQ=:SXou9caBcLaritdsJnL/7rwkcSbAoMnjszimt/5vmEg=@31.57.185.180:30966?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:U0CNvKnt8lVDd+vt9pTJ8bcyZwC1BFNZFzofM+l6eDA=:SQlBCHM9Ug6aCRE6XIykIzIjKl40eV2nh0rvP99U/po=@31.57.185.253:49143?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:Uggiq+MU2DrXqjM0aHddud8xoJ4KwHHxZJDtYdiR1q8=:DA1vvMbbr8DEFi3x6Ra/IIdEf578UZOxmxHGRbw0nSs=@31.57.185.253:25852?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
-ss://2022-blake3-aes-256-gcm:VXm5/P7r0FRKxEWRcJcCFXfD1QhzjXtPFmYpnmBFlrA=:wsjJgtGUHw5s1HyJDpylSo0HpMkOR5jwQilmG3grh1w=@5.75.204.152:53332?plugin=obfs-local;obfs=http;obfs-host=#🇩🇪191031 | ⚡️Telegram = t.me/SOSkeyNET
 ss://2022-blake3-aes-256-gcm:VaU0cJGT3WPAFXVg6BnDhvDfURtAy/K4Mxus7yXlIRs=:wdCnzJ0A7SJRZr/wB993HP26L4m7aeYwlW+ktrKk3qg=@31.57.185.180:56292?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:ZcCRjkOp3bU/v5IYz6Nim06Su+sPb5/aJNLt2k4oYQ0=:CC0Z4Ea4klE344uFO8tMg6mokBidjnzAZsmc0Kp/Sak=@31.57.185.253:18724?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:gNFg0epW6zPt3VrbEdbLAogBehBPta16HrWNnrNBfcE=:Ultj5/Lb2FLYk9lH/gvVSd4AsBxotO3lFw8+ujM7rCw=@31.57.185.180:24110?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
+ss://2022-blake3-aes-256-gcm:hUCKEbPeJ4HGtnuDnMOx/ue3vqlCIthES0ogLhl8rYc=:wSwRV4rUZjBzsx2gqnsPoSR2oojnnSIYU/v+JxX36YI=@31.57.185.253:53396?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:jv+NDOR4GJOGMwHH3/nofCfI8pV/OdTuqy4mtXcGcww=:2oaKUwM4NGtRKZVyxXao5yvJi7hfxtzdB8S9ugdEQDI=@31.57.185.180:36370?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 ss://2022-blake3-aes-256-gcm:uWLyO+Ei/W17qCiFBES9LAAYxeCNwkjROZi/biAnfOw=:UAY9PzHMMXUn1te9/mwY0E8lD0JDFTf8ENpSXDevx5E=@31.57.185.180:29328?type=tcp#⚡️ KURDNET | کورد نت | @vpn_kurdnet
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
@@ -14,13 +14,11 @@ trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&ho
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#‌
 vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@𝐕𝟐𝐗𝐍𝐄𝐓
 vmess://06d4d001-4168-4876-9416-7caecf578f40@178.105.168.171:2110?encryption=auto&security=none&type=tcp#✈️10@oneclickvpnkeys
-vmess://2387bfbc-10a6-4bd7-dc55-7cba954ce6e8@54.229.151.97:59236?encryption=auto&headerType=http&host=tms.dingtalk.com&path=/&security=none&type=tcp#✈️13@oneclickvpnkeys
+vmess://10029c03-5d2f-4185-aab2-cbf91eef7361@https.http.www.net.com.ramseyv2.ir.:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=auto&host=https.http.www.net.com.ramseyv2.ir.&path=/d3d3LmlyYW5ob3N0LmNvbQ==&security=none&type=ws#🍄12@oneclickvpnkeys
 vmess://43fc0a68-f682-468b-baed-979026ad6199@fisgww.povrak.ir:58179?packetEncoding=xudp#• 🇫🇮 | Finland - @HesarWeb
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=google.com&path=/vmess/&security=none&type=ws#🍁100@oneclickvpnkeys
 vmess://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&security=none&type=tcp#✈️91@oneclickvpnkeys
-vmess://b3a11068-1a7e-4643-85de-7c82cce46943@151.243.173.119:33736?encryption=auto&host=151.243.173.119&path=/vmess-ws&security=none&type=ws#🍁31@oneclickvpnkeys
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=/vmess/&security=none&type=ws#🍄33@oneclickvpnkeys
 vmess://e5e563fb-cf72-4250-bfff-fa0385301061@145.239.55.210:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&path=/&security=none&type=ws#✈️63@oneclickvpnkeys
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=tcp#🍁93@oneclickvpnkeys
 ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2akGo5hcrswbMkD2+BM52si+D7lzyccZFTd4xaU=@206.1.100.83:25178?type=tcp#EPODONIOS
 ss://2022-blake3-aes-256-gcm:Pil67PqflZg0TtPVO/PoFLTMrJDyC5p27jc0S7fuFCQ=:SXou9caBcLaritdsJnL/7rwkcSbAoMnjszimt/5vmEg=@31.57.185.180:30966?type=tcp#EPODONIOS
 ss://2022-blake3-aes-256-gcm:U0CNvKnt8lVDd+vt9pTJ8bcyZwC1BFNZFzofM+l6eDA=:SQlBCHM9Ug6aCRE6XIykIzIjKl40eV2nh0rvP99U/po=@31.57.185.253:49143?type=tcp#EPODONIOS
@@ -35,5 +33,5 @@ trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vmess://10029c03-5d2f-4185-aab2-cbf91eef7361@https.http.www.net.com.ramseyv2.ir.:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=auto&host=https.http.www.net.com.ramseyv2.ir.&path=/d3d3LmlyYW5ob3N0LmNvbQ==&security=none&type=ws#🍄12@oneclickvpnkeys
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=/vmess/&security=none&type=ws#🍄33@oneclickvpnkeys
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@3h-kazakhstan1.09vpn.com:80?encryption=auto&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=/vmess/&security=none&type=ws#🍄65@oneclickvpnkeys
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#🍄62@oneclickvpnkeys
