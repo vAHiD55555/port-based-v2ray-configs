@@ -1,4 +1,2 @@
-vless://@@ZhilaVPN@@@46.225.255.204:39100?encryption=none&type=tcp&allowInsecure=1#@Napsternetvirani
 vless://@ZhilaVPN@@@46.225.255.204:39100?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp#@VEGAAS_VPN⚡
-vless://@@ZhilaVPN@@@46.225.255.204:39100?encryption=none&type=tcp&allowInsecure=1#EPODONIOS
 vless://@ZhilaVPN@@@46.225.255.204:39100?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp#EPODONIOS
