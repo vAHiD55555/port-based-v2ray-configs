@@ -32,3 +32,5 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@43.198.12.229:28443?security=tls&s
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@5.181.4.104:28443?security=tls&sni=glc.hruqoaw.cn#EPODONIOS
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@141.147.191.85:28443?security=tls&sni=glc.hruqoaw.cn#EPODONIOS
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@155.248.172.87:28443?security=tls&sni=glc.hruqoaw.cn#EPODONIOS
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@80.78.132.177:28443?security=tls&sni=glc.hruqoaw.cn#EPODONIOS
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls&sni=glc.hruqoaw.cn#EPODONIOS
