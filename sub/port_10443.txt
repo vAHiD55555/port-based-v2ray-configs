@@ -1,7 +1,7 @@
 vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?&sni=138.124.90.177&type=tcp&headerType=none&path=/#🇦🇹 Join+Telegram:@Farah_VPN 🇦🇹
 vless://f37f88ef-c57e-0114-9b16-659ff67530b7@167.94.163.63:10443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#10384@proxy_online_net
 vless://f37f88ef-c57e-0268-9b16-659ff67530b7@2.56.126.43:10443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#10385@proxy_online_net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#%F0%9F%87%A9%F0%9F%87%AADE-57.129.121.230-4843
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#%F0%9F%87%A9%F0%9F%87%AADE-57.129.121.230-4813
 vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?&sni=138.124.90.177&type=tcp&headerType=none&path=/#EPODONIOS
 vless://f37f88ef-c57e-0114-9b16-659ff67530b7@167.94.163.63:10443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#EPODONIOS
 vless://f37f88ef-c57e-0268-9b16-659ff67530b7@2.56.126.43:10443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=static.samoworks.com#EPODONIOS
