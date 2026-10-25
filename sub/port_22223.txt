@@ -10,23 +10,20 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22223?security=&encryp
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22223?security=&encryption=none&headerType=none&type=tcp#@V2ray_confiig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22223?security=&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.130.80:22223?encryption=none&security=none&type=tcp#🇫🇷199458 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.130.80:22223?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.240.84:22223?encryption=none&security=none&type=tcp#🇫🇷199312 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22223?encryption=none&security=none&type=tcp#🇫🇷139800 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.102.10:22223?security=none&encryption=none&headerType=none&type=tcp#@Tarkshodeh 🇨🇵
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22223?encryption=none&security=none&type=tcp#🐙1@oneclickvpnkeys
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22223?encryption=none&security=none&type=tcp&headerType=none#Channel : @AZARBAYJAB1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.118.128:22223?encryption=none&security=none&type=tcp#🇬🇧199399 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.118.128:22223?encryption=none&security=none&type=tcp#🇬🇧GB-🚀@VPNine1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.2.178:22223?encryption=none&security=none&type=tcp&headerType=none#Channel : @Daily_Configs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.2.178:22223?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.2.178:22223?security=none&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.90.187:22223?security=none&encryption=none&headerType=none&type=tcp#telegram @mtmvpn
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.141:22223?encryption=none&security=none&type=tcp#🇬🇧199401 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.4:22223?security=none&encryption=none&headerType=none&type=tcp#@Net2ray 3
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22223?encryption=none&security=none&type=tcp#🐙4@oneclickvpnkeys
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22223?encryption=none&security=none&type=tcp&headerType=none#Channel : @Daily_Configs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.3.184:22223?encryption=none&security=none&type=tcp#[77667] - Telegram : @V2All
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.3.184:22223?encryption=none&security=none&type=tcp#🇫🇷199491 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.3.184:22223?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.117.74:22223?security=none&encryption=none&headerType=none&type=tcp#@v2ray_phoenix
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.147.45:22223?security=&encryption=none&headerType=none&type=tcp#🩵⇝ @v2mystery جوین شو قطع نشی💠
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.187.221:22223?security=&encryption=none&headerType=none&type=tcp#🩵⇝ @v2mystery جوین شو قطع نشی💠
@@ -39,7 +36,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22223?security=none&e
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22223?encryption=none&packetEncoding=xudp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22223?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.130.80:22223?encryption=none&security=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.240.84:22223?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22223?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.102.10:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22223?encryption=none&security=none&type=tcp#EPODONIOS
@@ -47,7 +43,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22223?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.118.128:22223?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.2.178:22223?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.2.178:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.90.187:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.141:22223?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.4:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22223?encryption=none&security=none&type=tcp#EPODONIOS
