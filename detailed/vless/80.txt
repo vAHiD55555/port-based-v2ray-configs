@@ -192,7 +192,6 @@ vless://1759dd49-3e82-4abb-a9ea-0b097037e09d@185.146.173.37:80?type=ws&path=/tel
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#EPODONIOS
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#EPODONIOS
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?path=/vless/&security=none&encryption=none&type=ws#EPODONIOS
-vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?encryption=none&security=none&type=ws&host=3h-unitedstates1.09vpn.com&path=/vless/#EPODONIOS
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=3h-unitedstates1.09vpn.com&type=ws#EPODONIOS
 vless://1a64c956-522f-44ea-8e7e-f4a909a40ec5@167.233.182.218:80?encryption=none&security=none&type=ws&host=&path=/#EPODONIOS
 vless://1acdba29-6fe1-4903-b8cb-9a04fec4d1d6@tr.koomeh.net:80?encryption=none&type=xhttp&path=/?ed=2048&mode=stream-one&security=none#EPODONIOS
@@ -326,7 +325,6 @@ vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/x
 vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:80?path=/&security=&encryption=none&host=play.google.com&type=ws#EPODONIOS
 vless://faa87a51-a476-495e-bc88-43a33d7aa401@tr.koomeh.net:80?encryption=none&type=xhttp&path=/?ed=2048&mode=stream-one&security=none#EPODONIOS
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?path=/Telegram@TELEGRAM-MTMVPN+/?ed&security=&encryption=none&host=cs.laoyoutiao.link&type=ws#EPODONIOS
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?path=/Telegram@VPNine1-MTMVPN+/?ed&security=&encryption=none&host=cs.laoyoutiao.link&type=ws#EPODONIOS
 vless://fc588d4d-f2d1-4e15-8f4a-c6e7e9293ffc@www.speedtest.net:80?encryption=none&headerType=none&type=ws&path=/@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On&host=ok-config-10.4zkaban.xyz#EPODONIOS
 vless://fc849dc6-e172-4d6a-852c-d7b14e83344d@tr.koomeh.net:80?encryption=none&type=xhttp&path=/?ed=2048&mode=stream-one&security=none#EPODONIOS
 vless://telegram-id-ArV2ray@185.146.173.158:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=8.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.z.Zula.ir.cloudflare.com.bahrane.IR.&type=ws#EPODONIOS

@@ -76,6 +76,7 @@ vless://2c4c513c-5422-4daf-80ce-62b3dde5da54@24janebi.ir:2083?path=/ws&security=
 vless://2e758f28-7bfe-4719-ab09-45002c84084f@ir1.irankatooni.ir:2083?encryption=none&security=tls&type=ws&headerType=none&path=/&host=filimo.com&sni=usa.irankatooni.ir#EPODONIOS
 vless://36592d47-b9f5-4e8f-949e-45ac05472aab@91.107.188.129:2083?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=site.check-looks.space#EPODONIOS
 vless://392e172e-6046-4229-b8c4-fed6e1fbe970@docs.sslforfree.shop:2083?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=docs.sslforfree.shop&fp=chrome&type=ws&allowInsecure=0&sni=docs.sslforfree.shop#EPODONIOS
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@154.218.15.250:2083?&security=tls&sni=proxy-1cu.pages.dev&type=ws&headerType=none&host=proxy-1cu.pages.dev&path=/#EPODONIOS
 vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#EPODONIOS
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.16.85.118:2083?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#EPODONIOS
 vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#EPODONIOS
