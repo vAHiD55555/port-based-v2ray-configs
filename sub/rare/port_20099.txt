@@ -1,2 +1,1 @@
 vless://b8a91fc7-1465-4526-9ff1-6877a336f7ec@13.140.84.253:20099?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=13.140.84.253&type=tcp#@VPsave
-vless://b8a91fc7-1465-4526-9ff1-6877a336f7ec@13.140.84.253:20099?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=13.140.84.253&type=tcp#EPODONIOS
