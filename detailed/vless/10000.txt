@@ -2,7 +2,6 @@ vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?security=none&e
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000?security=none&encryption=none&type=tcp&headerType=none#@v2rayng3
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=&encryption=none&headerType=none&type=tcp#@V2ray_confiig
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz💞
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&encryption=none&headerType=none&type=tcp#YFZ 136 @Outline_Vpn
