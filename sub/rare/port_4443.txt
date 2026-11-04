@@ -1,2 +1,0 @@
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@swo2.nexfile.net:4443?type=xhttp&security=tls&fp=chrome&sni=swo2.nexfile.net&path=/api/v1/sync/&mode=auto#@VPsave
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4443?encryption=none&security=tls&sni=fl3.nexfile.net&fp=firefox&type=xhttp&path=%2Fapi%2Fv1%2Fsync%2F&mode=auto#q_195
