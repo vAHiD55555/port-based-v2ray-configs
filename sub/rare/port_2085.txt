@@ -1,2 +1,1 @@
 vless://02c05088-fcb4-4366-b8d3-98d68c7bdb98@37.221.110.245:2085?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#@configprxy
-vmess://eyJhZGQiOiI1MS44My41Mi4xNzIiLCJhaWQiOiIwIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiIyYzcyYzY2Ny0wOTNjLTQ3YTUtYTEwOC00OTNjOTMyODJiNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg1IiwicHMiOiJGWHhORVQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
