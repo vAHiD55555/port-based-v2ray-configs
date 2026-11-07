@@ -1,1 +1,0 @@
-vless://193528c4-26e4-43b1-baa9-d1b5b3a2fd3b@46.8.100.37:15012?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=46.8.100.37#Channel : @Daily_Configs
