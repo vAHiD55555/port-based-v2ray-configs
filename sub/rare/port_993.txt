@@ -1,2 +1,1 @@
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@msk2.gacvpn.site:993?type=ws&headerType=none&security=tls&encryption=none&sni=msk2.gacvpn.site&fp=chrome&path=/static/js/vendor.549bd856.js?ed=2048&host=msk2.gacvpn.site#@VPsave
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?fp=chrome&flow=xtls-rprx-vision&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&encryption=none&security=reality&sni=download.nvidia.com&type=tcp&headerType=none#@v2rayng3
