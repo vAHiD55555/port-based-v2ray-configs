@@ -1,0 +1,2 @@
+vless://a5ecffc2-6c54-4b08-9ea7-e9e14f8caadb@mirinday385.dpdns.org:8082?path=/am3rum&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0&sni=mirinday385.dpdns.org#@FarazV2ray
+vless://a5ecffc2-6c54-4b08-9ea7-e9e14f8caadb@mirinday385.dpdns.org:8082?path=/am3rum&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0&sni=mirinday385.dpdns.org#@V2raySaman
