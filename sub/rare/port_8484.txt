@@ -1,0 +1,1 @@
+vless://fd1d4c0b-3595-4071-abdc-703e93f336e5@95.135.125.228:8484?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=95.135.125.228#@VPsave
