@@ -1,0 +1,2 @@
+vless://272873a7-b0aa-47b0-81a3-c78c60d78dde@93.190.9.142:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#filembad-113
+vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090?security=&encryption=none&type=grpc&serviceName=vless#@Capoit
