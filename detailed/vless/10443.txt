@@ -1,3 +1,2 @@
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?&sni=178.172.227.124&type=tcp&headerType=none&path=/#@VPsave
 vless://77974767-0f29-4c24-b69a-3151f9a48d75@46.8.21.87:10443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=onf.ru&pbk=MAQju7q8wIeEznBQoDXP9l4SpuAkEs8CGDKaNNpKlHI&sid=4326&fp=chrome#@VPsave
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?fp=chrome&security=none&sni=45.138.100.248&type=tcp#🇺🇸 | تلگرام: @IRJetConfig #RK
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?path=/&security=none&type=tcp#🇺🇸 | تلگرام: @IRJetConfig #RK
