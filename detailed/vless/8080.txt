@@ -11,7 +11,9 @@ vless://10664038-6dcf-44ee-af41-af68c8977aa7@45.135.194.196:8080?mode=gun&securi
 vless://10664038-6dcf-44ee-af41-af68c8977aa7@45.135.194.196:8080?mode=gun&security=reality&encryption=none&pbk=lDTkHKQpGCP9HvD5XkNDLwtowMQsAjCsp-swzKwjq1M&fp=chrome&type=grpc&sni=sheet.google.com&sid=c58bb592f0a4c5ca#YFZ 393 @Outline_Vpn
 vless://10664038-6dcf-44ee-af41-af68c8977aa7@77.92.151.84:8080?mode=gun&security=reality&encryption=none&pbk=GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0&fp=chrome&type=grpc&sni=sheet.google.com&sid=3d2ccefeeb44ccbb#@ICV2RAY
 vless://10664038-6dcf-44ee-af41-af68c8977aa7@77.92.151.84:8080?mode=gun&security=reality&encryption=none&pbk=GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0&fp=chrome&type=grpc&sni=sheet.google.com&sid=3d2ccefeeb44ccbb#YFZ 390 @Outline_Vpn
-vless://13b3edb8-1f15-4537-b742-2b6d04d749ec@185.239.0.207:8080?encryption=none&security=none&type=tcp#🇮🇷IR-🚀@VPNine1
+vless://13b3edb8-1f15-4537-b742-2b6d04d749ec@185.239.0.207:8080?encryption=none&security=none&type=tcp&headerType=none#@VPsave
+vless://13b3edb8-1f15-4537-b742-2b6d04d749ec@185.239.0.207:8080?encryption=none&security=none&type=tcp&headerType=none#🇮🇷217490 | ⚡️Telegram = t.me/SOSkeyNET
+vless://13b3edb8-1f15-4537-b742-2b6d04d749ec@185.239.0.207:8080?encryption=none&security=none&type=tcp&headerType=none#🇮🇷217539 | ⚡️Telegram = t.me/LonUp_M
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#CxrolVPN Free (1)
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#CxrolVPN Free (2)
 vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@[2607:5300:205:200::8aeb]:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#[🏁]t.me/v2ray_configs_pools
@@ -23,10 +25,13 @@ vless://2b59f595-bc0e-4642-a542-e8e0fc8926b6@104.24.223.66:8080?path=/Telegram:@
 vless://2c3692a8-a2ca-4f21-95bf-91758287e4ff@zibanabz.jonsonvip.ir:8080?encryption=mlkem768x25519plus.native.0rtt._fFH4skXICMnTh4JT8Z-opz_fEPLVLD1w2NW3PN7tgQ&security=none&type=tcp&headerType=none#کانفیگ رایگان @zibanabz
 vless://2c3692a8-a2ca-4f21-95bf-91758287e4ff@zibanabz.jonsonvip.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=digikala.com&fp=chrome&pbk=aiFPeLurQNAOYZhwdXsYwxCxBgw6qg8rt0UvdrdNPTY&sid=ed516450fce897dd&type=tcp&headerType=none&path=/@zibanabz@zibanabz@zibanabz#کانفیگ رایگان @zibanabz
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://2eb9cc2d-c58a-4f3f-bc76-d4dcb8035598@136.148.64.223:8080?encryption=mlkem768x25519plus.native.0rtt.22De6fnow78uFMo--2cWxmiplKsJiNsJ2i9dw0zKPic&security=none&type=tcp&headerType=http&host=tgju.org#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🃏
+vless://2eb9cc2d-c58a-4f3f-bc76-d4dcb8035598@136.148.64.223:8080?encryption=mlkem768x25519plus.native.0rtt.22De6fnow78uFMo--2cWxmiplKsJiNsJ2i9dw0zKPic&security=none&type=tcp&headerType=http&host=tgju.org#🇹🇷217511 | ⚡️Telegram = t.me/SOSkeyNET
+vless://2eb9cc2d-c58a-4f3f-bc76-d4dcb8035598@136.148.64.223:8080?encryption=mlkem768x25519plus.native.0rtt.22De6fnow78uFMo--2cWxmiplKsJiNsJ2i9dw0zKPic&security=none&type=tcp&headerType=http&host=tgju.org#🇹🇷217560 | ⚡️Telegram = t.me/LonUp_M
+vless://2eb9cc2d-c58a-4f3f-bc76-d4dcb8035598@136.148.64.223:8080?encryption=mlkem768x25519plus.native.0rtt.22De6fnow78uFMo--2cWxmiplKsJiNsJ2i9dw0zKPic&security=none&type=tcp&headerType=http&host=tgju.org#🇹🇷TR-🚀@VPNine1
 vless://2f5b111e-a2e9-412e-b882-01765aaf6a6d@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@Shh_Proxy-New²
 vless://2f5b111e-a2e9-412e-b882-01765aaf6a6d@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@V2ray_confiig
 vless://2f5b111e-a2e9-412e-b882-01765aaf6a6d@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@VPNConnectd
-vless://2f5b111e-a2e9-412e-b882-01765aaf6a6d@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@VPsave
 vless://3c152dce-5887-486c-9f0f-693ca271f2e6@zibanabz.jonsonvip.ir:8080?encryption=mlkem768x25519plus.native.0rtt._fFH4skXICMnTh4JT8Z-opz_fEPLVLD1w2NW3PN7tgQ&security=none&type=tcp&headerType=none#کانفیگ رایگان @zibanabz
 vless://3c152dce-5887-486c-9f0f-693ca271f2e6@zibanabz.jonsonvip.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=digikala.com&fp=chrome&pbk=aiFPeLurQNAOYZhwdXsYwxCxBgw6qg8rt0UvdrdNPTY&sid=ed516450fce897dd&type=tcp&headerType=none&path=/@zibanabz@zibanabz@zibanabz#کانفیگ رایگان @zibanabz
 vless://3e06b1db-2efb-446e-ba2d-68850dfd2f9d@104.26.13.31:8080?security=none&type=ws&path=/&host=bdfba-cool-tree-b580.v8fz4kbv.workers.dev&packetEncoding=xudp&sni=ip.sb&encryption=none#@VPsave
@@ -58,8 +63,6 @@ vless://9bb76a75-7ba1-4687-810e-b4dafa9948d7@inexall.cloudvipgamefall.ir:8080?se
 vless://9bb76a75-7ba1-4687-810e-b4dafa9948d7@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@V2ray_confiig
 vless://9bb76a75-7ba1-4687-810e-b4dafa9948d7@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@VPNConnectd
 vless://Bia_too_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Hope_Net-join-us-on-Telegram
-vless://FastKey_160283@138.124.76.103:8080?path=/api&security=none&encryption=none&host=google.com&type=ws#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ💎
-vless://FastKey_160283@138.124.76.103:8080?path=/api&security=none&encryption=none&host=google.com&type=ws#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🦉
 vless://Parsashonam-96@185.146.173.39:8080?path=/?ed=2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://Tel_VPNCUSTOMIZE@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@104.21.70.21:8080?encryption=none&security=none&sni=xstack.mahanfixe.workers.dev&type=ws&host=xstack.mahanfixe.workers.dev&path=/xiron#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
