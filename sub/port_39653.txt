@@ -6,7 +6,6 @@ vless://baded307-189c-4ffc-a271-9acdab51a324@91.107.255.63:39653?security=tls&al
 vless://baded307-189c-4ffc-a271-9acdab51a324@91.107.255.63:39653?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=online.shop.ir.eeso.cc#YFZ 392 @Outline_Vpn
 vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?encryption=none&security=tls&sni=online.shop.ir.eeso.cc&alpn=h2,http/1.1&type=tcp&headerType=none#Channel : @Daily_Configs
 vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?encryption=none&security=tls&sni=online.shop.ir.eeso.cc&type=tcp&headerType=none&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#Channel : @Daily_Configs
-vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?encryption=none&type=tcp&security=tls&headerType=none&sni=online.shop.ir.eeso.cc&alpn=h2,http/1.1&fp=chrome#@vpnsal
 vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=online.shop.ir.eeso.cc#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=online.shop.ir.eeso.cc#@v2ray_phoenix
 vless://baded307-189c-4ffc-a271-9acdab51a324@online.shop.ir.eeso.cc:39653?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=online.shop.ir.eeso.cc#@ICV2RAY
