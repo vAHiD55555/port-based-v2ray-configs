@@ -17,7 +17,6 @@ vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&ho
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?path=/vless/&security=&encryption=none&host=ov-germany1.09vpn.com&type=ws#@Capoit
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=ov-germany1.09vpn.com%Limburg&type=ws#@vmesskhodam
 vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#@V2rayNPVTConfig
-vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ👑
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#❄️Tel: @pPal03❄️Join❄️
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#❄️Tel: @pPal03❄️Join❄️
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?path=/vless/&security=none&encryption=none&type=ws#🇺🇸 | @ELiV2Ray
@@ -54,11 +53,11 @@ vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=n
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#@SylphNet | 2026-06-27 03:52
 vless://3cfa0d9b-6279-4b73-8533-09ad84e49c80@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#🔵2@oneclickvpnkeys
 vless://3cfa0d9b-6279-4b73-8533-09ad84e49c80@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#✅ t.me/bigAVPN ایران آزاد 👑
-vless://3cfa0d9b-6279-4b73-8533-09ad84e49c80@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#🔵@chillguy_vpn
 vless://3cfa0d9b-6279-4b73-8533-09ad84e49c80@ov-germany1.09vpn.com:80?encryption=none&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&path=/vless/&security=none&type=ws#🔹8@oneclickvpnkeys
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?path=/vless/&security=none&encryption=none&host=sc-thenetherlands1.09vpn.com&type=ws#
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?path=/vless/&security=none&encryption=none&host=sc-thenetherlands1.09vpn.com&type=ws#@vmesskhodam
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?path=/vless/&security=none&encryption=none&host=sc-thenetherlands1.09vpn.com&type=ws#kurdconfig
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=sc-thenetherlands1.09vpn.com&type=ws#canfingV2rayNG-146
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
 vless://493da04d-dca2-4306-acaf-f3005ea69392@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
@@ -66,9 +65,6 @@ vless://4c58afde-50b4-4cbe-be1a-f70646c0545c@[::ffff:681f:1025]:80?path=/checkou
 vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.96.3:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/c6L2QcfPLGJiqj1c?ed=2560#Join Tel: @CxrolVPN (1)
 vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.97.3:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/I7f6VOnkgtdCosoK?ed=2560#Join Tel: @CxrolVPN (6)
 vless://4d6d8e9b-0738-43c6-994f-ab475a7b3381@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/wtQnVPnbjKOmqP7b?ed=2560#Join Tel: @CxrolVPN (2)
-vless://50414e45-4c5f-5a45-5553-52108a2d5224@104.27.88.172:80?encryption=none&security=none&type=ws&path=/api/ws&host=web-app-nr6wpa.app-tp57xz.workers.dev&sni=web-app-nr6wpa.app-tp57xz.workers.dev#🇨🇦219742 | ⚡️Telegram = t.me/SOSkeyNET
-vless://50414e45-4c5f-5a45-5553-52108a2d5224@104.27.88.172:80?encryption=none&security=none&type=ws&path=/api/ws&host=web-app-nr6wpa.app-tp57xz.workers.dev&sni=web-app-nr6wpa.app-tp57xz.workers.dev#🇨🇦219791 | ⚡️Telegram = t.me/LonUp_M
-vless://50414e45-4c5f-5a45-5553-52108a2d5224@104.27.88.172:80?encryption=none&security=none&type=ws&path=/api/ws&host=web-app-nr6wpa.app-tp57xz.workers.dev&sni=web-app-nr6wpa.app-tp57xz.workers.dev#🚀@VPNine1
 vless://52ecd83b-b6c1-41ee-bc36-049755bd33d2@5.78.159.214:80?security=reality&encryption=none&pbk=NTXb7QGg9EyPkpG-7lmBNNaqf4473p_l8ITmTH-xmHg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.78.159.214&sid=0db5c018ed7bb596#@NETMelliAnti
 vless://52ecd83b-b6c1-41ee-bc36-049755bd33d2@5.78.159.214:80?security=reality&encryption=none&pbk=NTXb7QGg9EyPkpG-7lmBNNaqf4473p_l8ITmTH-xmHg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.78.159.214&sid=0db5c018ed7bb596#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 vless://57bd62cf-5550-4075-8fa3-d4519aae8df0@188.114.97.6:80?path=/eyJqdW5rIjoiRURaNEp6YUhMbVlqdzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&security=none&encryption=none&host=silent-feather-8539.sddadad2233122eew.workers.dev&type=ws#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
@@ -86,6 +82,7 @@ vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.122.72:80?security=none&type
 vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@108.131.170.67:80/?type=tcp&encryption=none&flow=#🇮🇪 17@exclavevpn
 vless://7201b2cd-0675-4c1a-9c76-07ca14ffcf08@104.21.39.30:80?encryption=none&host=6crihfknlqjdu3yuzco9phspq86dbp6q.christanmoccasin.workers.dev&path=/eyJqdW5rIjoiTEwyZVI5T3BYZDBxTzhPRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&sni=6crihfknlqjdu3yuzco9phspq86dbp6q.christanmoccasin.workers.dev&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/&host=OV-Germany1.09vpn.com#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🍁
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#⭐️@v2rayngsupbot
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@104.24.218.13:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel: @pPal03 && جوین بدید
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel: @pPal03 && جوین بدید
@@ -141,6 +138,8 @@ vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?encryption=none&s
 vless://afad5d99-a4a7-47ae-c999-157a1c01e4a7@185.146.173.20:80?path=/cart&security=none&encryption=none&host=PhILoSOphy.oppEnuP.cOm&type=ws#🔺@DemonVpn🔻+Hamrah+Aval
 vless://b4018039-1e89-4993-8d70-ad9f43ecd5f3@www.speedtest.net:80?host=ch1.dontbow.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&type=ws#@Hope_Net-join-us-on-Telegram
 vless://b742d8e7-ed7d-4f7d-bb16-bf49bdb4cb44@23.235.33.98:80?mode=auto&path=/fast&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tr-sgood-wopd-butnorwa-butter.global.ssl.fastly.net&type=xhttp#@NETMelliAnti
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@158.220.113.176:80?security=none&encryption=none&host=suh.cryptofront.uk&type=ws#filembad-355
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@158.220.113.176:80?security=none&encryption=none&host=suh.cryptofront.uk&type=ws#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🍍
 vless://c762af05-2e92-4133-bc30-8cf45dd40a28@leviko-fr3382.shopingggg.ir:80?security=&encryption=none&host=suh.cryptofront.uk&type=ws#@meliproxyy
 vless://c762af05-2e92-4133-bc30-8cf45dd40a28@leviko-fr5882.shopingggg.ir:80?security=&encryption=none&host=suh.cryptofront.uk&type=ws#@VPsave
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
@@ -175,8 +174,6 @@ vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?path=/vless/&secu
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#@VPsave
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&host=ov-france1.09vpn.com&path=/vless/&security=none&type=ws#🔹11@oneclickvpnkeys
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?path=/vless/&security=&encryption=none&host=ov-france1.09vpn.com&type=ws#@V2rayNPVTConfig
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?path=/vless/&security=&encryption=none&host=ov-france1.09vpn.com&type=ws#filembad-436
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?path=/vless/&security=&encryption=none&host=ov-france1.09vpn.com&type=ws#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🍋
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=ov-france1.09vpn.com&type=ws#Tel-@ProxyMtAlpha🌌 2
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=ov-france1.09vpn.com&type=ws#YFZ 438 @Outline_Vpn
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@confing_v2rayy کانفینگ بیشتر در چنل 👈
