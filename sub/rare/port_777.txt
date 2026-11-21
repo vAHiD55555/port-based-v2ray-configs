@@ -1,3 +1,2 @@
 vless://03f929bb-7a94-4400-a882-d846d18b614e@185.141.107.42:777?encryption=none&security=none&type=tcp&headerType=none&host=@BlueberryNetWork#@BlueberryNetWork
-vless://5fb77c9c-4f76-40f6-b70e-ab8ca791ec51@2.56.124.156:777?encryption=none&security=reality&type=grpc&mode=gun&sni=it.nvidia.com&fp=chrome&pbk=Z958x-3FuIf1ycHKziGQrXVn7OcXSo9VlSnNOicI7TI&sid=3732#@VPsave
 vless://71b6bbe3-08a7-4769-9f7a-ba294e462ebc@185.156.110.35:777?encryption=none&security=reality&sni=it.nvidia.com&fp=chrome&pbk=KxQXSYLnV2yk8j9kDcMXYddtE_3jvI_t9nqUKgZ0DC8&sid=0279388c&spx=/dc8d07d9029b377&type=grpc#Channel : @Daily_Configs
