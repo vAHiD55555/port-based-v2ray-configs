@@ -8,7 +8,6 @@ vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&sec
 vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@104.21.227.134:80?encryption=none&type=ws&host=elenaaaaaaaaaa.cloudns.pro&path=/V2ray_confiig&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#@V2ray_confiig
 vless://09f9ee2f-9e5e-47f4-ba81-35cb4a38b69f@31.57.185.32:80?security=reality&encryption=none&pbk=Mm4jaO0EuSFZPumDZm8SpAHQGbuPlehhCH_MjLazS0o&headerType=none&fp=chrome&spx=/6fc3fb2367b5983&type=tcp&sni=www.cloudflare.com&sid=45cc515dfd#13417@proxy_online_net
 vless://09f9ee2f-9e5e-47f4-ba81-35cb4a38b69f@31.57.185.32:80?security=reality&encryption=none&pbk=Mm4jaO0EuSFZPumDZm8SpAHQGbuPlehhCH_MjLazS0o&headerType=none&fp=chrome&spx=/6fc3fb2367b5983&type=tcp&sni=www.cloudflare.com&sid=45cc515dfd#13430@proxy_online_net
-vless://09f9ee2f-9e5e-47f4-ba81-35cb4a38b69f@31.57.185.32:80?security=reality&encryption=none&pbk=Mm4jaO0EuSFZPumDZm8SpAHQGbuPlehhCH_MjLazS0o&headerType=none&fp=chrome&spx=/6fc3fb2367b5983&type=tcp&sni=www.cloudflare.com&sid=45cc515dfd#@V2rayng_Fast
 vless://09f9ee2f-9e5e-47f4-ba81-35cb4a38b69f@31.57.185.32:80?security=reality&encryption=none&pbk=Mm4jaO0EuSFZPumDZm8SpAHQGbuPlehhCH_MjLazS0o&headerType=none&fp=chrome&spx=/6fc3fb2367b5983&type=tcp&sni=www.cloudflare.com&sid=45cc515dfd#@vmesskhodam
 vless://09f9ee2f-9e5e-47f4-ba81-35cb4a38b69f@31.57.185.32:80?security=reality&encryption=none&pbk=Mm4jaO0EuSFZPumDZm8SpAHQGbuPlehhCH_MjLazS0o&headerType=none&fp=chrome&spx=/6fc3fb2367b5983&type=tcp&sni=www.cloudflare.com&sid=45cc515dfd#YFZ 523 @Outline_Vpn
 vless://0aa8a7cd-eb08-4fa6-a277-c9d95282d4e6@185.143.234.238:80?path=/pgcfws-r4&security=none&encryption=none&host=uu.caroptions.ir&type=ws#@NETMelliAnti
@@ -19,7 +18,6 @@ vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryp
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/DBD001v7ZAlmIpnP?ed=2560#CxrolVPN Free (3)
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#❄️Tel: @pPal03❄️Join❄️
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#❄️Tel: @pPal03❄️Join❄️
-vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80/?type=ws&encryption=none&flow=&path=/vless/#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?path=/vless/&security=&encryption=none&type=ws#@V2rayNPVTConfig
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?path=/vless/&security=none&encryption=none&type=ws#🇺🇸 | @ELiV2Ray
 vless://1a64c956-522f-44ea-8e7e-f4a909a40ec5@167.233.182.218:80?encryption=none&security=none&type=ws&host=&path=/#vless7
@@ -34,6 +32,7 @@ vless://24398289-1a42-47be-9eb9-9c537c361959@moon.gmax12.ir:80?path=/?TELEGRAM--
 vless://24398289-1a42-47be-9eb9-9c537c361959@uga2.gmax12.ir:80?path=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=&encryption=mlkem768x25519plus.xorpub.0rtt.LsZcpRAWlPNoSYLF2IEn7Tx5uto_LfMrZtYJT5HAmAc&host=tgju.org&headerType=http&type=tcp#@B2Hub
 vless://24a3853d-01c7-4fae-a0cc-97ef0f25a455@199.232.78.159:80?path=/&security=none&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#@configprxy
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#@hopev2ray💙
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?sni=ov-france1.09vpn.com&type=ws&host=ov-france1.09vpn.com&path=/vless/#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@103.21.244.255:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
 vless://2be98d5e-6eed-445d-aef4-9c776fdd03af@5.78.28.48:80?security=reality&encryption=none&pbk=u42o3SnK9nE0nEUNd1JREM03dsT7N_c-m2rECXFCCHg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.78.159.97&sid=ed87fb8386bbbbe5#@NETMelliAnti
@@ -132,9 +131,10 @@ vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.16.183.83:80?encryption=none&se
 vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.24.219.162:80?encryption=none&security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev&path=/?ed=2560#😇Tel: @pPal03😇
 vless://d8b3f1c4-94c7-423e-a03a-bfa7f6af0ea1@151.101.56.9:80?encryption=none&type=ws&host=freekabotar.global.ssl.fastly.net&path=/ws&security=none#@ehsawn8
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@itunes.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#@Tarkshodeh 🇨🇵
-vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?path=/vless/&security=none&encryption=none&type=ws&sni=---@external_net---@external_net---@external_net---@external_net---@external_net#[3893] - Telegram : @V2All
+vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?path=/vless/&security=none&encryption=none&type=ws&sni=---@external_net---@external_net---@external_net---@external_net---@external_net#@filembad
 vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?path=/vless/&security=none&encryption=none&type=ws&sni=---@external_net---@external_net---@external_net---@external_net---@external_net#kurdconfig
 vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?path=/vless/&security=none&encryption=none&type=ws&sni=---@external_net---@external_net---@external_net---@external_net---@external_net#🇬🇧@FreakConfig
+vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?path=/vless/&security=none&encryption=none&type=ws&sni=---@external_net---@external_net---@external_net---@external_net---@external_net#🔵@chillguy_vpn
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&host=---v2rayNplus&type=ws#configprxy
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&encryption=none&host=@SylphNet&type=ws#@SylphNet | 2026-06-27 05:03
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&host=Bluewave.ai&path=/?ed=1861&security=none#@V2fetch
