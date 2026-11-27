@@ -1,0 +1,2 @@
+vless://7fc97305-37f3-4ab7-8bf0-add92a0fe31d@65.109.241.88:4850?encryption=none&type=tcp&headerType=http&host=tgju.org#13565@proxy_online_net
+vless://7fc97305-37f3-4ab7-8bf0-add92a0fe31d@65.109.241.88:4850?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@meliproxyy
