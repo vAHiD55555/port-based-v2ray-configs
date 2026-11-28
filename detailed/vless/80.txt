@@ -26,7 +26,6 @@ vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?encryption=none&s
 vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#😟Ch: @pPal03😟جوین بده عمو جون😟
 vless://24a3853d-01c7-4fae-a0cc-97ef0f25a455@199.232.78.159:80?path=/&security=none&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#@configprxy
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#@hopev2ray💙
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?sni=ov-france1.09vpn.com&type=ws&host=ov-france1.09vpn.com&path=/vless/#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@103.21.244.255:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
 vless://2be98d5e-6eed-445d-aef4-9c776fdd03af@5.78.28.48:80?security=reality&encryption=none&pbk=u42o3SnK9nE0nEUNd1JREM03dsT7N_c-m2rECXFCCHg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.78.159.97&sid=ed87fb8386bbbbe5#@NETMelliAnti
@@ -56,17 +55,15 @@ vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?encryption=none&se
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch: @pPal03🔥
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.16.203.166:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=&encryption=none&host=akamaized.net&type=ws#@VPsave
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=&encryption=none&host=akamaized.net&type=ws#@meliproxyy
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&host=akamaized.net&path=/vless/#@GozargahAzad|🇫🇷
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&security=none&type=ws&host=akamaized.net&path=/vless/#[🇫🇷]t.me/ConfigsHub
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&security=none&type=ws&host=akamaized.net&path=/vless/#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🥶
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=&encryption=none&host=akamaized.net&type=ws#kurdconfig
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=&encryption=none&host=akamaized.net&type=ws#🇫🇷@FreakConfig
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws#kurdconfig
 vless://5e0d4371-23c1-4f16-89db-99c9c055af94@ve9373773jsjdbshaz.hormozmobile10.ir:80?path=/bmi.ir&security=&encryption=mlkem768x25519plus.native.0rtt.Wg5TVfnlm0CabTFH0GXjIPTikGte0ijy4urzlGaNyj8&host=play-apps-features.googleusercontent.com&type=ws#@Tarkshodeh 🇧🇿
 vless://61470a77-2a48-46a9-a82f-451899d2e88c@tr.koomeh.net:80?encryption=none&type=xhttp&path=/?ed=2048&mode=stream-one&security=none#🇹🇷 @UpsetVPN
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.57:80?encryption=none&security=tls&sni=68r2nrw6avta71yq.cdn.cachefleet.com&fp=chrome&type=grpc&mode=gun&authority=&serviceName=qi8ws15c7jv5q2fa#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.57:80?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=qi8ws15c7jv5q2fa&allowInsecure=0&sni=68r2nrw6avta71yq.cdn.cachefleet.com#YFZ 395 @Outline_Vpn
-vless://7d90f043-ed7f-40c9-ac2f-352987904958@57.129.41.216:80?security=none&type=ws&path=/vless/&host=ov-germany1.09vpn.com&packetEncoding=xudp&encryption=none#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
-vless://7d90f043-ed7f-40c9-ac2f-352987904958@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#🔷5@oneclickvpnkeys
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#⭐️@v2rayngsupbot
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@104.24.218.13:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel: @pPal03 && جوین بدید
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel: @pPal03 && جوین بدید
@@ -83,6 +80,7 @@ vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.24.52.41:80?encryption=none&sec
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Mlx6nGDhEkXEcBi5?ed=2560#Join Tel: @CxrolVPN (11)
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/LnR5ZD5AxThxzVDc?ed=2560#Join Tel: @CxrolVPN (12)
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/JEtBk8DPXKH88SZ5?ed=2560#Join Tel: @CxrolVPN (10)
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V20.SiMansaNaT.Ir.#🇦🇹 Join+Telegram:@Farah_VPN 🇦🇹
 vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@KAFING_2
 vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch: @pPal03🔴⚪️🔵جوین بدید عزیزان🔴⚪️🔵
 vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch: @pPal03🔴⚪️🔵جوین بدید عزیزان🔴⚪️🔵
@@ -90,7 +88,9 @@ vless://95f1f90e-8d42-4fe7-e26a-64c8b292a13f@[::ffff:681f:10c5]:80?path=/whoiam&
 vless://977bac99-33d4-408a-91f5-0ce737793a00@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a50@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a54@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🐼
+vless://9bc86ea3-4443-4b6a-bcbc-43c94c79f970@yot.cryo-networks.com:80?encryption=mlkem768x25519plus.xorpub.0rtt.LsZcpRAWlPNoSYLF2IEn7Tx5uto_LfMrZtYJT5HAmAc&security=none&type=tcp&headerType=http&path=/api/v1/stream&host=tgju.org#@VPsave
+vless://9bc86ea3-4443-4b6a-bcbc-43c94c79f970@yot.cryo-networks.com:80?encryption=mlkem768x25519plus.xorpub.0rtt.LsZcpRAWlPNoSYLF2IEn7Tx5uto_LfMrZtYJT5HAmAc&security=none&type=tcp&headerType=http&path=/api/v1/stream&host=tgju.org#🇩🇪232629 | ⚡️Telegram = t.me/SOSkeyNET
+vless://9bc86ea3-4443-4b6a-bcbc-43c94c79f970@yot.cryo-networks.com:80?encryption=mlkem768x25519plus.xorpub.0rtt.LsZcpRAWlPNoSYLF2IEn7Tx5uto_LfMrZtYJT5HAmAc&security=none&type=tcp&headerType=http&path=/api/v1/stream&host=tgju.org#🇩🇪232678 | ⚡️Telegram = t.me/LonUp_M
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#🧔🏻Tel: @pPal03🧔🏻Join🧔🏻
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.24.66.98:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#🧔🏻Tel: @pPal03🧔🏻Join🧔🏻
 vless://DIGiV2RAY-@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
@@ -116,7 +116,6 @@ vless://a3875c94-e968-404c-b62d-5a292d20e6d8@103.21.244.4:80?encryption=none&sec
 vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?encryption=none&security=none&type=ws&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&path=/?ed=2560#💟Tel: @pPal03💟جوین بدید عزیزانم💟
 vless://afad5d99-a4a7-47ae-c999-157a1c01e4a7@185.146.173.20:80?path=/cart&security=none&encryption=none&host=PhILoSOphy.oppEnuP.cOm&type=ws#🔺@DemonVpn🔻+Hamrah+Aval
 vless://b742d8e7-ed7d-4f7d-bb16-bf49bdb4cb44@23.235.33.98:80?mode=auto&path=/fast&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tr-sgood-wopd-butnorwa-butter.global.ssl.fastly.net&type=xhttp#@NETMelliAnti
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#❤️‍🔥 کانال تلگرام HiByeVPNN@
@@ -149,6 +148,7 @@ vless://f4ade6db-3c64-4939-9f32-788b87a9392f@185.71.219.128:80?path=/&security=&
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=ov-france1.09vpn.com&type=ws#YFZ 438 @Outline_Vpn
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@confing_v2rayy کانفینگ بیشتر در چنل 👈
 vless://fc588d4d-f2d1-4e15-8f4a-c6e7e9293ffc@www.speedtest.net:80?encryption=none&headerType=none&type=ws&path=/@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On&host=ok-config-10.4zkaban.xyz#🇩🇪 @Config_On کانال تلگرام
+vless://telegram-id-ArV2ray@151.101.3.8:80?mode=auto&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter&security=none&encryption=none&host=Mislebqoapdnwan.com&type=xhttp#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🌚
 vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=%2F&security=&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&host=SC-TheNetherlands1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:80?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
